@@ -1,7 +1,12 @@
-// Generated on 11/12/2025, 15:30:00 (EST)
-// Total records: 164
+// Generated on 11/12/2025, 15:45:00 (EST)
+// Total records: 165
 
 export const users = [
+  {
+    "id": "109629938066846364025",
+    "lName": "Canales",
+    "createdAt": "11/12/2025, 15:44:19"
+  },
   {
     "id": "109114919359699666081",
     "lName": "Price",
