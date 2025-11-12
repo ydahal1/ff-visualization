@@ -1,7 +1,7 @@
 // Generated on 11/11/2025, 21:37:15 (EST)
 // Total records: 5
 
-const users = [
+export const users = [
   {
     "lName": "User",
     "createdAt": "10/15/2025, 12:57:22"
@@ -23,5 +23,3 @@ const users = [
     "createdAt": "09/12/2025, 05:56:23"
   }
 ];
-
-module.exports = { users };
