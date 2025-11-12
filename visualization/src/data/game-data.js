@@ -1,7 +1,14 @@
-// Generated on 11/12/2025, 15:15:02 (EST)
-// Total records: 184
+// Generated on 11/12/2025, 15:30:01 (EST)
+// Total records: 185
 
 export const games = [
+  {
+    "id": "b8452558-3772-4a10-b9ae-3ffe32229bb2",
+    "name": "Left VS Right",
+    "creatorId": "109114919359699666081",
+    "creatorLastName": "Price",
+    "createdAt": "11/12/2025, 15:27:54"
+  },
   {
     "id": "46ae37c3-cb07-4508-8d48-f1fea726ee43",
     "name": "Leix Family2 VS Bowden Family2",
