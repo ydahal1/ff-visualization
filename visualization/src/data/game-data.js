@@ -1,7 +1,14 @@
-// Generated on 11/12/2025, 15:45:01 (EST)
-// Total records: 184
+// Generated on 11/12/2025, 16:00:01 (EST)
+// Total records: 185
 
 export const games = [
+  {
+    "id": "ddb9ad1e-e88b-4450-b4e2-6882dd75ed33",
+    "name": "Light VS Wind",
+    "creatorId": "109629938066846364025",
+    "creatorLastName": "Canales",
+    "createdAt": "11/12/2025, 15:49:19"
+  },
   {
     "id": "46ae37c3-cb07-4508-8d48-f1fea726ee43",
     "name": "Leix Family2 VS Bowden Family2",
