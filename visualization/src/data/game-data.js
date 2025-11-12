@@ -1,7 +1,14 @@
-// Generated on 11/12/2025, 16:15:01 (EST)
-// Total records: 186
+// Generated on 11/12/2025, 16:30:01 (EST)
+// Total records: 187
 
 export const games = [
+  {
+    "id": "fa29cbb9-dce0-4a08-8fea-4802bb05f32a",
+    "name": "In it to Win it VS Ctrl Alt Defeat",
+    "creatorId": "118081873933953620320",
+    "creatorLastName": "O'Donnell",
+    "createdAt": "11/12/2025, 16:17:33"
+  },
   {
     "id": "100c1d39-1cc7-487c-9c08-f169f1f2003a",
     "name": "IDK VS WIMME",
