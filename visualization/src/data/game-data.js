@@ -1,13 +1,13 @@
-// Generated on 11/12/2025, 12:15:01 (EST)
+// Generated on 11/12/2025, 12:30:01 (EST)
 // Total records: 181
 
 export const games = [
   {
-    "id": "9428f015-11fd-457b-8d08-ea514eaf9d53",
-    "name": "Old Heads VS Youngins",
+    "id": "924cc2a7-b7da-4e28-bd6c-7b6729ff4e6f",
+    "name": "Grads VS Undergrads",
     "creatorId": "110280613966331986140",
     "creatorLastName": "Bernard",
-    "createdAt": "11/12/2025, 12:15:00"
+    "createdAt": "11/12/2025, 12:21:34"
   },
   {
     "id": "8c7b6fdf-5d8d-4f9b-b99a-dbceaf7e1cf4",
