@@ -1,7 +1,17 @@
-// Generated on 11/12/2025, 15:15:00 (EST)
-// Total records: 162
+// Generated on 11/12/2025, 15:30:00 (EST)
+// Total records: 164
 
 export const users = [
+  {
+    "id": "109114919359699666081",
+    "lName": "Price",
+    "createdAt": "11/12/2025, 15:25:18"
+  },
+  {
+    "id": "105936212045387215035",
+    "lName": "Mcdonald",
+    "createdAt": "11/12/2025, 15:18:53"
+  },
   {
     "id": "106050669432200824071",
     "lName": "Workforce",
