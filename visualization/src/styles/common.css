@@ -1,0 +1,156 @@
+/* Common CSS Variables and Utilities */
+:root {
+  /* Colors */
+  --primary-color: #1890ff;
+  --primary-light: #e6f7ff;
+  --success-color: #52c41a;
+  --warning-color: #faad14;
+  --error-color: #ff4d4f;
+  --text-primary: rgba(0, 0, 0, 0.85);
+  --text-secondary: rgba(0, 0, 0, 0.65);
+  --text-disabled: rgba(0, 0, 0, 0.25);
+  --border-color: #d9d9d9;
+  --background-light: #f5f5f5;
+  --background-white: #ffffff;
+  --shadow-light: rgba(0, 0, 0, 0.06);
+
+  /* Spacing */
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+  --spacing-xxl: 48px;
+
+  /* Typography */
+  --font-size-xs: 11px;
+  --font-size-sm: 12px;
+  --font-size-base: 14px;
+  --font-size-lg: 16px;
+  --font-size-xl: 18px;
+  --font-size-xxl: 20px;
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-bold: 600;
+
+  /* Layout */
+  --sidebar-width: 200px;
+  --header-height: 64px;
+  --border-radius: 4px;
+  --border-radius-lg: 8px;
+
+  /* Breakpoints */
+  --breakpoint-mobile: 768px;
+  --breakpoint-tablet: 992px;
+  --breakpoint-desktop: 1200px;
+}
+
+/* Common utility classes */
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex-between {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-bold {
+  font-weight: var(--font-weight-bold);
+}
+
+.text-medium {
+  font-weight: var(--font-weight-medium);
+}
+
+.margin-top-md {
+  margin-top: var(--spacing-md);
+}
+
+.margin-bottom-md {
+  margin-bottom: var(--spacing-md);
+}
+
+.padding-md {
+  padding: var(--spacing-md);
+}
+
+.border-radius {
+  border-radius: var(--border-radius);
+}
+
+/* Responsive utilities */
+@media (max-width: 768px) {
+  .hide-mobile {
+    display: none;
+  }
+
+  .full-width-mobile {
+    width: 100%;
+  }
+}
+
+/* Layout base styles */
+.layout-container {
+  min-height: 100vh;
+}
+
+.content-container {
+  margin: var(--spacing-md);
+  padding: var(--spacing-md);
+  background: var(--background-light);
+  min-height: 280px;
+  border-radius: var(--border-radius);
+}
+
+/* Table enhancements */
+.games-count-badge {
+  font-weight: var(--font-weight-bold);
+  padding: 2px 6px;
+  border-radius: var(--border-radius);
+}
+
+.games-count-active {
+  color: var(--primary-color);
+}
+
+.games-count-inactive {
+  color: var(--text-disabled);
+}
+
+.games-count-high {
+  background-color: var(--primary-light);
+}
+
+/* Chart styles */
+.chart-container {
+  background: transparent;
+}
+
+.no-data-message {
+  text-align: center;
+  padding: 40px 0;
+  color: var(--text-disabled);
+}
+
+/* Tab extra content */
+.tab-extra-content {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-md);
+}
+
+@media (max-width: 768px) {
+  .tab-extra-content {
+    flex-direction: column;
+    align-items: stretch;
+    gap: var(--spacing-sm);
+  }
+}

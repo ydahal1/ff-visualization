@@ -159,3 +159,79 @@
   border-radius: 6px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+
+/* Summary cards styling */
+.ant-statistic-title {
+  font-size: 12px !important;
+  margin-bottom: 4px !important;
+}
+
+.ant-statistic-content {
+  font-size: 20px !important;
+}
+
+.ant-statistic .ant-statistic-content-value {
+  font-weight: 600;
+}
+
+/* Games count column styling in users table */
+.ant-table-tbody .games-created-cell {
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Highlight active game creators */
+.games-count-high {
+  background-color: #e6f7ff;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.games-count-zero {
+  color: #999;
+  font-style: italic;
+}
+
+/* Better spacing for summary row */
+.ant-row {
+  margin-bottom: 0;
+}
+
+/* Tab extra content styling */
+.ant-tabs-extra-content {
+  padding: 8px 0;
+}
+
+.ant-tabs-extra-content .ant-statistic {
+  margin: 0;
+}
+
+.ant-tabs-extra-content .ant-statistic-title {
+  font-size: 11px !important;
+  margin-bottom: 2px !important;
+}
+
+.ant-tabs-extra-content .ant-statistic-content {
+  font-size: 14px !important;
+}
+
+/* Responsive summary cards */
+@media (max-width: 768px) {
+  .ant-tabs-extra-content {
+    display: none;
+  }
+}
+
+@media (max-width: 576px) {
+  .ant-statistic-content {
+    font-size: 16px !important;
+  }
+
+  .ant-statistic-title {
+    font-size: 10px !important;
+  }
+
+  .recharts-pie-label-text {
+    font-size: 9px;
+  }
+}

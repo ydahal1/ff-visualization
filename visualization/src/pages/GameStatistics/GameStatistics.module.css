@@ -1,0 +1,43 @@
+/* GameStatistics.module.css */
+
+.container {
+  width: 100%;
+  height: 100%;
+}
+
+.tabs {
+  background: transparent;
+}
+
+.cardContainer {
+  margin-top: 0;
+}
+
+.dataTable {
+  margin-top: 0;
+}
+
+.chartContainer {
+  height: 350px;
+}
+
+.tabExtraContent {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-md);
+}
+
+.noDataMessage {
+  text-align: center;
+  padding: 40px 0;
+  color: var(--text-disabled);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .tabExtraContent {
+    flex-direction: column;
+    align-items: stretch;
+    gap: var(--spacing-sm);
+  }
+}
