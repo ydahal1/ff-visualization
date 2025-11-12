@@ -1,7 +1,21 @@
-// Generated on 11/12/2025, 17:45:01 (EST)
-// Total records: 188
+// Generated on 11/12/2025, 18:00:00 (EST)
+// Total records: 190
 
 export const games = [
+  {
+    "id": "ef473255-fe8c-4c08-9459-70f9e4b21ed4",
+    "name": "Left 2 VS Right 2",
+    "creatorId": "109114919359699666081",
+    "creatorLastName": "Price",
+    "createdAt": "11/12/2025, 17:58:56"
+  },
+  {
+    "id": "4cd55e0e-b070-4809-a8fa-5d89c68364d2",
+    "name": "Left 1 VS Right 1",
+    "creatorId": "109114919359699666081",
+    "creatorLastName": "Price",
+    "createdAt": "11/12/2025, 17:58:27"
+  },
   {
     "id": "2856a70c-4a61-46d3-9e9b-d6bfe01d3795",
     "name": "Hello VS 18564",
