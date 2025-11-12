@@ -1,7 +1,21 @@
-// Generated on 11/12/2025, 13:45:01 (EST)
-// Total records: 182
+// Generated on 11/12/2025, 14:00:01 (EST)
+// Total records: 184
 
 export const games = [
+  {
+    "id": "46ae37c3-cb07-4508-8d48-f1fea726ee43",
+    "name": "Leix Family2 VS Bowden Family2",
+    "creatorId": "100704847627918091499",
+    "creatorLastName": "Belken",
+    "createdAt": "11/12/2025, 13:48:21"
+  },
+  {
+    "id": "c6252e9e-84bc-473c-bfd1-4cd856be56bd",
+    "name": "awdf VS bsdf",
+    "creatorId": "102999644830709000250",
+    "creatorLastName": "Tanvir",
+    "createdAt": "11/12/2025, 13:46:38"
+  },
   {
     "id": "89bd5a8b-e9da-4356-a24b-23f11e6c9782",
     "name": "Leix Family VS Bowden Family",
