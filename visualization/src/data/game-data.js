@@ -1,7 +1,21 @@
-// Generated on 11/12/2025, 11:30:01 (EST)
-// Total records: 178
+// Generated on 11/12/2025, 11:45:01 (EST)
+// Total records: 180
 
 export const games = [
+  {
+    "id": "8c7b6fdf-5d8d-4f9b-b99a-dbceaf7e1cf4",
+    "name": "Spirit Airlines VS Doris",
+    "creatorId": "106644250798977901710",
+    "creatorLastName": "Reed",
+    "createdAt": "11/12/2025, 11:37:02"
+  },
+  {
+    "id": "c083f224-a4e1-448c-ad95-7810de8c6af0",
+    "name": "Shrek VS Donkey",
+    "creatorId": "106644250798977901710",
+    "creatorLastName": "Reed",
+    "createdAt": "11/12/2025, 11:35:09"
+  },
   {
     "id": "6d65172f-f775-4bc4-b870-592e4fa03eeb",
     "name": "Tenable VS Boom Book",
