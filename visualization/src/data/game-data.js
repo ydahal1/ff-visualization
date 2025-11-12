@@ -1,7 +1,14 @@
-// Generated on 11/12/2025, 16:00:01 (EST)
-// Total records: 185
+// Generated on 11/12/2025, 16:15:01 (EST)
+// Total records: 186
 
 export const games = [
+  {
+    "id": "100c1d39-1cc7-487c-9c08-f169f1f2003a",
+    "name": "IDK VS WIMME",
+    "creatorId": "100758608244772413727",
+    "creatorLastName": "Grant",
+    "createdAt": "11/12/2025, 16:04:36"
+  },
   {
     "id": "ddb9ad1e-e88b-4450-b4e2-6882dd75ed33",
     "name": "Light VS Wind",
