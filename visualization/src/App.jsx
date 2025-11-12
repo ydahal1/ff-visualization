@@ -20,6 +20,8 @@ import {
 import {
   LineChart,
   Line,
+  BarChart,
+  Bar,
   XAxis,
   YAxis,
   CartesianGrid,
@@ -29,6 +31,7 @@ import {
 } from "recharts";
 import dayjs from "dayjs";
 import { users } from "./data/user-data.js";
+import { games } from "./data/game-data.js";
 import "./App.css";
 
 const { Header, Sider, Content } = Layout;
@@ -38,22 +41,6 @@ const { Title } = Typography;
 const App = () => {
   const [selectedMenu, setSelectedMenu] = useState("users");
   const [dateRange, setDateRange] = useState(null);
-
-  // Mock data for other menu items (since we only have user data for now)
-  const mockGames = [
-    { key: 1, id: 1, name: "Game A", createdAt: "10/15/2025, 10:30:00" },
-    { key: 2, id: 2, name: "Game B", createdAt: "10/14/2025, 15:45:00" },
-  ];
-
-  const mockSessions = [
-    { key: 1, id: 1, duration: "45 mins", createdAt: "10/15/2025, 14:20:00" },
-    { key: 2, id: 2, duration: "32 mins", createdAt: "10/14/2025, 09:15:00" },
-  ];
-
-  const mockCustomers = [
-    { key: 1, id: 1, name: "Customer A", createdAt: "10/15/2025, 16:00:00" },
-    { key: 2, id: 2, name: "Customer B", createdAt: "10/14/2025, 11:30:00" },
-  ];
 
   // Get current data based on selected menu
   const getCurrentData = () => {
@@ -67,11 +54,14 @@ const App = () => {
           createdDate: dayjs(user.createdAt).format("YYYY-MM-DD"),
         }));
       case "games":
-        return mockGames;
-      case "sessions":
-        return mockSessions;
-      case "customers":
-        return mockCustomers;
+        return games.map((game, index) => ({
+          key: index + 1,
+          id: game.id,
+          name: game.name,
+          creatorName: game.creatorLastName,
+          createdAt: game.createdAt,
+          createdDate: dayjs(game.createdAt).format("YYYY-MM-DD"),
+        }));
       default:
         return [];
     }
@@ -94,22 +84,40 @@ const App = () => {
       });
     }
 
-    // Group by date and count
-    const dateGroups = {};
-    filteredData.forEach((item) => {
-      const date = dayjs(item.createdAt).format("YYYY-MM-DD");
-      dateGroups[date] = (dateGroups[date] || 0) + 1;
-    });
+    if (selectedMenu === "games") {
+      // For games, group by creator and count games per creator
+      const creatorGroups = {};
+      filteredData.forEach((item) => {
+        const creator = item.creatorName || "Unknown";
+        creatorGroups[creator] = (creatorGroups[creator] || 0) + 1;
+      });
 
-    // Convert to chart format and sort by date
-    return Object.entries(dateGroups)
-      .map(([date, count]) => ({
-        date,
-        count,
-        formattedDate: dayjs(date).format("MMM DD, YYYY"),
-      }))
-      .sort((a, b) => dayjs(a.date).valueOf() - dayjs(b.date).valueOf());
-  }, [currentData, dateRange]);
+      // Convert to chart format and sort by count
+      return Object.entries(creatorGroups)
+        .map(([creator, count]) => ({
+          creator,
+          count,
+          name: creator, // for tooltip
+        }))
+        .sort((a, b) => b.count - a.count);
+    } else {
+      // For other data types, group by date and count
+      const dateGroups = {};
+      filteredData.forEach((item) => {
+        const date = dayjs(item.createdAt).format("YYYY-MM-DD");
+        dateGroups[date] = (dateGroups[date] || 0) + 1;
+      });
+
+      // Convert to chart format and sort by date
+      return Object.entries(dateGroups)
+        .map(([date, count]) => ({
+          date,
+          count,
+          formattedDate: dayjs(date).format("MMM DD, YYYY"),
+        }))
+        .sort((a, b) => dayjs(a.date).valueOf() - dayjs(b.date).valueOf());
+    }
+  }, [currentData, dateRange, selectedMenu]);
 
   // Dynamic table columns based on selected menu
   const getColumns = () => {
@@ -143,7 +151,6 @@ const App = () => {
         ];
       case "games":
         return [
-          ...baseColumns,
           {
             title: "Game Name",
             dataIndex: "name",
@@ -151,20 +158,10 @@ const App = () => {
             sorter: (a, b) => a.name.localeCompare(b.name),
           },
           {
-            title: "Created At",
-            dataIndex: "createdAt",
-            key: "createdAt",
-            sorter: (a, b) =>
-              dayjs(a.createdAt).valueOf() - dayjs(b.createdAt).valueOf(),
-          },
-        ];
-      case "sessions":
-        return [
-          ...baseColumns,
-          {
-            title: "Duration",
-            dataIndex: "duration",
-            key: "duration",
+            title: "Creator Name",
+            dataIndex: "creatorName",
+            key: "creatorName",
+            sorter: (a, b) => a.creatorName.localeCompare(b.creatorName),
           },
           {
             title: "Created At",
@@ -174,23 +171,7 @@ const App = () => {
               dayjs(a.createdAt).valueOf() - dayjs(b.createdAt).valueOf(),
           },
         ];
-      case "customers":
-        return [
-          ...baseColumns,
-          {
-            title: "Customer Name",
-            dataIndex: "name",
-            key: "name",
-            sorter: (a, b) => a.name.localeCompare(b.name),
-          },
-          {
-            title: "Created At",
-            dataIndex: "createdAt",
-            key: "createdAt",
-            sorter: (a, b) =>
-              dayjs(a.createdAt).valueOf() - dayjs(b.createdAt).valueOf(),
-          },
-        ];
+
       default:
         return baseColumns;
     }
@@ -207,16 +188,6 @@ const App = () => {
       key: "games",
       icon: <PlayCircleOutlined />,
       label: "Games",
-    },
-    {
-      key: "sessions",
-      icon: <ClockCircleOutlined />,
-      label: "Sessions",
-    },
-    {
-      key: "customers",
-      icon: <TeamOutlined />,
-      label: "Customers",
     },
   ];
 
@@ -260,37 +231,64 @@ const App = () => {
 
             <div style={{ height: 350 }}>
               <ResponsiveContainer width="100%" height="100%">
-                <LineChart data={chartData}>
-                  <CartesianGrid strokeDasharray="3 3" />
-                  <XAxis
-                    dataKey="formattedDate"
-                    angle={-45}
-                    textAnchor="end"
-                    height={80}
-                    fontSize={11}
-                  />
-                  <YAxis
-                    label={{
-                      value: `Number of ${selectedMenu} Created`,
-                      angle: -90,
-                      position: "insideLeft",
-                    }}
-                    fontSize={11}
-                  />
-                  <Tooltip
-                    labelFormatter={(label) => `Date: ${label}`}
-                    formatter={(value) => [value, `${selectedMenu} Created`]}
-                  />
-                  <Legend />
-                  <Line
-                    type="monotone"
-                    dataKey="count"
-                    stroke="#1890ff"
-                    strokeWidth={2}
-                    dot={{ r: 3 }}
-                    name={`${selectedMenu} Created`}
-                  />
-                </LineChart>
+                {selectedMenu === "games" ? (
+                  <BarChart data={chartData}>
+                    <CartesianGrid strokeDasharray="3 3" />
+                    <XAxis
+                      dataKey="creator"
+                      angle={-45}
+                      textAnchor="end"
+                      height={80}
+                      fontSize={11}
+                    />
+                    <YAxis
+                      label={{
+                        value: "Number of Games Created",
+                        angle: -90,
+                        position: "insideLeft",
+                      }}
+                      fontSize={11}
+                    />
+                    <Tooltip
+                      labelFormatter={(label) => `Creator: ${label}`}
+                      formatter={(value) => [value, "Games Created"]}
+                    />
+                    <Legend />
+                    <Bar dataKey="count" fill="#1890ff" name="Games Created" />
+                  </BarChart>
+                ) : (
+                  <LineChart data={chartData}>
+                    <CartesianGrid strokeDasharray="3 3" />
+                    <XAxis
+                      dataKey="formattedDate"
+                      angle={-45}
+                      textAnchor="end"
+                      height={80}
+                      fontSize={11}
+                    />
+                    <YAxis
+                      label={{
+                        value: `Number of ${selectedMenu} Created`,
+                        angle: -90,
+                        position: "insideLeft",
+                      }}
+                      fontSize={11}
+                    />
+                    <Tooltip
+                      labelFormatter={(label) => `Date: ${label}`}
+                      formatter={(value) => [value, `${selectedMenu} Created`]}
+                    />
+                    <Legend />
+                    <Line
+                      type="monotone"
+                      dataKey="count"
+                      stroke="#1890ff"
+                      strokeWidth={2}
+                      dot={{ r: 3 }}
+                      name={`${selectedMenu} Created`}
+                    />
+                  </LineChart>
+                )}
               </ResponsiveContainer>
             </div>
 
