@@ -1,7 +1,14 @@
-// Generated on 11/12/2025, 16:45:01 (EST)
-// Total records: 187
+// Generated on 11/12/2025, 17:00:01 (EST)
+// Total records: 188
 
 export const games = [
+  {
+    "id": "2856a70c-4a61-46d3-9e9b-d6bfe01d3795",
+    "name": "Hello VS 18564",
+    "creatorId": "108143572822700742359",
+    "creatorLastName": "Hammond",
+    "createdAt": "11/12/2025, 16:51:52"
+  },
   {
     "id": "fa29cbb9-dce0-4a08-8fea-4802bb05f32a",
     "name": "In it to Win it VS Ctrl Alt Defeat",
