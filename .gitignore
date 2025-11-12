@@ -34,3 +34,7 @@ pids
 *.pid
 *.seed
 *.pid.lock
+
+# content of data directory
+visualization/src/data/*
+!visualization/src/data/.gitkeep
