@@ -1,7 +1,14 @@
-// Generated on 11/12/2025, 08:15:01 (EST)
-// Total records: 176
+// Generated on 11/12/2025, 08:30:01 (EST)
+// Total records: 177
 
 export const games = [
+  {
+    "id": "cc032372-78a2-4666-b21a-8a573812aaa8",
+    "name": "CRUSHERS VS RANGEGOATS",
+    "creatorId": "102212392565567309771",
+    "creatorLastName": "Boyer",
+    "createdAt": "11/12/2025, 08:21:11"
+  },
   {
     "id": "6f6ec035-1489-499e-8379-fb8a96db5f5c",
     "name": "River City VS Peres",
