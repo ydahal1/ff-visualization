@@ -1,8 +1,9 @@
 import React, { useState } from "react";
 import { Layout, Menu, Typography } from "antd";
-import { UserOutlined, PlayCircleOutlined } from "@ant-design/icons";
+import { UserOutlined, PlayCircleOutlined, ReloadOutlined } from "@ant-design/icons";
 import UserStatistics from "./pages/UserStatistics/UserStatistics";
 import GameStatistics from "./pages/GameStatistics/GameStatistics";
+import ReturningUsers from "./pages/ReturningUsers/ReturningUsers";
 import "./styles/common.css";
 import styles from "./App.module.css";
 
@@ -24,6 +25,11 @@ const App = () => {
       icon: <PlayCircleOutlined />,
       label: "Game Statistics",
     },
+    {
+      key: "returning",
+      icon: <ReloadOutlined />,
+      label: "Returning Users",
+    },
   ];
 
   const handleMenuClick = ({ key }) => {
@@ -37,6 +43,8 @@ const App = () => {
         return <UserStatistics />;
       case "games":
         return <GameStatistics />;
+      case "returning":
+        return <ReturningUsers />;
       default:
         return <UserStatistics />;
     }
@@ -49,6 +57,8 @@ const App = () => {
         return "User Statistics";
       case "games":
         return "Game Statistics";
+      case "returning":
+        return "Returning Users Analysis";
       default:
         return "User Statistics";
     }
