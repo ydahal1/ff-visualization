@@ -1,5 +1,5 @@
-// Generated on 11/13/2025, 13:15:01 (EST)
-// Total records: 198
+// Generated on 11/13/2025, 13:30:01 (EST)
+// Total records: 197
 
 export const games = [
   {
@@ -92,13 +92,6 @@ export const games = [
     "creatorId": "109114919359699666081",
     "creatorLastName": "Price",
     "createdAt": "11/12/2025, 17:58:27"
-  },
-  {
-    "id": "2856a70c-4a61-46d3-9e9b-d6bfe01d3795",
-    "name": "Hello VS 18564",
-    "creatorId": "108143572822700742359",
-    "creatorLastName": "Hammond",
-    "createdAt": "11/12/2025, 16:51:52"
   },
   {
     "id": "fa29cbb9-dce0-4a08-8fea-4802bb05f32a",
