@@ -63,6 +63,12 @@ const UserStatistics = () => {
     }
 
     // Show statistics for Data Table tab
+    const today = dayjs();
+    const registeredToday = users.filter((user) => {
+      const userDate = dayjs(user.createdAt);
+      return userDate.isSame(today, "day");
+    }).length;
+
     return (
       <div className={styles.tabExtraContent}>
         <Space>
@@ -70,6 +76,12 @@ const UserStatistics = () => {
             title="Total Users"
             value={users.length}
             valueStyle={{ color: "var(--success-color)", fontSize: "16px" }}
+            style={{ textAlign: "right", marginRight: 16 }}
+          />
+          <Statistic
+            title="Registered Today"
+            value={registeredToday}
+            valueStyle={{ color: "var(--primary-color)", fontSize: "16px" }}
             style={{ textAlign: "right" }}
           />
         </Space>
