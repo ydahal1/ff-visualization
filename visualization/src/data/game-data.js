@@ -1,7 +1,21 @@
-// Generated on 11/12/2025, 19:00:01 (EST)
-// Total records: 191
+// Generated on 11/12/2025, 19:15:01 (EST)
+// Total records: 190
 
 export const games = [
+  {
+    "id": "e7aaa025-dfae-4f75-a4b7-56fb3ed4bf11",
+    "name": "MONEY VS FAST",
+    "creatorId": "106099285641955611810",
+    "creatorLastName": "Sprino",
+    "createdAt": "11/12/2025, 19:01:34"
+  },
+  {
+    "id": "1696e368-5428-406b-a0cc-6baf41d9a629",
+    "name": "ahhhhh VS boooo",
+    "creatorId": "114566369970796294025",
+    "creatorLastName": "foxy",
+    "createdAt": "11/12/2025, 19:00:15"
+  },
   {
     "id": "daa07fc6-07ba-4596-9c6e-85c96a823a03",
     "name": "MOM. VS DAD.",
@@ -255,13 +269,6 @@ export const games = [
     "createdAt": "11/11/2025, 16:51:52"
   },
   {
-    "id": "0d1fb407-525b-42e9-b678-e625f993d025",
-    "name": "SUMMER VS DAD",
-    "creatorId": "106099285641955611810",
-    "creatorLastName": "Sprino",
-    "createdAt": "11/11/2025, 16:42:01"
-  },
-  {
     "id": "be89c081-da18-47c2-894d-668d4c8f161b",
     "name": "Thang 1 VS Thang 2",
     "creatorId": "117000649053488954022",
@@ -344,20 +351,6 @@ export const games = [
     "creatorId": "116462083718298043104",
     "creatorLastName": "Sparks",
     "createdAt": "11/11/2025, 10:21:38"
-  },
-  {
-    "id": "f15bd94a-c936-4ec8-88d5-8f3a5361d722",
-    "name": "FAST. VS MONEY",
-    "creatorId": "106099285641955611810",
-    "creatorLastName": "Sprino",
-    "createdAt": "11/11/2025, 10:02:46"
-  },
-  {
-    "id": "ace413dd-d15e-4c72-86d4-e4ec9dc6d154",
-    "name": "SUMMER VS MOM",
-    "creatorId": "106099285641955611810",
-    "creatorLastName": "Sprino",
-    "createdAt": "11/11/2025, 10:01:27"
   },
   {
     "id": "9dc265bb-8c57-41e8-81be-89283fa6c49c",
