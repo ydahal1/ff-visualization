@@ -1,7 +1,14 @@
-// Generated on 11/13/2025, 07:45:01 (EST)
-// Total records: 193
+// Generated on 11/13/2025, 08:00:01 (EST)
+// Total records: 194
 
 export const games = [
+  {
+    "id": "63e44f07-0226-445a-a314-087b72d61c02",
+    "name": "Hot Cocoa VS Cut Out Cookies",
+    "creatorId": "108559229761180852906",
+    "creatorLastName": "Culligan",
+    "createdAt": "11/13/2025, 07:45:52"
+  },
   {
     "id": "37724ea2-46c4-490c-a387-0ab5d96f099a",
     "name": "skjlskzijf VS lijflikEASDJf",
