@@ -1,7 +1,21 @@
-// Generated on 11/13/2025, 15:30:02 (EST)
-// Total records: 200
+// Generated on 11/13/2025, 15:45:01 (EST)
+// Total records: 202
 
 export const games = [
+  {
+    "id": "dc76eb41-ad00-48b5-897d-c827ce2c16e2",
+    "name": "Erin VS Daniel",
+    "creatorId": "110025049117664373443",
+    "creatorLastName": "Reisner",
+    "createdAt": "11/13/2025, 15:37:34"
+  },
+  {
+    "id": "8dfc2f1f-4ed9-43a1-928d-a554d999f305",
+    "name": "Reisner VS Workman",
+    "creatorId": "110025049117664373443",
+    "creatorLastName": "Reisner",
+    "createdAt": "11/13/2025, 15:30:12"
+  },
   {
     "id": "2de600e2-3247-4971-9c67-a28eaf93787b",
     "name": "Art VS Bobby",
