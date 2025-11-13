@@ -1,7 +1,21 @@
-// Generated on 11/13/2025, 14:45:00 (EST)
-// Total records: 198
+// Generated on 11/13/2025, 15:00:01 (EST)
+// Total records: 200
 
 export const games = [
+  {
+    "id": "2de600e2-3247-4971-9c67-a28eaf93787b",
+    "name": "Art VS Bobby",
+    "creatorId": "103425041508351931174",
+    "creatorLastName": "Kleniuk",
+    "createdAt": "11/13/2025, 14:56:15"
+  },
+  {
+    "id": "785cdc65-4aed-418f-90c6-25ac5bd97b98",
+    "name": "Art VS Robert",
+    "creatorId": "103425041508351931174",
+    "creatorLastName": "Kleniuk",
+    "createdAt": "11/13/2025, 14:51:01"
+  },
   {
     "id": "197dc038-dde1-4e28-8906-77357f394eed",
     "name": "youth 1 VS youth 2",
