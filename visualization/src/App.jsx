@@ -57,8 +57,6 @@ const App = () => {
         return "User Statistics";
       case "games":
         return "Game Statistics";
-      case "returning":
-        return "Returning Users Analysis";
       default:
         return "User Statistics";
     }
