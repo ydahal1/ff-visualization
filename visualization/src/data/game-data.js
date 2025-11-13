@@ -1,7 +1,14 @@
-// Generated on 11/12/2025, 21:00:01 (EST)
-// Total records: 192
+// Generated on 11/12/2025, 21:15:01 (EST)
+// Total records: 193
 
 export const games = [
+  {
+    "id": "37724ea2-46c4-490c-a387-0ab5d96f099a",
+    "name": "skjlskzijf VS lijflikEASDJf",
+    "creatorId": "101206496865086666437",
+    "creatorLastName": "Rojas",
+    "createdAt": "11/12/2025, 21:00:37"
+  },
   {
     "id": "b3ac700d-dba8-4651-9771-94e8b54f8174",
     "name": "11111 VS 2111",
