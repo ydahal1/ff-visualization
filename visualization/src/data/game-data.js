@@ -1,13 +1,13 @@
-// Generated on 11/14/2025, 11:45:01 (EST)
+// Generated on 11/14/2025, 12:00:01 (EST)
 // Total records: 220
 
 export const games = [
   {
-    "id": "c1008769-40d4-4089-99a5-eacde632deb0",
-    "name": "Student Panel VS Audience",
+    "id": "6b5be642-89c1-4c1d-8cc2-33ecc972811f",
+    "name": "Student Panel VS Audience~",
     "creatorId": "105763225824410054059",
     "creatorLastName": "Lyon",
-    "createdAt": "11/14/2025, 11:17:59"
+    "createdAt": "11/14/2025, 11:53:46"
   },
   {
     "id": "b264e856-b919-47e6-8598-82ed862f9141",
