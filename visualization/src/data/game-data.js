@@ -1,7 +1,14 @@
-// Generated on 11/14/2025, 10:45:01 (EST)
-// Total records: 215
+// Generated on 11/14/2025, 11:00:01 (EST)
+// Total records: 216
 
 export const games = [
+  {
+    "id": "6029f4e1-1726-4527-9cfa-61061c8395a9",
+    "name": "Team Green VS Team Red",
+    "creatorId": "106072706034172811722",
+    "creatorLastName": "harris",
+    "createdAt": "11/14/2025, 10:49:18"
+  },
   {
     "id": "07d19613-3cf7-4ca0-84d0-ebcaa196bb07",
     "name": "Caruana Jr VS Caruana",
