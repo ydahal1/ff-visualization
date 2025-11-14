@@ -1,7 +1,12 @@
-// Generated on 11/14/2025, 24:15:00 (EST)
-// Total records: 189
+// Generated on 11/14/2025, 24:30:00 (EST)
+// Total records: 190
 
 export const users = [
+  {
+    "id": "105762535292050835649",
+    "lName": "Main Channel",
+    "createdAt": "11/14/2025, 24:20:51"
+  },
   {
     "id": "101712157692184410883",
     "lName": "Carrion",
