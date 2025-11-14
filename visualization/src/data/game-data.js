@@ -1,7 +1,14 @@
-// Generated on 11/14/2025, 16:00:01 (EST)
-// Total records: 229
+// Generated on 11/14/2025, 16:15:02 (EST)
+// Total records: 230
 
 export const games = [
+  {
+    "id": "e2edcb38-8526-48c6-abfa-03edb2f5789d",
+    "name": "Panthers VS Falcons",
+    "creatorId": "104210491037698256312",
+    "creatorLastName": "Simon",
+    "createdAt": "11/14/2025, 16:11:47"
+  },
   {
     "id": "d3964f2d-a397-49b7-bc3c-04f9a02572e0",
     "name": "E VS H",
