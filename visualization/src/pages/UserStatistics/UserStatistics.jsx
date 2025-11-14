@@ -223,6 +223,7 @@ const UserStatistics = () => {
     const today = dayjs();
     const startOfWeek = today.startOf("week"); // Sunday
     const currentDayOfWeek = today.day(); // 0 = Sunday, 6 = Saturday
+    const startOfPastWeek = today.subtract(7, 'day').startOf("week"); // Sunday of past week
 
     // Get all historical data (excluding current week for average calculation)
     const historicalData = userData.filter((item) => {
@@ -235,6 +236,17 @@ const UserStatistics = () => {
       const itemDate = dayjs(item.createdAt);
       return itemDate.isSame(startOfWeek, "week");
     });
+
+    // Get past 4 weeks data
+    const pastWeeksData = [];
+    for (let i = 1; i <= 4; i++) {
+      const weekStart = today.subtract(i, 'week').startOf("week");
+      const weekData = userData.filter((item) => {
+        const itemDate = dayjs(item.createdAt);
+        return itemDate.isSame(weekStart, "week");
+      });
+      pastWeeksData.push(weekData);
+    }
 
     // Calculate historical averages by day
     const historicalDayGroups = {
@@ -308,6 +320,27 @@ const UserStatistics = () => {
       currentWeekCounts[dayOfWeek]++;
     });
 
+    // Get past 4 weeks counts
+    const pastWeeksCounts = [];
+    for (let i = 0; i < 4; i++) {
+      const weekCounts = {
+        Sunday: 0,
+        Monday: 0,
+        Tuesday: 0,
+        Wednesday: 0,
+        Thursday: 0,
+        Friday: 0,
+        Saturday: 0,
+      };
+      
+      pastWeeksData[i].forEach((item) => {
+        const dayOfWeek = dayjs(item.createdAt).format("dddd");
+        weekCounts[dayOfWeek]++;
+      });
+      
+      pastWeeksCounts.push(weekCounts);
+    }
+
     // Create chart data
     const daysOrder = [
       "Sunday",
@@ -323,6 +356,10 @@ const UserStatistics = () => {
       shortDay: day.substring(0, 3),
       average: Math.round(averages[day] * 100) / 100, // Round to 2 decimal places
       thisWeek: index <= currentDayOfWeek ? currentWeekCounts[day] : null, // Only show up to today
+      pastWeek1: pastWeeksCounts[0][day], // 1 week ago
+      pastWeek2: pastWeeksCounts[1][day], // 2 weeks ago
+      pastWeek3: pastWeeksCounts[2][day], // 3 weeks ago
+      pastWeek4: pastWeeksCounts[3][day], // 4 weeks ago
       isToday: index === currentDayOfWeek,
     }));
   }, [userData]);
@@ -562,7 +599,7 @@ const UserStatistics = () => {
                   dataKey="average"
                   stroke="var(--warning-color, #faad14)"
                   strokeWidth={2}
-                  dot={{ r: 4, fill: "var(--warning-color, #faad14)" }}
+                  dot={{ r: 3, fill: "var(--warning-color, #faad14)" }}
                   name="Historical Average"
                 />
                 <Line
@@ -571,8 +608,48 @@ const UserStatistics = () => {
                   stroke="var(--primary-color, #1890ff)"
                   strokeWidth={3}
                   strokeDasharray="5 5"
-                  dot={{ r: 5, fill: "var(--primary-color, #1890ff)" }}
+                  dot={{ r: 4, fill: "var(--primary-color, #1890ff)" }}
                   name="This Week"
+                  connectNulls={false}
+                />
+                <Line
+                  type="monotone"
+                  dataKey="pastWeek1"
+                  stroke="var(--success-color, #52c41a)"
+                  strokeWidth={2}
+                  strokeDasharray="3 3"
+                  dot={{ r: 3, fill: "var(--success-color, #52c41a)" }}
+                  name="1 Week Ago"
+                  connectNulls={false}
+                />
+                <Line
+                  type="monotone"
+                  dataKey="pastWeek2"
+                  stroke="#ff7875"
+                  strokeWidth={2}
+                  strokeDasharray="2 4"
+                  dot={{ r: 3, fill: "#ff7875" }}
+                  name="2 Weeks Ago"
+                  connectNulls={false}
+                />
+                <Line
+                  type="monotone"
+                  dataKey="pastWeek3"
+                  stroke="#b37feb"
+                  strokeWidth={2}
+                  strokeDasharray="4 2"
+                  dot={{ r: 3, fill: "#b37feb" }}
+                  name="3 Weeks Ago"
+                  connectNulls={false}
+                />
+                <Line
+                  type="monotone"
+                  dataKey="pastWeek4"
+                  stroke="#36cfc9"
+                  strokeWidth={2}
+                  strokeDasharray="1 3"
+                  dot={{ r: 3, fill: "#36cfc9" }}
+                  name="4 Weeks Ago"
                   connectNulls={false}
                 />
               </LineChart>
