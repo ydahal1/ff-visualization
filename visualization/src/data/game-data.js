@@ -1,7 +1,21 @@
-// Generated on 11/14/2025, 11:15:01 (EST)
-// Total records: 218
+// Generated on 11/14/2025, 11:30:01 (EST)
+// Total records: 220
 
 export const games = [
+  {
+    "id": "c1008769-40d4-4089-99a5-eacde632deb0",
+    "name": "Student Panel VS Audience",
+    "creatorId": "105763225824410054059",
+    "creatorLastName": "Lyon",
+    "createdAt": "11/14/2025, 11:17:59"
+  },
+  {
+    "id": "b264e856-b919-47e6-8598-82ed862f9141",
+    "name": "GUYS VS GIRLS",
+    "creatorId": "103646175056498343341",
+    "creatorLastName": "Morris",
+    "createdAt": "11/14/2025, 11:16:41"
+  },
   {
     "id": "7fb379ef-3504-4723-be97-225a13c56ca9",
     "name": "Recovery 1 VS Recovery 2",
