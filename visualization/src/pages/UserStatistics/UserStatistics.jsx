@@ -20,7 +20,12 @@ import styles from "./UserStatistics.module.css";
 const { RangePicker } = DatePicker;
 
 const UserStatistics = () => {
-  const [dateRange, setDateRange] = useState(null);
+  // Set default date range to 30 days: from 30 days ago to today
+  const [dateRange, setDateRange] = useState(() => {
+    const endDate = dayjs();
+    const startDate = dayjs().subtract(30, 'day');
+    return [startDate, endDate];
+  });
   const [activeTab, setActiveTab] = useState("1");
 
   // Get user data with games count
