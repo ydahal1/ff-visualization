@@ -1,7 +1,21 @@
-// Generated on 11/14/2025, 05:45:02 (EST)
-// Total records: 213
+// Generated on 11/14/2025, 06:00:01 (EST)
+// Total records: 215
 
 export const games = [
+  {
+    "id": "07d19613-3cf7-4ca0-84d0-ebcaa196bb07",
+    "name": "Caruana Jr VS Caruana",
+    "creatorId": "109818170237575962906",
+    "creatorLastName": "Caruana",
+    "createdAt": "11/14/2025, 05:52:51"
+  },
+  {
+    "id": "c2799ff6-9ac6-4fec-9377-22691f11ca36",
+    "name": "Aiden VS Brandon",
+    "creatorId": "109818170237575962906",
+    "creatorLastName": "Caruana",
+    "createdAt": "11/14/2025, 05:51:05"
+  },
   {
     "id": "673a64aa-1dc0-4e51-84e2-5ebab4cf4034",
     "name": "CHAKA VS LALA",
