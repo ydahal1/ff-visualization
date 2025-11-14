@@ -1,7 +1,21 @@
-// Generated on 11/14/2025, 12:45:00 (EST)
-// Total records: 224
+// Generated on 11/14/2025, 13:00:02 (EST)
+// Total records: 226
 
 export const games = [
+  {
+    "id": "4282802b-40cb-4009-a452-40df3e1d00a5",
+    "name": "Noypi VS Pinoy",
+    "creatorId": "107574788738403039602",
+    "creatorLastName": "Almeda",
+    "createdAt": "11/14/2025, 12:59:17"
+  },
+  {
+    "id": "da77819a-861b-48d7-a2b2-5c4d37cbe176",
+    "name": "T1 VS T2",
+    "creatorId": "100659677905571675589",
+    "creatorLastName": "Hunt",
+    "createdAt": "11/14/2025, 12:52:58"
+  },
   {
     "id": "edf82465-bb34-43ee-b886-42860eb57b37",
     "name": "NW VS NE",
