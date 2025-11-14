@@ -1,7 +1,21 @@
-// Generated on 11/14/2025, 11:00:01 (EST)
-// Total records: 216
+// Generated on 11/14/2025, 11:15:01 (EST)
+// Total records: 218
 
 export const games = [
+  {
+    "id": "7fb379ef-3504-4723-be97-225a13c56ca9",
+    "name": "Recovery 1 VS Recovery 2",
+    "creatorId": "111292609147644795455",
+    "creatorLastName": "Vincent",
+    "createdAt": "11/14/2025, 11:05:03"
+  },
+  {
+    "id": "b3b72178-df2a-47a7-9971-81c68f1127a7",
+    "name": "Team Chambly VS Team Bogie",
+    "creatorId": "112159259996898972725",
+    "creatorLastName": "Larade",
+    "createdAt": "11/14/2025, 11:02:41"
+  },
   {
     "id": "6029f4e1-1726-4527-9cfa-61061c8395a9",
     "name": "Team Green VS Team Red",
