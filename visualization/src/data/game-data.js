@@ -1,7 +1,14 @@
-// Generated on 11/14/2025, 04:45:01 (EST)
-// Total records: 212
+// Generated on 11/14/2025, 05:00:01 (EST)
+// Total records: 213
 
 export const games = [
+  {
+    "id": "673a64aa-1dc0-4e51-84e2-5ebab4cf4034",
+    "name": "CHAKA VS LALA",
+    "creatorId": "106216011157321471498",
+    "creatorLastName": "RAINIER C.",
+    "createdAt": "11/14/2025, 04:54:05"
+  },
   {
     "id": "791eb0ad-70ac-4ff6-84a1-63edf86633bd",
     "name": "Hannah VS Caleb",
