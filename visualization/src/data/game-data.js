@@ -1,7 +1,14 @@
-// Generated on 11/13/2025, 21:00:01 (EST)
-// Total records: 205
+// Generated on 11/13/2025, 21:15:01 (EST)
+// Total records: 206
 
 export const games = [
+  {
+    "id": "1e835f9a-bc52-4ecc-a2b0-a58ad93a4c44",
+    "name": "Team Brandon VS Team Nikki",
+    "creatorId": "110520439897778131562",
+    "creatorLastName": "Duschinsky",
+    "createdAt": "11/13/2025, 21:03:24"
+  },
   {
     "id": "5d63a063-df39-480f-b6a3-77c884a8b479",
     "name": "TEST 1 VS TEST 2",
