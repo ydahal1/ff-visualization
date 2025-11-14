@@ -1,7 +1,14 @@
-// Generated on 11/14/2025, 14:15:02 (EST)
-// Total records: 226
+// Generated on 11/14/2025, 14:30:02 (EST)
+// Total records: 227
 
 export const games = [
+  {
+    "id": "45a638c9-5b9f-4ee0-8a65-3d03e8f2fa8c",
+    "name": "1,2 VS 4,5",
+    "creatorId": "115825991644763529095",
+    "creatorLastName": "Cholewka",
+    "createdAt": "11/14/2025, 14:28:52"
+  },
   {
     "id": "4282802b-40cb-4009-a452-40df3e1d00a5",
     "name": "Noypi VS Pinoy",
