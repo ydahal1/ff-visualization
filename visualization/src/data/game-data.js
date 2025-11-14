@@ -1,13 +1,13 @@
-// Generated on 11/13/2025, 21:45:01 (EST)
+// Generated on 11/13/2025, 22:00:00 (EST)
 // Total records: 208
 
 export const games = [
   {
-    "id": "259d6698-a402-4d58-aa8d-96e47ef09fdc",
-    "name": "ththth VS ghghhg",
-    "creatorId": "110083334151292232746",
-    "creatorLastName": "Beilstein",
-    "createdAt": "11/13/2025, 21:42:40"
+    "id": "e8d87c11-c1f1-458e-b021-0e08df26cbf4",
+    "name": "grimace VS pam",
+    "creatorId": "106531561680025737093",
+    "creatorLastName": "Nichols",
+    "createdAt": "11/13/2025, 21:45:25"
   },
   {
     "id": "7f4f95b4-2aef-488a-8d96-781af349108f",
