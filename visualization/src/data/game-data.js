@@ -1,7 +1,14 @@
-// Generated on 11/15/2025, 12:00:01 (EST)
-// Total records: 251
+// Generated on 11/15/2025, 12:15:01 (EST)
+// Total records: 252
 
 export const games = [
+  {
+    "id": "279f44a4-183e-46d5-ae10-eac5996300de",
+    "name": "Sleep VS Woke",
+    "creatorId": "118047465674987583177",
+    "creatorLastName": "Gola",
+    "createdAt": "11/15/2025, 12:07:45"
+  },
   {
     "id": "3f150ad0-2c72-4496-a4ca-80094479773f",
     "name": "Strongest Links VS Weakest Links",
