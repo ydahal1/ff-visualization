@@ -1,7 +1,21 @@
-// Generated on 11/14/2025, 20:00:01 (EST)
-// Total records: 232
+// Generated on 11/14/2025, 20:15:01 (EST)
+// Total records: 234
 
 export const games = [
+  {
+    "id": "6b8a35fe-3889-4be1-989d-490830233fb7",
+    "name": "GAGGLE VS GOOGLE",
+    "creatorId": "109939370859869098500",
+    "creatorLastName": "_",
+    "createdAt": "11/14/2025, 20:12:53"
+  },
+  {
+    "id": "070375ca-5113-4357-8510-f071fe7bf260",
+    "name": "Dad1236 VS Mom123",
+    "creatorId": "100425459416575565492",
+    "creatorLastName": "schramm",
+    "createdAt": "11/14/2025, 20:08:40"
+  },
   {
     "id": "63f28cbd-95bb-41cf-be58-1d3b5367a372",
     "name": "Dad123 VS Mom123",
