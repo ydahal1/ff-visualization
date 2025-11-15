@@ -1,7 +1,14 @@
-// Generated on 11/15/2025, 03:15:01 (EST)
-// Total records: 243
+// Generated on 11/15/2025, 03:30:01 (EST)
+// Total records: 244
 
 export const games = [
+  {
+    "id": "971e7384-4192-48c1-a55f-2a0c6807bf8d",
+    "name": "Blind VS Box",
+    "creatorId": "115684143653975137882",
+    "creatorLastName": "VSA",
+    "createdAt": "11/15/2025, 03:26:38"
+  },
   {
     "id": "844395a7-376e-4213-b846-2e7d583639f2",
     "name": "Big Back Guys 2 VS Big Back Gals 2",
