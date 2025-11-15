@@ -1,7 +1,42 @@
-// Generated on 11/14/2025, 20:45:01 (EST)
-// Total records: 234
+// Generated on 11/14/2025, 21:00:02 (EST)
+// Total records: 239
 
 export const games = [
+  {
+    "id": "504a1b46-acc8-476a-806c-b9df0db2f87a",
+    "name": "LCY C VS LCY D",
+    "creatorId": "109939370859869098500",
+    "creatorLastName": "_",
+    "createdAt": "11/14/2025, 20:57:03"
+  },
+  {
+    "id": "61b4d243-861f-441c-b578-7bf9cffed2ba",
+    "name": "LCY A VS LCY B",
+    "creatorId": "109939370859869098500",
+    "creatorLastName": "_",
+    "createdAt": "11/14/2025, 20:52:56"
+  },
+  {
+    "id": "1389f78e-de24-4544-b813-6d242feb3c8d",
+    "name": "LCY 3 VS LCY 4",
+    "creatorId": "109939370859869098500",
+    "creatorLastName": "_",
+    "createdAt": "11/14/2025, 20:52:04"
+  },
+  {
+    "id": "ac813f4a-c273-419a-89d1-68e4ecbc1226",
+    "name": "LCY 1 VS LCY 2",
+    "creatorId": "109939370859869098500",
+    "creatorLastName": "_",
+    "createdAt": "11/14/2025, 20:51:28"
+  },
+  {
+    "id": "0829ece7-6e20-4b29-97bc-ea29d60c520a",
+    "name": "5555 VS 6666",
+    "creatorId": "106546460997623975701",
+    "creatorLastName": "Aquino",
+    "createdAt": "11/14/2025, 20:51:00"
+  },
   {
     "id": "70b93ff8-8ec7-49f4-bb5f-7fb7008fd5f5",
     "name": "Dad12367 VS Mom123",
