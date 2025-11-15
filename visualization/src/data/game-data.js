@@ -1,7 +1,14 @@
-// Generated on 11/15/2025, 05:30:01 (EST)
-// Total records: 244
+// Generated on 11/15/2025, 05:45:01 (EST)
+// Total records: 245
 
 export const games = [
+  {
+    "id": "e3ffa527-555b-4dbc-b029-da9a6f6cc433",
+    "name": "Labubu VS Sonny Angel",
+    "creatorId": "102805675084622253362",
+    "creatorLastName": "Tran",
+    "createdAt": "11/15/2025, 05:33:29"
+  },
   {
     "id": "971e7384-4192-48c1-a55f-2a0c6807bf8d",
     "name": "Blind VS Box",
