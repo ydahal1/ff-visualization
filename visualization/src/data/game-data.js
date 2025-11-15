@@ -1,7 +1,21 @@
-// Generated on 11/14/2025, 23:30:01 (EST)
-// Total records: 240
+// Generated on 11/14/2025, 23:45:02 (EST)
+// Total records: 242
 
 export const games = [
+  {
+    "id": "ba64da15-6d2f-4139-a9a0-5c19672ccfd9",
+    "name": "Smiski VS Hirono",
+    "creatorId": "102805675084622253362",
+    "creatorLastName": "Tran",
+    "createdAt": "11/14/2025, 23:42:42"
+  },
+  {
+    "id": "37b444a5-7587-4689-82bb-afdf304017b4",
+    "name": "Team Red 2 VS Team Blue 2",
+    "creatorId": "108504815609649117626",
+    "creatorLastName": "Finney",
+    "createdAt": "11/14/2025, 23:31:27"
+  },
   {
     "id": "d6eec02b-1f14-4191-9650-503decb01356",
     "name": "Team Red VS Team Blue",
