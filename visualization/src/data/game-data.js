@@ -1,7 +1,14 @@
-// Generated on 11/15/2025, 10:45:00 (EST)
-// Total records: 250
+// Generated on 11/15/2025, 11:00:00 (EST)
+// Total records: 251
 
 export const games = [
+  {
+    "id": "3f150ad0-2c72-4496-a4ca-80094479773f",
+    "name": "Strongest Links VS Weakest Links",
+    "creatorId": "107838275807241577973",
+    "creatorLastName": "Mayor",
+    "createdAt": "11/15/2025, 10:54:32"
+  },
   {
     "id": "678badba-f1b0-4f38-9434-0f9624d6d62e",
     "name": "Team Purple VS Team Green",
