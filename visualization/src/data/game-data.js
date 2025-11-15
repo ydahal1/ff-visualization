@@ -1,20 +1,13 @@
-// Generated on 11/15/2025, 09:00:01 (EST)
-// Total records: 248
+// Generated on 11/15/2025, 09:15:01 (EST)
+// Total records: 247
 
 export const games = [
   {
-    "id": "e71e924f-c48f-4a39-ac1d-7dc06bc68cf2",
-    "name": "Team Blue! VS Team Pink!",
+    "id": "6f88d8d7-f37b-4dc2-a714-ef9e0c3c6ea8",
+    "name": "BOY!! VS GIRL!!",
     "creatorId": "103878460947858893829",
     "creatorLastName": "Wilford",
-    "createdAt": "11/15/2025, 08:57:22"
-  },
-  {
-    "id": "6805f95c-691d-43a3-aa6e-f1041be67404",
-    "name": "Team Blue VS Team Pink",
-    "creatorId": "103878460947858893829",
-    "creatorLastName": "Wilford",
-    "createdAt": "11/15/2025, 08:55:12"
+    "createdAt": "11/15/2025, 09:03:45"
   },
   {
     "id": "89589e6e-9319-486a-895d-531ec8af4813",
