@@ -1,14 +1,7 @@
-// Generated on 11/15/2025, 04:00:01 (EST)
-// Total records: 245
+// Generated on 11/15/2025, 04:15:01 (EST)
+// Total records: 244
 
 export const games = [
-  {
-    "id": "dc8ada93-7cb4-44c4-9cea-dcbd3f0b7201",
-    "name": "julia VS evan",
-    "creatorId": "109939370859869098500",
-    "creatorLastName": "_",
-    "createdAt": "11/15/2025, 03:55:06"
-  },
   {
     "id": "971e7384-4192-48c1-a55f-2a0c6807bf8d",
     "name": "Blind VS Box",
