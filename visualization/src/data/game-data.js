@@ -1,7 +1,14 @@
-// Generated on 11/15/2025, 06:45:01 (EST)
-// Total records: 245
+// Generated on 11/15/2025, 07:00:01 (EST)
+// Total records: 246
 
 export const games = [
+  {
+    "id": "89589e6e-9319-486a-895d-531ec8af4813",
+    "name": "Team  1 VS Team 2",
+    "creatorId": "102944433445797619639",
+    "creatorLastName": "Boyd",
+    "createdAt": "11/15/2025, 06:57:05"
+  },
   {
     "id": "e3ffa527-555b-4dbc-b029-da9a6f6cc433",
     "name": "Labubu VS Sonny Angel",
