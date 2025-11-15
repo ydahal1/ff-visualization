@@ -1,7 +1,14 @@
-// Generated on 11/15/2025, 09:45:01 (EST)
-// Total records: 247
+// Generated on 11/15/2025, 10:00:01 (EST)
+// Total records: 248
 
 export const games = [
+  {
+    "id": "d96ee359-8668-4648-8c4c-8ed2e8bae3b5",
+    "name": "Girls VS Boys",
+    "creatorId": "108277081623847521054",
+    "creatorLastName": "Patel",
+    "createdAt": "11/15/2025, 09:55:04"
+  },
   {
     "id": "6f88d8d7-f37b-4dc2-a714-ef9e0c3c6ea8",
     "name": "BOY!! VS GIRL!!",
