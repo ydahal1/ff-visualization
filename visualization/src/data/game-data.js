@@ -1,5 +1,5 @@
-// Generated on 11/16/2025, 12:45:01 (EST)
-// Total records: 259
+// Generated on 11/16/2025, 13:00:01 (EST)
+// Total records: 258
 
 export const games = [
   {
@@ -1233,13 +1233,6 @@ export const games = [
     "creatorId": "103414462527978381985",
     "creatorLastName": "hepler",
     "createdAt": "11/07/2025, 12:22:28"
-  },
-  {
-    "id": "6768345a-5556-45b2-81d0-d9cf7e10f305",
-    "name": "Operations VS Sales",
-    "creatorId": "116532714465837240010",
-    "creatorLastName": "McKenzie",
-    "createdAt": "11/07/2025, 11:52:03"
   },
   {
     "id": "c7296444-fa3f-4a96-99fe-c01a9b832d40",
