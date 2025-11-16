@@ -1,7 +1,14 @@
-// Generated on 11/16/2025, 16:15:01 (EST)
-// Total records: 260
+// Generated on 11/16/2025, 16:30:01 (EST)
+// Total records: 261
 
 export const games = [
+  {
+    "id": "efb5e5ea-7957-4231-aa4f-1ae015de3dd4",
+    "name": "Us VS Them",
+    "creatorId": "100156677491870716825",
+    "creatorLastName": "Watts",
+    "createdAt": "11/16/2025, 16:18:34"
+  },
   {
     "id": "f44835b4-68f6-4c84-ab84-253c9bd3a855",
     "name": "Sales VS Operations",
