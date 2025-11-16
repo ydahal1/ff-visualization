@@ -1,7 +1,14 @@
-// Generated on 11/16/2025, 17:00:01 (EST)
-// Total records: 261
+// Generated on 11/16/2025, 17:15:01 (EST)
+// Total records: 262
 
 export const games = [
+  {
+    "id": "82b0e34a-5857-4d43-9d83-1e0803146f61",
+    "name": "Friends VS Family",
+    "creatorId": "109580397574196602485",
+    "creatorLastName": "Hinkley",
+    "createdAt": "11/16/2025, 17:08:03"
+  },
   {
     "id": "efb5e5ea-7957-4231-aa4f-1ae015de3dd4",
     "name": "Us VS Them",
