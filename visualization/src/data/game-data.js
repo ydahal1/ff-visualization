@@ -1,14 +1,7 @@
-// Generated on 11/16/2025, 15:30:00 (EST)
-// Total records: 260
+// Generated on 11/16/2025, 15:45:01 (EST)
+// Total records: 259
 
 export const games = [
-  {
-    "id": "52052b93-4850-4dc7-b29e-0f3854625c71",
-    "name": "3 VS 1",
-    "creatorId": "105386849424612590000",
-    "creatorLastName": "Grant",
-    "createdAt": "11/16/2025, 13:53:02"
-  },
   {
     "id": "db57ab70-5ca4-4801-83a4-784002953c6e",
     "name": "Ohana VS Telly",
