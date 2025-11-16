@@ -1,7 +1,14 @@
-// Generated on 11/16/2025, 17:45:01 (EST)
-// Total records: 262
+// Generated on 11/16/2025, 18:00:01 (EST)
+// Total records: 263
 
 export const games = [
+  {
+    "id": "6d22bab9-6344-4799-8258-726b7e7ee0db",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "102126054840851967391",
+    "creatorLastName": "Greenwald",
+    "createdAt": "11/16/2025, 17:58:42"
+  },
   {
     "id": "82b0e34a-5857-4d43-9d83-1e0803146f61",
     "name": "Friends VS Family",
