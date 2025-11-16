@@ -1,7 +1,14 @@
-// Generated on 11/16/2025, 15:45:01 (EST)
-// Total records: 259
+// Generated on 11/16/2025, 16:00:01 (EST)
+// Total records: 260
 
 export const games = [
+  {
+    "id": "f44835b4-68f6-4c84-ab84-253c9bd3a855",
+    "name": "Sales VS Operations",
+    "creatorId": "116532714465837240010",
+    "creatorLastName": "McKenzie",
+    "createdAt": "11/16/2025, 15:45:44"
+  },
   {
     "id": "db57ab70-5ca4-4801-83a4-784002953c6e",
     "name": "Ohana VS Telly",
