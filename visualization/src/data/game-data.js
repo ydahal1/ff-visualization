@@ -1,7 +1,14 @@
-// Generated on 11/15/2025, 22:15:01 (EST)
-// Total records: 254
+// Generated on 11/15/2025, 22:30:01 (EST)
+// Total records: 255
 
 export const games = [
+  {
+    "id": "12de9ecc-cfa2-4727-bf80-dd15954a7936",
+    "name": "Uno VS Dos",
+    "creatorId": "115785120416607390138",
+    "creatorLastName": "Gesmundo",
+    "createdAt": "11/15/2025, 22:21:06"
+  },
   {
     "id": "761a349d-8186-4b61-a7bb-ec3076d760ec",
     "name": "Father VS Mother",
