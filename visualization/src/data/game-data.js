@@ -1,7 +1,14 @@
-// Generated on 11/16/2025, 13:00:01 (EST)
-// Total records: 258
+// Generated on 11/16/2025, 13:15:01 (EST)
+// Total records: 259
 
 export const games = [
+  {
+    "id": "eb1c29b8-38cc-439a-9dd9-2b6f31bc23a9",
+    "name": "Sales VS Ops",
+    "creatorId": "116532714465837240010",
+    "creatorLastName": "McKenzie",
+    "createdAt": "11/16/2025, 13:06:28"
+  },
   {
     "id": "aa19b654-eebe-457c-9286-8bf0e39ae8c3",
     "name": "Team 3 VS Team 4",
