@@ -1,7 +1,21 @@
-// Generated on 11/16/2025, 10:45:00 (EST)
-// Total records: 257
+// Generated on 11/16/2025, 11:00:01 (EST)
+// Total records: 259
 
 export const games = [
+  {
+    "id": "aa19b654-eebe-457c-9286-8bf0e39ae8c3",
+    "name": "Team 3 VS Team 4",
+    "creatorId": "108277081623847521054",
+    "creatorLastName": "Patel",
+    "createdAt": "11/16/2025, 10:55:28"
+  },
+  {
+    "id": "ae4ed158-fc1c-450c-b29d-5678f99f97d1",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "108277081623847521054",
+    "creatorLastName": "Patel",
+    "createdAt": "11/16/2025, 10:49:35"
+  },
   {
     "id": "f0ee108e-d352-45e4-b234-5676e7feaa07",
     "name": "Uno VS Dos",
