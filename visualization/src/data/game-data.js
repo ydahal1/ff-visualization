@@ -1,7 +1,14 @@
-// Generated on 11/17/2025, 11:30:01 (EST)
-// Total records: 275
+// Generated on 11/17/2025, 11:45:00 (EST)
+// Total records: 276
 
 export const games = [
+  {
+    "id": "0be6190c-e227-4b59-8866-4614ccc3a652",
+    "name": "Resourceful Recallers VS Withdrawal Wizards",
+    "creatorId": "108527023288824638352",
+    "creatorLastName": "Pico",
+    "createdAt": "11/17/2025, 11:40:29"
+  },
   {
     "id": "2894b45f-c750-4801-ab61-633dfe7069a7",
     "name": "Conquerors - Champions VS Survivors - Gold Medalist",
