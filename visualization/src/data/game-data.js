@@ -1,7 +1,14 @@
-// Generated on 11/17/2025, 01:30:01 (EST)
-// Total records: 269
+// Generated on 11/17/2025, 01:45:01 (EST)
+// Total records: 270
 
 export const games = [
+  {
+    "id": "8fe65430-b68f-4651-8c03-9b1846fff902",
+    "name": "Deez VS Nuts",
+    "creatorId": "115438249394902919849",
+    "creatorLastName": "Mumtaz",
+    "createdAt": "11/17/2025, 01:34:35"
+  },
   {
     "id": "4cfe64fe-48de-411c-945e-0c08250f0890",
     "name": "pidgins VS creoles",
