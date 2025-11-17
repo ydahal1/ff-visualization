@@ -1,7 +1,14 @@
-// Generated on 11/17/2025, 12:45:02 (EST)
-// Total records: 278
+// Generated on 11/17/2025, 13:00:01 (EST)
+// Total records: 279
 
 export const games = [
+  {
+    "id": "c189d896-3cbe-445d-9d3c-f5e76b8e13de",
+    "name": "men VS women",
+    "creatorId": "104210491037698256312",
+    "creatorLastName": "Simon",
+    "createdAt": "11/17/2025, 12:52:44"
+  },
   {
     "id": "aacd3365-9004-4fc4-b8d6-37c17931db9a",
     "name": "Remarkable Recallers VS Withdrawal Wizards",
