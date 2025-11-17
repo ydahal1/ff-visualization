@@ -1,7 +1,21 @@
-// Generated on 11/17/2025, 16:45:01 (EST)
-// Total records: 285
+// Generated on 11/17/2025, 17:00:01 (EST)
+// Total records: 287
 
 export const games = [
+  {
+    "id": "4ba7f57c-3376-48ba-a535-f2fa77fe0bfe",
+    "name": "CSR Team 1 VS CSR Team 2",
+    "creatorId": "110158397691777369927",
+    "creatorLastName": "Beck",
+    "createdAt": "11/17/2025, 16:54:24"
+  },
+  {
+    "id": "128482a5-829d-4e0e-a200-aba7a6219185",
+    "name": "CSRs VS CSRs 2",
+    "creatorId": "110158397691777369927",
+    "creatorLastName": "Beck",
+    "createdAt": "11/17/2025, 16:51:16"
+  },
   {
     "id": "1743b4e6-90f8-4465-b586-31b38bff68e7",
     "name": "Team 1 VS Team 2",
