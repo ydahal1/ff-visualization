@@ -1,7 +1,14 @@
-// Generated on 11/16/2025, 20:15:01 (EST)
-// Total records: 265
+// Generated on 11/16/2025, 20:30:01 (EST)
+// Total records: 266
 
 export const games = [
+  {
+    "id": "46b8b078-30b1-4575-aef0-642ce0c7ffdf",
+    "name": "Teachers VS Students",
+    "creatorId": "100905421364695330177",
+    "creatorLastName": "Baron",
+    "createdAt": "11/16/2025, 20:21:26"
+  },
   {
     "id": "193e292f-404f-4c9e-9828-122677fc1b8d",
     "name": "gb VS gn",
