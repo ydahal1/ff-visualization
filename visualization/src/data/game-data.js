@@ -1,7 +1,14 @@
-// Generated on 11/17/2025, 15:45:01 (EST)
-// Total records: 282
+// Generated on 11/17/2025, 16:00:01 (EST)
+// Total records: 283
 
 export const games = [
+  {
+    "id": "79c62a15-ed56-4099-93c6-ae931b784f5d",
+    "name": "fsdfes VS fbshge",
+    "creatorId": "107480082842318013355",
+    "creatorLastName": "Jones",
+    "createdAt": "11/17/2025, 15:55:36"
+  },
   {
     "id": "f4d11279-d8d7-4841-b49d-427fc7407b81",
     "name": "Red team VS Blue team",
