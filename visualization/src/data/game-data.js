@@ -1,7 +1,14 @@
-// Generated on 11/17/2025, 10:30:01 (EST)
-// Total records: 271
+// Generated on 11/17/2025, 10:45:01 (EST)
+// Total records: 272
 
 export const games = [
+  {
+    "id": "ee7a033a-84bb-4cea-9705-5930da59f9a8",
+    "name": "Conquerrors VS Survivors",
+    "creatorId": "106305164479039788204",
+    "creatorLastName": "Fon",
+    "createdAt": "11/17/2025, 10:41:37"
+  },
   {
     "id": "abef33c1-9f40-4e14-8f22-f542baab397e",
     "name": "Student Panel~ VS Audience~",
