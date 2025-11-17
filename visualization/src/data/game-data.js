@@ -1,7 +1,14 @@
-// Generated on 11/17/2025, 17:00:01 (EST)
-// Total records: 287
+// Generated on 11/17/2025, 17:15:01 (EST)
+// Total records: 288
 
 export const games = [
+  {
+    "id": "32f3892d-84d4-4a28-92ec-68ee5cc0f1b8",
+    "name": "b VS s",
+    "creatorId": "107480082842318013355",
+    "creatorLastName": "Jones",
+    "createdAt": "11/17/2025, 17:03:02"
+  },
   {
     "id": "4ba7f57c-3376-48ba-a535-f2fa77fe0bfe",
     "name": "CSR Team 1 VS CSR Team 2",
