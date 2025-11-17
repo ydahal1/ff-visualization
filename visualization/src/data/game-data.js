@@ -1,5 +1,5 @@
-// Generated on 11/17/2025, 02:15:01 (EST)
-// Total records: 270
+// Generated on 11/17/2025, 02:30:01 (EST)
+// Total records: 269
 
 export const games = [
   {
@@ -8,13 +8,6 @@ export const games = [
     "creatorId": "115438249394902919849",
     "creatorLastName": "Mumtaz",
     "createdAt": "11/17/2025, 01:34:35"
-  },
-  {
-    "id": "4cfe64fe-48de-411c-945e-0c08250f0890",
-    "name": "pidgins VS creoles",
-    "creatorId": "100359531496534887679",
-    "creatorLastName": "Bongalos",
-    "createdAt": "11/16/2025, 22:38:34"
   },
   {
     "id": "e7542a63-6e52-44cd-a11f-d726ca367aad",
