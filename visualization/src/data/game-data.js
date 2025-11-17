@@ -1,7 +1,14 @@
-// Generated on 11/16/2025, 22:15:00 (EST)
-// Total records: 267
+// Generated on 11/16/2025, 22:30:01 (EST)
+// Total records: 268
 
 export const games = [
+  {
+    "id": "b6110eb5-6829-4ee3-80c3-c8543e2a0a0d",
+    "name": "1 VS 2",
+    "creatorId": "100359531496534887679",
+    "creatorLastName": "Bongalos",
+    "createdAt": "11/16/2025, 22:29:35"
+  },
   {
     "id": "31d714b7-ebc1-4b15-87ba-b35c6f2ffc27",
     "name": "ELC VS SW",
