@@ -1,7 +1,21 @@
-// Generated on 11/17/2025, 11:15:01 (EST)
-// Total records: 273
+// Generated on 11/17/2025, 11:30:01 (EST)
+// Total records: 275
 
 export const games = [
+  {
+    "id": "2894b45f-c750-4801-ab61-633dfe7069a7",
+    "name": "Conquerors - Champions VS Survivors - Gold Medalist",
+    "creatorId": "106305164479039788204",
+    "creatorLastName": "Fon",
+    "createdAt": "11/17/2025, 11:21:46"
+  },
+  {
+    "id": "00a9d27b-fb9f-41ca-a028-650375eb7ba3",
+    "name": "T1 VS T2",
+    "creatorId": "108651759322667797482",
+    "creatorLastName": "Bourne",
+    "createdAt": "11/17/2025, 11:19:40"
+  },
   {
     "id": "dba20bd0-01aa-496e-a7d5-1d0630054301",
     "name": "Tenable VS Boom Boom",
