@@ -1,13 +1,13 @@
-// Generated on 11/17/2025, 15:30:01 (EST)
-// Total records: 283
+// Generated on 11/17/2025, 15:45:01 (EST)
+// Total records: 282
 
 export const games = [
   {
-    "id": "4d8846a2-922b-4e13-929c-a52c5449a445",
-    "name": "ewnew VS wiuedn",
-    "creatorId": "107480082842318013355",
-    "creatorLastName": "Jones",
-    "createdAt": "11/17/2025, 15:22:59"
+    "id": "f4d11279-d8d7-4841-b49d-427fc7407b81",
+    "name": "Red team VS Blue team",
+    "creatorId": "110365674726963661146",
+    "creatorLastName": "Erwin",
+    "createdAt": "11/17/2025, 15:34:59"
   },
   {
     "id": "ebab1b36-6341-422c-bb6f-a37ec061e34d",
@@ -127,13 +127,6 @@ export const games = [
     "creatorId": "110091634567525704379",
     "creatorLastName": "Guy",
     "createdAt": "11/16/2025, 22:03:24"
-  },
-  {
-    "id": "193e292f-404f-4c9e-9828-122677fc1b8d",
-    "name": "gb VS gn",
-    "creatorId": "107480082842318013355",
-    "creatorLastName": "Jones",
-    "createdAt": "11/16/2025, 19:17:31"
   },
   {
     "id": "7429e488-da66-4eeb-a592-f890b4b47722",
