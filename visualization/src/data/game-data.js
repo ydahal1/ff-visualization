@@ -1,7 +1,14 @@
-// Generated on 11/16/2025, 21:00:01 (EST)
-// Total records: 265
+// Generated on 11/16/2025, 21:15:01 (EST)
+// Total records: 266
 
 export const games = [
+  {
+    "id": "f6c671a3-d9c0-4dbe-b38d-f3086a83329e",
+    "name": "1 VS 2",
+    "creatorId": "100293395066623518686",
+    "creatorLastName": "Belcher",
+    "createdAt": "11/16/2025, 21:09:06"
+  },
   {
     "id": "193e292f-404f-4c9e-9828-122677fc1b8d",
     "name": "gb VS gn",
