@@ -1,7 +1,28 @@
-// Generated on 11/17/2025, 13:45:01 (EST)
-// Total records: 279
+// Generated on 11/17/2025, 14:00:01 (EST)
+// Total records: 282
 
 export const games = [
+  {
+    "id": "ebab1b36-6341-422c-bb6f-a37ec061e34d",
+    "name": "Huskies VS Cougars",
+    "creatorId": "116532714465837240010",
+    "creatorLastName": "McKenzie",
+    "createdAt": "11/17/2025, 13:57:14"
+  },
+  {
+    "id": "9a949430-6a63-4863-b373-dd0bb90ba4e0",
+    "name": "Team Red VS Team Green",
+    "creatorId": "106072706034172811722",
+    "creatorLastName": "harris",
+    "createdAt": "11/17/2025, 13:52:23"
+  },
+  {
+    "id": "6f31495d-847c-4593-8964-ce4ee32ad69b",
+    "name": "team red VS team blue",
+    "creatorId": "117291030422085344750",
+    "creatorLastName": "Hamilton-Kowaliw",
+    "createdAt": "11/17/2025, 13:49:27"
+  },
   {
     "id": "c189d896-3cbe-445d-9d3c-f5e76b8e13de",
     "name": "men VS women",
