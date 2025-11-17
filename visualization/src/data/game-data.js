@@ -1,7 +1,21 @@
-// Generated on 11/17/2025, 16:30:01 (EST)
-// Total records: 283
+// Generated on 11/17/2025, 16:45:01 (EST)
+// Total records: 285
 
 export const games = [
+  {
+    "id": "1743b4e6-90f8-4465-b586-31b38bff68e7",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "110158397691777369927",
+    "creatorLastName": "Beck",
+    "createdAt": "11/17/2025, 16:34:42"
+  },
+  {
+    "id": "158db0ab-3a00-4a22-89e6-0fc3814ec9f7",
+    "name": "1 VS 2",
+    "creatorId": "113118745603392674382",
+    "creatorLastName": "whorton",
+    "createdAt": "11/17/2025, 16:31:24"
+  },
   {
     "id": "79c62a15-ed56-4099-93c6-ae931b784f5d",
     "name": "fsdfes VS fbshge",
