@@ -1,7 +1,14 @@
-// Generated on 11/18/2025, 18:00:01 (EST)
-// Total records: 320
+// Generated on 11/18/2025, 18:15:01 (EST)
+// Total records: 321
 
 export const games = [
+  {
+    "id": "87fa88e1-e07d-4b49-af88-5c85009a3e92",
+    "name": "Red VS Blue",
+    "creatorId": "118420497710661470274",
+    "creatorLastName": "Dolphy",
+    "createdAt": "11/18/2025, 18:13:10"
+  },
   {
     "id": "ce2e9874-4c41-4441-8cd6-56ffaa70d01f",
     "name": "y VS n",
