@@ -1,7 +1,28 @@
-// Generated on 11/18/2025, 12:30:01 (EST)
-// Total records: 297
+// Generated on 11/18/2025, 12:45:01 (EST)
+// Total records: 300
 
 export const games = [
+  {
+    "id": "4c0ee83c-388e-44ca-b8b3-3f7ea518abdb",
+    "name": "n2 VS n3",
+    "creatorId": "115826775338553892825",
+    "creatorLastName": "Beaven",
+    "createdAt": "11/18/2025, 12:43:43"
+  },
+  {
+    "id": "46be0666-bcb8-48de-997c-703d24a04daf",
+    "name": "Team1.1 VS Team 2.2",
+    "creatorId": "101681052944878198861",
+    "creatorLastName": "Guess",
+    "createdAt": "11/18/2025, 12:35:26"
+  },
+  {
+    "id": "49a46e4c-5bbf-49a5-9ed2-9cbea4a240c1",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "101681052944878198861",
+    "creatorLastName": "Guess",
+    "createdAt": "11/18/2025, 12:32:41"
+  },
   {
     "id": "4ff4632f-944a-4cfa-bb16-e38196d02996",
     "name": "1 VS 2",
