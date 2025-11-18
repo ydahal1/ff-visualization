@@ -1,7 +1,21 @@
-// Generated on 11/18/2025, 11:30:02 (EST)
-// Total records: 296
+// Generated on 11/18/2025, 11:45:01 (EST)
+// Total records: 297
 
 export const games = [
+  {
+    "id": "4ff4632f-944a-4cfa-bb16-e38196d02996",
+    "name": "1 VS 2",
+    "creatorId": "110690298544849114414",
+    "creatorLastName": "Smith",
+    "createdAt": "11/18/2025, 11:36:36"
+  },
+  {
+    "id": "0c39844e-398f-4620-9763-27bc3393cd63",
+    "name": "Air VS Water",
+    "creatorId": "115825991644763529095",
+    "creatorLastName": "Cholewka",
+    "createdAt": "11/18/2025, 11:35:26"
+  },
   {
     "id": "499b370b-de96-43a6-878b-2f0b2a14a11d",
     "name": "Team 1 VS Team 2",
@@ -995,13 +1009,6 @@ export const games = [
     "creatorId": "103923058492609428265",
     "creatorLastName": "adunni",
     "createdAt": "11/11/2025, 18:07:10"
-  },
-  {
-    "id": "953350b6-6f54-4f3d-ac73-8e258f572fb2",
-    "name": "team 12312 VS team 334414",
-    "creatorId": "103315866547897556985",
-    "creatorLastName": "Hoq",
-    "createdAt": "11/11/2025, 17:46:41"
   },
   {
     "id": "6094e296-84c1-414b-aec0-611d18509104",
