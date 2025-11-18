@@ -1,7 +1,14 @@
-// Generated on 11/17/2025, 21:30:01 (EST)
-// Total records: 287
+// Generated on 11/17/2025, 21:45:02 (EST)
+// Total records: 288
 
 export const games = [
+  {
+    "id": "34dcb2f0-144c-4ac1-9ec0-1071ad6e6e27",
+    "name": "Make VS Fake",
+    "creatorId": "110091634567525704379",
+    "creatorLastName": "Guy",
+    "createdAt": "11/17/2025, 21:38:53"
+  },
   {
     "id": "c0ae21e5-93dd-4e95-8a37-60cd8bdc88e0",
     "name": "Team HitmanBang VS Team JYP",
