@@ -1,7 +1,21 @@
-// Generated on 11/18/2025, 16:45:01 (EST)
-// Total records: 315
+// Generated on 11/18/2025, 17:00:02 (EST)
+// Total records: 317
 
 export const games = [
+  {
+    "id": "04dd67a1-a8ad-4425-9fbb-53e7065d61a6",
+    "name": "Tutorial Team 1 VS Tutorial Team 2",
+    "creatorId": "103315866547897556985",
+    "creatorLastName": "Hoq",
+    "createdAt": "11/18/2025, 16:45:13"
+  },
+  {
+    "id": "b7fc6961-4438-4425-b7a6-a87ec0f4f6e1",
+    "name": "Boomer VS Sooner",
+    "creatorId": "104309997023887543167",
+    "creatorLastName": "Cummings",
+    "createdAt": "11/18/2025, 16:45:10"
+  },
   {
     "id": "9d86cbb0-5a6d-47a5-902c-6bf68ad7aa17",
     "name": "Reg 1 VS Reg 2",
