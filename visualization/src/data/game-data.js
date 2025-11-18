@@ -1,7 +1,28 @@
-// Generated on 11/18/2025, 15:15:01 (EST)
-// Total records: 305
+// Generated on 11/18/2025, 15:30:01 (EST)
+// Total records: 308
 
 export const games = [
+  {
+    "id": "798e5bda-1a94-45a4-957d-3041dfd33774",
+    "name": "Giants VS Jets",
+    "creatorId": "106840589524827008460",
+    "creatorLastName": "Adusei",
+    "createdAt": "11/18/2025, 15:21:57"
+  },
+  {
+    "id": "3c39003d-09ed-46c7-b143-37d6c946b239",
+    "name": "Heat VS Knicks",
+    "creatorId": "106840589524827008460",
+    "creatorLastName": "Adusei",
+    "createdAt": "11/18/2025, 15:18:45"
+  },
+  {
+    "id": "ae8c51f1-3ee9-4220-bfa0-ed3fcb3bd817",
+    "name": "Teens VS Staff",
+    "creatorId": "106840589524827008460",
+    "creatorLastName": "Adusei",
+    "createdAt": "11/18/2025, 15:15:35"
+  },
   {
     "id": "8cb011f7-9541-46da-be00-88e3f1f6778f",
     "name": "Team 1 VS Team 2",
