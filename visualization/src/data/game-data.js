@@ -1,7 +1,21 @@
-// Generated on 11/18/2025, 14:00:01 (EST)
-// Total records: 300
+// Generated on 11/18/2025, 14:15:01 (EST)
+// Total records: 302
 
 export const games = [
+  {
+    "id": "d0bc47be-e630-4b8f-bd7f-88c61b7ed1df",
+    "name": "Derek VS Nate",
+    "creatorId": "103315866547897556985",
+    "creatorLastName": "Hoq",
+    "createdAt": "11/18/2025, 14:06:16"
+  },
+  {
+    "id": "ca2ab2cf-78ed-4def-9604-b126f469c269",
+    "name": "Bing Team 1 VS Bing Team 2",
+    "creatorId": "103315866547897556985",
+    "creatorLastName": "Hoq",
+    "createdAt": "11/18/2025, 14:04:07"
+  },
   {
     "id": "4c0ee83c-388e-44ca-b8b3-3f7ea518abdb",
     "name": "n2 VS n3",
