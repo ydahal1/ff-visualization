@@ -1,7 +1,28 @@
-// Generated on 11/18/2025, 16:15:01 (EST)
-// Total records: 308
+// Generated on 11/18/2025, 16:30:01 (EST)
+// Total records: 311
 
 export const games = [
+  {
+    "id": "93c399e2-eb2d-4929-a7a0-8f0be6c435b5",
+    "name": "BingTeam 7 VS BingTeam 8",
+    "creatorId": "103315866547897556985",
+    "creatorLastName": "Hoq",
+    "createdAt": "11/18/2025, 16:21:26"
+  },
+  {
+    "id": "ffe0fc79-a4c2-4328-a983-a3895714157c",
+    "name": "BingTeam 5 VS BingTeam 6",
+    "creatorId": "103315866547897556985",
+    "creatorLastName": "Hoq",
+    "createdAt": "11/18/2025, 16:18:53"
+  },
+  {
+    "id": "d662b3f8-769e-48b7-a196-ca8351a9aa33",
+    "name": "BingTeam 1 VS BingTeam 2",
+    "creatorId": "103315866547897556985",
+    "creatorLastName": "Hoq",
+    "createdAt": "11/18/2025, 16:15:45"
+  },
   {
     "id": "f7132d11-e246-4b9b-9776-1e88e84edaf9",
     "name": "BingTeam 3 VS BingTeam 4",
