@@ -1,7 +1,14 @@
-// Generated on 11/18/2025, 08:30:00 (EST)
-// Total records: 292
+// Generated on 11/18/2025, 08:45:00 (EST)
+// Total records: 293
 
 export const games = [
+  {
+    "id": "c1279d64-0879-4a82-a9d4-e2bbd48d906d",
+    "name": "Prima Dental Decayers VS Prima Dental Incisors",
+    "creatorId": "115508437516156645502",
+    "creatorLastName": "Bonamici",
+    "createdAt": "11/18/2025, 08:42:50"
+  },
   {
     "id": "ad1c5c29-1b23-494e-aeb6-e048622833f3",
     "name": "1 VS 2",
