@@ -1,7 +1,14 @@
-// Generated on 11/18/2025, 16:00:01 (EST)
+// Generated on 11/18/2025, 16:15:01 (EST)
 // Total records: 308
 
 export const games = [
+  {
+    "id": "f7132d11-e246-4b9b-9776-1e88e84edaf9",
+    "name": "BingTeam 3 VS BingTeam 4",
+    "creatorId": "103315866547897556985",
+    "creatorLastName": "Hoq",
+    "createdAt": "11/18/2025, 16:14:41"
+  },
   {
     "id": "798e5bda-1a94-45a4-957d-3041dfd33774",
     "name": "Giants VS Jets",
@@ -36,13 +43,6 @@ export const games = [
     "creatorId": "106840589524827008460",
     "creatorLastName": "Adusei",
     "createdAt": "11/18/2025, 15:05:48"
-  },
-  {
-    "id": "09efe77e-7c7d-4093-a134-e13e2dc51559",
-    "name": "test 1 VS tes 2",
-    "creatorId": "103315866547897556985",
-    "creatorLastName": "Hoq",
-    "createdAt": "11/18/2025, 14:31:04"
   },
   {
     "id": "46614cc6-223d-42dc-a793-37852f08c1d6",
