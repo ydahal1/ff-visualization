@@ -1,7 +1,14 @@
-// Generated on 11/18/2025, 11:00:01 (EST)
-// Total records: 294
+// Generated on 11/18/2025, 11:15:01 (EST)
+// Total records: 295
 
 export const games = [
+  {
+    "id": "ca7c2be4-d170-4b20-b3fc-a22cab3e1a7b",
+    "name": "th VS e",
+    "creatorId": "110690298544849114414",
+    "creatorLastName": "Smith",
+    "createdAt": "11/18/2025, 11:06:11"
+  },
   {
     "id": "31ef450c-f9f1-4697-85b4-0b85d0c073be",
     "name": "Anirudha VS Everyone Else",
