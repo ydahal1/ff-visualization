@@ -1,7 +1,35 @@
-// Generated on 11/18/2025, 16:30:01 (EST)
-// Total records: 311
+// Generated on 11/18/2025, 16:45:01 (EST)
+// Total records: 315
 
 export const games = [
+  {
+    "id": "9d86cbb0-5a6d-47a5-902c-6bf68ad7aa17",
+    "name": "Reg 1 VS Reg 2",
+    "creatorId": "103053128278484290657",
+    "creatorLastName": "Miller",
+    "createdAt": "11/18/2025, 16:38:09"
+  },
+  {
+    "id": "755faf17-c83a-4f39-b825-ae7924495f20",
+    "name": "BingFinalist 1 VS BingFinalist 2",
+    "creatorId": "103315866547897556985",
+    "creatorLastName": "Hoq",
+    "createdAt": "11/18/2025, 16:34:51"
+  },
+  {
+    "id": "14d4352a-9034-4374-9be4-007b7846f442",
+    "name": "Semifinalist 3 VS Semifinalist 4",
+    "creatorId": "103315866547897556985",
+    "creatorLastName": "Hoq",
+    "createdAt": "11/18/2025, 16:33:42"
+  },
+  {
+    "id": "4a49db36-26e2-424d-b9b5-ea9498149e2a",
+    "name": "Semifinalist 1 VS Semifinalist 2",
+    "creatorId": "103315866547897556985",
+    "creatorLastName": "Hoq",
+    "createdAt": "11/18/2025, 16:32:39"
+  },
   {
     "id": "93c399e2-eb2d-4929-a7a0-8f0be6c435b5",
     "name": "BingTeam 7 VS BingTeam 8",
