@@ -1,20 +1,20 @@
-// Generated on 11/18/2025, 14:15:01 (EST)
+// Generated on 11/18/2025, 14:30:01 (EST)
 // Total records: 302
 
 export const games = [
   {
-    "id": "d0bc47be-e630-4b8f-bd7f-88c61b7ed1df",
-    "name": "Derek VS Nate",
-    "creatorId": "103315866547897556985",
-    "creatorLastName": "Hoq",
-    "createdAt": "11/18/2025, 14:06:16"
+    "id": "46614cc6-223d-42dc-a793-37852f08c1d6",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "105759679986975780806",
+    "creatorLastName": "Frazier",
+    "createdAt": "11/18/2025, 14:19:52"
   },
   {
-    "id": "ca2ab2cf-78ed-4def-9604-b126f469c269",
-    "name": "Bing Team 1 VS Bing Team 2",
-    "creatorId": "103315866547897556985",
-    "creatorLastName": "Hoq",
-    "createdAt": "11/18/2025, 14:04:07"
+    "id": "9b465ddb-86af-40ea-8ca8-7afcb4620577",
+    "name": "Pink VS blue",
+    "creatorId": "102252787971384231527",
+    "creatorLastName": "cruz",
+    "createdAt": "11/18/2025, 14:19:51"
   },
   {
     "id": "4c0ee83c-388e-44ca-b8b3-3f7ea518abdb",
