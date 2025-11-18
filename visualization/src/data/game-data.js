@@ -1,5 +1,5 @@
-// Generated on 11/17/2025, 18:45:01 (EST)
-// Total records: 289
+// Generated on 11/17/2025, 19:00:01 (EST)
+// Total records: 287
 
 export const games = [
   {
@@ -232,20 +232,6 @@ export const games = [
     "creatorId": "108277081623847521054",
     "creatorLastName": "Patel",
     "createdAt": "11/16/2025, 10:49:35"
-  },
-  {
-    "id": "f0ee108e-d352-45e4-b234-5676e7feaa07",
-    "name": "Uno VS Dos",
-    "creatorId": "110091634567525704379",
-    "creatorLastName": "Guy",
-    "createdAt": "11/16/2025, 10:08:58"
-  },
-  {
-    "id": "4d2eda6f-e7cc-4480-8bfa-4295be55e937",
-    "name": "apple VS ball",
-    "creatorId": "110091634567525704379",
-    "creatorLastName": "Guy",
-    "createdAt": "11/16/2025, 09:43:24"
   },
   {
     "id": "12de9ecc-cfa2-4727-bf80-dd15954a7936",
