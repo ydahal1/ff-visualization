@@ -1,7 +1,14 @@
-// Generated on 11/18/2025, 02:30:01 (EST)
-// Total records: 289
+// Generated on 11/18/2025, 02:45:01 (EST)
+// Total records: 290
 
 export const games = [
+  {
+    "id": "b33904f8-b367-4de5-9a40-b84db8b644ad",
+    "name": "A VS b",
+    "creatorId": "106056727384990944298",
+    "creatorLastName": "Hawes",
+    "createdAt": "11/18/2025, 02:42:07"
+  },
   {
     "id": "0beb51f3-c15a-4e4f-bfcf-3c071c46ea0f",
     "name": "Stars VS Stripes",
