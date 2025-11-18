@@ -1,7 +1,14 @@
-// Generated on 11/17/2025, 23:00:02 (EST)
-// Total records: 288
+// Generated on 11/17/2025, 23:15:02 (EST)
+// Total records: 289
 
 export const games = [
+  {
+    "id": "0beb51f3-c15a-4e4f-bfcf-3c071c46ea0f",
+    "name": "Stars VS Stripes",
+    "creatorId": "102414684434361852820",
+    "creatorLastName": "Guzman",
+    "createdAt": "11/17/2025, 23:08:29"
+  },
   {
     "id": "34dcb2f0-144c-4ac1-9ec0-1071ad6e6e27",
     "name": "Make VS Fake",
