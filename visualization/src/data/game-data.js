@@ -1,7 +1,14 @@
-// Generated on 11/18/2025, 14:30:01 (EST)
-// Total records: 302
+// Generated on 11/18/2025, 14:45:01 (EST)
+// Total records: 303
 
 export const games = [
+  {
+    "id": "09efe77e-7c7d-4093-a134-e13e2dc51559",
+    "name": "test 1 VS tes 2",
+    "creatorId": "103315866547897556985",
+    "creatorLastName": "Hoq",
+    "createdAt": "11/18/2025, 14:31:04"
+  },
   {
     "id": "46614cc6-223d-42dc-a793-37852f08c1d6",
     "name": "Team 1 VS Team 2",
