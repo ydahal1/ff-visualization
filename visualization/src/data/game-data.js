@@ -1,7 +1,14 @@
-// Generated on 11/18/2025, 10:15:01 (EST)
-// Total records: 293
+// Generated on 11/18/2025, 10:30:01 (EST)
+// Total records: 294
 
 export const games = [
+  {
+    "id": "31ef450c-f9f1-4697-85b4-0b85d0c073be",
+    "name": "Anirudha VS Everyone Else",
+    "creatorId": "112834523476604239969",
+    "creatorLastName": "Gupta",
+    "createdAt": "11/18/2025, 10:18:26"
+  },
   {
     "id": "c1279d64-0879-4a82-a9d4-e2bbd48d906d",
     "name": "Prima Dental Decayers VS Prima Dental Incisors",
