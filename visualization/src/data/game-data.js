@@ -1,7 +1,21 @@
-// Generated on 11/19/2025, 15:45:01 (EST)
-// Total records: 355
+// Generated on 11/19/2025, 16:00:02 (EST)
+// Total records: 357
 
 export const games = [
+  {
+    "id": "4de927ea-128c-4311-9d46-fd5625e239a5",
+    "name": "67 VS 41",
+    "creatorId": "100781044952002907216",
+    "creatorLastName": "Nicolls",
+    "createdAt": "11/19/2025, 15:52:19"
+  },
+  {
+    "id": "946885ca-038f-44b2-b211-c1344c43d416",
+    "name": "Movie1 VS Movie2",
+    "creatorId": "114650015304643166381",
+    "creatorLastName": "Mestra",
+    "createdAt": "11/19/2025, 15:50:54"
+  },
   {
     "id": "3f7654f3-5690-4b92-b95b-073f89b225b2",
     "name": "Team Birthday VS Cerenity",
