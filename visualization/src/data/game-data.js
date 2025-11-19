@@ -1,7 +1,14 @@
-// Generated on 11/19/2025, 09:00:02 (EST)
-// Total records: 340
+// Generated on 11/19/2025, 09:15:01 (EST)
+// Total records: 341
 
 export const games = [
+  {
+    "id": "a481b119-2696-4cde-bb22-844444790e16",
+    "name": "SLERO VS SERO",
+    "creatorId": "108032915049780098587",
+    "creatorLastName": "Duarte",
+    "createdAt": "11/19/2025, 09:05:27"
+  },
   {
     "id": "c899b574-7599-4f2f-815a-4d7c4e31b761",
     "name": "1 VS 2",
