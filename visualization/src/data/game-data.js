@@ -1,5 +1,5 @@
-// Generated on 11/19/2025, 18:30:00 (EST)
-// Total records: 368
+// Generated on 11/19/2025, 18:45:01 (EST)
+// Total records: 366
 
 export const games = [
   {
@@ -673,20 +673,6 @@ export const games = [
     "creatorId": "104210491037698256312",
     "creatorLastName": "Simon",
     "createdAt": "11/17/2025, 12:52:44"
-  },
-  {
-    "id": "aacd3365-9004-4fc4-b8d6-37c17931db9a",
-    "name": "Remarkable Recallers VS Withdrawal Wizards",
-    "creatorId": "108527023288824638352",
-    "creatorLastName": "Pico",
-    "createdAt": "11/17/2025, 12:03:10"
-  },
-  {
-    "id": "0be6190c-e227-4b59-8866-4614ccc3a652",
-    "name": "Resourceful Recallers VS Withdrawal Wizards",
-    "creatorId": "108527023288824638352",
-    "creatorLastName": "Pico",
-    "createdAt": "11/17/2025, 11:40:29"
   },
   {
     "id": "2894b45f-c750-4801-ab61-633dfe7069a7",
