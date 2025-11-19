@@ -1,7 +1,14 @@
-// Generated on 11/19/2025, 14:45:01 (EST)
+// Generated on 11/19/2025, 15:00:01 (EST)
 // Total records: 351
 
 export const games = [
+  {
+    "id": "60e0f913-9a37-4b40-a5ef-b7bd635ba8f1",
+    "name": "BLUE VS YELLOW",
+    "creatorId": "112946305308443616378",
+    "creatorLastName": "Recinos",
+    "createdAt": "11/19/2025, 14:49:23"
+  },
   {
     "id": "941aea81-b280-4277-b3d8-20262927ccc9",
     "name": "Team 1 VS Team 2",
@@ -71,13 +78,6 @@ export const games = [
     "creatorId": "105956479104484437638",
     "creatorLastName": "Johnson",
     "createdAt": "11/19/2025, 09:53:50"
-  },
-  {
-    "id": "a481b119-2696-4cde-bb22-844444790e16",
-    "name": "SLERO VS SERO",
-    "creatorId": "108032915049780098587",
-    "creatorLastName": "Duarte",
-    "createdAt": "11/19/2025, 09:05:27"
   },
   {
     "id": "c899b574-7599-4f2f-815a-4d7c4e31b761",
