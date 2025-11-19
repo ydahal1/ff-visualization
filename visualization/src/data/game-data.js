@@ -1,7 +1,14 @@
-// Generated on 11/19/2025, 17:30:01 (EST)
-// Total records: 364
+// Generated on 11/19/2025, 17:45:01 (EST)
+// Total records: 365
 
 export const games = [
+  {
+    "id": "a5171484-0f83-4bb8-be2f-12b9fc4eac50",
+    "name": "Team 11 VS Team 22",
+    "creatorId": "103232408665107063952",
+    "creatorLastName": "Cunha",
+    "createdAt": "11/19/2025, 17:41:48"
+  },
   {
     "id": "53919cba-d5f9-46d6-b6aa-6bc15d521cad",
     "name": "guys VS girls",
