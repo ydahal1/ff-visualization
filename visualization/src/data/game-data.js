@@ -1,7 +1,14 @@
-// Generated on 11/19/2025, 10:15:02 (EST)
-// Total records: 342
+// Generated on 11/19/2025, 10:30:01 (EST)
+// Total records: 343
 
 export const games = [
+  {
+    "id": "dc8bb324-0b1e-4059-8bd9-b49a5667e469",
+    "name": "Bob VS Billy",
+    "creatorId": "104899184388322708116",
+    "creatorLastName": "Kuruvilla",
+    "createdAt": "11/19/2025, 10:28:16"
+  },
   {
     "id": "0d8267f8-f579-470e-aa50-6d96d8e06686",
     "name": "Quad Squad VS Hamstring Hustlers",
