@@ -1,7 +1,21 @@
-// Generated on 11/18/2025, 20:15:01 (EST)
-// Total records: 329
+// Generated on 11/18/2025, 20:30:01 (EST)
+// Total records: 330
 
 export const games = [
+  {
+    "id": "80ac933e-4043-435a-9012-13c84d4bd8f8",
+    "name": "Green Team VS Red Team",
+    "creatorId": "106072706034172811722",
+    "creatorLastName": "harris",
+    "createdAt": "11/18/2025, 20:28:21"
+  },
+  {
+    "id": "0904c41f-af11-438a-8f24-f2991630c332",
+    "name": "Huntley VS Clock it",
+    "creatorId": "107480082842318013355",
+    "creatorLastName": "Jones",
+    "createdAt": "11/18/2025, 20:19:21"
+  },
   {
     "id": "d05bb41f-8140-4bf2-b26a-b26ad7945e55",
     "name": "winner VS loser",
@@ -813,13 +827,6 @@ export const games = [
     "creatorId": "112159259996898972725",
     "creatorLastName": "Larade",
     "createdAt": "11/14/2025, 11:02:41"
-  },
-  {
-    "id": "6029f4e1-1726-4527-9cfa-61061c8395a9",
-    "name": "Team Green VS Team Red",
-    "creatorId": "106072706034172811722",
-    "creatorLastName": "harris",
-    "createdAt": "11/14/2025, 10:49:18"
   },
   {
     "id": "07d19613-3cf7-4ca0-84d0-ebcaa196bb07",
