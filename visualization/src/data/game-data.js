@@ -1,7 +1,28 @@
-// Generated on 11/19/2025, 17:15:01 (EST)
-// Total records: 361
+// Generated on 11/19/2025, 17:30:01 (EST)
+// Total records: 364
 
 export const games = [
+  {
+    "id": "53919cba-d5f9-46d6-b6aa-6bc15d521cad",
+    "name": "guys VS girls",
+    "creatorId": "109944256989167089776",
+    "creatorLastName": "Kingsland",
+    "createdAt": "11/19/2025, 17:26:54"
+  },
+  {
+    "id": "7860e190-f9f9-4abc-a483-aec7b1fa4e4d",
+    "name": "Rise Students 2 VS Parents/Leaders",
+    "creatorId": "101723093191352006407",
+    "creatorLastName": "Neff",
+    "createdAt": "11/19/2025, 17:25:00"
+  },
+  {
+    "id": "040881bd-6321-4b03-9fc8-ae6da5742544",
+    "name": "Rise Students VS Parents/Leaders",
+    "creatorId": "101723093191352006407",
+    "creatorLastName": "Neff",
+    "createdAt": "11/19/2025, 17:22:06"
+  },
   {
     "id": "217209a3-917d-4aeb-b8c5-fa3ce0fec980",
     "name": "mewo VS dada",
