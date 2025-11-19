@@ -1,7 +1,14 @@
-// Generated on 11/19/2025, 07:30:01 (EST)
-// Total records: 339
+// Generated on 11/19/2025, 07:45:01 (EST)
+// Total records: 340
 
 export const games = [
+  {
+    "id": "c899b574-7599-4f2f-815a-4d7c4e31b761",
+    "name": "1 VS 2",
+    "creatorId": "108717465464731560382",
+    "creatorLastName": "Haworth",
+    "createdAt": "11/19/2025, 07:31:44"
+  },
   {
     "id": "d796b2a1-ee7a-455d-9a53-7dcf92c3a1d0",
     "name": "Speed Round 6-10 VS 6-10",
