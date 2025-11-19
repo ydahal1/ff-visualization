@@ -1,7 +1,21 @@
-// Generated on 11/18/2025, 19:00:01 (EST)
-// Total records: 323
+// Generated on 11/18/2025, 19:15:01 (EST)
+// Total records: 325
 
 export const games = [
+  {
+    "id": "9b33b606-4116-4658-b902-c08fdb60ceb6",
+    "name": "Soviets VS USA",
+    "creatorId": "108698922913131684532",
+    "creatorLastName": "EM1L2R ツ",
+    "createdAt": "11/18/2025, 19:03:13"
+  },
+  {
+    "id": "80a7a98f-70e7-4ff5-bfe3-3e1d8901798c",
+    "name": "Walk em Down VS Clock it",
+    "creatorId": "107480082842318013355",
+    "creatorLastName": "Jones",
+    "createdAt": "11/18/2025, 19:01:42"
+  },
   {
     "id": "d69d43ed-64d9-47fc-a837-ff6af223b4a0",
     "name": "Waah's Minions VS The Baddest",
