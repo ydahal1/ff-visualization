@@ -1,7 +1,14 @@
-// Generated on 11/19/2025, 13:15:01 (EST)
-// Total records: 346
+// Generated on 11/19/2025, 13:30:02 (EST)
+// Total records: 347
 
 export const games = [
+  {
+    "id": "a32ad6bc-f428-4d11-bce9-f8228c722bc6",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "108699916065220210239",
+    "creatorLastName": "Darrell",
+    "createdAt": "11/19/2025, 13:15:43"
+  },
   {
     "id": "09e3c4ff-3fff-43a7-9b5c-2c5e0816ae94",
     "name": "Talent Acquisition VS Talent Experience",
