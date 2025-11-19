@@ -1,7 +1,28 @@
-// Generated on 11/19/2025, 16:15:01 (EST)
-// Total records: 357
+// Generated on 11/19/2025, 16:30:02 (EST)
+// Total records: 359
 
 export const games = [
+  {
+    "id": "982b0d8b-5ad5-4a48-9e05-6aa21c35ab7d",
+    "name": "Turkeys VS Pilgrims",
+    "creatorId": "110626204744445878344",
+    "creatorLastName": "Alpaca",
+    "createdAt": "11/19/2025, 16:29:51"
+  },
+  {
+    "id": "f9ef3fad-e677-4cb0-8fa9-1dc9fe0c7c31",
+    "name": "Students 1 VS Parents/Leaders",
+    "creatorId": "101723093191352006407",
+    "creatorLastName": "Neff",
+    "createdAt": "11/19/2025, 16:19:45"
+  },
+  {
+    "id": "012cbbc8-c9b5-47c0-9ae9-1fb02ab4d614",
+    "name": "Blues VS Clues",
+    "creatorId": "100781044952002907216",
+    "creatorLastName": "Nicolls",
+    "createdAt": "11/19/2025, 16:18:14"
+  },
   {
     "id": "4de927ea-128c-4311-9d46-fd5625e239a5",
     "name": "67 VS 41",
@@ -596,13 +617,6 @@ export const games = [
     "creatorId": "108527023288824638352",
     "creatorLastName": "Pico",
     "createdAt": "11/17/2025, 12:03:10"
-  },
-  {
-    "id": "1a4bf266-df25-45f6-843d-e41c15601a6d",
-    "name": "Parents VS Youth",
-    "creatorId": "101723093191352006407",
-    "creatorLastName": "Neff",
-    "createdAt": "11/17/2025, 11:48:13"
   },
   {
     "id": "0be6190c-e227-4b59-8866-4614ccc3a652",
