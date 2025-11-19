@@ -1,7 +1,14 @@
-// Generated on 11/19/2025, 14:00:01 (EST)
-// Total records: 348
+// Generated on 11/19/2025, 14:15:01 (EST)
+// Total records: 349
 
 export const games = [
+  {
+    "id": "42a89f5f-5659-4fd6-babe-ffc5aa26ae4f",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "104237240613003346593",
+    "creatorLastName": "Anstey",
+    "createdAt": "11/19/2025, 14:14:40"
+  },
   {
     "id": "371353ba-e956-449a-bcc3-713a7c64975a",
     "name": "coolio VS mac daddy",
