@@ -1,5 +1,5 @@
-// Generated on 11/19/2025, 18:15:01 (EST)
-// Total records: 369
+// Generated on 11/19/2025, 18:30:00 (EST)
+// Total records: 368
 
 export const games = [
   {
@@ -287,13 +287,6 @@ export const games = [
     "name": "~Team Red~ VS ~Team Green~",
     "creatorId": "106072706034172811722",
     "creatorLastName": "harris",
-    "createdAt": "11/18/2025, 21:05:55"
-  },
-  {
-    "id": "2870eb4a-0376-459e-9d55-7dee85e5015b",
-    "name": "PSID 1-2 VS PSID 3-4",
-    "creatorId": "107184540554489277341",
-    "creatorLastName": "aragones",
     "createdAt": "11/18/2025, 21:05:55"
   },
   {
