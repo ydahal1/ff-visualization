@@ -1,7 +1,14 @@
-// Generated on 11/18/2025, 23:00:01 (EST)
-// Total records: 331
+// Generated on 11/18/2025, 23:15:01 (EST)
+// Total records: 332
 
 export const games = [
+  {
+    "id": "71a15176-e94e-48df-b099-77deb3d243e2",
+    "name": "1 VS 2",
+    "creatorId": "112218673740679143179",
+    "creatorLastName": "Wood",
+    "createdAt": "11/18/2025, 23:00:52"
+  },
   {
     "id": "421f7c5a-c643-48ca-a36a-093cff34a8e4",
     "name": "Team A VS Team B",
