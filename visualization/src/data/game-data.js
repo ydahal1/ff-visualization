@@ -1,7 +1,14 @@
-// Generated on 11/18/2025, 19:15:01 (EST)
-// Total records: 325
+// Generated on 11/18/2025, 19:30:01 (EST)
+// Total records: 326
 
 export const games = [
+  {
+    "id": "1594d0cb-bd94-4146-b5dc-778ba3e656c1",
+    "name": "Walk em Down VS Huntley",
+    "creatorId": "107480082842318013355",
+    "creatorLastName": "Jones",
+    "createdAt": "11/18/2025, 19:22:36"
+  },
   {
     "id": "9b33b606-4116-4658-b902-c08fdb60ceb6",
     "name": "Soviets VS USA",
