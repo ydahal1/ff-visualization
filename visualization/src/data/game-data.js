@@ -1,7 +1,14 @@
-// Generated on 11/19/2025, 14:15:01 (EST)
-// Total records: 349
+// Generated on 11/19/2025, 14:30:01 (EST)
+// Total records: 350
 
 export const games = [
+  {
+    "id": "16a470a6-e94b-44d6-bd5d-9fcdce9a9541",
+    "name": "Team Red VS Team Blue",
+    "creatorId": "103232408665107063952",
+    "creatorLastName": "Cunha",
+    "createdAt": "11/19/2025, 14:17:18"
+  },
   {
     "id": "42a89f5f-5659-4fd6-babe-ffc5aa26ae4f",
     "name": "Team 1 VS Team 2",
