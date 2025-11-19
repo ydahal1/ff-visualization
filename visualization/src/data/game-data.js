@@ -1,7 +1,21 @@
-// Generated on 11/19/2025, 24:00:01 (EST)
-// Total records: 333
+// Generated on 11/19/2025, 24:15:01 (EST)
+// Total records: 335
 
 export const games = [
+  {
+    "id": "a5a4e1a0-2300-4bcf-bee5-69ce5c773823",
+    "name": "5 VS 6",
+    "creatorId": "110489745130569154895",
+    "creatorLastName": "Mekonnen",
+    "createdAt": "11/19/2025, 24:07:06"
+  },
+  {
+    "id": "852ef064-8ce6-4eb0-afbe-0a5f72194308",
+    "name": "3 VS 4",
+    "creatorId": "110489745130569154895",
+    "creatorLastName": "Mekonnen",
+    "createdAt": "11/19/2025, 24:03:26"
+  },
   {
     "id": "2f44651b-ff04-4599-8c06-2ed93b742f24",
     "name": "1 VS 2",
