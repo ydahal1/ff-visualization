@@ -1,7 +1,21 @@
-// Generated on 11/19/2025, 15:00:01 (EST)
-// Total records: 351
+// Generated on 11/19/2025, 15:15:00 (EST)
+// Total records: 353
 
 export const games = [
+  {
+    "id": "9968ae70-43f0-488f-81c5-c188cdce6e9f",
+    "name": "rangers VS tower",
+    "creatorId": "100781044952002907216",
+    "creatorLastName": "Nicolls",
+    "createdAt": "11/19/2025, 15:07:42"
+  },
+  {
+    "id": "2bff9a1a-0449-49e4-9948-28e54f36fc93",
+    "name": "SLERO/SERO VS Admin",
+    "creatorId": "108032915049780098587",
+    "creatorLastName": "Duarte",
+    "createdAt": "11/19/2025, 15:00:09"
+  },
   {
     "id": "60e0f913-9a37-4b40-a5ef-b7bd635ba8f1",
     "name": "BLUE VS YELLOW",
