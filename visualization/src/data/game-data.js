@@ -1,7 +1,21 @@
-// Generated on 11/19/2025, 15:15:00 (EST)
-// Total records: 353
+// Generated on 11/19/2025, 15:30:02 (EST)
+// Total records: 355
 
 export const games = [
+  {
+    "id": "3f7654f3-5690-4b92-b95b-073f89b225b2",
+    "name": "Team Birthday VS Cerenity",
+    "creatorId": "107070756175190699663",
+    "creatorLastName": "Winston",
+    "createdAt": "11/19/2025, 15:20:13"
+  },
+  {
+    "id": "15648a57-d8f8-497f-be2c-42c6d1431cc6",
+    "name": "team1 VS Team2",
+    "creatorId": "114650015304643166381",
+    "creatorLastName": "Mestra",
+    "createdAt": "11/19/2025, 15:18:14"
+  },
   {
     "id": "9968ae70-43f0-488f-81c5-c188cdce6e9f",
     "name": "rangers VS tower",
