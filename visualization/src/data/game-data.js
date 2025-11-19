@@ -1,7 +1,21 @@
-// Generated on 11/19/2025, 11:15:01 (EST)
-// Total records: 344
+// Generated on 11/19/2025, 11:30:01 (EST)
+// Total records: 346
 
 export const games = [
+  {
+    "id": "09e3c4ff-3fff-43a7-9b5c-2c5e0816ae94",
+    "name": "Talent Acquisition VS Talent Experience",
+    "creatorId": "104899184388322708116",
+    "creatorLastName": "Kuruvilla",
+    "createdAt": "11/19/2025, 11:19:52"
+  },
+  {
+    "id": "e3491afc-8845-4265-9d7f-558bef61fbd9",
+    "name": "lele VS ruthie",
+    "creatorId": "109762352249044650561",
+    "creatorLastName": "Katz",
+    "createdAt": "11/19/2025, 11:15:44"
+  },
   {
     "id": "9407048a-840b-4e30-b14e-b45888bb4401",
     "name": "Team 1 VS Team 2",
