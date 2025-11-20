@@ -1,7 +1,14 @@
-// Generated on 11/19/2025, 18:45:01 (EST)
-// Total records: 366
+// Generated on 11/19/2025, 19:00:01 (EST)
+// Total records: 367
 
 export const games = [
+  {
+    "id": "970bfb20-5b79-4f6d-8cd4-54ce20c4da05",
+    "name": "Client Support Commanders_1 VS Recon Wranglers_1",
+    "creatorId": "108527023288824638352",
+    "creatorLastName": "Pico",
+    "createdAt": "11/19/2025, 18:53:31"
+  },
   {
     "id": "75e70929-2bd9-4378-802b-c10a956153e5",
     "name": "Test VS testosterone 2",
