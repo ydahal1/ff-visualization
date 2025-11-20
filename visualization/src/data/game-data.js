@@ -1,7 +1,14 @@
-// Generated on 11/20/2025, 14:45:01 (EST)
-// Total records: 402
+// Generated on 11/20/2025, 15:00:01 (EST)
+// Total records: 403
 
 export const games = [
+  {
+    "id": "e187f186-34ed-436f-9b3e-23ee8a91729c",
+    "name": "Birthday Fun VS Everybody Else",
+    "creatorId": "107070756175190699663",
+    "creatorLastName": "Winston",
+    "createdAt": "11/20/2025, 14:52:44"
+  },
   {
     "id": "4a83c391-77ea-4a1d-80f3-c7f1530323c1",
     "name": "Remarkable Recallers_7 VS Withdrawal Wizards_7",
