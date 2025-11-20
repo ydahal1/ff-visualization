@@ -1,5 +1,5 @@
-// Generated on 11/20/2025, 17:00:01 (EST)
-// Total records: 406
+// Generated on 11/20/2025, 17:15:01 (EST)
+// Total records: 405
 
 export const games = [
   {
@@ -680,13 +680,6 @@ export const games = [
     "creatorId": "104309997023887543167",
     "creatorLastName": "Cummings",
     "createdAt": "11/18/2025, 16:45:10"
-  },
-  {
-    "id": "9d86cbb0-5a6d-47a5-902c-6bf68ad7aa17",
-    "name": "Reg 1 VS Reg 2",
-    "creatorId": "103053128278484290657",
-    "creatorLastName": "Miller",
-    "createdAt": "11/18/2025, 16:38:09"
   },
   {
     "id": "755faf17-c83a-4f39-b825-ae7924495f20",
