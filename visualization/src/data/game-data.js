@@ -1,7 +1,14 @@
-// Generated on 11/20/2025, 01:30:01 (EST)
-// Total records: 384
+// Generated on 11/20/2025, 01:45:01 (EST)
+// Total records: 385
 
 export const games = [
+  {
+    "id": "ee25f5df-d417-4a3d-a35c-5c7dc0727d9d",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "103179109693402958628",
+    "creatorLastName": "Imperial",
+    "createdAt": "11/20/2025, 01:39:35"
+  },
   {
     "id": "e5027647-0fb8-432c-b441-c709abc45dc4",
     "name": "1 VS 2",
