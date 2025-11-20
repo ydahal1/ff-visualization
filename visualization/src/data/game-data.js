@@ -1,7 +1,35 @@
-// Generated on 11/20/2025, 16:00:02 (EST)
-// Total records: 402
+// Generated on 11/20/2025, 16:15:01 (EST)
+// Total records: 406
 
 export const games = [
+  {
+    "id": "93acc702-220b-4c11-94da-598a388f39a0",
+    "name": "Red VS Orange",
+    "creatorId": "101845424565344591570",
+    "creatorLastName": "Bilbo",
+    "createdAt": "11/20/2025, 16:14:25"
+  },
+  {
+    "id": "2e755771-5cec-4225-9cf6-d25040654bb8",
+    "name": "Pumpkin VS Turkey",
+    "creatorId": "101845424565344591570",
+    "creatorLastName": "Bilbo",
+    "createdAt": "11/20/2025, 16:12:53"
+  },
+  {
+    "id": "e9faaa77-c7b6-48d8-a729-cbaea10c2bd0",
+    "name": "Blue Team VS Red Team",
+    "creatorId": "116323042977853157714",
+    "creatorLastName": "Thomas",
+    "createdAt": "11/20/2025, 16:08:50"
+  },
+  {
+    "id": "8bc4a33a-4eba-4127-9ca0-91ab0537b415",
+    "name": "1 VS 2",
+    "creatorId": "109944256989167089776",
+    "creatorLastName": "Kingsland",
+    "createdAt": "11/20/2025, 16:07:35"
+  },
   {
     "id": "d9caed27-9e4b-4a56-b04b-f9a5175cc012",
     "name": "red VS blue",
