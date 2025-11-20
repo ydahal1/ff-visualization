@@ -1,20 +1,20 @@
-// Generated on 11/20/2025, 16:15:01 (EST)
+// Generated on 11/20/2025, 16:30:01 (EST)
 // Total records: 406
 
 export const games = [
+  {
+    "id": "017d6b0f-49f1-4e8d-8866-e4e168fdb6ac",
+    "name": "Stuffing VS Mashed Potatoes",
+    "creatorId": "101845424565344591570",
+    "creatorLastName": "Bilbo",
+    "createdAt": "11/20/2025, 16:18:12"
+  },
   {
     "id": "93acc702-220b-4c11-94da-598a388f39a0",
     "name": "Red VS Orange",
     "creatorId": "101845424565344591570",
     "creatorLastName": "Bilbo",
     "createdAt": "11/20/2025, 16:14:25"
-  },
-  {
-    "id": "2e755771-5cec-4225-9cf6-d25040654bb8",
-    "name": "Pumpkin VS Turkey",
-    "creatorId": "101845424565344591570",
-    "creatorLastName": "Bilbo",
-    "createdAt": "11/20/2025, 16:12:53"
   },
   {
     "id": "e9faaa77-c7b6-48d8-a729-cbaea10c2bd0",
