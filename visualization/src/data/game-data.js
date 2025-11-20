@@ -1,7 +1,14 @@
-// Generated on 11/20/2025, 15:30:02 (EST)
-// Total records: 402
+// Generated on 11/20/2025, 15:45:02 (EST)
+// Total records: 403
 
 export const games = [
+  {
+    "id": "3a7b11f1-4454-4aa9-b592-3f9f9a1a0002",
+    "name": "Client Support Commanders_7 VS Recon Wranglers_7",
+    "creatorId": "108527023288824638352",
+    "creatorLastName": "Pico",
+    "createdAt": "11/20/2025, 15:33:05"
+  },
   {
     "id": "e187f186-34ed-436f-9b3e-23ee8a91729c",
     "name": "Birthday Fun VS Everybody Else",
