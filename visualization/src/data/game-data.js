@@ -1,7 +1,21 @@
-// Generated on 11/20/2025, 18:15:01 (EST)
-// Total records: 408
+// Generated on 11/20/2025, 18:30:01 (EST)
+// Total records: 409
 
 export const games = [
+  {
+    "id": "7241f236-601c-4bb9-a520-dc0d254cc0dc",
+    "name": "Peace & Strength VS Hope & Joy",
+    "creatorId": "107620988004601039346",
+    "creatorLastName": "InnChrist",
+    "createdAt": "11/20/2025, 18:28:33"
+  },
+  {
+    "id": "c0d2ff5a-77a1-4bab-bdca-d5ca6ac24d57",
+    "name": "Mom VS Dad2",
+    "creatorId": "110587366316477702412",
+    "creatorLastName": "C",
+    "createdAt": "11/20/2025, 18:16:07"
+  },
   {
     "id": "c7b32dc1-1457-4153-b689-a09856710960",
     "name": "Mom VS D",
@@ -190,13 +204,6 @@ export const games = [
     "creatorId": "106873282687430541080",
     "creatorLastName": "Crandell",
     "createdAt": "11/20/2025, 01:22:57"
-  },
-  {
-    "id": "98b15849-9db7-4cb7-b4b9-fb1524e4c4e2",
-    "name": "1 VS 2",
-    "creatorId": "107620988004601039346",
-    "creatorLastName": "InnChrist",
-    "createdAt": "11/20/2025, 24:19:23"
   },
   {
     "id": "d57b8504-416f-4e2f-a1b9-a4405b849a95",
