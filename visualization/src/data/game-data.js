@@ -1,7 +1,14 @@
-// Generated on 11/20/2025, 01:15:01 (EST)
-// Total records: 383
+// Generated on 11/20/2025, 01:30:01 (EST)
+// Total records: 384
 
 export const games = [
+  {
+    "id": "e5027647-0fb8-432c-b441-c709abc45dc4",
+    "name": "1 VS 2",
+    "creatorId": "106873282687430541080",
+    "creatorLastName": "Crandell",
+    "createdAt": "11/20/2025, 01:22:57"
+  },
   {
     "id": "98b15849-9db7-4cb7-b4b9-fb1524e4c4e2",
     "name": "1 VS 2",
