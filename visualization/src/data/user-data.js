@@ -1,7 +1,12 @@
-// Generated on 11/20/2025, 12:45:00 (EST)
-// Total records: 322
+// Generated on 11/20/2025, 13:00:00 (EST)
+// Total records: 323
 
 export const users = [
+  {
+    "id": "114332233787977593571",
+    "lName": "Family Feud",
+    "createdAt": "11/20/2025, 12:48:59"
+  },
   {
     "id": "113998153459629600685",
     "lName": "Wenger",
