@@ -1,7 +1,14 @@
-// Generated on 11/19/2025, 20:15:01 (EST)
-// Total records: 375
+// Generated on 11/19/2025, 20:30:01 (EST)
+// Total records: 376
 
 export const games = [
+  {
+    "id": "5f9401fa-e814-4f3b-89d3-3cb4e0e71460",
+    "name": "Red VS Blue",
+    "creatorId": "100781044952002907216",
+    "creatorLastName": "Nicolls",
+    "createdAt": "11/19/2025, 20:15:44"
+  },
   {
     "id": "2cbd951d-93a9-4c68-aa33-ed9124663466",
     "name": "Team Uno VS Team Dos",
