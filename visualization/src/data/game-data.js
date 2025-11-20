@@ -1,7 +1,14 @@
-// Generated on 11/19/2025, 19:30:01 (EST)
-// Total records: 369
+// Generated on 11/19/2025, 19:45:02 (EST)
+// Total records: 370
 
 export const games = [
+  {
+    "id": "f5155922-0556-41d6-b080-ff6c7e5c85e4",
+    "name": "Test VS Test1",
+    "creatorId": "101134868675909908580",
+    "creatorLastName": "Kennedy",
+    "createdAt": "11/19/2025, 19:34:40"
+  },
   {
     "id": "c4db15d5-7182-48e9-bfe6-67e7ee5e7abb",
     "name": "ZTA VS Phi Mu",
