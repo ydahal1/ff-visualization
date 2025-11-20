@@ -1,7 +1,14 @@
-// Generated on 11/19/2025, 21:30:01 (EST)
-// Total records: 378
+// Generated on 11/19/2025, 21:45:01 (EST)
+// Total records: 379
 
 export const games = [
+  {
+    "id": "0e6417f9-5cce-4d0c-acf9-ad3b5bf49df4",
+    "name": "ZTA. VS DG.",
+    "creatorId": "101134868675909908580",
+    "creatorLastName": "Kennedy",
+    "createdAt": "11/19/2025, 21:31:38"
+  },
   {
     "id": "cb88b69e-6dbb-4f23-9cf8-b7e92bfb8a1d",
     "name": "Bears VS ATL Falcons",
