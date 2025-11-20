@@ -1,7 +1,21 @@
-// Generated on 11/19/2025, 23:30:01 (EST)
-// Total records: 380
+// Generated on 11/19/2025, 23:45:01 (EST)
+// Total records: 382
 
 export const games = [
+  {
+    "id": "d57b8504-416f-4e2f-a1b9-a4405b849a95",
+    "name": "Chris VS Dencel",
+    "creatorId": "107184540554489277341",
+    "creatorLastName": "aragones",
+    "createdAt": "11/19/2025, 23:39:34"
+  },
+  {
+    "id": "d0f1e118-5651-4a92-a973-aae2be16eccf",
+    "name": "Z VS ang",
+    "creatorId": "101334433761434210617",
+    "creatorLastName": "Ager",
+    "createdAt": "11/19/2025, 23:39:27"
+  },
   {
     "id": "6ea9d4b2-d945-4e38-8fa1-16fc5fbc952f",
     "name": "Red VS Blue",
