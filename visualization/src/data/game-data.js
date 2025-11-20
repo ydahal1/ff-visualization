@@ -1,7 +1,14 @@
-// Generated on 11/20/2025, 17:45:01 (EST)
-// Total records: 406
+// Generated on 11/20/2025, 18:00:01 (EST)
+// Total records: 407
 
 export const games = [
+  {
+    "id": "b996d50d-b6d9-4330-bd96-6c50a31a4795",
+    "name": "team 3 VS team 4",
+    "creatorId": "110447335085754391080",
+    "creatorLastName": "Norman",
+    "createdAt": "11/20/2025, 17:54:31"
+  },
   {
     "id": "62c1ac14-eca1-47f1-ab96-0a1346650354",
     "name": "GRAVY and GREEN BEAN CASSEROLE VS ALL HAM NO TURKEY",
