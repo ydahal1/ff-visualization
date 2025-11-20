@@ -1,7 +1,14 @@
-// Generated on 11/20/2025, 15:45:02 (EST)
-// Total records: 403
+// Generated on 11/20/2025, 16:00:02 (EST)
+// Total records: 402
 
 export const games = [
+  {
+    "id": "d9caed27-9e4b-4a56-b04b-f9a5175cc012",
+    "name": "red VS blue",
+    "creatorId": "109944256989167089776",
+    "creatorLastName": "Kingsland",
+    "createdAt": "11/20/2025, 15:58:26"
+  },
   {
     "id": "3a7b11f1-4454-4aa9-b592-3f9f9a1a0002",
     "name": "Client Support Commanders_7 VS Recon Wranglers_7",
@@ -66,13 +73,6 @@ export const games = [
     "createdAt": "11/20/2025, 11:47:19"
   },
   {
-    "id": "999f73cf-4180-4657-b9b6-ffb493d8b331",
-    "name": "Team 1 VS Team 2",
-    "creatorId": "116323042977853157714",
-    "creatorLastName": "Thomas",
-    "createdAt": "11/20/2025, 11:24:13"
-  },
-  {
     "id": "2cd252ee-4e2f-4550-b1fd-c0d63d91a75a",
     "name": "Client Support Commanders_5 VS Recon Wranglers_5",
     "creatorId": "108527023288824638352",
@@ -85,13 +85,6 @@ export const games = [
     "creatorId": "108527023288824638352",
     "creatorLastName": "Pico",
     "createdAt": "11/20/2025, 11:05:18"
-  },
-  {
-    "id": "b4ff7ecc-34f2-4be4-8d7e-113ba8abe79b",
-    "name": "Red VS Blue",
-    "creatorId": "101845424565344591570",
-    "creatorLastName": "Bilbo",
-    "createdAt": "11/20/2025, 10:31:43"
   },
   {
     "id": "f8791e29-3a0c-47e7-a74a-0f1812d64fd8",
