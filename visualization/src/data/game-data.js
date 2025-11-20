@@ -1,7 +1,14 @@
-// Generated on 11/20/2025, 14:30:01 (EST)
-// Total records: 401
+// Generated on 11/20/2025, 14:45:01 (EST)
+// Total records: 402
 
 export const games = [
+  {
+    "id": "4a83c391-77ea-4a1d-80f3-c7f1530323c1",
+    "name": "Remarkable Recallers_7 VS Withdrawal Wizards_7",
+    "creatorId": "108527023288824638352",
+    "creatorLastName": "Pico",
+    "createdAt": "11/20/2025, 14:44:21"
+  },
   {
     "id": "baecc16d-5258-499d-8e86-0fc01829befc",
     "name": "Team One VS Team Two",
