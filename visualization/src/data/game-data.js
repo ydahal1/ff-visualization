@@ -1,7 +1,14 @@
-// Generated on 11/20/2025, 11:00:02 (EST)
-// Total records: 392
+// Generated on 11/20/2025, 11:15:01 (EST)
+// Total records: 393
 
 export const games = [
+  {
+    "id": "6d07506a-62f4-4562-b824-d5d6b1c55718",
+    "name": "Client Support Commanders_4 VS Recon Wranglers_ 4",
+    "creatorId": "108527023288824638352",
+    "creatorLastName": "Pico",
+    "createdAt": "11/20/2025, 11:05:18"
+  },
   {
     "id": "b4ff7ecc-34f2-4be4-8d7e-113ba8abe79b",
     "name": "Red VS Blue",
