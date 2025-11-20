@@ -1,7 +1,14 @@
-// Generated on 11/20/2025, 09:15:01 (EST)
-// Total records: 387
+// Generated on 11/20/2025, 09:30:01 (EST)
+// Total records: 388
 
 export const games = [
+  {
+    "id": "7b4cea92-ef49-4549-915f-9e0a7f6bf196",
+    "name": "Team Sweet Potato Pie VS Team Pumpkin Pie",
+    "creatorId": "117444535757569429433",
+    "creatorLastName": "M",
+    "createdAt": "11/20/2025, 09:16:41"
+  },
   {
     "id": "d19675d6-a041-4ddb-9590-8e69dd5f5add",
     "name": "Team Delta VS Team Wheels Up",
