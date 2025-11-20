@@ -1,7 +1,21 @@
-// Generated on 11/19/2025, 19:00:01 (EST)
-// Total records: 367
+// Generated on 11/19/2025, 19:15:01 (EST)
+// Total records: 369
 
 export const games = [
+  {
+    "id": "c4db15d5-7182-48e9-bfe6-67e7ee5e7abb",
+    "name": "ZTA VS Phi Mu",
+    "creatorId": "101134868675909908580",
+    "creatorLastName": "Kennedy",
+    "createdAt": "11/19/2025, 19:14:28"
+  },
+  {
+    "id": "7a914b85-2a18-40f1-9383-888031220bfd",
+    "name": "Client Support Commanders_2 VS Recon Wranglers_2",
+    "creatorId": "108527023288824638352",
+    "creatorLastName": "Pico",
+    "createdAt": "11/19/2025, 19:02:55"
+  },
   {
     "id": "970bfb20-5b79-4f6d-8cd4-54ce20c4da05",
     "name": "Client Support Commanders_1 VS Recon Wranglers_1",
