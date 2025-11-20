@@ -1,7 +1,21 @@
-// Generated on 11/20/2025, 11:15:01 (EST)
-// Total records: 393
+// Generated on 11/20/2025, 11:30:01 (EST)
+// Total records: 395
 
 export const games = [
+  {
+    "id": "999f73cf-4180-4657-b9b6-ffb493d8b331",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "116323042977853157714",
+    "creatorLastName": "Thomas",
+    "createdAt": "11/20/2025, 11:24:13"
+  },
+  {
+    "id": "2cd252ee-4e2f-4550-b1fd-c0d63d91a75a",
+    "name": "Client Support Commanders_5 VS Recon Wranglers_5",
+    "creatorId": "108527023288824638352",
+    "creatorLastName": "Pico",
+    "createdAt": "11/20/2025, 11:22:29"
+  },
   {
     "id": "6d07506a-62f4-4562-b824-d5d6b1c55718",
     "name": "Client Support Commanders_4 VS Recon Wranglers_ 4",
