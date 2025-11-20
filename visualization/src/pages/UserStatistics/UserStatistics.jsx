@@ -10,6 +10,9 @@ import {
   Legend,
   ResponsiveContainer,
   ReferenceLine,
+  PieChart,
+  Pie,
+  Cell,
 } from "recharts";
 import dayjs from "dayjs";
 import { users } from "../../data/user-data.js";
@@ -51,8 +54,8 @@ const UserStatistics = () => {
 
   // Generate tab extra content based on active tab
   const getTabExtraContent = (activeTab) => {
-    // Show date filter for Chart View tabs (2, 3, and 4)
-    if (activeTab === "2" || activeTab === "3" || activeTab === "4") {
+    // Show date filter for Chart View tabs (2, 4, and 5)
+    if (activeTab === "2" || activeTab === "4" || activeTab === "5") {
       return (
         <div className={styles.tabExtraContent}>
           <RangePicker
@@ -222,6 +225,65 @@ const UserStatistics = () => {
       })
       .sort((a, b) => a.hour - b.hour);
   }, [userData, dateRange]);
+
+  // Process data for monthly registration chart (past 4 months)
+  const monthlyRegistrationData = useMemo(() => {
+    const today = dayjs();
+    const months = [];
+    
+    // Generate data for the current month and past 3 months (total 4 months)
+    for (let i = 3; i >= 0; i--) {
+      const monthStart = today.subtract(i, 'month').startOf('month');
+      const monthKey = monthStart.format('YYYY-MM');
+      const monthLabel = monthStart.format('MMM');
+      
+      months.push({
+        monthKey,
+        monthLabel,
+        monthStart,
+        isCurrentMonth: i === 0
+      });
+    }
+
+    // Create chart data with days 1-31
+    const chartData = [];
+    for (let day = 1; day <= 31; day++) {
+      const dayData = { day };
+      
+      // Initialize counts for each month
+      months.forEach(month => {
+        dayData[month.monthKey] = null; // Use null for days that don't exist in that month
+      });
+      
+      chartData.push(dayData);
+    }
+
+    // Count registrations per day of month for each month
+    userData.forEach((item) => {
+      const itemDate = dayjs(item.createdAt);
+      const dayOfMonth = itemDate.date(); // 1-31
+      
+      // Check which tracked month this date belongs to
+      months.forEach(month => {
+        if (itemDate.isSame(month.monthStart, 'month')) {
+          const daysInMonth = month.monthStart.daysInMonth();
+          
+          // Only count if this day exists in the month
+          if (dayOfMonth <= daysInMonth) {
+            if (chartData[dayOfMonth - 1][month.monthKey] === null) {
+              chartData[dayOfMonth - 1][month.monthKey] = 0;
+            }
+            chartData[dayOfMonth - 1][month.monthKey]++;
+          }
+        }
+      });
+    });
+
+    return {
+      chartData,
+      months
+    };
+  }, [userData]);
 
   // Enhanced day-of-week chart with current week performance
   const enhancedDayOfWeekChartData = useMemo(() => {
@@ -456,6 +518,39 @@ const UserStatistics = () => {
     return chartData;
   }, [userData]);
 
+  // Data for user registration vs game creation pie chart
+  const userEngagementData = useMemo(() => {
+    // Get unique users who created games
+    const usersWhoCreatedGames = new Set();
+    games.forEach((game) => {
+      usersWhoCreatedGames.add(game.creatorLastName);
+    });
+
+    const totalUsers = users.length;
+    const usersWithGames = Array.from(usersWhoCreatedGames).filter(userName => 
+      users.some(user => user.lName === userName)
+    ).length;
+    const usersWithoutGames = totalUsers - usersWithGames;
+
+    const percentageWithGames = totalUsers > 0 ? ((usersWithGames / totalUsers) * 100).toFixed(1) : 0;
+    const percentageWithoutGames = totalUsers > 0 ? ((usersWithoutGames / totalUsers) * 100).toFixed(1) : 0;
+
+    return [
+      {
+        name: 'Users Who Created Games',
+        value: usersWithGames,
+        percentage: percentageWithGames,
+        color: 'var(--success-color, #52c41a)',
+      },
+      {
+        name: 'Users Who Did Not Create Games',
+        value: usersWithoutGames,
+        percentage: percentageWithoutGames,
+        color: 'var(--warning-color, #faad14)',
+      },
+    ];
+  }, []);
+
   // Table columns for users
   const userColumns = [
     {
@@ -569,7 +664,69 @@ const UserStatistics = () => {
     },
     {
       key: "3",
-      label: <span>Registration by Day</span>,
+      label: <span>Registration by Month</span>,
+      children: (
+        <Card size="small" className={styles.cardContainer}>
+          <div className={styles.chartContainer}>
+            <ResponsiveContainer width="100%" height="100%">
+              <LineChart data={monthlyRegistrationData.chartData}>
+                <CartesianGrid strokeDasharray="3 3" />
+                <XAxis
+                  dataKey="day"
+                  fontSize={12}
+                  label={{
+                    value: "Day of Month",
+                    position: "insideBottom",
+                    offset: -5,
+                  }}
+                />
+                <YAxis
+                  label={{
+                    value: "Number of Users Registered",
+                    angle: -90,
+                    position: "insideLeft",
+                  }}
+                  fontSize={11}
+                />
+                <Tooltip
+                  labelFormatter={(label) => `Day ${label}`}
+                />
+                <Legend />
+                {monthlyRegistrationData.months.map((month, index) => {
+                  const colors = [
+                    'var(--primary-color, #1890ff)',
+                    'var(--success-color, #52c41a)',
+                    'var(--warning-color, #faad14)',
+                    'var(--error-color, #ff4d4f)'
+                  ];
+                  return (
+                    <Line
+                      key={month.monthKey}
+                      type="monotone"
+                      dataKey={month.monthKey}
+                      stroke={colors[index % colors.length]}
+                      strokeWidth={2}
+                      dot={{ r: 3 }}
+                      name={month.monthLabel}
+                      connectNulls={false}
+                    />
+                  );
+                })}
+              </LineChart>
+            </ResponsiveContainer>
+
+            {monthlyRegistrationData.chartData.length === 0 && (
+              <div className={styles.noDataMessage}>
+                No data available
+              </div>
+            )}
+          </div>
+        </Card>
+      ),
+    },
+    {
+      key: "4",
+      label: <span>Registration by Week</span>,
       children: (
         <Card size="small" className={styles.cardContainer}>
           <div className={styles.chartContainer}>
@@ -673,7 +830,7 @@ const UserStatistics = () => {
       ),
     },
     {
-      key: "4",
+      key: "5",
       label: <span>Registration by Hour</span>,
       children: (
         <Card size="small" className={styles.cardContainer}>
@@ -742,6 +899,47 @@ const UserStatistics = () => {
                 No data available for the selected date range
               </div>
             )}
+          </div>
+        </Card>
+      ),
+    },
+    {
+      key: "6",
+      label: <span>User Engagement</span>,
+      children: (
+        <Card size="small" className={styles.cardContainer}>
+          <div className={styles.chartContainer}>
+            <ResponsiveContainer width="100%" height="100%">
+              <PieChart>
+                <Pie
+                  data={userEngagementData}
+                  cx="50%"
+                  cy="50%"
+                  labelLine={true}
+                  label={({ name, percentage, value }) => 
+                    `${name}: ${value} (${percentage}%)`
+                  }
+                  outerRadius={120}
+                  fill="#8884d8"
+                  dataKey="value"
+                >
+                  {userEngagementData.map((entry, index) => (
+                    <Cell key={`cell-${index}`} fill={entry.color} />
+                  ))}
+                </Pie>
+                <Tooltip 
+                  formatter={(value, name, props) => [
+                    `${value} users (${props.payload.percentage}%)`,
+                    props.payload.name
+                  ]}
+                />
+                <Legend 
+                  verticalAlign="bottom" 
+                  height={36}
+                  formatter={(value, entry) => `${entry.payload.name} (${entry.payload.percentage}%)`}
+                />
+              </PieChart>
+            </ResponsiveContainer>
           </div>
         </Card>
       ),
