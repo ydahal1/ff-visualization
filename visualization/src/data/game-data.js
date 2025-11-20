@@ -1,7 +1,14 @@
-// Generated on 11/20/2025, 09:30:01 (EST)
-// Total records: 388
+// Generated on 11/20/2025, 09:45:00 (EST)
+// Total records: 389
 
 export const games = [
+  {
+    "id": "4ac8de2d-f0db-4852-8fde-f0eb725d16fb",
+    "name": "Client Support Commanders_3 VS Recon Wranglers_3",
+    "creatorId": "108527023288824638352",
+    "creatorLastName": "Pico",
+    "createdAt": "11/20/2025, 09:41:49"
+  },
   {
     "id": "7b4cea92-ef49-4549-915f-9e0a7f6bf196",
     "name": "Team Sweet Potato Pie VS Team Pumpkin Pie",
