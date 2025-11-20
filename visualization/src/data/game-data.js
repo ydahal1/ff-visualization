@@ -1,7 +1,14 @@
-// Generated on 11/20/2025, 02:15:01 (EST)
-// Total records: 385
+// Generated on 11/20/2025, 02:30:01 (EST)
+// Total records: 386
 
 export const games = [
+  {
+    "id": "5712c130-e8e6-4521-ab39-ec52fa7ddc25",
+    "name": "khryzhel VS ry2",
+    "creatorId": "103179109693402958628",
+    "creatorLastName": "Imperial",
+    "createdAt": "11/20/2025, 02:27:35"
+  },
   {
     "id": "ee25f5df-d417-4a3d-a35c-5c7dc0727d9d",
     "name": "Team 1 VS Team 2",
