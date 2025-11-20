@@ -1,7 +1,14 @@
-// Generated on 11/20/2025, 14:00:01 (EST)
+// Generated on 11/20/2025, 14:15:01 (EST)
 // Total records: 401
 
 export const games = [
+  {
+    "id": "baecc16d-5258-499d-8e86-0fc01829befc",
+    "name": "Team One VS Team Two",
+    "creatorId": "108459701436056377004",
+    "creatorLastName": "Parrett",
+    "createdAt": "11/20/2025, 14:10:51"
+  },
   {
     "id": "71ada2af-be88-42de-aeda-d010a1282b7d",
     "name": "Team VS Team 2",
@@ -2304,13 +2311,6 @@ export const games = [
     "creatorId": "118398045643308882603",
     "creatorLastName": "Dahal",
     "createdAt": "11/06/2025, 16:01:34"
-  },
-  {
-    "id": "62ca9dee-f55c-4bb3-b40a-ed37ff24efe4",
-    "name": "Team 10 VS Team 20",
-    "creatorId": "108459701436056377004",
-    "creatorLastName": "Parrett",
-    "createdAt": "11/06/2025, 14:32:54"
   },
   {
     "id": "56230cc4-3978-4900-bde1-810187a5ca3e",
