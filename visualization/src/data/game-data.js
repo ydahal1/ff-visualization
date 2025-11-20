@@ -1,7 +1,21 @@
-// Generated on 11/19/2025, 20:30:01 (EST)
-// Total records: 376
+// Generated on 11/19/2025, 20:45:01 (EST)
+// Total records: 378
 
 export const games = [
+  {
+    "id": "cb88b69e-6dbb-4f23-9cf8-b7e92bfb8a1d",
+    "name": "Bears VS ATL Falcons",
+    "creatorId": "102414684434361852820",
+    "creatorLastName": "Guzman",
+    "createdAt": "11/19/2025, 20:44:08"
+  },
+  {
+    "id": "bc28af46-95fa-411c-8660-f0efbc3370ba",
+    "name": "1 VS 2",
+    "creatorId": "115529614736345270353",
+    "creatorLastName": "Wallace",
+    "createdAt": "11/19/2025, 20:42:01"
+  },
   {
     "id": "5f9401fa-e814-4f3b-89d3-3cb4e0e71460",
     "name": "Red VS Blue",
