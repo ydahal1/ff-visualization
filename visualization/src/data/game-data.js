@@ -1,7 +1,28 @@
-// Generated on 11/20/2025, 11:45:01 (EST)
-// Total records: 395
+// Generated on 11/20/2025, 12:00:01 (EST)
+// Total records: 398
 
 export const games = [
+  {
+    "id": "389f4cd6-3c7e-4380-8edf-a416260d374c",
+    "name": "Client Support Commanders_6 VS Recon Wranglers_6",
+    "creatorId": "108527023288824638352",
+    "creatorLastName": "Pico",
+    "createdAt": "11/20/2025, 11:58:09"
+  },
+  {
+    "id": "dae9d537-e72e-483f-8377-66bf888f7f47",
+    "name": "Team Green VS Team Black",
+    "creatorId": "117444535757569429433",
+    "creatorLastName": "M",
+    "createdAt": "11/20/2025, 11:48:51"
+  },
+  {
+    "id": "51f5304a-8e6e-4c00-bd18-75d761e5cb9c",
+    "name": "Team Potato Pie VS Team Pumpkin Pie",
+    "creatorId": "117444535757569429433",
+    "creatorLastName": "M",
+    "createdAt": "11/20/2025, 11:47:19"
+  },
   {
     "id": "999f73cf-4180-4657-b9b6-ffb493d8b331",
     "name": "Team 1 VS Team 2",
