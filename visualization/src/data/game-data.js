@@ -1,7 +1,14 @@
-// Generated on 11/20/2025, 08:45:01 (EST)
-// Total records: 386
+// Generated on 11/20/2025, 09:00:01 (EST)
+// Total records: 387
 
 export const games = [
+  {
+    "id": "d19675d6-a041-4ddb-9590-8e69dd5f5add",
+    "name": "Team Delta VS Team Wheels Up",
+    "creatorId": "104237240613003346593",
+    "creatorLastName": "Anstey",
+    "createdAt": "11/20/2025, 08:48:01"
+  },
   {
     "id": "5712c130-e8e6-4521-ab39-ec52fa7ddc25",
     "name": "khryzhel VS ry2",
