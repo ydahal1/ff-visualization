@@ -1,20 +1,48 @@
-// Generated on 11/19/2025, 19:45:02 (EST)
-// Total records: 370
+// Generated on 11/19/2025, 20:00:01 (EST)
+// Total records: 374
 
 export const games = [
   {
-    "id": "f5155922-0556-41d6-b080-ff6c7e5c85e4",
-    "name": "Test VS Test1",
+    "id": "1a1d8333-1748-44b2-a281-14f2755d3003",
+    "name": "1 VS 2",
     "creatorId": "101134868675909908580",
     "creatorLastName": "Kennedy",
-    "createdAt": "11/19/2025, 19:34:40"
+    "createdAt": "11/19/2025, 19:56:16"
   },
   {
-    "id": "c4db15d5-7182-48e9-bfe6-67e7ee5e7abb",
-    "name": "ZTA VS Phi Mu",
+    "id": "343b1499-f53a-4dc3-a577-54f2d429d045",
+    "name": "Numba one VS Numba two",
+    "creatorId": "110489745130569154895",
+    "creatorLastName": "Mekonnen",
+    "createdAt": "11/19/2025, 19:55:36"
+  },
+  {
+    "id": "091263fe-9f19-49a6-8500-2ae36f649520",
+    "name": "Pink VS Green",
+    "creatorId": "105427041973789232240",
+    "creatorLastName": "Hicks",
+    "createdAt": "11/19/2025, 19:54:45"
+  },
+  {
+    "id": "fc9adeab-695a-426d-a1e8-b396aa275336",
+    "name": "Phi Mu VS DG",
     "creatorId": "101134868675909908580",
     "creatorLastName": "Kennedy",
-    "createdAt": "11/19/2025, 19:14:28"
+    "createdAt": "11/19/2025, 19:52:45"
+  },
+  {
+    "id": "f9a5a391-d4dd-4e13-b2bd-187dc1a8c44f",
+    "name": "ZTA VS DG",
+    "creatorId": "101134868675909908580",
+    "creatorLastName": "Kennedy",
+    "createdAt": "11/19/2025, 19:51:16"
+  },
+  {
+    "id": "2a9b37dc-9ffb-4a1d-abad-ce28a1f5af16",
+    "name": "Phi Mu VS ZTA",
+    "creatorId": "101134868675909908580",
+    "creatorLastName": "Kennedy",
+    "createdAt": "11/19/2025, 19:49:11"
   },
   {
     "id": "7a914b85-2a18-40f1-9383-888031220bfd",
