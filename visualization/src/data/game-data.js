@@ -1,7 +1,14 @@
-// Generated on 11/19/2025, 22:30:00 (EST)
-// Total records: 379
+// Generated on 11/19/2025, 22:45:02 (EST)
+// Total records: 380
 
 export const games = [
+  {
+    "id": "6ea9d4b2-d945-4e38-8fa1-16fc5fbc952f",
+    "name": "Red VS Blue",
+    "creatorId": "108387048330879126086",
+    "creatorLastName": "Back",
+    "createdAt": "11/19/2025, 22:40:54"
+  },
   {
     "id": "0e6417f9-5cce-4d0c-acf9-ad3b5bf49df4",
     "name": "ZTA. VS DG.",
