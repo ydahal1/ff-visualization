@@ -1,7 +1,14 @@
-// Generated on 11/20/2025, 24:15:01 (EST)
-// Total records: 382
+// Generated on 11/20/2025, 24:30:02 (EST)
+// Total records: 383
 
 export const games = [
+  {
+    "id": "98b15849-9db7-4cb7-b4b9-fb1524e4c4e2",
+    "name": "1 VS 2",
+    "creatorId": "107620988004601039346",
+    "creatorLastName": "InnChrist",
+    "createdAt": "11/20/2025, 24:19:23"
+  },
   {
     "id": "d57b8504-416f-4e2f-a1b9-a4405b849a95",
     "name": "Chris VS Dencel",
