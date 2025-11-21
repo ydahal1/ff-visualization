@@ -1,7 +1,14 @@
-// Generated on 11/20/2025, 20:00:01 (EST)
-// Total records: 410
+// Generated on 11/20/2025, 20:15:01 (EST)
+// Total records: 411
 
 export const games = [
+  {
+    "id": "43f1cedc-7c18-437b-861c-3c67cce1907b",
+    "name": "Team Komal VS Team Sehaj",
+    "creatorId": "108133870968588493061",
+    "creatorLastName": "Samra",
+    "createdAt": "11/20/2025, 20:05:54"
+  },
   {
     "id": "0b1cb802-938c-4dd5-adbc-ea25e2606f07",
     "name": "Peace & Strengths VS Hope & Joys",
