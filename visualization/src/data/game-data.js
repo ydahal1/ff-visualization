@@ -1,5 +1,5 @@
-// Generated on 11/21/2025, 12:45:01 (EST)
-// Total records: 428
+// Generated on 11/21/2025, 13:00:00 (EST)
+// Total records: 427
 
 export const games = [
   {
@@ -15,13 +15,6 @@ export const games = [
     "creatorId": "101861885702787271642",
     "creatorLastName": "Piatt",
     "createdAt": "11/21/2025, 12:40:47"
-  },
-  {
-    "id": "f60aced1-b7aa-4bd7-b6a8-8746c9359820",
-    "name": "Turkeys VS Hams",
-    "creatorId": "116323042977853157714",
-    "creatorLastName": "Thomas",
-    "createdAt": "11/21/2025, 12:39:50"
   },
   {
     "id": "d7a1a0a7-a123-4ef9-bb0b-d0427794e88a",
