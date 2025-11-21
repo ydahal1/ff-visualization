@@ -1,7 +1,14 @@
-// Generated on 11/21/2025, 12:00:01 (EST)
-// Total records: 423
+// Generated on 11/21/2025, 12:15:01 (EST)
+// Total records: 424
 
 export const games = [
+  {
+    "id": "c1b3d407-08aa-4ec8-a568-d40216c1a187",
+    "name": "T5 VS Highest points",
+    "creatorId": "118308944096886386827",
+    "creatorLastName": "Torres",
+    "createdAt": "11/21/2025, 12:13:38"
+  },
   {
     "id": "a5415048-8cdc-40b9-b0af-a7ef8bbeac0a",
     "name": "Team 4 VS Team 5",
