@@ -1,7 +1,14 @@
-// Generated on 11/21/2025, 14:45:01 (EST)
-// Total records: 434
+// Generated on 11/21/2025, 15:00:01 (EST)
+// Total records: 435
 
 export const games = [
+  {
+    "id": "89d8563d-cd4f-4c36-999f-c98f6d7d2601",
+    "name": "FAST VS MONEY",
+    "creatorId": "106479891619761521679",
+    "creatorLastName": "Small",
+    "createdAt": "11/21/2025, 14:53:28"
+  },
   {
     "id": "0bfff16a-0a70-4129-804c-ef3025bc8931",
     "name": "team 11 VS team 12",
