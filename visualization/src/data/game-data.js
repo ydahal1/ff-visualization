@@ -1,7 +1,21 @@
-// Generated on 11/21/2025, 14:15:01 (EST)
-// Total records: 431
+// Generated on 11/21/2025, 14:30:01 (EST)
+// Total records: 433
 
 export const games = [
+  {
+    "id": "a162198c-59c6-447e-995f-905a60b64e17",
+    "name": "Team Red VS Team Blue",
+    "creatorId": "106479891619761521679",
+    "creatorLastName": "Small",
+    "createdAt": "11/21/2025, 14:24:54"
+  },
+  {
+    "id": "a05866e0-fb2d-4a32-b9dd-c7fa374b8410",
+    "name": "Team Ty VS Team Audrey",
+    "creatorId": "106479891619761521679",
+    "creatorLastName": "Small",
+    "createdAt": "11/21/2025, 14:23:53"
+  },
   {
     "id": "96f8cb5d-00f4-49c1-b7df-5dd2a3398fb5",
     "name": "team 9 VS team 10",
