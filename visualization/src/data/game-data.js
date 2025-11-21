@@ -1,7 +1,14 @@
-// Generated on 11/21/2025, 15:00:01 (EST)
-// Total records: 435
+// Generated on 11/21/2025, 15:15:02 (EST)
+// Total records: 436
 
 export const games = [
+  {
+    "id": "ea470f3f-9883-4d71-9f78-f86031ec366e",
+    "name": "FAST VS MONEY 2",
+    "creatorId": "106479891619761521679",
+    "creatorLastName": "Small",
+    "createdAt": "11/21/2025, 15:08:40"
+  },
   {
     "id": "89d8563d-cd4f-4c36-999f-c98f6d7d2601",
     "name": "FAST VS MONEY",
