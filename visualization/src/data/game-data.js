@@ -1,7 +1,14 @@
-// Generated on 11/20/2025, 20:30:02 (EST)
-// Total records: 411
+// Generated on 11/20/2025, 20:45:01 (EST)
+// Total records: 412
 
 export const games = [
+  {
+    "id": "c287cc75-3e8f-4efa-9cec-a2ced19b741b",
+    "name": "h VS g",
+    "creatorId": "106261283944826576254",
+    "creatorLastName": "Armstrong",
+    "createdAt": "11/20/2025, 20:42:41"
+  },
   {
     "id": "43f1cedc-7c18-437b-861c-3c67cce1907b",
     "name": "Team Komal VS Team Sehaj",
