@@ -1,7 +1,21 @@
-// Generated on 11/21/2025, 14:30:01 (EST)
-// Total records: 433
+// Generated on 11/21/2025, 14:45:01 (EST)
+// Total records: 434
 
 export const games = [
+  {
+    "id": "0bfff16a-0a70-4129-804c-ef3025bc8931",
+    "name": "team 11 VS team 12",
+    "creatorId": "109890295751899744301",
+    "creatorLastName": "pickup",
+    "createdAt": "11/21/2025, 14:35:44"
+  },
+  {
+    "id": "c46e9bfa-83eb-4e06-bb04-23393dd06bbc",
+    "name": "Bakers VS Cooks",
+    "creatorId": "106479891619761521679",
+    "creatorLastName": "Small",
+    "createdAt": "11/21/2025, 14:32:47"
+  },
   {
     "id": "a162198c-59c6-447e-995f-905a60b64e17",
     "name": "Team Red VS Team Blue",
@@ -22,13 +36,6 @@ export const games = [
     "creatorId": "109890295751899744301",
     "creatorLastName": "pickup",
     "createdAt": "11/21/2025, 13:45:15"
-  },
-  {
-    "id": "ff8b028b-6776-43dc-9e91-e511a9ab22f6",
-    "name": "1 VS 2",
-    "creatorId": "106479891619761521679",
-    "creatorLastName": "Small",
-    "createdAt": "11/21/2025, 13:33:11"
   },
   {
     "id": "f1b20db6-6d85-440b-975b-ee78229932e1",
