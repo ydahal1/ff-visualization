@@ -1,7 +1,14 @@
-// Generated on 11/21/2025, 02:00:02 (EST)
-// Total records: 419
+// Generated on 11/21/2025, 02:15:01 (EST)
+// Total records: 420
 
 export const games = [
+  {
+    "id": "54ca68aa-638a-4092-bbda-b862a2128675",
+    "name": "G6 VS G7",
+    "creatorId": "101944190867285566550",
+    "creatorLastName": "Skinner",
+    "createdAt": "11/21/2025, 02:07:49"
+  },
   {
     "id": "d330a1a1-2f50-4608-bb3b-7fc499d30ee9",
     "name": "1 VS 2",
