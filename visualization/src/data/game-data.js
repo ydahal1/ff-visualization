@@ -1,7 +1,21 @@
-// Generated on 11/20/2025, 22:15:01 (EST)
-// Total records: 414
+// Generated on 11/20/2025, 22:30:01 (EST)
+// Total records: 416
 
 export const games = [
+  {
+    "id": "740ee169-1b71-4b8c-bcf2-874956b189f4",
+    "name": "T3 VS T4",
+    "creatorId": "118308944096886386827",
+    "creatorLastName": "Torres",
+    "createdAt": "11/20/2025, 22:19:31"
+  },
+  {
+    "id": "0c12b5cd-74b5-4118-af55-5ef3bfd0125c",
+    "name": "T1 VS T2",
+    "creatorId": "118308944096886386827",
+    "creatorLastName": "Torres",
+    "createdAt": "11/20/2025, 22:18:02"
+  },
   {
     "id": "ad57291a-feb5-424d-8bbc-a79d108cd52d",
     "name": "Family 1 VS Family 2",
