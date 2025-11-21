@@ -1,7 +1,21 @@
-// Generated on 11/21/2025, 09:30:01 (EST)
-// Total records: 420
+// Generated on 11/21/2025, 09:45:01 (EST)
+// Total records: 422
 
 export const games = [
+  {
+    "id": "4462ecfc-487a-47f8-a910-0b3025735a28",
+    "name": "R VS D",
+    "creatorId": "106196808967040786938",
+    "creatorLastName": "Whited",
+    "createdAt": "11/21/2025, 09:41:20"
+  },
+  {
+    "id": "190cfe67-5d87-465e-b6f1-302c2e48f16c",
+    "name": "Client Support Commanders_8 VS Recon Wranglers_8",
+    "creatorId": "108527023288824638352",
+    "creatorLastName": "Pico",
+    "createdAt": "11/21/2025, 09:38:12"
+  },
   {
     "id": "b2bcac67-531a-460e-a5a8-6d639f7f9b46",
     "name": "Left side of the Room VS Right side of the Room",
