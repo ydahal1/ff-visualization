@@ -1,7 +1,14 @@
-// Generated on 11/21/2025, 04:45:01 (EST)
-// Total records: 420
+// Generated on 11/21/2025, 05:00:01 (EST)
+// Total records: 421
 
 export const games = [
+  {
+    "id": "b2bcac67-531a-460e-a5a8-6d639f7f9b46",
+    "name": "Left side of the Room VS Right side of the Room",
+    "creatorId": "111196370415716353148",
+    "creatorLastName": "Shrieff",
+    "createdAt": "11/21/2025, 04:55:50"
+  },
   {
     "id": "54ca68aa-638a-4092-bbda-b862a2128675",
     "name": "G6 VS G7",
