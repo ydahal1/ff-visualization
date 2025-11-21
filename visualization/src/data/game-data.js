@@ -1,7 +1,21 @@
-// Generated on 11/21/2025, 13:30:01 (EST)
-// Total records: 428
+// Generated on 11/21/2025, 13:45:01 (EST)
+// Total records: 430
 
 export const games = [
+  {
+    "id": "ff8b028b-6776-43dc-9e91-e511a9ab22f6",
+    "name": "1 VS 2",
+    "creatorId": "106479891619761521679",
+    "creatorLastName": "Small",
+    "createdAt": "11/21/2025, 13:33:11"
+  },
+  {
+    "id": "f1b20db6-6d85-440b-975b-ee78229932e1",
+    "name": "Team 7 VS Team 8",
+    "creatorId": "109890295751899744301",
+    "creatorLastName": "pickup",
+    "createdAt": "11/21/2025, 13:31:52"
+  },
   {
     "id": "1df6913d-bd4d-4753-a9c5-a608c972e780",
     "name": "Team 5 VS Team 6",
