@@ -1,13 +1,20 @@
-// Generated on 11/21/2025, 16:45:02 (EST)
-// Total records: 438
+// Generated on 11/21/2025, 17:00:01 (EST)
+// Total records: 439
 
 export const games = [
   {
-    "id": "04afc8d3-8bbd-4050-85f3-0a778e0aec06",
-    "name": "Team 1 VS Team 2",
+    "id": "62503262-ce44-4dbf-b75d-71be880753a9",
+    "name": "Turkey Trott VS Turkey Bowl",
     "creatorId": "118300092955558080099",
     "creatorLastName": "Nelson",
-    "createdAt": "11/21/2025, 16:44:00"
+    "createdAt": "11/21/2025, 16:56:11"
+  },
+  {
+    "id": "f206b470-db23-4bdb-a799-811b1eb7458b",
+    "name": "Puppy Bowl VS Egg Bowl",
+    "creatorId": "118300092955558080099",
+    "creatorLastName": "Nelson",
+    "createdAt": "11/21/2025, 16:53:45"
   },
   {
     "id": "3b73472a-636d-4487-90df-73b8a95abae5",
