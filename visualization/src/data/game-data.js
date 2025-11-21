@@ -1,7 +1,14 @@
-// Generated on 11/20/2025, 21:45:00 (EST)
-// Total records: 414
+// Generated on 11/20/2025, 22:00:02 (EST)
+// Total records: 415
 
 export const games = [
+  {
+    "id": "84a7f011-9748-4ddb-a193-f437aeb265e7",
+    "name": "Table 1 VS Table 2",
+    "creatorId": "118308944096886386827",
+    "creatorLastName": "Torres",
+    "createdAt": "11/20/2025, 21:52:34"
+  },
   {
     "id": "ad57291a-feb5-424d-8bbc-a79d108cd52d",
     "name": "Family 1 VS Family 2",
