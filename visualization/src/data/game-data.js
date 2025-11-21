@@ -1,7 +1,14 @@
-// Generated on 11/20/2025, 19:15:01 (EST)
-// Total records: 409
+// Generated on 11/20/2025, 19:30:02 (EST)
+// Total records: 410
 
 export const games = [
+  {
+    "id": "0b1cb802-938c-4dd5-adbc-ea25e2606f07",
+    "name": "Peace & Strengths VS Hope & Joys",
+    "creatorId": "107620988004601039346",
+    "creatorLastName": "InnChrist",
+    "createdAt": "11/20/2025, 19:19:20"
+  },
   {
     "id": "7241f236-601c-4bb9-a520-dc0d254cc0dc",
     "name": "Peace & Strength VS Hope & Joy",
