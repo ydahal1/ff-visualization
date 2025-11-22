@@ -1,7 +1,14 @@
-// Generated on 11/22/2025, 17:30:01 (EST)
-// Total records: 464
+// Generated on 11/22/2025, 17:45:01 (EST)
+// Total records: 465
 
 export const games = [
+  {
+    "id": "b5204a6e-0073-4683-a343-22f9f1330dfc",
+    "name": "nits VS botlts",
+    "creatorId": "107617957653697853650",
+    "creatorLastName": "Picchioni",
+    "createdAt": "11/22/2025, 17:32:36"
+  },
   {
     "id": "fc40d5f2-8d75-4eda-8915-25ca0190b0ad",
     "name": "One VS Two",
