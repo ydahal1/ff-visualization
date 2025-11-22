@@ -1,7 +1,14 @@
-// Generated on 11/22/2025, 24:30:02 (EST)
+// Generated on 11/22/2025, 24:45:01 (EST)
 // Total records: 457
 
 export const games = [
+  {
+    "id": "3d6df15f-e7ee-46ce-96b9-494b1f67a2b8",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "106196808967040786938",
+    "creatorLastName": "Whited",
+    "createdAt": "11/22/2025, 24:41:14"
+  },
   {
     "id": "841fe9fb-113b-4543-9cb4-db1ea020a114",
     "name": "Yomamas VS houghjass",
@@ -253,13 +260,6 @@ export const games = [
     "creatorId": "110447335085754391080",
     "creatorLastName": "Norman",
     "createdAt": "11/21/2025, 09:56:36"
-  },
-  {
-    "id": "4462ecfc-487a-47f8-a910-0b3025735a28",
-    "name": "R VS D",
-    "creatorId": "106196808967040786938",
-    "creatorLastName": "Whited",
-    "createdAt": "11/21/2025, 09:41:20"
   },
   {
     "id": "190cfe67-5d87-465e-b6f1-302c2e48f16c",
