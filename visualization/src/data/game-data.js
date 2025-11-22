@@ -1,7 +1,14 @@
-// Generated on 11/22/2025, 02:15:01 (EST)
-// Total records: 457
+// Generated on 11/22/2025, 02:30:01 (EST)
+// Total records: 458
 
 export const games = [
+  {
+    "id": "e7e00eb4-020f-47b6-9260-74d99a5fed89",
+    "name": "kevun VS saen",
+    "creatorId": "109337065970864070454",
+    "creatorLastName": "Muise",
+    "createdAt": "11/22/2025, 02:26:00"
+  },
   {
     "id": "3d6df15f-e7ee-46ce-96b9-494b1f67a2b8",
     "name": "Team 1 VS Team 2",
