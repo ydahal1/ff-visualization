@@ -1,7 +1,14 @@
-// Generated on 11/21/2025, 20:45:01 (EST)
-// Total records: 445
+// Generated on 11/21/2025, 21:00:01 (EST)
+// Total records: 446
 
 export const games = [
+  {
+    "id": "760d150f-1493-4a8c-828e-cd99289940b9",
+    "name": "Semi-final Winner 1 VS Semi-final Winner 2",
+    "creatorId": "112946305308443616378",
+    "creatorLastName": "Recinos",
+    "createdAt": "11/21/2025, 20:51:07"
+  },
   {
     "id": "455ff969-9f07-4df3-aa61-d865196125dd",
     "name": "1 VS 2",
