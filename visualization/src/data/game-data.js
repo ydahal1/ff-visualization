@@ -1,7 +1,28 @@
-// Generated on 11/21/2025, 19:45:01 (EST)
-// Total records: 441
+// Generated on 11/21/2025, 20:00:02 (EST)
+// Total records: 444
 
 export const games = [
+  {
+    "id": "2e89b928-d501-41d9-a22c-9abc54bceed3",
+    "name": "Team Green VS Team Red",
+    "creatorId": "112946305308443616378",
+    "creatorLastName": "Recinos",
+    "createdAt": "11/21/2025, 19:57:15"
+  },
+  {
+    "id": "3e678807-e65e-47d5-bd5f-a55df34633d3",
+    "name": "Team1 VS Team2",
+    "creatorId": "104954738809078483290",
+    "creatorLastName": "Davis",
+    "createdAt": "11/21/2025, 19:51:44"
+  },
+  {
+    "id": "0f0b9e6e-cd2d-48af-80f8-7706ad762e90",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "104954738809078483290",
+    "creatorLastName": "Davis",
+    "createdAt": "11/21/2025, 19:50:41"
+  },
   {
     "id": "1ce74747-4a69-4933-96b6-c2d51d935e03",
     "name": "11 VS 2",
