@@ -1,7 +1,63 @@
-// Generated on 11/21/2025, 21:30:01 (EST)
-// Total records: 446
+// Generated on 11/21/2025, 21:45:01 (EST)
+// Total records: 454
 
 export const games = [
+  {
+    "id": "09935efa-3501-44f5-83cc-0726dc4fc4ca",
+    "name": "Golds VS sivler",
+    "creatorId": "113958919273172769674",
+    "creatorLastName": "Zadina",
+    "createdAt": "11/21/2025, 21:39:16"
+  },
+  {
+    "id": "0c045b40-0475-4616-9700-6bd1d3a3203f",
+    "name": "unicorns VS rainbows",
+    "creatorId": "113958919273172769674",
+    "creatorLastName": "Zadina",
+    "createdAt": "11/21/2025, 21:38:40"
+  },
+  {
+    "id": "a2b45105-ccc4-4415-b8a7-f585683bcad4",
+    "name": "team 1 VS team 2",
+    "creatorId": "113958919273172769674",
+    "creatorLastName": "Zadina",
+    "createdAt": "11/21/2025, 21:37:05"
+  },
+  {
+    "id": "2064e62c-d367-4f8c-a384-6f1bc1f959ad",
+    "name": "Tribe of Judah 5 VS Tribe of Levi 5",
+    "creatorId": "111869754982879495766",
+    "creatorLastName": "Zaki",
+    "createdAt": "11/21/2025, 21:36:25"
+  },
+  {
+    "id": "1aada6e6-2baa-47e2-8e89-eb74abe35fb3",
+    "name": "Tribe of Judah 4 VS Tribe of Levi 4",
+    "creatorId": "111869754982879495766",
+    "creatorLastName": "Zaki",
+    "createdAt": "11/21/2025, 21:35:50"
+  },
+  {
+    "id": "14886c8f-9dc0-463a-9ffe-adfcfca9a50b",
+    "name": "Tribe of Judah 3 VS Tribe of Levi 3",
+    "creatorId": "111869754982879495766",
+    "creatorLastName": "Zaki",
+    "createdAt": "11/21/2025, 21:35:18"
+  },
+  {
+    "id": "4ac93efe-4015-4b95-8e47-f3b6cc872405",
+    "name": "Tribe of Judah 2 VS Tribe of Levi 2",
+    "creatorId": "111869754982879495766",
+    "creatorLastName": "Zaki",
+    "createdAt": "11/21/2025, 21:34:16"
+  },
+  {
+    "id": "07bf547f-5439-424e-9199-26265f601de1",
+    "name": "Tribe of Judah 1 VS Tribe of Levi 1",
+    "creatorId": "111869754982879495766",
+    "creatorLastName": "Zaki",
+    "createdAt": "11/21/2025, 21:32:01"
+  },
   {
     "id": "760d150f-1493-4a8c-828e-cd99289940b9",
     "name": "Semi-final Winner 1 VS Semi-final Winner 2",
