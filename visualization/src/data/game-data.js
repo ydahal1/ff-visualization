@@ -1,7 +1,14 @@
-// Generated on 11/22/2025, 06:30:01 (EST)
-// Total records: 459
+// Generated on 11/22/2025, 06:45:02 (EST)
+// Total records: 460
 
 export const games = [
+  {
+    "id": "51fe1da3-6b6f-49e5-8351-d89279dd50c8",
+    "name": "red VS green",
+    "creatorId": "103834351072564641509",
+    "creatorLastName": "Halford",
+    "createdAt": "11/22/2025, 06:42:36"
+  },
   {
     "id": "3b63b393-6f4f-412c-b4fe-d56201d894c1",
     "name": "IVY VS IVY 2",
