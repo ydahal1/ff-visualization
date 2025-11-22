@@ -1,7 +1,14 @@
-// Generated on 11/22/2025, 13:15:01 (EST)
-// Total records: 463
+// Generated on 11/22/2025, 13:30:01 (EST)
+// Total records: 464
 
 export const games = [
+  {
+    "id": "fc40d5f2-8d75-4eda-8915-25ca0190b0ad",
+    "name": "One VS Two",
+    "creatorId": "100207736490329407586",
+    "creatorLastName": "S",
+    "createdAt": "11/22/2025, 13:17:40"
+  },
   {
     "id": "93247776-66ac-44bf-b704-6d0262bb9fb8",
     "name": "Tím 1 VS Tím 2",
