@@ -1,13 +1,13 @@
-// Generated on 11/22/2025, 09:45:01 (EST)
+// Generated on 11/22/2025, 10:00:01 (EST)
 // Total records: 462
 
 export const games = [
   {
-    "id": "9bd40134-d063-4ee3-a7e5-71c5018ed015",
-    "name": "Adults VS Kids",
+    "id": "70096517-ca32-4e45-95a2-74fca04d4d26",
+    "name": "Kids VS Adutls",
     "creatorId": "102776909888816122670",
     "creatorLastName": "McNeal",
-    "createdAt": "11/22/2025, 09:32:20"
+    "createdAt": "11/22/2025, 09:51:28"
   },
   {
     "id": "f735c35c-9126-4f24-ad0c-2f83089f94f2",
