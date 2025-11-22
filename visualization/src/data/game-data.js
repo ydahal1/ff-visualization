@@ -1,7 +1,14 @@
-// Generated on 11/22/2025, 09:00:01 (EST)
-// Total records: 460
+// Generated on 11/22/2025, 09:15:01 (EST)
+// Total records: 461
 
 export const games = [
+  {
+    "id": "f735c35c-9126-4f24-ad0c-2f83089f94f2",
+    "name": "Snowman VS Reindeer",
+    "creatorId": "109518331258550090929",
+    "creatorLastName": "H.",
+    "createdAt": "11/22/2025, 09:04:12"
+  },
   {
     "id": "51fe1da3-6b6f-49e5-8351-d89279dd50c8",
     "name": "red VS green",
