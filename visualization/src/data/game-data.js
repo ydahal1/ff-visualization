@@ -1,27 +1,34 @@
-// Generated on 11/21/2025, 22:15:01 (EST)
-// Total records: 454
+// Generated on 11/21/2025, 22:30:01 (EST)
+// Total records: 455
 
 export const games = [
   {
-    "id": "09935efa-3501-44f5-83cc-0726dc4fc4ca",
-    "name": "Golds VS sivler",
+    "id": "e002f4e1-0f36-4274-add2-2848f6eae8a6",
+    "name": "Labubus VS Lafufus",
     "creatorId": "113958919273172769674",
     "creatorLastName": "Zadina",
-    "createdAt": "11/21/2025, 21:39:16"
+    "createdAt": "11/21/2025, 22:29:20"
   },
   {
-    "id": "0c045b40-0475-4616-9700-6bd1d3a3203f",
-    "name": "unicorns VS rainbows",
+    "id": "d3a99e41-4f42-4eae-b053-b9dae7165657",
+    "name": "gigglebottom VS jiggle",
     "creatorId": "113958919273172769674",
     "creatorLastName": "Zadina",
-    "createdAt": "11/21/2025, 21:38:40"
+    "createdAt": "11/21/2025, 22:27:45"
   },
   {
-    "id": "a2b45105-ccc4-4415-b8a7-f585683bcad4",
-    "name": "team 1 VS team 2",
+    "id": "9fb4c2e2-01f2-4e19-995b-e991861cc3cb",
+    "name": "Tinkle VS Loofah",
     "creatorId": "113958919273172769674",
     "creatorLastName": "Zadina",
-    "createdAt": "11/21/2025, 21:37:05"
+    "createdAt": "11/21/2025, 22:26:45"
+  },
+  {
+    "id": "9adf8cbf-cd99-4120-a266-d8054d521ce7",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "111687068551291668340",
+    "creatorLastName": "Hyligar",
+    "createdAt": "11/21/2025, 22:24:27"
   },
   {
     "id": "2064e62c-d367-4f8c-a384-6f1bc1f959ad",
