@@ -1,7 +1,14 @@
-// Generated on 11/22/2025, 12:45:01 (EST)
-// Total records: 462
+// Generated on 11/22/2025, 13:00:02 (EST)
+// Total records: 463
 
 export const games = [
+  {
+    "id": "93247776-66ac-44bf-b704-6d0262bb9fb8",
+    "name": "Tím 1 VS Tím 2",
+    "creatorId": "101283526040730354668",
+    "creatorLastName": "Židziková",
+    "createdAt": "11/22/2025, 12:57:16"
+  },
   {
     "id": "70096517-ca32-4e45-95a2-74fca04d4d26",
     "name": "Kids VS Adutls",
