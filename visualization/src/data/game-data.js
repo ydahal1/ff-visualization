@@ -1,5 +1,5 @@
-// Generated on 11/22/2025, 19:45:01 (EST)
-// Total records: 466
+// Generated on 11/22/2025, 20:00:02 (EST)
+// Total records: 465
 
 export const games = [
   {
@@ -15,13 +15,6 @@ export const games = [
     "creatorId": "107617957653697853650",
     "creatorLastName": "Picchioni",
     "createdAt": "11/22/2025, 17:32:36"
-  },
-  {
-    "id": "fc40d5f2-8d75-4eda-8915-25ca0190b0ad",
-    "name": "One VS Two",
-    "creatorId": "100207736490329407586",
-    "creatorLastName": "S",
-    "createdAt": "11/22/2025, 13:17:40"
   },
   {
     "id": "93247776-66ac-44bf-b704-6d0262bb9fb8",
