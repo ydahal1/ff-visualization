@@ -1,7 +1,14 @@
-// Generated on 11/23/2025, 15:30:01 (EST)
-// Total records: 481
+// Generated on 11/23/2025, 15:45:01 (EST)
+// Total records: 482
 
 export const games = [
+  {
+    "id": "7e243814-5ff5-489a-93a5-00488ae6fe2b",
+    "name": "Girl VS Boy",
+    "creatorId": "103878460947858893829",
+    "creatorLastName": "Wilford",
+    "createdAt": "11/23/2025, 15:36:25"
+  },
   {
     "id": "ec4198fc-0071-4dbf-a0af-473852f32464",
     "name": "Team 1 VS Team 2",
