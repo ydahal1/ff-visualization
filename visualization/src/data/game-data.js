@@ -1,7 +1,21 @@
-// Generated on 11/22/2025, 20:00:02 (EST)
-// Total records: 465
+// Generated on 11/22/2025, 20:15:01 (EST)
+// Total records: 467
 
 export const games = [
+  {
+    "id": "ccf38287-b348-495f-9879-0dc670826c15",
+    "name": "Left Side VS Right Side",
+    "creatorId": "100207736490329407586",
+    "creatorLastName": "S",
+    "createdAt": "11/22/2025, 20:06:15"
+  },
+  {
+    "id": "4c84e717-4892-4929-aa24-bcd78ae86406",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "100207736490329407586",
+    "creatorLastName": "S",
+    "createdAt": "11/22/2025, 20:00:08"
+  },
   {
     "id": "026aa372-f1cc-4e4b-b54f-63218abb0d56",
     "name": "Three Sparkles VS Elite Three",
