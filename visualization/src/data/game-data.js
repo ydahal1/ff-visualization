@@ -1,7 +1,14 @@
-// Generated on 11/23/2025, 13:30:01 (EST)
-// Total records: 478
+// Generated on 11/23/2025, 13:45:02 (EST)
+// Total records: 479
 
 export const games = [
+  {
+    "id": "b422f522-9937-491c-af03-6cbfa92180df",
+    "name": "TEAM 1 VS TEAM 2",
+    "creatorId": "109931551709945474165",
+    "creatorLastName": "Ignacio - MAPSY",
+    "createdAt": "11/23/2025, 13:38:28"
+  },
   {
     "id": "0bdc81cb-39ee-4eec-a375-2da77005d74b",
     "name": "Left VS Right",
