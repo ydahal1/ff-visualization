@@ -1,7 +1,14 @@
-// Generated on 11/23/2025, 04:15:01 (EST)
-// Total records: 474
+// Generated on 11/23/2025, 04:30:02 (EST)
+// Total records: 475
 
 export const games = [
+  {
+    "id": "3ee60c97-cd5a-4fda-b0f0-6d0d3bff09d2",
+    "name": "GROUP 1 VS GROUP 2",
+    "creatorId": "116902232678389108307",
+    "creatorLastName": "ERSON L.",
+    "createdAt": "11/23/2025, 04:29:02"
+  },
   {
     "id": "99e32539-c153-4564-9c6e-4937690b9b53",
     "name": "cunterella VS cliterella",
