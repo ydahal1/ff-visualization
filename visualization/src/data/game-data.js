@@ -1,7 +1,14 @@
-// Generated on 11/22/2025, 22:30:01 (EST)
-// Total records: 473
+// Generated on 11/22/2025, 22:45:01 (EST)
+// Total records: 474
 
 export const games = [
+  {
+    "id": "99e32539-c153-4564-9c6e-4937690b9b53",
+    "name": "cunterella VS cliterella",
+    "creatorId": "102551237366418103843",
+    "creatorLastName": "Duterval",
+    "createdAt": "11/22/2025, 22:31:46"
+  },
   {
     "id": "4030f822-8889-46a6-9d8d-175d4ed0561e",
     "name": "(Team Distillation) VS (Team Catalysts)",
