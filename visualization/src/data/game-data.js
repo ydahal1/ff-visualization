@@ -1,7 +1,14 @@
-// Generated on 11/22/2025, 20:30:01 (EST)
-// Total records: 470
+// Generated on 11/22/2025, 20:45:01 (EST)
+// Total records: 471
 
 export const games = [
+  {
+    "id": "4ed9717c-39a2-4e38-8583-5437a739e5a3",
+    "name": "Team Distillation VS Team Catalysts",
+    "creatorId": "102890794099532901893",
+    "creatorLastName": "Hawsawi",
+    "createdAt": "11/22/2025, 20:32:31"
+  },
   {
     "id": "dbcc5686-2289-4fc9-b371-2d05587bdb5b",
     "name": "Thanksgiving 1 VS Thanksgiving 2",
