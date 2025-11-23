@@ -1,20 +1,27 @@
-// Generated on 11/22/2025, 21:15:01 (EST)
-// Total records: 472
+// Generated on 11/22/2025, 21:30:01 (EST)
+// Total records: 473
 
 export const games = [
+  {
+    "id": "4030f822-8889-46a6-9d8d-175d4ed0561e",
+    "name": "(Team Distillation) VS (Team Catalysts)",
+    "creatorId": "102890794099532901893",
+    "creatorLastName": "Hawsawi",
+    "createdAt": "11/22/2025, 21:28:23"
+  },
+  {
+    "id": "4d26546e-26cb-412d-abe4-c7114d379ae9",
+    "name": "Team Distillation 1 VS Team Catalysts 1",
+    "creatorId": "102890794099532901893",
+    "creatorLastName": "Hawsawi",
+    "createdAt": "11/22/2025, 21:26:14"
+  },
   {
     "id": "4f48c540-506b-4b58-a191-1e0f2a881688",
     "name": "AI 1 VS AI 2",
     "creatorId": "100207736490329407586",
     "creatorLastName": "S",
     "createdAt": "11/22/2025, 20:45:01"
-  },
-  {
-    "id": "4ed9717c-39a2-4e38-8583-5437a739e5a3",
-    "name": "Team Distillation VS Team Catalysts",
-    "creatorId": "102890794099532901893",
-    "creatorLastName": "Hawsawi",
-    "createdAt": "11/22/2025, 20:32:31"
   },
   {
     "id": "dbcc5686-2289-4fc9-b371-2d05587bdb5b",
