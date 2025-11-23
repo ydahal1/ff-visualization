@@ -1,13 +1,13 @@
-// Generated on 11/23/2025, 18:00:01 (EST)
+// Generated on 11/23/2025, 18:15:01 (EST)
 // Total records: 484
 
 export const games = [
   {
-    "id": "3fe0ca53-e991-4092-b2a8-a07577641bc2",
-    "name": "Turkeys VS Pies",
+    "id": "524828fd-c2aa-474e-be1e-6aee4f7ea22e",
+    "name": "Turkeys1 VS Pies1",
     "creatorId": "116953602826862805168",
     "creatorLastName": "MCDEVITT",
-    "createdAt": "11/23/2025, 17:42:45"
+    "createdAt": "11/23/2025, 18:14:23"
   },
   {
     "id": "9432f0d0-d922-4f85-8b1d-8c2f192da77c",
