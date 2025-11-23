@@ -1,7 +1,14 @@
-// Generated on 11/23/2025, 13:15:01 (EST)
-// Total records: 477
+// Generated on 11/23/2025, 13:30:01 (EST)
+// Total records: 478
 
 export const games = [
+  {
+    "id": "0bdc81cb-39ee-4eec-a375-2da77005d74b",
+    "name": "Left VS Right",
+    "creatorId": "108722754444996269914",
+    "creatorLastName": "salas",
+    "createdAt": "11/23/2025, 13:26:09"
+  },
   {
     "id": "aba2a085-58ad-4e4d-bbd9-49d5f0681113",
     "name": "A VS B",
