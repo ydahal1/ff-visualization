@@ -1,13 +1,34 @@
-// Generated on 11/22/2025, 20:15:01 (EST)
-// Total records: 467
+// Generated on 11/22/2025, 20:30:01 (EST)
+// Total records: 470
 
 export const games = [
   {
-    "id": "ccf38287-b348-495f-9879-0dc670826c15",
-    "name": "Left Side VS Right Side",
+    "id": "dbcc5686-2289-4fc9-b371-2d05587bdb5b",
+    "name": "Thanksgiving 1 VS Thanksgiving 2",
     "creatorId": "100207736490329407586",
     "creatorLastName": "S",
-    "createdAt": "11/22/2025, 20:06:15"
+    "createdAt": "11/22/2025, 20:28:01"
+  },
+  {
+    "id": "2c06d8c3-38d1-46ae-82a8-0dd9f6752f36",
+    "name": "kylee VS jayden",
+    "creatorId": "109196754104481023727",
+    "creatorLastName": "Pierce",
+    "createdAt": "11/22/2025, 20:26:02"
+  },
+  {
+    "id": "185cb859-c03a-427f-bd26-b63281867bb7",
+    "name": "Fall 1 VS Fall 2",
+    "creatorId": "100207736490329407586",
+    "creatorLastName": "S",
+    "createdAt": "11/22/2025, 20:23:18"
+  },
+  {
+    "id": "cbdecf04-36c2-414d-9028-cd7c0b86466e",
+    "name": "Foodie 1 VS Foodie 2",
+    "creatorId": "100207736490329407586",
+    "creatorLastName": "S",
+    "createdAt": "11/22/2025, 20:16:06"
   },
   {
     "id": "4c84e717-4892-4929-aa24-bcd78ae86406",
