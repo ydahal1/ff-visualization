@@ -1,7 +1,14 @@
-// Generated on 11/22/2025, 20:45:01 (EST)
-// Total records: 471
+// Generated on 11/22/2025, 21:00:02 (EST)
+// Total records: 472
 
 export const games = [
+  {
+    "id": "4f48c540-506b-4b58-a191-1e0f2a881688",
+    "name": "AI 1 VS AI 2",
+    "creatorId": "100207736490329407586",
+    "creatorLastName": "S",
+    "createdAt": "11/22/2025, 20:45:01"
+  },
   {
     "id": "4ed9717c-39a2-4e38-8583-5437a739e5a3",
     "name": "Team Distillation VS Team Catalysts",
