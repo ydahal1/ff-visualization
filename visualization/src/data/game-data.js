@@ -1,7 +1,14 @@
-// Generated on 11/22/2025, 19:15:02 (EST)
-// Total records: 465
+// Generated on 11/22/2025, 19:30:02 (EST)
+// Total records: 466
 
 export const games = [
+  {
+    "id": "026aa372-f1cc-4e4b-b54f-63218abb0d56",
+    "name": "Three Sparkles VS Elite Three",
+    "creatorId": "110067118122845365008",
+    "creatorLastName": "Hawkins",
+    "createdAt": "11/22/2025, 19:24:06"
+  },
   {
     "id": "b5204a6e-0073-4683-a343-22f9f1330dfc",
     "name": "nits VS botlts",
