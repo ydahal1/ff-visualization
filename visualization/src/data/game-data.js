@@ -1,7 +1,21 @@
-// Generated on 11/23/2025, 18:30:01 (EST)
-// Total records: 485
+// Generated on 11/23/2025, 18:45:01 (EST)
+// Total records: 487
 
 export const games = [
+  {
+    "id": "8b88efa5-8cac-4e2d-a471-09f96c5400db",
+    "name": "McDevitt VS Slavin",
+    "creatorId": "116953602826862805168",
+    "creatorLastName": "MCDEVITT",
+    "createdAt": "11/23/2025, 18:40:42"
+  },
+  {
+    "id": "d837c148-98d8-4492-bdfd-169f29671cb7",
+    "name": "Turkeys3 VS Pies3",
+    "creatorId": "116953602826862805168",
+    "creatorLastName": "MCDEVITT",
+    "createdAt": "11/23/2025, 18:39:20"
+  },
   {
     "id": "49abce38-d29d-48f0-ab42-f0900b8b786e",
     "name": "Turkeys2 VS Pies2",
