@@ -1,7 +1,14 @@
-// Generated on 11/23/2025, 15:00:01 (EST)
-// Total records: 480
+// Generated on 11/23/2025, 15:15:01 (EST)
+// Total records: 481
 
 export const games = [
+  {
+    "id": "ec4198fc-0071-4dbf-a0af-473852f32464",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "109172289234399304316",
+    "creatorLastName": "Rodriguez",
+    "createdAt": "11/23/2025, 15:12:00"
+  },
   {
     "id": "833d93d5-086a-46f4-b737-31cec075607e",
     "name": "Lilipad VS Sisisid",
