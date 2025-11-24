@@ -1,7 +1,28 @@
-// Generated on 11/23/2025, 19:30:01 (EST)
-// Total records: 487
+// Generated on 11/23/2025, 19:45:02 (EST)
+// Total records: 486
 
 export const games = [
+  {
+    "id": "a710c65c-32b8-42cd-a066-dcebb85896f9",
+    "name": "Brothers 2 VS PNM's 2",
+    "creatorId": "112457061852891523885",
+    "creatorLastName": "Pavoni",
+    "createdAt": "11/23/2025, 19:37:17"
+  },
+  {
+    "id": "9f412ae1-3691-44c3-a6ff-3b7c03a21383",
+    "name": "Brothers 1 VS PNM's 1",
+    "creatorId": "112457061852891523885",
+    "creatorLastName": "Pavoni",
+    "createdAt": "11/23/2025, 19:32:26"
+  },
+  {
+    "id": "df739679-3277-44c8-8f98-deefd353c806",
+    "name": "1 VS 2",
+    "creatorId": "101958667943260837693",
+    "creatorLastName": "1999",
+    "createdAt": "11/23/2025, 19:30:26"
+  },
   {
     "id": "8b88efa5-8cac-4e2d-a471-09f96c5400db",
     "name": "McDevitt VS Slavin",
@@ -862,34 +883,6 @@ export const games = [
     "creatorId": "108527023288824638352",
     "creatorLastName": "Pico",
     "createdAt": "11/19/2025, 18:53:31"
-  },
-  {
-    "id": "75e70929-2bd9-4378-802b-c10a956153e5",
-    "name": "Test VS testosterone 2",
-    "creatorId": "112457061852891523885",
-    "creatorLastName": "Pavoni",
-    "createdAt": "11/19/2025, 17:55:24"
-  },
-  {
-    "id": "06a3a06c-d218-48fb-a3c6-e366f50658d4",
-    "name": "Test VS Testosterone",
-    "creatorId": "112457061852891523885",
-    "creatorLastName": "Pavoni",
-    "createdAt": "11/19/2025, 17:54:37"
-  },
-  {
-    "id": "de238d2e-66c3-421d-a55f-ccb4da46b4dd",
-    "name": "R VS B",
-    "creatorId": "112457061852891523885",
-    "creatorLastName": "Pavoni",
-    "createdAt": "11/19/2025, 17:48:47"
-  },
-  {
-    "id": "a3b37ca1-97ca-46ca-8dce-11b17c4936ba",
-    "name": "Brothers VS PNM's",
-    "creatorId": "112457061852891523885",
-    "creatorLastName": "Pavoni",
-    "createdAt": "11/19/2025, 17:46:00"
   },
   {
     "id": "a5171484-0f83-4bb8-be2f-12b9fc4eac50",
