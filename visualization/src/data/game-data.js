@@ -1,7 +1,14 @@
-// Generated on 11/24/2025, 15:30:01 (EST)
-// Total records: 517
+// Generated on 11/24/2025, 15:45:01 (EST)
+// Total records: 518
 
 export const games = [
+  {
+    "id": "4e39e232-3dbb-4e29-a8ca-50a03b902acd",
+    "name": "Green VS Red",
+    "creatorId": "117115024726417816215",
+    "creatorLastName": "True",
+    "createdAt": "11/24/2025, 15:43:43"
+  },
   {
     "id": "be89d2da-f085-4e00-bcdf-214a1aeecb6f",
     "name": "one VS two",
