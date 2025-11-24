@@ -1,13 +1,20 @@
-// Generated on 11/24/2025, 14:30:02 (EST)
+// Generated on 11/24/2025, 14:45:01 (EST)
 // Total records: 513
 
 export const games = [
   {
-    "id": "bd6b6c01-a433-4ea8-906e-4f46205c6cf9",
-    "name": "Dolce Red Team VS Dolce Blue Team",
+    "id": "94aec83e-64ca-437b-ace2-f62a8cd3b4b2",
+    "name": "Dolce Red Team #6 VS Dolce Blue Team #6",
     "creatorId": "115296274090883093407",
     "creatorLastName": "McDaniel",
-    "createdAt": "11/24/2025, 14:21:20"
+    "createdAt": "11/24/2025, 14:38:46"
+  },
+  {
+    "id": "b30b9a72-5e6d-48db-b08e-cc0999c66a66",
+    "name": "#5 Dolce Red Team VS #5 Dolce Blue Team",
+    "creatorId": "115296274090883093407",
+    "creatorLastName": "McDaniel",
+    "createdAt": "11/24/2025, 14:37:22"
   },
   {
     "id": "7d5fca89-ff86-4be7-b1a5-d665e693c107",
@@ -15,13 +22,6 @@ export const games = [
     "creatorId": "110505198861092104485",
     "creatorLastName": "Tomlin",
     "createdAt": "11/24/2025, 14:16:51"
-  },
-  {
-    "id": "ad0633ef-6520-414e-9201-99dfa743c800",
-    "name": "#5 Dolce Red Team VS #6 Dolce Blue Team",
-    "creatorId": "115296274090883093407",
-    "creatorLastName": "McDaniel",
-    "createdAt": "11/24/2025, 14:14:35"
   },
   {
     "id": "eed7d599-ca47-41dd-a382-c20178109ffb",
