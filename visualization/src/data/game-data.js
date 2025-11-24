@@ -1,7 +1,21 @@
-// Generated on 11/24/2025, 16:45:01 (EST)
-// Total records: 520
+// Generated on 11/24/2025, 17:00:01 (EST)
+// Total records: 522
 
 export const games = [
+  {
+    "id": "0f8bf6e9-1ed6-4ed8-9f9a-dfed76cc867c",
+    "name": "11 VS 22",
+    "creatorId": "104387741207563646766",
+    "creatorLastName": "Garcia",
+    "createdAt": "11/24/2025, 16:49:18"
+  },
+  {
+    "id": "8aa0e9c0-1f21-4604-bad4-c8186bfe9b00",
+    "name": "1 VS 2",
+    "creatorId": "104387741207563646766",
+    "creatorLastName": "Garcia",
+    "createdAt": "11/24/2025, 16:48:24"
+  },
   {
     "id": "d5dd20c0-24e4-4e6e-8a2f-fbda5d37e771",
     "name": "u VS i",
