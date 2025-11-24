@@ -1,7 +1,14 @@
-// Generated on 11/23/2025, 22:30:01 (EST)
-// Total records: 489
+// Generated on 11/23/2025, 22:45:02 (EST)
+// Total records: 490
 
 export const games = [
+  {
+    "id": "4a91c238-7301-4a7e-a0a2-71dc09d6ed90",
+    "name": "TEAM A VS TEAM B",
+    "creatorId": "115300085433865639132",
+    "creatorLastName": "Rotanak",
+    "createdAt": "11/23/2025, 22:38:19"
+  },
   {
     "id": "c8a70c33-a490-4106-bead-8b79b2523430",
     "name": "Brothers 3 VS PNM's 3",
