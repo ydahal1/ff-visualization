@@ -1,7 +1,21 @@
-// Generated on 11/24/2025, 13:45:01 (EST)
-// Total records: 503
+// Generated on 11/24/2025, 14:00:01 (EST)
+// Total records: 505
 
 export const games = [
+  {
+    "id": "d219c203-ee5b-48d6-84e2-b60de7b78c2b",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "102191045364898788218",
+    "creatorLastName": "FERNANDEZ",
+    "createdAt": "11/24/2025, 13:48:11"
+  },
+  {
+    "id": "a176dc97-35b6-4274-a949-456e0d552163",
+    "name": "1 VS 2",
+    "creatorId": "117457608104234681776",
+    "creatorLastName": "Millet-Williams",
+    "createdAt": "11/24/2025, 13:47:45"
+  },
   {
     "id": "f006f8b3-c356-442c-94e2-2ca8dda67bd6",
     "name": "Teachers VS Grade 9/10s",
