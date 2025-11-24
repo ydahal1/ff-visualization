@@ -1,7 +1,49 @@
-// Generated on 11/24/2025, 14:00:01 (EST)
-// Total records: 505
+// Generated on 11/24/2025, 14:15:01 (EST)
+// Total records: 511
 
 export const games = [
+  {
+    "id": "ad0633ef-6520-414e-9201-99dfa743c800",
+    "name": "#5 Dolce Red Team VS #6 Dolce Blue Team",
+    "creatorId": "115296274090883093407",
+    "creatorLastName": "McDaniel",
+    "createdAt": "11/24/2025, 14:14:35"
+  },
+  {
+    "id": "eed7d599-ca47-41dd-a382-c20178109ffb",
+    "name": "#4 Dolce Red Team VS #4 Dolce Blue Team",
+    "creatorId": "115296274090883093407",
+    "creatorLastName": "McDaniel",
+    "createdAt": "11/24/2025, 14:13:23"
+  },
+  {
+    "id": "8aaf445b-579b-49d8-938c-196df7c3f96a",
+    "name": "#3 Dolce Red Team VS #3 Dolce Blue Team",
+    "creatorId": "115296274090883093407",
+    "creatorLastName": "McDaniel",
+    "createdAt": "11/24/2025, 14:12:29"
+  },
+  {
+    "id": "53050051-439f-4a18-9f18-a33be9dc363d",
+    "name": "#2 Dolce Red Team VS #2 Dolce Blue Team",
+    "creatorId": "115296274090883093407",
+    "creatorLastName": "McDaniel",
+    "createdAt": "11/24/2025, 14:11:40"
+  },
+  {
+    "id": "220c8e79-6ce5-4e93-8383-5e7059bcf053",
+    "name": "#1 Dolce's Red Team VS #1 Dolce Blue Team",
+    "creatorId": "115296274090883093407",
+    "creatorLastName": "McDaniel",
+    "createdAt": "11/24/2025, 14:10:45"
+  },
+  {
+    "id": "81f5c9ec-a4c8-4060-bdc9-f09bbbdeb56f",
+    "name": "1 VS 2",
+    "creatorId": "103188973504336306338",
+    "creatorLastName": "Dietrich",
+    "createdAt": "11/24/2025, 14:09:56"
+  },
   {
     "id": "d219c203-ee5b-48d6-84e2-b60de7b78c2b",
     "name": "Team 1 VS Team 2",
