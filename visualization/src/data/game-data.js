@@ -1,7 +1,21 @@
-// Generated on 11/24/2025, 03:45:02 (EST)
-// Total records: 490
+// Generated on 11/24/2025, 04:00:02 (EST)
+// Total records: 492
 
 export const games = [
+  {
+    "id": "f184d449-e952-41a7-b1df-a47684cc0289",
+    "name": "1 VS 2",
+    "creatorId": "104550447787235690394",
+    "creatorLastName": "Lising",
+    "createdAt": "11/24/2025, 03:55:15"
+  },
+  {
+    "id": "f7cd8ee9-db3e-4562-ad91-ee792fb1598b",
+    "name": "MEN VS WOMEN",
+    "creatorId": "104550447787235690394",
+    "creatorLastName": "Lising",
+    "createdAt": "11/24/2025, 03:46:32"
+  },
   {
     "id": "4a91c238-7301-4a7e-a0a2-71dc09d6ed90",
     "name": "TEAM A VS TEAM B",
