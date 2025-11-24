@@ -1,7 +1,14 @@
-// Generated on 11/24/2025, 09:30:02 (EST)
-// Total records: 495
+// Generated on 11/24/2025, 09:45:02 (EST)
+// Total records: 496
 
 export const games = [
+  {
+    "id": "498c328f-03f2-4d52-b1f3-f315152cad8a",
+    "name": "Hot Coco VS Chocolate Chip Cookies",
+    "creatorId": "108559229761180852906",
+    "creatorLastName": "Culligan",
+    "createdAt": "11/24/2025, 09:30:37"
+  },
   {
     "id": "4fd1b0d9-4220-4e4e-bbe3-089566e6c4ba",
     "name": "Testing VS Testingj",
