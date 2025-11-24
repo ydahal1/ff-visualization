@@ -1,7 +1,21 @@
-// Generated on 11/24/2025, 14:45:01 (EST)
-// Total records: 513
+// Generated on 11/24/2025, 15:00:02 (EST)
+// Total records: 515
 
 export const games = [
+  {
+    "id": "1b723066-0095-4985-a79e-8379683af449",
+    "name": "Team 3 VS Team 4",
+    "creatorId": "114435727526542194647",
+    "creatorLastName": "Madrid Segura",
+    "createdAt": "11/24/2025, 14:59:48"
+  },
+  {
+    "id": "35652e25-b276-405a-aa21-d82f055e3810",
+    "name": "FINAL ROUND VS FINAL ROUND 2",
+    "creatorId": "115296274090883093407",
+    "creatorLastName": "McDaniel",
+    "createdAt": "11/24/2025, 14:48:30"
+  },
   {
     "id": "94aec83e-64ca-437b-ace2-f62a8cd3b4b2",
     "name": "Dolce Red Team #6 VS Dolce Blue Team #6",
