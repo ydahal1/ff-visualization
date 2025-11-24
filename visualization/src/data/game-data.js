@@ -1,7 +1,21 @@
-// Generated on 11/24/2025, 14:15:01 (EST)
-// Total records: 511
+// Generated on 11/24/2025, 14:30:02 (EST)
+// Total records: 513
 
 export const games = [
+  {
+    "id": "bd6b6c01-a433-4ea8-906e-4f46205c6cf9",
+    "name": "Dolce Red Team VS Dolce Blue Team",
+    "creatorId": "115296274090883093407",
+    "creatorLastName": "McDaniel",
+    "createdAt": "11/24/2025, 14:21:20"
+  },
+  {
+    "id": "7d5fca89-ff86-4be7-b1a5-d665e693c107",
+    "name": "Team Red VS Team Green",
+    "creatorId": "110505198861092104485",
+    "creatorLastName": "Tomlin",
+    "createdAt": "11/24/2025, 14:16:51"
+  },
   {
     "id": "ad0633ef-6520-414e-9201-99dfa743c800",
     "name": "#5 Dolce Red Team VS #6 Dolce Blue Team",
