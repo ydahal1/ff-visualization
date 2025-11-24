@@ -1,13 +1,13 @@
-// Generated on 11/24/2025, 16:00:01 (EST)
+// Generated on 11/24/2025, 16:15:02 (EST)
 // Total records: 518
 
 export const games = [
   {
-    "id": "56c2b405-4ada-4174-9e36-80ade2f7ad22",
-    "name": "yup VS yep",
-    "creatorId": "117115024726417816215",
-    "creatorLastName": "True",
-    "createdAt": "11/24/2025, 15:59:28"
+    "id": "dc25094c-0dc5-4797-8557-326448b75c49",
+    "name": "green VS blue",
+    "creatorId": "101879092086991265530",
+    "creatorLastName": "Clarke",
+    "createdAt": "11/24/2025, 16:03:56"
   },
   {
     "id": "be89d2da-f085-4e00-bcdf-214a1aeecb6f",
