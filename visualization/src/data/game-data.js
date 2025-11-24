@@ -1,7 +1,14 @@
-// Generated on 11/23/2025, 21:30:01 (EST)
-// Total records: 487
+// Generated on 11/23/2025, 21:45:01 (EST)
+// Total records: 488
 
 export const games = [
+  {
+    "id": "f6f0d8f1-28cb-4283-bef2-7742bba388f7",
+    "name": "UNIV 1 VS UNIV 2",
+    "creatorId": "104234062472059033953",
+    "creatorLastName": "Martin",
+    "createdAt": "11/23/2025, 21:33:02"
+  },
   {
     "id": "fc77b785-8354-4c3b-b70f-b3cc5786c871",
     "name": "1 VS 2",
