@@ -1,7 +1,12 @@
-// Generated on 11/24/2025, 04:15:00 (EST)
-// Total records: 384
+// Generated on 11/24/2025, 04:30:00 (EST)
+// Total records: 385
 
 export const users = [
+  {
+    "id": "114435727526542194647",
+    "lName": "Madrid Segura",
+    "createdAt": "11/24/2025, 04:17:38"
+  },
   {
     "id": "104550447787235690394",
     "lName": "Lising",
