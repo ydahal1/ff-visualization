@@ -1,7 +1,14 @@
-// Generated on 11/24/2025, 04:30:02 (EST)
-// Total records: 492
+// Generated on 11/24/2025, 04:45:01 (EST)
+// Total records: 493
 
 export const games = [
+  {
+    "id": "23338778-2303-4fab-a4ab-d69c76b77599",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "114435727526542194647",
+    "creatorLastName": "Madrid Segura",
+    "createdAt": "11/24/2025, 04:37:34"
+  },
   {
     "id": "f184d449-e952-41a7-b1df-a47684cc0289",
     "name": "1 VS 2",
