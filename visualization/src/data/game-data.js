@@ -1,7 +1,21 @@
-// Generated on 11/24/2025, 11:30:01 (EST)
-// Total records: 498
+// Generated on 11/24/2025, 11:45:01 (EST)
+// Total records: 499
 
 export const games = [
+  {
+    "id": "bb8c7221-37a4-43a6-a95d-0a35f34e6fe1",
+    "name": "BACKSTAGE HEROES VS SPOTLIGHT CREW",
+    "creatorId": "103414462527978381985",
+    "creatorLastName": "hepler",
+    "createdAt": "11/24/2025, 11:38:00"
+  },
+  {
+    "id": "0d449e76-0315-43f6-b66b-1ec8bae4c1c2",
+    "name": "A VS B",
+    "creatorId": "112760803593738720319",
+    "creatorLastName": "Ayanna",
+    "createdAt": "11/24/2025, 11:37:12"
+  },
   {
     "id": "3af6e00b-ad8b-4dc1-980b-aa744ec57790",
     "name": "Team 1 VS Team 2",
@@ -2913,13 +2927,6 @@ export const games = [
     "creatorId": "107626938105072496174",
     "creatorLastName": "THOMPSON",
     "createdAt": "11/07/2025, 12:32:29"
-  },
-  {
-    "id": "1cb8c417-4049-408f-a755-5b4e8f5561bb",
-    "name": "isfsg VS gorkhpo",
-    "creatorId": "103414462527978381985",
-    "creatorLastName": "hepler",
-    "createdAt": "11/07/2025, 12:22:28"
   },
   {
     "id": "c7296444-fa3f-4a96-99fe-c01a9b832d40",
