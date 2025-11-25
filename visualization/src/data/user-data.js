@@ -1,7 +1,17 @@
-// Generated on 11/25/2025, 11:00:00 (EST)
-// Total records: 423
+// Generated on 11/25/2025, 11:15:00 (EST)
+// Total records: 425
 
 export const users = [
+  {
+    "id": "111963470079813298398",
+    "lName": "Leal Granados",
+    "createdAt": "11/25/2025, 11:12:51"
+  },
+  {
+    "id": "103346219660321858157",
+    "lName": "Schropp",
+    "createdAt": "11/25/2025, 11:08:26"
+  },
   {
     "id": "115177473366722888444",
     "lName": "Isocoles",
