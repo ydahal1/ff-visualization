@@ -1,7 +1,14 @@
-// Generated on 11/24/2025, 22:30:02 (EST)
-// Total records: 532
+// Generated on 11/24/2025, 22:45:01 (EST)
+// Total records: 533
 
 export const games = [
+  {
+    "id": "78f1443b-a2d3-41de-add1-c0ff4c4e0ad3",
+    "name": "The Choo Choo Trains VS The Coo Coos",
+    "creatorId": "100394053113010870963",
+    "creatorLastName": "Battle",
+    "createdAt": "11/24/2025, 22:41:08"
+  },
   {
     "id": "475bbb73-1ea6-43c5-a369-99a573849514",
     "name": "Terri VS Jessica",
