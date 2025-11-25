@@ -1,7 +1,14 @@
-// Generated on 11/25/2025, 24:45:02 (EST)
-// Total records: 543
+// Generated on 11/25/2025, 01:00:02 (EST)
+// Total records: 544
 
 export const games = [
+  {
+    "id": "b0aa216f-a273-4185-b9ee-9cbdad86aa78",
+    "name": "kk VS k",
+    "creatorId": "106690492391518685172",
+    "creatorLastName": "Khanna",
+    "createdAt": "11/25/2025, 24:55:16"
+  },
   {
     "id": "17e0eeb6-e6ef-441d-ac31-f3860b917417",
     "name": "A VS B",
