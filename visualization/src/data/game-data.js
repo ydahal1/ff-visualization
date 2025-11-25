@@ -1,13 +1,27 @@
-// Generated on 11/25/2025, 11:00:01 (EST)
+// Generated on 11/25/2025, 11:15:01 (EST)
 // Total records: 559
 
 export const games = [
   {
-    "id": "1c1a8fa4-1c12-42ec-83db-8d51138f40aa",
-    "name": "Team uno VS Team dos",
+    "id": "fe9f81eb-260c-4327-9622-6d7df233aecc",
+    "name": "BACKSTAGE VS SPOTLIGHT",
+    "creatorId": "103346219660321858157",
+    "creatorLastName": "Schropp",
+    "createdAt": "11/25/2025, 11:13:46"
+  },
+  {
+    "id": "270be81a-c263-411e-8259-ddfb9fabcf2f",
+    "name": "Team Pizza VS Team Pupusas",
     "creatorId": "115253150225677365100",
     "creatorLastName": "Franklin",
-    "createdAt": "11/25/2025, 10:59:46"
+    "createdAt": "11/25/2025, 11:12:46"
+  },
+  {
+    "id": "08eac729-6ea4-47c9-af88-f157c949f40c",
+    "name": "Team Red VS Team Blue",
+    "creatorId": "115253150225677365100",
+    "creatorLastName": "Franklin",
+    "createdAt": "11/25/2025, 11:11:34"
   },
   {
     "id": "929b16cc-9028-4c3e-8ce5-5f223160753b",
@@ -421,13 +435,6 @@ export const games = [
     "creatorId": "107803481797446239253",
     "creatorLastName": "Colebrooke",
     "createdAt": "11/24/2025, 12:25:52"
-  },
-  {
-    "id": "bb8c7221-37a4-43a6-a95d-0a35f34e6fe1",
-    "name": "BACKSTAGE HEROES VS SPOTLIGHT CREW",
-    "creatorId": "103414462527978381985",
-    "creatorLastName": "hepler",
-    "createdAt": "11/24/2025, 11:38:00"
   },
   {
     "id": "0d449e76-0315-43f6-b66b-1ec8bae4c1c2",
@@ -1898,13 +1905,6 @@ export const games = [
     "creatorId": "115825991644763529095",
     "creatorLastName": "Cholewka",
     "createdAt": "11/18/2025, 11:35:26"
-  },
-  {
-    "id": "499b370b-de96-43a6-878b-2f0b2a14a11d",
-    "name": "Team 1 VS Team 2",
-    "creatorId": "115253150225677365100",
-    "creatorLastName": "Franklin",
-    "createdAt": "11/18/2025, 11:21:18"
   },
   {
     "id": "ca7c2be4-d170-4b20-b3fc-a22cab3e1a7b",
