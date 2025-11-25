@@ -1,7 +1,14 @@
-// Generated on 11/25/2025, 16:00:01 (EST)
-// Total records: 566
+// Generated on 11/25/2025, 16:15:02 (EST)
+// Total records: 567
 
 export const games = [
+  {
+    "id": "0e1f570a-311e-4090-9724-e5278519fd4f",
+    "name": "Jedi VS Sith",
+    "creatorId": "113772471152217083977",
+    "creatorLastName": "West",
+    "createdAt": "11/25/2025, 16:12:42"
+  },
   {
     "id": "b486c60d-8689-46e0-a113-809657090613",
     "name": "Test 2 VS Test 1",
