@@ -1,7 +1,21 @@
-// Generated on 11/25/2025, 15:00:01 (EST)
-// Total records: 562
+// Generated on 11/25/2025, 15:15:02 (EST)
+// Total records: 564
 
 export const games = [
+  {
+    "id": "ad23882a-603f-42a5-8f47-c8458cd58bf3",
+    "name": "In Aux 1 VS In Aux 2",
+    "creatorId": "106730975055381039171",
+    "creatorLastName": "Manna",
+    "createdAt": "11/25/2025, 15:04:43"
+  },
+  {
+    "id": "18837b64-ff82-4987-8abf-91603eaff3bb",
+    "name": "1 VS 2",
+    "creatorId": "116257797098337422065",
+    "creatorLastName": "Simnitt",
+    "createdAt": "11/25/2025, 15:04:30"
+  },
   {
     "id": "df81f885-c3da-43d9-9751-427e1989566c",
     "name": "Team 1 VS Team 2",
