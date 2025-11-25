@@ -1,13 +1,20 @@
-// Generated on 11/24/2025, 20:30:01 (EST)
-// Total records: 531
+// Generated on 11/24/2025, 20:45:01 (EST)
+// Total records: 532
 
 export const games = [
   {
-    "id": "5d4da9f7-a592-4753-abf9-4a6091011884",
-    "name": "999 VS 888",
+    "id": "e851f1f0-67ba-4d68-b772-c0243ece0884",
+    "name": "y VS z",
     "creatorId": "117115024726417816215",
     "creatorLastName": "True",
-    "createdAt": "11/24/2025, 20:27:33"
+    "createdAt": "11/24/2025, 20:43:12"
+  },
+  {
+    "id": "88df96c0-362e-4a9d-85da-83e41d2c0e56",
+    "name": "Alec, Jules and Kayla VS Jordan, Liv and Matt",
+    "creatorId": "102771954796638676563",
+    "creatorLastName": "O'Brien",
+    "createdAt": "11/24/2025, 20:40:52"
   },
   {
     "id": "4f471928-e671-425c-a003-5e038526132b",
