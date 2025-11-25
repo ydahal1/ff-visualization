@@ -1,7 +1,14 @@
-// Generated on 11/25/2025, 10:45:01 (EST)
-// Total records: 558
+// Generated on 11/25/2025, 11:00:01 (EST)
+// Total records: 559
 
 export const games = [
+  {
+    "id": "1c1a8fa4-1c12-42ec-83db-8d51138f40aa",
+    "name": "Team uno VS Team dos",
+    "creatorId": "115253150225677365100",
+    "creatorLastName": "Franklin",
+    "createdAt": "11/25/2025, 10:59:46"
+  },
   {
     "id": "929b16cc-9028-4c3e-8ce5-5f223160753b",
     "name": "TEAM THANKS 6 VS TEAM GIVING 6",
