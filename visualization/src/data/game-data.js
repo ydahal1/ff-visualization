@@ -1,7 +1,35 @@
-// Generated on 11/24/2025, 22:45:01 (EST)
-// Total records: 533
+// Generated on 11/24/2025, 23:00:01 (EST)
+// Total records: 537
 
 export const games = [
+  {
+    "id": "ba1f07c9-c197-4a9e-b161-56616a867c31",
+    "name": "Team 9 VS Team 10",
+    "creatorId": "100145298281588475654",
+    "creatorLastName": "Maren",
+    "createdAt": "11/24/2025, 22:59:05"
+  },
+  {
+    "id": "dc686057-dbf9-4ff9-91cf-fdc1c802fb45",
+    "name": "Team 7 VS Team 8",
+    "creatorId": "100145298281588475654",
+    "creatorLastName": "Maren",
+    "createdAt": "11/24/2025, 22:55:12"
+  },
+  {
+    "id": "be5ffd8b-bf60-45a1-93df-a15f131f313e",
+    "name": "Old VS Young",
+    "creatorId": "108426711588106857198",
+    "creatorLastName": "Giorgis",
+    "createdAt": "11/24/2025, 22:54:47"
+  },
+  {
+    "id": "2104e8e2-28da-4d89-abfd-668b40676270",
+    "name": "Team 5 VS Team 6",
+    "creatorId": "100145298281588475654",
+    "creatorLastName": "Maren",
+    "createdAt": "11/24/2025, 22:53:58"
+  },
   {
     "id": "78f1443b-a2d3-41de-add1-c0ff4c4e0ad3",
     "name": "The Choo Choo Trains VS The Coo Coos",
