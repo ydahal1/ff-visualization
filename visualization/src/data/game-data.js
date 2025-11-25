@@ -1,5 +1,5 @@
-// Generated on 11/25/2025, 13:30:01 (EST)
-// Total records: 563
+// Generated on 11/25/2025, 13:45:02 (EST)
+// Total records: 562
 
 export const games = [
   {
@@ -414,13 +414,6 @@ export const games = [
     "creatorId": "115296274090883093407",
     "creatorLastName": "McDaniel",
     "createdAt": "11/24/2025, 14:10:45"
-  },
-  {
-    "id": "81f5c9ec-a4c8-4060-bdc9-f09bbbdeb56f",
-    "name": "1 VS 2",
-    "creatorId": "103188973504336306338",
-    "creatorLastName": "Dietrich",
-    "createdAt": "11/24/2025, 14:09:56"
   },
   {
     "id": "d219c203-ee5b-48d6-84e2-b60de7b78c2b",
