@@ -1,7 +1,14 @@
-// Generated on 11/25/2025, 03:45:01 (EST)
-// Total records: 544
+// Generated on 11/25/2025, 04:00:01 (EST)
+// Total records: 545
 
 export const games = [
+  {
+    "id": "501d5d01-3379-4577-939a-0cf23daa4b16",
+    "name": "T1 VS T2",
+    "creatorId": "101180447668722096511",
+    "creatorLastName": "Rasiński",
+    "createdAt": "11/25/2025, 03:51:48"
+  },
   {
     "id": "b0aa216f-a273-4185-b9ee-9cbdad86aa78",
     "name": "kk VS k",
