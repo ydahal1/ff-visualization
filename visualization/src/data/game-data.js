@@ -1,7 +1,21 @@
-// Generated on 11/25/2025, 16:30:01 (EST)
-// Total records: 567
+// Generated on 11/25/2025, 16:45:01 (EST)
+// Total records: 569
 
 export const games = [
+  {
+    "id": "8ae844bd-9608-47f2-9add-bf2221f9dfd0",
+    "name": "ESTHER VS HANNAH",
+    "creatorId": "101068069430569496771",
+    "creatorLastName": "metcalf",
+    "createdAt": "11/25/2025, 16:38:05"
+  },
+  {
+    "id": "5564c755-7fa0-409b-82f4-f95534da455d",
+    "name": "Solomon VS Elijah",
+    "creatorId": "101068069430569496771",
+    "creatorLastName": "metcalf",
+    "createdAt": "11/25/2025, 16:33:23"
+  },
   {
     "id": "0e1f570a-311e-4090-9724-e5278519fd4f",
     "name": "Jedi VS Sith",
