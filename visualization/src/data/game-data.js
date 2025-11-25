@@ -1,7 +1,14 @@
-// Generated on 11/24/2025, 23:30:01 (EST)
-// Total records: 542
+// Generated on 11/24/2025, 23:45:01 (EST)
+// Total records: 543
 
 export const games = [
+  {
+    "id": "17e0eeb6-e6ef-441d-ac31-f3860b917417",
+    "name": "A VS B",
+    "creatorId": "102719133305434480851",
+    "creatorLastName": "Nguyễn Hiệp Hoàng",
+    "createdAt": "11/24/2025, 23:42:06"
+  },
   {
     "id": "20aa830f-438c-4ecc-93a6-bb53833e2e73",
     "name": "Team 1 VS Team 2",
