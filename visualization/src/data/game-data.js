@@ -1,7 +1,28 @@
-// Generated on 11/24/2025, 23:15:01 (EST)
-// Total records: 539
+// Generated on 11/24/2025, 23:30:01 (EST)
+// Total records: 542
 
 export const games = [
+  {
+    "id": "20aa830f-438c-4ecc-93a6-bb53833e2e73",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "104660336497886336821",
+    "creatorLastName": "Lapeyrouse",
+    "createdAt": "11/24/2025, 23:24:02"
+  },
+  {
+    "id": "172113e4-7cf6-4f05-ba45-c2b8587fb744",
+    "name": "Hecklers VS Foo Fighters",
+    "creatorId": "100394053113010870963",
+    "creatorLastName": "Battle",
+    "createdAt": "11/24/2025, 23:18:24"
+  },
+  {
+    "id": "9f809a18-c9e1-46cb-9936-ed60561e11a1",
+    "name": "Linebackers VS Fans",
+    "creatorId": "100394053113010870963",
+    "creatorLastName": "Battle",
+    "createdAt": "11/24/2025, 23:17:10"
+  },
   {
     "id": "1640d0ae-4176-44f9-8361-cba52fdfbf78",
     "name": "Team 13 VS Team 14",
