@@ -1,7 +1,42 @@
-// Generated on 11/25/2025, 09:30:02 (EST)
-// Total records: 549
+// Generated on 11/25/2025, 09:45:02 (EST)
+// Total records: 554
 
 export const games = [
+  {
+    "id": "306f1068-31a2-4607-bda4-22e1f709e9ff",
+    "name": "TEAM THANKS 3 VS TEAM GIVING 3",
+    "creatorId": "115177473366722888444",
+    "creatorLastName": "Isocoles",
+    "createdAt": "11/25/2025, 09:44:16"
+  },
+  {
+    "id": "ad777e9f-1247-4e54-839e-33ee5334bd31",
+    "name": "TEAM THANKS 2 VS TEAM GIVING 2",
+    "creatorId": "115177473366722888444",
+    "creatorLastName": "Isocoles",
+    "createdAt": "11/25/2025, 09:41:54"
+  },
+  {
+    "id": "38615091-7369-4e6e-ac8a-309cb63d8e82",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "106239900207395550841",
+    "creatorLastName": "Piasecki",
+    "createdAt": "11/25/2025, 09:40:05"
+  },
+  {
+    "id": "4d60203e-69bc-4782-a73a-6ed6aab0011f",
+    "name": "TEAM THANKS VS TEAM GIVING",
+    "creatorId": "115177473366722888444",
+    "creatorLastName": "Isocoles",
+    "createdAt": "11/25/2025, 09:39:51"
+  },
+  {
+    "id": "7caae729-06bb-47d3-9cc9-ac3fc7d050c9",
+    "name": "team taco VS team torta lovers",
+    "creatorId": "112576879616424625504",
+    "creatorLastName": "Davis",
+    "createdAt": "11/25/2025, 09:34:10"
+  },
   {
     "id": "f39ca0a7-0e56-4a1d-ba39-be5b9fe63dc7",
     "name": "Team 1 (example) VS Team 2 (example)",
