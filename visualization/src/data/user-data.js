@@ -1,7 +1,17 @@
-// Generated on 11/24/2025, 23:30:00 (EST)
-// Total records: 417
+// Generated on 11/24/2025, 23:45:00 (EST)
+// Total records: 419
 
 export const users = [
+  {
+    "id": "107000806521332930411",
+    "lName": "Kellar",
+    "createdAt": "11/24/2025, 23:38:08"
+  },
+  {
+    "id": "102719133305434480851",
+    "lName": "Nguyễn Hiệp Hoàng",
+    "createdAt": "11/24/2025, 23:31:22"
+  },
   {
     "id": "104660336497886336821",
     "lName": "Lapeyrouse",
