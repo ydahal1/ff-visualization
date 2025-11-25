@@ -1,7 +1,14 @@
-// Generated on 11/25/2025, 04:15:01 (EST)
-// Total records: 546
+// Generated on 11/25/2025, 04:30:02 (EST)
+// Total records: 547
 
 export const games = [
+  {
+    "id": "8c1a03db-4eb0-41cb-8aef-29c53b2dbf7c",
+    "name": "Team 1 (music) VS Team 2 (music)",
+    "creatorId": "101180447668722096511",
+    "creatorLastName": "Rasiński",
+    "createdAt": "11/25/2025, 04:25:08"
+  },
   {
     "id": "ebbe0b06-c10d-493b-b0b2-9fed5c07bdf7",
     "name": "T1.1 VS T2.2",
