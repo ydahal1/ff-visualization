@@ -1,13 +1,13 @@
-// Generated on 11/24/2025, 21:15:01 (EST)
+// Generated on 11/24/2025, 21:30:01 (EST)
 // Total records: 532
 
 export const games = [
   {
-    "id": "e851f1f0-67ba-4d68-b772-c0243ece0884",
-    "name": "y VS z",
+    "id": "475bbb73-1ea6-43c5-a369-99a573849514",
+    "name": "Terri VS Jessica",
     "creatorId": "117115024726417816215",
     "creatorLastName": "True",
-    "createdAt": "11/24/2025, 20:43:12"
+    "createdAt": "11/24/2025, 21:23:47"
   },
   {
     "id": "88df96c0-362e-4a9d-85da-83e41d2c0e56",
