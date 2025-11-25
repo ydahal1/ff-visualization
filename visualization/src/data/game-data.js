@@ -1,7 +1,14 @@
-// Generated on 11/25/2025, 11:15:01 (EST)
-// Total records: 559
+// Generated on 11/25/2025, 11:30:01 (EST)
+// Total records: 560
 
 export const games = [
+  {
+    "id": "135eab17-60c1-4a83-8d7d-6a3b3e95a6d5",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "111963470079813298398",
+    "creatorLastName": "Leal Granados",
+    "createdAt": "11/25/2025, 11:18:40"
+  },
   {
     "id": "fe9f81eb-260c-4327-9622-6d7df233aecc",
     "name": "BACKSTAGE VS SPOTLIGHT",
