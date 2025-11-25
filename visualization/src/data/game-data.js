@@ -1,7 +1,35 @@
-// Generated on 11/24/2025, 20:15:02 (EST)
-// Total records: 527
+// Generated on 11/24/2025, 20:30:01 (EST)
+// Total records: 531
 
 export const games = [
+  {
+    "id": "5d4da9f7-a592-4753-abf9-4a6091011884",
+    "name": "999 VS 888",
+    "creatorId": "117115024726417816215",
+    "creatorLastName": "True",
+    "createdAt": "11/24/2025, 20:27:33"
+  },
+  {
+    "id": "4f471928-e671-425c-a003-5e038526132b",
+    "name": "j VS b",
+    "creatorId": "108698312181112614918",
+    "creatorLastName": "Zahn",
+    "createdAt": "11/24/2025, 20:24:22"
+  },
+  {
+    "id": "ce60ed93-4ac4-460d-9475-80aff76d23d7",
+    "name": "Caden VS Jack",
+    "creatorId": "114962613704771870368",
+    "creatorLastName": "Jerolemon",
+    "createdAt": "11/24/2025, 20:20:35"
+  },
+  {
+    "id": "abc5cb03-c25c-4e37-ad98-7872674ce441",
+    "name": "Brothers 1 VS PNMs 1",
+    "creatorId": "112457061852891523885",
+    "creatorLastName": "Pavoni",
+    "createdAt": "11/24/2025, 20:17:37"
+  },
   {
     "id": "e7b7fdbc-704b-4b00-a7f2-41b2b9bf142f",
     "name": "team 1 VS team 2",
