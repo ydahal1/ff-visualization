@@ -1,13 +1,20 @@
-// Generated on 11/26/2025, 02:30:01 (EST)
-// Total records: 580
+// Generated on 11/26/2025, 02:45:01 (EST)
+// Total records: 581
 
 export const games = [
   {
-    "id": "034b77be-7f14-42c2-973a-e0005dfe9ac9",
-    "name": "Team 1 VS Team 2",
+    "id": "c2689860-5e29-4567-81f5-eacbe2cbb57c",
+    "name": "Boys VS Girls",
+    "creatorId": "101180447668722096511",
+    "creatorLastName": "Rasiński",
+    "createdAt": "11/26/2025, 02:43:30"
+  },
+  {
+    "id": "e8b9091c-ac83-4caf-bbaf-c41e74fb28dd",
+    "name": "Team 3 VS Team 4",
     "creatorId": "100094230063026571730",
     "creatorLastName": "Quiroz",
-    "createdAt": "11/26/2025, 02:02:39"
+    "createdAt": "11/26/2025, 02:32:09"
   },
   {
     "id": "54b65fdf-ca28-44c6-bc0e-8e5bae000cab",
