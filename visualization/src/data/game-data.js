@@ -1,7 +1,28 @@
-// Generated on 11/26/2025, 17:45:02 (EST)
-// Total records: 616
+// Generated on 11/26/2025, 18:00:01 (EST)
+// Total records: 619
 
 export const games = [
+  {
+    "id": "69aa3a49-5136-4603-84cb-25709114b362",
+    "name": "Hoes2 VS Bros2",
+    "creatorId": "114863638318197883144",
+    "creatorLastName": "Dickman",
+    "createdAt": "11/26/2025, 17:55:40"
+  },
+  {
+    "id": "5bbdc26b-466b-4967-97de-62451d694981",
+    "name": "Hoes1 VS Bros1",
+    "creatorId": "114863638318197883144",
+    "creatorLastName": "Dickman",
+    "createdAt": "11/26/2025, 17:54:08"
+  },
+  {
+    "id": "0b3ff8cf-5d4a-4394-a131-b0797eb37fc0",
+    "name": "test 1 VS test 2",
+    "creatorId": "113958919273172769674",
+    "creatorLastName": "Zadina",
+    "createdAt": "11/26/2025, 17:46:16"
+  },
   {
     "id": "314decb1-2861-4c9a-99ec-523cd0048c55",
     "name": "A VS B",
