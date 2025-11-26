@@ -1,5 +1,5 @@
-// Generated on 11/26/2025, 17:30:01 (EST)
-// Total records: 617
+// Generated on 11/26/2025, 17:45:02 (EST)
+// Total records: 616
 
 export const games = [
   {
@@ -71,13 +71,6 @@ export const games = [
     "creatorId": "115646410481342618456",
     "creatorLastName": "Novák",
     "createdAt": "11/26/2025, 16:27:52"
-  },
-  {
-    "id": "f17d525c-a94a-4dca-aa1d-35a6032e27da",
-    "name": "Hoes VS Bros",
-    "creatorId": "114863638318197883144",
-    "creatorLastName": "Dickman",
-    "createdAt": "11/26/2025, 16:07:37"
   },
   {
     "id": "db986fad-5ac3-41d5-ac26-b67b74fbc856",
