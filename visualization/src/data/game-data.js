@@ -1,7 +1,14 @@
-// Generated on 11/26/2025, 09:15:02 (EST)
-// Total records: 584
+// Generated on 11/26/2025, 09:30:01 (EST)
+// Total records: 585
 
 export const games = [
+  {
+    "id": "90134699-5338-40b4-a796-f6b799e5133b",
+    "name": "RED VS BLUE",
+    "creatorId": "108472497478227770908",
+    "creatorLastName": "Mel",
+    "createdAt": "11/26/2025, 09:26:45"
+  },
   {
     "id": "962999b3-82a3-4e92-8445-a198f45bf588",
     "name": "The Carter VS The Hendle",
