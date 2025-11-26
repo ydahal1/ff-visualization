@@ -1,7 +1,21 @@
-// Generated on 11/26/2025, 03:00:01 (EST)
-// Total records: 581
+// Generated on 11/26/2025, 03:15:01 (EST)
+// Total records: 583
 
 export const games = [
+  {
+    "id": "acbf3f9c-0844-4b4e-9107-2947f6624e7e",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "110035975956695833394",
+    "creatorLastName": "Batangas_System",
+    "createdAt": "11/26/2025, 03:10:31"
+  },
+  {
+    "id": "58260255-086c-4532-91df-684ab7c3d9fe",
+    "name": "jjhk VS gfuyfj",
+    "creatorId": "111896431931282451295",
+    "creatorLastName": "Oji",
+    "createdAt": "11/26/2025, 03:07:32"
+  },
   {
     "id": "c2689860-5e29-4567-81f5-eacbe2cbb57c",
     "name": "Boys VS Girls",
