@@ -1,7 +1,42 @@
-// Generated on 11/26/2025, 01:00:02 (EST)
-// Total records: 574
+// Generated on 11/26/2025, 01:15:02 (EST)
+// Total records: 578
 
 export const games = [
+  {
+    "id": "bc6e8504-4fce-4ef7-8df6-db640056562e",
+    "name": "Team Satu VS Team dua",
+    "creatorId": "115438249394902919849",
+    "creatorLastName": "Mumtaz",
+    "createdAt": "11/26/2025, 01:14:25"
+  },
+  {
+    "id": "ceeb7ed7-58f4-41b5-908c-81c4ce04180e",
+    "name": "Team Un VS Team deux",
+    "creatorId": "115438249394902919849",
+    "creatorLastName": "Mumtaz",
+    "createdAt": "11/26/2025, 01:11:59"
+  },
+  {
+    "id": "03a9c05f-539b-4deb-8333-c2555764f05f",
+    "name": "Team Uno VS Team Dos",
+    "creatorId": "115438249394902919849",
+    "creatorLastName": "Mumtaz",
+    "createdAt": "11/26/2025, 01:08:42"
+  },
+  {
+    "id": "ed65848a-6b6f-47d3-b50f-627421eed0db",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "115438249394902919849",
+    "creatorLastName": "Mumtaz",
+    "createdAt": "11/26/2025, 01:04:36"
+  },
+  {
+    "id": "d25a970f-e75f-42ea-97f9-1ae17e1b0553",
+    "name": "freshhhhhh VS fresfffff",
+    "creatorId": "110783508689698545114",
+    "creatorLastName": "winford",
+    "createdAt": "11/26/2025, 01:03:50"
+  },
   {
     "id": "082fd739-9e02-44f8-8528-4eb1948eaa12",
     "name": "Test AT VS Test AT2",
@@ -2192,13 +2227,6 @@ export const games = [
     "creatorId": "100359531496534887679",
     "creatorLastName": "Bongalos",
     "createdAt": "11/17/2025, 05:03:18"
-  },
-  {
-    "id": "8fe65430-b68f-4651-8c03-9b1846fff902",
-    "name": "Deez VS Nuts",
-    "creatorId": "115438249394902919849",
-    "creatorLastName": "Mumtaz",
-    "createdAt": "11/17/2025, 01:34:35"
   },
   {
     "id": "e7542a63-6e52-44cd-a11f-d726ca367aad",
