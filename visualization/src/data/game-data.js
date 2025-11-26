@@ -1,7 +1,14 @@
-// Generated on 11/26/2025, 18:15:01 (EST)
-// Total records: 620
+// Generated on 11/26/2025, 18:30:01 (EST)
+// Total records: 621
 
 export const games = [
+  {
+    "id": "ae07f670-23e7-4b92-8b47-13bb1ce92742",
+    "name": "A team VS B team",
+    "creatorId": "113889224768828687787",
+    "creatorLastName": "Z",
+    "createdAt": "11/26/2025, 18:18:49"
+  },
   {
     "id": "1fb5bdaa-7119-41a0-8452-1fa68549ddcc",
     "name": "Gobblers VS Wobblers",
