@@ -1,7 +1,21 @@
-// Generated on 11/26/2025, 14:00:01 (EST)
-// Total records: 603
+// Generated on 11/26/2025, 14:15:02 (EST)
+// Total records: 605
 
 export const games = [
+  {
+    "id": "ad2acb07-8023-473c-9d3f-023fef304251",
+    "name": "Kids VS Adults",
+    "creatorId": "115055413760105621535",
+    "creatorLastName": "James",
+    "createdAt": "11/26/2025, 14:10:57"
+  },
+  {
+    "id": "b9b28368-c446-4ef8-ae04-f309aa5e3fb9",
+    "name": "CB/ML VS Cauldron",
+    "creatorId": "114435727526542194647",
+    "creatorLastName": "Madrid Segura",
+    "createdAt": "11/26/2025, 14:07:39"
+  },
   {
     "id": "1d100e62-b780-468c-b7c5-944f35049124",
     "name": "women VS men",
