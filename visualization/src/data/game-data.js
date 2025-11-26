@@ -1,7 +1,14 @@
-// Generated on 11/26/2025, 18:00:01 (EST)
-// Total records: 619
+// Generated on 11/26/2025, 18:15:01 (EST)
+// Total records: 620
 
 export const games = [
+  {
+    "id": "1fb5bdaa-7119-41a0-8452-1fa68549ddcc",
+    "name": "Gobblers VS Wobblers",
+    "creatorId": "103871537583890094373",
+    "creatorLastName": "Trujillo",
+    "createdAt": "11/26/2025, 18:01:45"
+  },
   {
     "id": "69aa3a49-5136-4603-84cb-25709114b362",
     "name": "Hoes2 VS Bros2",
