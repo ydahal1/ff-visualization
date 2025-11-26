@@ -1,7 +1,14 @@
-// Generated on 11/25/2025, 22:45:01 (EST)
+// Generated on 11/25/2025, 23:00:01 (EST)
 // Total records: 572
 
 export const games = [
+  {
+    "id": "fc285d53-a090-4fc9-a7c7-9d63c79616cd",
+    "name": "Blue Team VS Green Team",
+    "creatorId": "100528645601591147030",
+    "creatorLastName": "Goldman",
+    "createdAt": "11/25/2025, 22:51:41"
+  },
   {
     "id": "aa6152df-fbc4-4233-af59-ef0787b437c7",
     "name": "Blue VS Green",
@@ -526,13 +533,6 @@ export const games = [
     "creatorId": "107143820301925302009",
     "creatorLastName": "Akers",
     "createdAt": "11/24/2025, 12:48:36"
-  },
-  {
-    "id": "4e4c0cfb-78f3-49d7-89e6-ed4d105eda9f",
-    "name": "Team 1 VS Team 2",
-    "creatorId": "113285283408277247123",
-    "creatorLastName": "Desai",
-    "createdAt": "11/24/2025, 12:30:32"
   },
   {
     "id": "e192266c-925a-4bb7-8ce0-02044b5ea07e",
