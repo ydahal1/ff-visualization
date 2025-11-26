@@ -1,7 +1,14 @@
-// Generated on 11/25/2025, 19:45:01 (EST)
-// Total records: 569
+// Generated on 11/25/2025, 20:00:01 (EST)
+// Total records: 570
 
 export const games = [
+  {
+    "id": "f8139693-7dca-4646-a71f-57e41da9449b",
+    "name": "Ben Quad VS Babu Frik",
+    "creatorId": "113772471152217083977",
+    "creatorLastName": "West",
+    "createdAt": "11/25/2025, 19:58:04"
+  },
   {
     "id": "a42f34c7-c04d-4276-9039-86def86dc237",
     "name": "Suhas VS Kancha",
