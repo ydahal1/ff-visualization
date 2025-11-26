@@ -1,7 +1,12 @@
-// Generated on 11/26/2025, 02:30:00 (EST)
-// Total records: 444
+// Generated on 11/26/2025, 02:45:00 (EST)
+// Total records: 445
 
 export const users = [
+  {
+    "id": "110035975956695833394",
+    "lName": "Batangas_System",
+    "createdAt": "11/26/2025, 02:34:16"
+  },
   {
     "id": "100094230063026571730",
     "lName": "Quiroz",
