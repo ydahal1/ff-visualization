@@ -1,7 +1,14 @@
-// Generated on 11/26/2025, 24:30:01 (EST)
-// Total records: 572
+// Generated on 11/26/2025, 24:45:01 (EST)
+// Total records: 573
 
 export const games = [
+  {
+    "id": "688bb9b5-1609-4925-92ee-ae21871663db",
+    "name": "one VS two",
+    "creatorId": "106894268076693368531",
+    "creatorLastName": "Reeves",
+    "createdAt": "11/26/2025, 24:33:27"
+  },
   {
     "id": "fc285d53-a090-4fc9-a7c7-9d63c79616cd",
     "name": "Blue Team VS Green Team",
