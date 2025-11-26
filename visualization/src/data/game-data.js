@@ -1,7 +1,14 @@
-// Generated on 11/25/2025, 20:00:01 (EST)
-// Total records: 570
+// Generated on 11/25/2025, 20:15:01 (EST)
+// Total records: 571
 
 export const games = [
+  {
+    "id": "9857904d-1f29-4665-8808-7b7271b58589",
+    "name": "Red Team VS Blue Team",
+    "creatorId": "112895930065304288713",
+    "creatorLastName": "Williams",
+    "createdAt": "11/25/2025, 20:03:13"
+  },
   {
     "id": "f8139693-7dca-4646-a71f-57e41da9449b",
     "name": "Ben Quad VS Babu Frik",
