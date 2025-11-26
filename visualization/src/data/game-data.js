@@ -1,7 +1,14 @@
-// Generated on 11/25/2025, 22:30:01 (EST)
-// Total records: 571
+// Generated on 11/25/2025, 22:45:01 (EST)
+// Total records: 572
 
 export const games = [
+  {
+    "id": "aa6152df-fbc4-4233-af59-ef0787b437c7",
+    "name": "Blue VS Green",
+    "creatorId": "100528645601591147030",
+    "creatorLastName": "Goldman",
+    "createdAt": "11/25/2025, 22:42:22"
+  },
   {
     "id": "9857904d-1f29-4665-8808-7b7271b58589",
     "name": "Red Team VS Blue Team",
