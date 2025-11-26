@@ -1,13 +1,55 @@
-// Generated on 11/26/2025, 16:45:01 (EST)
-// Total records: 610
+// Generated on 11/26/2025, 17:00:02 (EST)
+// Total records: 616
 
 export const games = [
   {
-    "id": "d7511d4c-80b5-45a3-9bb2-690262b7980b",
-    "name": "Red VS Blue",
+    "id": "adf7838b-03fe-49ba-ad52-622f32c11a38",
+    "name": "Winner 1 VS Winner 2",
+    "creatorId": "109697369085750807997",
+    "creatorLastName": "Wood",
+    "createdAt": "11/26/2025, 16:56:16"
+  },
+  {
+    "id": "d0b5b953-06b5-4ca8-af9c-8b16dff9ef60",
+    "name": "2 VS 1",
     "creatorId": "106852336429880937873",
     "creatorLastName": "Doyle",
-    "createdAt": "11/26/2025, 16:43:57"
+    "createdAt": "11/26/2025, 16:53:22"
+  },
+  {
+    "id": "5467cbc5-9297-4c50-b3f3-59cf8c3907c8",
+    "name": "22 VS 11",
+    "creatorId": "106852336429880937873",
+    "creatorLastName": "Doyle",
+    "createdAt": "11/26/2025, 16:52:52"
+  },
+  {
+    "id": "6fed24bd-685f-4f60-8a71-33d047b857af",
+    "name": "11 VS 22",
+    "creatorId": "106852336429880937873",
+    "creatorLastName": "Doyle",
+    "createdAt": "11/26/2025, 16:51:56"
+  },
+  {
+    "id": "c6477197-fe14-437c-b534-fea4a51ce266",
+    "name": "GB Gang VS MM",
+    "creatorId": "109697369085750807997",
+    "creatorLastName": "Wood",
+    "createdAt": "11/26/2025, 16:51:26"
+  },
+  {
+    "id": "4c2f2289-fe57-41bf-bed4-71d3e3956ac5",
+    "name": "20 VS 10",
+    "creatorId": "106852336429880937873",
+    "creatorLastName": "Doyle",
+    "createdAt": "11/26/2025, 16:50:11"
+  },
+  {
+    "id": "a693c876-48db-4797-9dc2-f58cabd48628",
+    "name": "10 VS 20",
+    "creatorId": "106852336429880937873",
+    "creatorLastName": "Doyle",
+    "createdAt": "11/26/2025, 16:49:00"
   },
   {
     "id": "af91533a-a0aa-4ad2-9a8e-9f7a0ddb43c7",
