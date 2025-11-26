@@ -1,7 +1,14 @@
-// Generated on 11/26/2025, 08:30:01 (EST)
-// Total records: 583
+// Generated on 11/26/2025, 08:45:02 (EST)
+// Total records: 584
 
 export const games = [
+  {
+    "id": "962999b3-82a3-4e92-8445-a198f45bf588",
+    "name": "The Carter VS The Hendle",
+    "creatorId": "113636862078499372937",
+    "creatorLastName": "Hendley",
+    "createdAt": "11/26/2025, 08:37:30"
+  },
   {
     "id": "acbf3f9c-0844-4b4e-9107-2947f6624e7e",
     "name": "Team 1 VS Team 2",
