@@ -1,7 +1,14 @@
-// Generated on 11/26/2025, 16:15:01 (EST)
-// Total records: 608
+// Generated on 11/26/2025, 16:30:01 (EST)
+// Total records: 609
 
 export const games = [
+  {
+    "id": "84dac291-990f-48c0-8d5b-1a2673607dfb",
+    "name": "Tea VS Tasfg",
+    "creatorId": "115646410481342618456",
+    "creatorLastName": "Novák",
+    "createdAt": "11/26/2025, 16:27:52"
+  },
   {
     "id": "f17d525c-a94a-4dca-aa1d-35a6032e27da",
     "name": "Hoes VS Bros",
