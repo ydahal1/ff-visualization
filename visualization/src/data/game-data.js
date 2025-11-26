@@ -1,7 +1,14 @@
-// Generated on 11/25/2025, 19:00:01 (EST)
+// Generated on 11/25/2025, 19:15:01 (EST)
 // Total records: 570
 
 export const games = [
+  {
+    "id": "a42f34c7-c04d-4276-9039-86def86dc237",
+    "name": "Suhas VS Kancha",
+    "creatorId": "110091634567525704379",
+    "creatorLastName": "Guy",
+    "createdAt": "11/25/2025, 19:09:24"
+  },
   {
     "id": "47902e9a-05e3-4a37-869e-c301e0a98a97",
     "name": "Turkeys VS Hams",
@@ -2038,13 +2045,6 @@ export const games = [
     "creatorId": "102414684434361852820",
     "creatorLastName": "Guzman",
     "createdAt": "11/17/2025, 23:08:29"
-  },
-  {
-    "id": "34dcb2f0-144c-4ac1-9ec0-1071ad6e6e27",
-    "name": "Make VS Fake",
-    "creatorId": "110091634567525704379",
-    "creatorLastName": "Guy",
-    "createdAt": "11/17/2025, 21:38:53"
   },
   {
     "id": "c0ae21e5-93dd-4e95-8a37-60cd8bdc88e0",
