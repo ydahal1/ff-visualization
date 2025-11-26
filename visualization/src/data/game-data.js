@@ -1,27 +1,20 @@
-// Generated on 11/26/2025, 09:45:01 (EST)
-// Total records: 587
+// Generated on 11/26/2025, 10:00:01 (EST)
+// Total records: 585
 
 export const games = [
+  {
+    "id": "220afce9-758a-4dc3-bffc-6ca517ce11f4",
+    "name": "Team1 past VS Team2 past",
+    "creatorId": "101180447668722096511",
+    "creatorLastName": "Rasiński",
+    "createdAt": "11/26/2025, 09:52:32"
+  },
   {
     "id": "d54de770-9011-4acd-9f91-b3aab9780d2e",
     "name": "Calvin VS Julie",
     "creatorId": "113144010312381479356",
     "creatorLastName": "Lieberenz",
     "createdAt": "11/26/2025, 09:41:03"
-  },
-  {
-    "id": "7469bb9d-1644-40d9-87c6-7877c8a8c1e6",
-    "name": "REDS VS BLUES",
-    "creatorId": "108472497478227770908",
-    "creatorLastName": "Mel",
-    "createdAt": "11/26/2025, 09:39:51"
-  },
-  {
-    "id": "90134699-5338-40b4-a796-f6b799e5133b",
-    "name": "RED VS BLUE",
-    "creatorId": "108472497478227770908",
-    "creatorLastName": "Mel",
-    "createdAt": "11/26/2025, 09:26:45"
   },
   {
     "id": "962999b3-82a3-4e92-8445-a198f45bf588",
@@ -694,13 +687,6 @@ export const games = [
     "creatorId": "110587366316477702412",
     "creatorLastName": "C",
     "createdAt": "11/24/2025, 09:10:07"
-  },
-  {
-    "id": "23338778-2303-4fab-a4ab-d69c76b77599",
-    "name": "Team 1 VS Team 2",
-    "creatorId": "114435727526542194647",
-    "creatorLastName": "Madrid Segura",
-    "createdAt": "11/24/2025, 04:37:34"
   },
   {
     "id": "f184d449-e952-41a7-b1df-a47684cc0289",
