@@ -1,7 +1,21 @@
-// Generated on 11/26/2025, 09:30:01 (EST)
-// Total records: 585
+// Generated on 11/26/2025, 09:45:01 (EST)
+// Total records: 587
 
 export const games = [
+  {
+    "id": "d54de770-9011-4acd-9f91-b3aab9780d2e",
+    "name": "Calvin VS Julie",
+    "creatorId": "113144010312381479356",
+    "creatorLastName": "Lieberenz",
+    "createdAt": "11/26/2025, 09:41:03"
+  },
+  {
+    "id": "7469bb9d-1644-40d9-87c6-7877c8a8c1e6",
+    "name": "REDS VS BLUES",
+    "creatorId": "108472497478227770908",
+    "creatorLastName": "Mel",
+    "createdAt": "11/26/2025, 09:39:51"
+  },
   {
     "id": "90134699-5338-40b4-a796-f6b799e5133b",
     "name": "RED VS BLUE",
