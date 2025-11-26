@@ -1,7 +1,14 @@
-// Generated on 11/26/2025, 01:45:01 (EST)
-// Total records: 578
+// Generated on 11/26/2025, 02:00:02 (EST)
+// Total records: 579
 
 export const games = [
+  {
+    "id": "54b65fdf-ca28-44c6-bc0e-8e5bae000cab",
+    "name": "Wolfs VS Walliors",
+    "creatorId": "111321288072083934102",
+    "creatorLastName": "Wolf",
+    "createdAt": "11/26/2025, 01:58:22"
+  },
   {
     "id": "bc6e8504-4fce-4ef7-8df6-db640056562e",
     "name": "Team Satu VS Team dua",
