@@ -1,7 +1,14 @@
-// Generated on 11/27/2025, 09:15:02 (EST)
-// Total records: 638
+// Generated on 11/27/2025, 09:30:01 (EST)
+// Total records: 639
 
 export const games = [
+  {
+    "id": "8c2eea93-77ac-4ab0-8528-3ada7af497b5",
+    "name": "Left VS Right",
+    "creatorId": "106196808967040786938",
+    "creatorLastName": "Whited",
+    "createdAt": "11/27/2025, 09:28:05"
+  },
   {
     "id": "c1d0c380-9c45-4d6a-9d75-d6482ce68763",
     "name": "CHAMPS1 VS CHAMPS2",
