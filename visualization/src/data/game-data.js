@@ -1,13 +1,20 @@
-// Generated on 11/26/2025, 20:15:02 (EST)
-// Total records: 626
+// Generated on 11/26/2025, 20:30:01 (EST)
+// Total records: 627
 
 export const games = [
   {
-    "id": "fd7eed89-4a3d-41ff-9c23-e4bbe63f7a3c",
-    "name": "Test 1 VS Test 2",
+    "id": "54821e6f-dd35-486f-a65d-5a2e9c99282c",
+    "name": "Team Lisa VS Team Helen",
     "creatorId": "111321288072083934102",
     "creatorLastName": "Wolf",
-    "createdAt": "11/26/2025, 20:11:21"
+    "createdAt": "11/26/2025, 20:28:03"
+  },
+  {
+    "id": "854dfb95-d5df-484f-a09b-3a28239fec89",
+    "name": "Turkeys VS MashPotato",
+    "creatorId": "108627690873050261161",
+    "creatorLastName": "Gibbons",
+    "createdAt": "11/26/2025, 20:19:06"
   },
   {
     "id": "ef08fe14-ecbc-4eae-b1c9-cff3f7cf9019",
