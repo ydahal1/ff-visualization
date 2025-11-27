@@ -1,7 +1,14 @@
-// Generated on 11/27/2025, 02:30:01 (EST)
-// Total records: 631
+// Generated on 11/27/2025, 02:45:01 (EST)
+// Total records: 632
 
 export const games = [
+  {
+    "id": "6098c024-7cfb-4d6a-b74f-8fc71ada3698",
+    "name": "JD VS Joanna",
+    "creatorId": "107184540554489277341",
+    "creatorLastName": "aragones",
+    "createdAt": "11/27/2025, 02:35:05"
+  },
   {
     "id": "ac76ee04-f234-4a47-98f9-05fcb0ceb346",
     "name": "Black Team VS Blue Team",
