@@ -1,7 +1,12 @@
-// Generated on 11/27/2025, 11:15:00 (EST)
-// Total records: 480
+// Generated on 11/27/2025, 11:30:00 (EST)
+// Total records: 481
 
 export const users = [
+  {
+    "id": "116760568689441517486",
+    "lName": "Beaulieu",
+    "createdAt": "11/27/2025, 11:29:37"
+  },
   {
     "id": "107968126315882608910",
     "lName": "Livingstone",
