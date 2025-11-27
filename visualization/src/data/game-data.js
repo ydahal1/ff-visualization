@@ -1,7 +1,14 @@
-// Generated on 11/26/2025, 23:45:03 (EST)
-// Total records: 630
+// Generated on 11/27/2025, 24:00:02 (EST)
+// Total records: 631
 
 export const games = [
+  {
+    "id": "ac76ee04-f234-4a47-98f9-05fcb0ceb346",
+    "name": "Black Team VS Blue Team",
+    "creatorId": "114392059220784319095",
+    "creatorLastName": "Moaga",
+    "createdAt": "11/26/2025, 23:49:42"
+  },
   {
     "id": "8348b688-875b-4079-b66e-f3f2391e063f",
     "name": "A VS B",
