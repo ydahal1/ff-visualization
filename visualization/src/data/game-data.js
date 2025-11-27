@@ -1,7 +1,49 @@
-// Generated on 11/27/2025, 03:45:01 (EST)
-// Total records: 632
+// Generated on 11/27/2025, 04:00:01 (EST)
+// Total records: 638
 
 export const games = [
+  {
+    "id": "c1d0c380-9c45-4d6a-9d75-d6482ce68763",
+    "name": "CHAMPS1 VS CHAMPS2",
+    "creatorId": "103188973504336306338",
+    "creatorLastName": "Dietrich",
+    "createdAt": "11/27/2025, 03:59:12"
+  },
+  {
+    "id": "2a5af1c8-3f44-4437-92fa-cc0386de6530",
+    "name": "Clayton's VS Aronson's",
+    "creatorId": "103188973504336306338",
+    "creatorLastName": "Dietrich",
+    "createdAt": "11/27/2025, 03:58:30"
+  },
+  {
+    "id": "e78b024e-25e7-4baf-85e0-a616d9797ac7",
+    "name": "Clayton's VS Dietrich's",
+    "creatorId": "103188973504336306338",
+    "creatorLastName": "Dietrich",
+    "createdAt": "11/27/2025, 03:57:47"
+  },
+  {
+    "id": "15688d6d-b38f-4ae7-ae9d-2005aea5f166",
+    "name": "Dietrich's VS Aronson's",
+    "creatorId": "103188973504336306338",
+    "creatorLastName": "Dietrich",
+    "createdAt": "11/27/2025, 03:56:32"
+  },
+  {
+    "id": "c618a4eb-2076-4f31-9a2a-6fd10458c4f6",
+    "name": "T1 VS T2",
+    "creatorId": "106196808967040786938",
+    "creatorLastName": "Whited",
+    "createdAt": "11/27/2025, 03:52:15"
+  },
+  {
+    "id": "5ea09a10-64c4-4e85-9356-f94eefd4bec7",
+    "name": "Teams 1 VS Team 2",
+    "creatorId": "106196808967040786938",
+    "creatorLastName": "Whited",
+    "createdAt": "11/27/2025, 03:49:47"
+  },
   {
     "id": "6098c024-7cfb-4d6a-b74f-8fc71ada3698",
     "name": "JD VS Joanna",
