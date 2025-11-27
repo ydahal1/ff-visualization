@@ -1,7 +1,14 @@
-// Generated on 11/26/2025, 19:00:01 (EST)
-// Total records: 622
+// Generated on 11/26/2025, 19:15:01 (EST)
+// Total records: 623
 
 export const games = [
+  {
+    "id": "1aad7681-ba78-4fc2-8fca-537bddbda0b2",
+    "name": "kids VS spouses",
+    "creatorId": "102361030351065376896",
+    "creatorLastName": "Sandquist",
+    "createdAt": "11/26/2025, 19:05:54"
+  },
   {
     "id": "149c7df4-b909-4e4d-a887-6531cba3b3a4",
     "name": "Blue VS Red",
