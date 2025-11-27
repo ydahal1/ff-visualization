@@ -1,7 +1,14 @@
-// Generated on 11/26/2025, 21:15:01 (EST)
-// Total records: 627
+// Generated on 11/26/2025, 21:30:01 (EST)
+// Total records: 628
 
 export const games = [
+  {
+    "id": "8678b5d9-ae12-4b8f-96c4-b3165f6649c2",
+    "name": "test1 VS test 2",
+    "creatorId": "103871537583890094373",
+    "creatorLastName": "Trujillo",
+    "createdAt": "11/26/2025, 21:29:10"
+  },
   {
     "id": "54821e6f-dd35-486f-a65d-5a2e9c99282c",
     "name": "Team Lisa VS Team Helen",
