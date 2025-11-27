@@ -1,7 +1,14 @@
-// Generated on 11/27/2025, 14:15:01 (EST)
-// Total records: 663
+// Generated on 11/27/2025, 14:30:01 (EST)
+// Total records: 664
 
 export const games = [
+  {
+    "id": "b00c6188-3440-4e34-8a5e-f85ccdef61d9",
+    "name": "Irene VS Irene2",
+    "creatorId": "114435727526542194647",
+    "creatorLastName": "Madrid Segura",
+    "createdAt": "11/27/2025, 14:18:02"
+  },
   {
     "id": "8587aa0f-75db-4ffc-bc9a-4b5fcb359b01",
     "name": "Yamsquad VS Cranbros",
