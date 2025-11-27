@@ -1,7 +1,21 @@
-// Generated on 11/27/2025, 14:45:01 (EST)
-// Total records: 666
+// Generated on 11/27/2025, 15:00:02 (EST)
+// Total records: 668
 
 export const games = [
+  {
+    "id": "dfe1f1bc-b7dc-4849-bb1c-981dcaa80573",
+    "name": "Mom VS Justela",
+    "creatorId": "110078456357695776477",
+    "creatorLastName": "Estrada",
+    "createdAt": "11/27/2025, 14:48:40"
+  },
+  {
+    "id": "4ecdb397-534d-4cba-836b-ad3c0324838c",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "110078456357695776477",
+    "creatorLastName": "Estrada",
+    "createdAt": "11/27/2025, 14:46:21"
+  },
   {
     "id": "ea350990-71f3-4b98-9233-7ca3693339ce",
     "name": "solo1 VS solo2",
