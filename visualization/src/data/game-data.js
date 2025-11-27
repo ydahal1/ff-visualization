@@ -1,27 +1,20 @@
-// Generated on 11/26/2025, 19:30:01 (EST)
-// Total records: 626
+// Generated on 11/26/2025, 19:45:02 (EST)
+// Total records: 625
 
 export const games = [
+  {
+    "id": "ef08fe14-ecbc-4eae-b1c9-cff3f7cf9019",
+    "name": "2 kids VS 2 spouses",
+    "creatorId": "102361030351065376896",
+    "creatorLastName": "Sandquist",
+    "createdAt": "11/26/2025, 19:44:47"
+  },
   {
     "id": "5856258e-d053-4c68-b78c-bacb343e05e8",
     "name": "kids 3 VS spouses 3",
     "creatorId": "102361030351065376896",
     "creatorLastName": "Sandquist",
     "createdAt": "11/26/2025, 19:28:55"
-  },
-  {
-    "id": "f4c6ec4e-0354-4dfd-a0f5-c432c3125c49",
-    "name": "Gobblers VS TooStuffed",
-    "creatorId": "107953256757065072026",
-    "creatorLastName": "Alvarado",
-    "createdAt": "11/26/2025, 19:26:45"
-  },
-  {
-    "id": "3ecb8047-9c48-4488-a623-a849b4c57f2c",
-    "name": "kids 2 VS spouses 2",
-    "creatorId": "102361030351065376896",
-    "creatorLastName": "Sandquist",
-    "createdAt": "11/26/2025, 19:26:28"
   },
   {
     "id": "1aad7681-ba78-4fc2-8fca-537bddbda0b2",
