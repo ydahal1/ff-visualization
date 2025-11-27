@@ -1,7 +1,21 @@
-// Generated on 11/27/2025, 17:15:01 (EST)
-// Total records: 672
+// Generated on 11/27/2025, 17:30:01 (EST)
+// Total records: 674
 
 export const games = [
+  {
+    "id": "2edf9648-b576-4b42-b48e-e8cea733a919",
+    "name": "Girls VS Boys",
+    "creatorId": "108212912014639499070",
+    "creatorLastName": "Lazar",
+    "createdAt": "11/27/2025, 17:26:36"
+  },
+  {
+    "id": "e51d6dc6-52ee-49dd-b96f-4b8f0a1d6b82",
+    "name": "ad VS bb",
+    "creatorId": "112411580136416956957",
+    "creatorLastName": "Palmer",
+    "createdAt": "11/27/2025, 17:19:20"
+  },
   {
     "id": "9af1b2af-925e-4d33-8ddf-7405c472f384",
     "name": "Johnny VS Teddy",
