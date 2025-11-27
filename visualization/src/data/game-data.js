@@ -1,7 +1,21 @@
-// Generated on 11/27/2025, 09:45:01 (EST)
-// Total records: 639
+// Generated on 11/27/2025, 10:00:02 (EST)
+// Total records: 640
 
 export const games = [
+  {
+    "id": "7252c872-5ad9-442b-b7d9-c406ffece085",
+    "name": "Team A VS Team B",
+    "creatorId": "112034748663932997829",
+    "creatorLastName": "D",
+    "createdAt": "11/27/2025, 09:54:08"
+  },
+  {
+    "id": "20fb8b24-ae3f-4fd6-8d45-b71c913541c4",
+    "name": "one VS two",
+    "creatorId": "118263891717880946225",
+    "creatorLastName": "hack",
+    "createdAt": "11/27/2025, 09:48:30"
+  },
   {
     "id": "8c2eea93-77ac-4ab0-8528-3ada7af497b5",
     "name": "Left VS Right",
@@ -246,13 +260,6 @@ export const games = [
     "creatorId": "116649877752810788277",
     "creatorLastName": "Neumueller",
     "createdAt": "11/26/2025, 14:21:41"
-  },
-  {
-    "id": "ad2acb07-8023-473c-9d3f-023fef304251",
-    "name": "Kids VS Adults",
-    "creatorId": "115055413760105621535",
-    "creatorLastName": "James",
-    "createdAt": "11/26/2025, 14:10:57"
   },
   {
     "id": "b9b28368-c446-4ef8-ae04-f309aa5e3fb9",
