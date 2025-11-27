@@ -1,7 +1,14 @@
-// Generated on 11/27/2025, 11:15:01 (EST)
-// Total records: 645
+// Generated on 11/27/2025, 11:30:01 (EST)
+// Total records: 646
 
 export const games = [
+  {
+    "id": "6ecee128-3970-4fa7-92ca-4e4a04fb581d",
+    "name": "Team Red VS Team Blue",
+    "creatorId": "107968126315882608910",
+    "creatorLastName": "Livingstone",
+    "createdAt": "11/27/2025, 11:21:48"
+  },
   {
     "id": "afe48576-aeec-4cc9-97d8-da83e25b7338",
     "name": "3 VS 4",
