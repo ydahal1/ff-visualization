@@ -1,7 +1,14 @@
-// Generated on 11/27/2025, 17:00:01 (EST)
-// Total records: 671
+// Generated on 11/27/2025, 17:15:01 (EST)
+// Total records: 672
 
 export const games = [
+  {
+    "id": "9af1b2af-925e-4d33-8ddf-7405c472f384",
+    "name": "Johnny VS Teddy",
+    "creatorId": "108212912014639499070",
+    "creatorLastName": "Lazar",
+    "createdAt": "11/27/2025, 17:09:33"
+  },
   {
     "id": "8f4b6f0e-b8ac-40a4-baf9-b70f8296a89e",
     "name": "Team 1c VS Team 2c",
