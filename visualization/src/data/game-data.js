@@ -1,7 +1,28 @@
-// Generated on 11/27/2025, 14:00:02 (EST)
-// Total records: 660
+// Generated on 11/27/2025, 14:15:01 (EST)
+// Total records: 663
 
 export const games = [
+  {
+    "id": "8587aa0f-75db-4ffc-bc9a-4b5fcb359b01",
+    "name": "Yamsquad VS Cranbros",
+    "creatorId": "107953256757065072026",
+    "creatorLastName": "Alvarado",
+    "createdAt": "11/27/2025, 14:13:50"
+  },
+  {
+    "id": "cf6c3c68-9e17-4646-bce5-40af2a51535c",
+    "name": "Gen Z VS Gen X",
+    "creatorId": "113427932285611136182",
+    "creatorLastName": "Hassan",
+    "createdAt": "11/27/2025, 14:05:23"
+  },
+  {
+    "id": "f2c4caee-1551-4b4d-a410-2d4409ab59fc",
+    "name": "TooStuffed VS Gobblers",
+    "creatorId": "107953256757065072026",
+    "creatorLastName": "Alvarado",
+    "createdAt": "11/27/2025, 14:04:42"
+  },
   {
     "id": "cbe7e091-6a7d-44d6-b152-4f1162a0b64b",
     "name": "temm VS demm",
