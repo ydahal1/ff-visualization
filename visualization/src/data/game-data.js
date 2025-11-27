@@ -1,7 +1,21 @@
-// Generated on 11/27/2025, 14:30:01 (EST)
-// Total records: 664
+// Generated on 11/27/2025, 14:45:01 (EST)
+// Total records: 666
 
 export const games = [
+  {
+    "id": "ea350990-71f3-4b98-9233-7ca3693339ce",
+    "name": "solo1 VS solo2",
+    "creatorId": "105219153248066869317",
+    "creatorLastName": "Williams",
+    "createdAt": "11/27/2025, 14:44:44"
+  },
+  {
+    "id": "065cfa90-1684-4277-9683-ba20b7ae95ae",
+    "name": "Turkeys VS Hams",
+    "creatorId": "110078456357695776477",
+    "creatorLastName": "Estrada",
+    "createdAt": "11/27/2025, 14:43:14"
+  },
   {
     "id": "b00c6188-3440-4e34-8a5e-f85ccdef61d9",
     "name": "Irene VS Irene2",
