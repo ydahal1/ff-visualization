@@ -22,6 +22,26 @@ import styles from "./UserStatistics.module.css";
 
 const { RangePicker } = DatePicker;
 
+// Custom label component for showing weekly totals at the end of lines
+const WeeklyTotalLabel = ({ viewBox, value, fill }) => {
+  const { x, y } = viewBox;
+  if (value === null || value === undefined) return null;
+  
+  return (
+    <text
+      x={x + 5}
+      y={y}
+      fill={fill}
+      fontSize={12}
+      fontWeight="bold"
+      textAnchor="start"
+      dominantBaseline="middle"
+    >
+      {`Total: ${value}`}
+    </text>
+  );
+};
+
 const UserStatistics = () => {
   // Set default date range to 30 days: from 30 days ago to today
   const [dateRange, setDateRange] = useState(() => {
@@ -258,6 +278,12 @@ const UserStatistics = () => {
       chartData.push(dayData);
     }
 
+    // Initialize monthly totals
+    const monthlyTotals = {};
+    months.forEach(month => {
+      monthlyTotals[month.monthKey] = 0;
+    });
+
     // Count registrations per day of month for each month
     userData.forEach((item) => {
       const itemDate = dayjs(item.createdAt);
@@ -274,6 +300,7 @@ const UserStatistics = () => {
               chartData[dayOfMonth - 1][month.monthKey] = 0;
             }
             chartData[dayOfMonth - 1][month.monthKey]++;
+            monthlyTotals[month.monthKey]++;
           }
         }
       });
@@ -281,7 +308,8 @@ const UserStatistics = () => {
 
     return {
       chartData,
-      months
+      months,
+      monthlyTotals
     };
   }, [userData]);
 
@@ -408,6 +436,14 @@ const UserStatistics = () => {
       pastWeeksCounts.push(weekCounts);
     }
 
+    // Calculate weekly totals
+    const thisWeekTotal = Object.values(currentWeekCounts).reduce((sum, val) => sum + val, 0);
+    const pastWeek1Total = Object.values(pastWeeksCounts[0]).reduce((sum, val) => sum + val, 0);
+    const pastWeek2Total = Object.values(pastWeeksCounts[1]).reduce((sum, val) => sum + val, 0);
+    const pastWeek3Total = Object.values(pastWeeksCounts[2]).reduce((sum, val) => sum + val, 0);
+    const pastWeek4Total = Object.values(pastWeeksCounts[3]).reduce((sum, val) => sum + val, 0);
+    const averageTotal = Object.values(averages).reduce((sum, val) => sum + val, 0);
+
     // Create chart data
     const daysOrder = [
       "Sunday",
@@ -418,7 +454,7 @@ const UserStatistics = () => {
       "Friday",
       "Saturday",
     ];
-    return daysOrder.map((day, index) => ({
+    const chartData = daysOrder.map((day, index) => ({
       day,
       shortDay: day.substring(0, 3),
       average: Math.round(averages[day] * 100) / 100, // Round to 2 decimal places
@@ -428,7 +464,27 @@ const UserStatistics = () => {
       pastWeek3: pastWeeksCounts[2][day], // 3 weeks ago
       pastWeek4: pastWeeksCounts[3][day], // 4 weeks ago
       isToday: index === currentDayOfWeek,
+      // Add weekly totals to each data point
+      averageTotal: Math.round(averageTotal * 100) / 100,
+      thisWeekTotal: thisWeekTotal,
+      pastWeek1Total: pastWeek1Total,
+      pastWeek2Total: pastWeek2Total,
+      pastWeek3Total: pastWeek3Total,
+      pastWeek4Total: pastWeek4Total,
     }));
+
+    return {
+      chartData,
+      currentDayOfWeek, // Include this for label positioning
+      weeklyTotals: {
+        average: Math.round(averageTotal * 100) / 100,
+        thisWeek: thisWeekTotal,
+        pastWeek1: pastWeek1Total,
+        pastWeek2: pastWeek2Total,
+        pastWeek3: pastWeek3Total,
+        pastWeek4: pastWeek4Total,
+      }
+    };
   }, [userData]);
 
   // Enhanced hour-of-day chart with today's performance
@@ -667,6 +723,24 @@ const UserStatistics = () => {
       label: <span>Registration by Month</span>,
       children: (
         <Card size="small" className={styles.cardContainer}>
+          <div style={{ marginBottom: '12px', padding: '8px 12px', background: '#f5f5f5', borderRadius: '4px' }}>
+            <div style={{ display: 'flex', flexWrap: 'wrap', gap: '16px', fontSize: '12px' }}>
+              {monthlyRegistrationData.months.map((month, index) => {
+                const colors = [
+                  'var(--primary-color, #1890ff)',
+                  'var(--success-color, #52c41a)',
+                  'var(--warning-color, #faad14)',
+                  'var(--error-color, #ff4d4f)'
+                ];
+                const total = monthlyRegistrationData.monthlyTotals?.[month.monthKey] || 0;
+                return (
+                  <span key={month.monthKey} style={{ color: colors[index % colors.length], fontWeight: 'bold' }}>
+                    {month.monthLabel}: {total} users
+                  </span>
+                );
+              })}
+            </div>
+          </div>
           <div className={styles.chartContainer}>
             <ResponsiveContainer width="100%" height="100%">
               <LineChart data={monthlyRegistrationData.chartData}>
@@ -729,9 +803,31 @@ const UserStatistics = () => {
       label: <span>Registration by Week</span>,
       children: (
         <Card size="small" className={styles.cardContainer}>
+          <div style={{ marginBottom: '12px', padding: '8px 12px', background: '#f5f5f5', borderRadius: '4px' }}>
+            <div style={{ display: 'flex', flexWrap: 'wrap', gap: '16px', fontSize: '12px' }}>
+              <span style={{ color: 'var(--primary-color, #1890ff)', fontWeight: 'bold' }}>
+                This Week: {enhancedDayOfWeekChartData.weeklyTotals?.thisWeek || 0} users
+              </span>
+              <span style={{ color: 'var(--success-color, #52c41a)', fontWeight: 'bold' }}>
+                1 Week Ago: {enhancedDayOfWeekChartData.weeklyTotals?.pastWeek1 || 0} users
+              </span>
+              <span style={{ color: '#ff7875', fontWeight: 'bold' }}>
+                2 Weeks Ago: {enhancedDayOfWeekChartData.weeklyTotals?.pastWeek2 || 0} users
+              </span>
+              <span style={{ color: '#b37feb', fontWeight: 'bold' }}>
+                3 Weeks Ago: {enhancedDayOfWeekChartData.weeklyTotals?.pastWeek3 || 0} users
+              </span>
+              <span style={{ color: '#36cfc9', fontWeight: 'bold' }}>
+                4 Weeks Ago: {enhancedDayOfWeekChartData.weeklyTotals?.pastWeek4 || 0} users
+              </span>
+              <span style={{ color: 'var(--warning-color, #faad14)', fontWeight: 'bold' }}>
+                Historical Avg: {enhancedDayOfWeekChartData.weeklyTotals?.average || 0} users
+              </span>
+            </div>
+          </div>
           <div className={styles.chartContainer}>
             <ResponsiveContainer width="100%" height="100%">
-              <LineChart data={enhancedDayOfWeekChartData}>
+              <LineChart data={enhancedDayOfWeekChartData.chartData}>
                 <CartesianGrid strokeDasharray="3 3" />
                 <XAxis dataKey="shortDay" fontSize={12} />
                 <YAxis
@@ -745,7 +841,7 @@ const UserStatistics = () => {
                 <Tooltip
                   labelFormatter={(label) =>
                     `Day: ${
-                      enhancedDayOfWeekChartData.find(
+                      enhancedDayOfWeekChartData.chartData.find(
                         (d) => d.shortDay === label
                       )?.day || label
                     }`
@@ -817,7 +913,7 @@ const UserStatistics = () => {
               </LineChart>
             </ResponsiveContainer>
 
-            {enhancedDayOfWeekChartData.every(
+            {enhancedDayOfWeekChartData.chartData.every(
               (d) =>
                 d.average === 0 && (d.thisWeek === 0 || d.thisWeek === null)
             ) && (
