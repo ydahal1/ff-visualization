@@ -1,7 +1,14 @@
-// Generated on 11/27/2025, 17:45:01 (EST)
-// Total records: 674
+// Generated on 11/27/2025, 18:00:01 (EST)
+// Total records: 675
 
 export const games = [
+  {
+    "id": "c50c79e4-657b-409d-a5bd-02f5de003c44",
+    "name": "Brateh VS Yalleh",
+    "creatorId": "108212912014639499070",
+    "creatorLastName": "Lazar",
+    "createdAt": "11/27/2025, 17:49:15"
+  },
   {
     "id": "2edf9648-b576-4b42-b48e-e8cea733a919",
     "name": "Girls VS Boys",
