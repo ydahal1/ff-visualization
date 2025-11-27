@@ -1,7 +1,14 @@
-// Generated on 11/26/2025, 20:00:02 (EST)
-// Total records: 625
+// Generated on 11/26/2025, 20:15:02 (EST)
+// Total records: 626
 
 export const games = [
+  {
+    "id": "fd7eed89-4a3d-41ff-9c23-e4bbe63f7a3c",
+    "name": "Test 1 VS Test 2",
+    "creatorId": "111321288072083934102",
+    "creatorLastName": "Wolf",
+    "createdAt": "11/26/2025, 20:11:21"
+  },
   {
     "id": "ef08fe14-ecbc-4eae-b1c9-cff3f7cf9019",
     "name": "2 kids VS 2 spouses",
