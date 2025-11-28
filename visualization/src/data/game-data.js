@@ -1,7 +1,14 @@
-// Generated on 11/28/2025, 07:15:01 (EST)
-// Total records: 714
+// Generated on 11/28/2025, 07:30:02 (EST)
+// Total records: 715
 
 export const games = [
+  {
+    "id": "54780328-4fd3-411e-9513-f3430c2553ab",
+    "name": "THING 1 VS THING 2",
+    "creatorId": "111201343294029250602",
+    "creatorLastName": "Morris",
+    "createdAt": "11/28/2025, 07:20:23"
+  },
   {
     "id": "b4e61a0a-34c6-4275-a1d2-472c916c5804",
     "name": "Group 1 VS Group 2",
