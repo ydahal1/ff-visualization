@@ -1,7 +1,14 @@
-// Generated on 11/28/2025, 10:45:02 (EST)
-// Total records: 716
+// Generated on 11/28/2025, 11:00:01 (EST)
+// Total records: 717
 
 export const games = [
+  {
+    "id": "28d0fe0b-f7ef-4e6b-becf-363c7af89dc0",
+    "name": "Amigo games",
+    "creatorId": "118398045643308882603",
+    "creatorLastName": "Dahal",
+    "createdAt": "11/28/2025, 10:57:40"
+  },
   {
     "id": "05608756-6667-48c3-ad9d-07ca9fc9b098",
     "name": "Nepali Sena",
