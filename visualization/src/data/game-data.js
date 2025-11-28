@@ -1,7 +1,28 @@
-// Generated on 11/27/2025, 19:00:01 (EST)
+// Generated on 11/27/2025, 19:15:01 (EST)
 // Total records: 681
 
 export const games = [
+  {
+    "id": "88e9a2f8-3bc7-4d81-b169-065da693f239",
+    "name": "Marc 2 VS Renae 2",
+    "creatorId": "108426711588106857198",
+    "creatorLastName": "Giorgis",
+    "createdAt": "11/27/2025, 19:02:47"
+  },
+  {
+    "id": "0c676029-ec2a-4a29-9c8a-ea9f275e7c67",
+    "name": "Walliors VS Wolfs",
+    "creatorId": "111321288072083934102",
+    "creatorLastName": "Wolf",
+    "createdAt": "11/27/2025, 19:02:21"
+  },
+  {
+    "id": "2a4f0efe-28d7-482f-934b-bf0ba4d0311b",
+    "name": "Marc VS Renae",
+    "creatorId": "108426711588106857198",
+    "creatorLastName": "Giorgis",
+    "createdAt": "11/27/2025, 19:01:29"
+  },
   {
     "id": "166322e3-be49-4850-a46f-8d711b25809b",
     "name": "WALL VS WINDOW",
@@ -374,25 +395,11 @@ export const games = [
     "createdAt": "11/26/2025, 23:23:30"
   },
   {
-    "id": "0cec67a0-4d0a-4c5e-92b7-e24b271421fb",
-    "name": "Helen VS Lisa",
-    "creatorId": "111321288072083934102",
-    "creatorLastName": "Wolf",
-    "createdAt": "11/26/2025, 22:04:04"
-  },
-  {
     "id": "8678b5d9-ae12-4b8f-96c4-b3165f6649c2",
     "name": "test1 VS test 2",
     "creatorId": "103871537583890094373",
     "creatorLastName": "Trujillo",
     "createdAt": "11/26/2025, 21:29:10"
-  },
-  {
-    "id": "54821e6f-dd35-486f-a65d-5a2e9c99282c",
-    "name": "Team Lisa VS Team Helen",
-    "creatorId": "111321288072083934102",
-    "creatorLastName": "Wolf",
-    "createdAt": "11/26/2025, 20:28:03"
   },
   {
     "id": "854dfb95-d5df-484f-a09b-3a28239fec89",
@@ -890,13 +897,6 @@ export const games = [
     "creatorId": "105384383117386697149",
     "creatorLastName": "Rosario",
     "createdAt": "11/25/2025, 13:06:20"
-  },
-  {
-    "id": "55f9289d-8ca4-4525-b250-6699b11d4f87",
-    "name": "Lisa VS Michael",
-    "creatorId": "111321288072083934102",
-    "creatorLastName": "Wolf",
-    "createdAt": "11/25/2025, 13:01:16"
   },
   {
     "id": "135eab17-60c1-4a83-8d7d-6a3b3e95a6d5",
