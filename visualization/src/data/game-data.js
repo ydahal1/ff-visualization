@@ -1,7 +1,14 @@
-// Generated on 11/28/2025, 03:30:02 (EST)
-// Total records: 712
+// Generated on 11/28/2025, 03:45:02 (EST)
+// Total records: 713
 
 export const games = [
+  {
+    "id": "d9d6e8e5-7ee6-486f-9f25-7f868b78763f",
+    "name": "BLUE VS RED",
+    "creatorId": "103880503737856930225",
+    "creatorLastName": "Corbinais",
+    "createdAt": "11/28/2025, 03:37:58"
+  },
   {
     "id": "fd2237c1-5597-4d9e-895b-77c50b0d197d",
     "name": "Gang 1 VS Gang 2",
