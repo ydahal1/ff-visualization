@@ -1,7 +1,21 @@
-// Generated on 11/27/2025, 23:30:01 (EST)
-// Total records: 701
+// Generated on 11/27/2025, 23:45:01 (EST)
+// Total records: 703
 
 export const games = [
+  {
+    "id": "f59e747c-e6e5-4872-908b-978ea93b5f6e",
+    "name": "ggg VS ggdd",
+    "creatorId": "103446010271813114791",
+    "creatorLastName": "Screen",
+    "createdAt": "11/27/2025, 23:43:53"
+  },
+  {
+    "id": "eaecaccd-4be5-4398-9507-250fb5a5afbf",
+    "name": "Team 1. VS Team 2.",
+    "creatorId": "101968687721315748496",
+    "creatorLastName": "Patel",
+    "createdAt": "11/27/2025, 23:30:48"
+  },
   {
     "id": "251141ef-cdc2-4eb2-abb0-8a42fd63302f",
     "name": "up VS down",
