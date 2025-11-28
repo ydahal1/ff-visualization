@@ -1,7 +1,21 @@
-// Generated on 11/27/2025, 22:30:02 (EST)
-// Total records: 696
+// Generated on 11/27/2025, 22:45:01 (EST)
+// Total records: 698
 
 export const games = [
+  {
+    "id": "bc03cfe0-63d4-4231-9088-590624b6cd66",
+    "name": "YUS VS EM",
+    "creatorId": "116626398408285882677",
+    "creatorLastName": "Alfonso",
+    "createdAt": "11/27/2025, 22:40:31"
+  },
+  {
+    "id": "4cbeb464-caf3-49a7-a68d-f2fa885457c5",
+    "name": "kappas VS bruhz",
+    "creatorId": "103446010271813114791",
+    "creatorLastName": "Screen",
+    "createdAt": "11/27/2025, 22:37:12"
+  },
   {
     "id": "b8066d28-6a18-4284-aa66-563d94d5501d",
     "name": "Hi Rollaz VS Ulta fam",
