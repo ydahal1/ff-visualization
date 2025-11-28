@@ -1,7 +1,14 @@
-// Generated on 11/28/2025, 05:30:01 (EST)
-// Total records: 713
+// Generated on 11/28/2025, 05:45:02 (EST)
+// Total records: 714
 
 export const games = [
+  {
+    "id": "b4e61a0a-34c6-4275-a1d2-472c916c5804",
+    "name": "Group 1 VS Group 2",
+    "creatorId": "110393524037412731291",
+    "creatorLastName": "bajandi",
+    "createdAt": "11/28/2025, 05:43:25"
+  },
   {
     "id": "d9d6e8e5-7ee6-486f-9f25-7f868b78763f",
     "name": "BLUE VS RED",
