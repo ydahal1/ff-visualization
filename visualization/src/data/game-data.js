@@ -1,7 +1,14 @@
-// Generated on 11/28/2025, 17:00:01 (EST)
-// Total records: 734
+// Generated on 11/28/2025, 17:15:01 (EST)
+// Total records: 735
 
 export const games = [
+  {
+    "id": "36ba7e2a-60e4-4c78-b538-1b4414124d86",
+    "name": "Test",
+    "creatorId": "104129011945153944848",
+    "creatorLastName": "Simson",
+    "createdAt": "11/28/2025, 17:10:47"
+  },
   {
     "id": "ba78bccc-8cb0-4cb8-89f9-ceaa0932d37e",
     "name": "Team Red VS Team Green",
