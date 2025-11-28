@@ -1,7 +1,14 @@
-// Generated on 11/28/2025, 11:30:01 (EST)
-// Total records: 717
+// Generated on 11/28/2025, 11:45:01 (EST)
+// Total records: 718
 
 export const games = [
+  {
+    "id": "02651eb8-b285-441a-95de-5aa4c2c438be",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "110852976344169816595",
+    "creatorLastName": "Lemley",
+    "createdAt": "11/28/2025, 11:44:49"
+  },
   {
     "id": "28d0fe0b-f7ef-4e6b-becf-363c7af89dc0",
     "name": "Amigo games",
