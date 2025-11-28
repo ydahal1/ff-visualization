@@ -1,7 +1,21 @@
-// Generated on 11/28/2025, 13:30:01 (EST)
-// Total records: 719
+// Generated on 11/28/2025, 13:45:01 (EST)
+// Total records: 721
 
 export const games = [
+  {
+    "id": "fb8c0b63-3583-4768-8fcc-22aefc8a8706",
+    "name": "Sustainability & Corporate Social Responsibility (",
+    "creatorId": "114296292442331381937",
+    "creatorLastName": "CARMONA*FERIA",
+    "createdAt": "11/28/2025, 13:44:40"
+  },
+  {
+    "id": "2f5211f0-acba-40cc-ae2b-24bed1cdc8d6",
+    "name": "New Business Models",
+    "creatorId": "114296292442331381937",
+    "creatorLastName": "CARMONA*FERIA",
+    "createdAt": "11/28/2025, 13:38:23"
+  },
   {
     "id": "0b9242e7-74d4-4a6e-958e-d4504f6eca80",
     "name": "Men VS Ladies",
