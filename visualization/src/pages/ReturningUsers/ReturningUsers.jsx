@@ -123,6 +123,13 @@ const ReturningUsers = () => {
         </Button>
       ),
     },
+    {
+      title: "Unique Days",
+      dataIndex: "uniqueDates",
+      key: "uniqueDays",
+      sorter: (a, b) => a.uniqueDates.length - b.uniqueDates.length,
+      render: (uniqueDates) => uniqueDates.length,
+    },
   ];
 
   // Get tab extra content with statistics
