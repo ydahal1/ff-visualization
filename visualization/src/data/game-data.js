@@ -1,7 +1,14 @@
-// Generated on 11/28/2025, 17:45:01 (EST)
-// Total records: 739
+// Generated on 11/28/2025, 18:00:01 (EST)
+// Total records: 740
 
 export const games = [
+  {
+    "id": "b2c72302-6726-4720-8b8a-bc634278de70",
+    "name": "Test",
+    "creatorId": "112403571295716199898",
+    "creatorLastName": "Smiley",
+    "createdAt": "11/28/2025, 17:52:53"
+  },
   {
     "id": "02e526fd-357b-4d0c-b40c-d2629356907d",
     "name": "Family Game 1",
