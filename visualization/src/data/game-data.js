@@ -1,7 +1,28 @@
-// Generated on 11/28/2025, 13:45:01 (EST)
-// Total records: 721
+// Generated on 11/28/2025, 14:00:01 (EST)
+// Total records: 724
 
 export const games = [
+  {
+    "id": "a8af0cf4-3ca7-4ca3-a2b8-42efadd383dd",
+    "name": "Leadership Strategies in the Modern Era",
+    "creatorId": "114296292442331381937",
+    "creatorLastName": "CARMONA*FERIA",
+    "createdAt": "11/28/2025, 13:57:20"
+  },
+  {
+    "id": "799a990e-5d7d-4105-aa8a-ed2d1618ebfb",
+    "name": "Talent Management & New Work Formats",
+    "creatorId": "114296292442331381937",
+    "creatorLastName": "CARMONA*FERIA",
+    "createdAt": "11/28/2025, 13:50:27"
+  },
+  {
+    "id": "fbb00c39-3209-45f2-834b-6b7195b00e66",
+    "name": "Kellahan Thanksgiving",
+    "creatorId": "101657545725776340580",
+    "creatorLastName": "Mishoe",
+    "createdAt": "11/28/2025, 13:47:31"
+  },
   {
     "id": "fb8c0b63-3583-4768-8fcc-22aefc8a8706",
     "name": "Sustainability & Corporate Social Responsibility (",
