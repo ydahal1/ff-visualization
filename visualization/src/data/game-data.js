@@ -1,7 +1,28 @@
-// Generated on 11/27/2025, 20:30:01 (EST)
-// Total records: 686
+// Generated on 11/27/2025, 20:45:02 (EST)
+// Total records: 687
 
 export const games = [
+  {
+    "id": "02e8b607-8211-4fdf-b3cd-7f78b0b75a34",
+    "name": "Husker VS Betsy",
+    "creatorId": "110025049117664373443",
+    "creatorLastName": "Reisner",
+    "createdAt": "11/27/2025, 20:40:39"
+  },
+  {
+    "id": "d833bc08-7f08-4898-a201-213d86be6e69",
+    "name": "Men VS Women",
+    "creatorId": "115095021543005587599",
+    "creatorLastName": "Nowicki",
+    "createdAt": "11/27/2025, 20:39:11"
+  },
+  {
+    "id": "f3175e46-075c-4dec-8dba-f7c327833ace",
+    "name": "Shayla VS David",
+    "creatorId": "102776909888816122670",
+    "creatorLastName": "McNeal",
+    "createdAt": "11/27/2025, 20:37:06"
+  },
   {
     "id": "203f88e0-b1b4-43e6-9961-bdf6042a89c6",
     "name": "Micheal VS Sissy",
@@ -857,13 +878,6 @@ export const games = [
     "createdAt": "11/25/2025, 19:58:04"
   },
   {
-    "id": "a42f34c7-c04d-4276-9039-86def86dc237",
-    "name": "Suhas VS Kancha",
-    "creatorId": "110091634567525704379",
-    "creatorLastName": "Guy",
-    "createdAt": "11/25/2025, 19:09:24"
-  },
-  {
     "id": "47902e9a-05e3-4a37-869e-c301e0a98a97",
     "name": "Turkeys VS Hams",
     "creatorId": "116770313215795204684",
@@ -1632,13 +1646,6 @@ export const games = [
     "creatorId": "101283526040730354668",
     "creatorLastName": "Židziková",
     "createdAt": "11/22/2025, 12:57:16"
-  },
-  {
-    "id": "70096517-ca32-4e45-95a2-74fca04d4d26",
-    "name": "Kids VS Adutls",
-    "creatorId": "102776909888816122670",
-    "creatorLastName": "McNeal",
-    "createdAt": "11/22/2025, 09:51:28"
   },
   {
     "id": "f735c35c-9126-4f24-ad0c-2f83089f94f2",
