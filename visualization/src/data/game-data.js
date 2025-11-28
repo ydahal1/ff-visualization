@@ -1,14 +1,7 @@
-// Generated on 11/28/2025, 10:15:01 (EST)
-// Total records: 717
+// Generated on 11/28/2025, 10:30:02 (EST)
+// Total records: 715
 
 export const games = [
-  {
-    "id": "c59cb9ea-e4c1-49d6-a381-6da13f50d1f1",
-    "name": "a VS b",
-    "creatorId": "103880503737856930225",
-    "creatorLastName": "Corbinais",
-    "createdAt": "11/28/2025, 10:14:14"
-  },
   {
     "id": "9c823cf0-d8e9-4c1b-901c-205752c41111",
     "name": "CBOCs VS HQ",
@@ -29,13 +22,6 @@ export const games = [
     "creatorId": "110393524037412731291",
     "creatorLastName": "bajandi",
     "createdAt": "11/28/2025, 05:43:25"
-  },
-  {
-    "id": "d9d6e8e5-7ee6-486f-9f25-7f868b78763f",
-    "name": "BLUE VS RED",
-    "creatorId": "103880503737856930225",
-    "creatorLastName": "Corbinais",
-    "createdAt": "11/28/2025, 03:37:58"
   },
   {
     "id": "fd2237c1-5597-4d9e-895b-77c50b0d197d",
