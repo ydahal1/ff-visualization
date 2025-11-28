@@ -1,7 +1,14 @@
-// Generated on 11/28/2025, 24:30:01 (EST)
-// Total records: 704
+// Generated on 11/28/2025, 24:45:01 (EST)
+// Total records: 705
 
 export const games = [
+  {
+    "id": "759903d9-d59a-414f-b00e-9483de1d92cf",
+    "name": "lil VS n",
+    "creatorId": "115798509996180426084",
+    "creatorLastName": "wilken",
+    "createdAt": "11/28/2025, 24:40:56"
+  },
   {
     "id": "7386a2b9-cf25-459e-ba28-a335cbd2cae9",
     "name": "v VS h",
