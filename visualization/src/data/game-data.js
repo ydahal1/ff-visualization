@@ -1,7 +1,14 @@
-// Generated on 11/28/2025, 10:30:02 (EST)
-// Total records: 715
+// Generated on 11/28/2025, 10:45:02 (EST)
+// Total records: 716
 
 export const games = [
+  {
+    "id": "05608756-6667-48c3-ad9d-07ca9fc9b098",
+    "name": "Nepali Sena",
+    "creatorId": "110091634567525704379",
+    "creatorLastName": "Guy",
+    "createdAt": "11/28/2025, 10:32:22"
+  },
   {
     "id": "9c823cf0-d8e9-4c1b-901c-205752c41111",
     "name": "CBOCs VS HQ",
