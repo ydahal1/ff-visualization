@@ -1,7 +1,28 @@
-// Generated on 11/28/2025, 14:00:01 (EST)
-// Total records: 724
+// Generated on 11/28/2025, 14:15:01 (EST)
+// Total records: 727
 
 export const games = [
+  {
+    "id": "98638f99-ea37-4678-aa06-0a63687bdcab",
+    "name": "GRAND FINAL Globalization & International Comp",
+    "creatorId": "114296292442331381937",
+    "creatorLastName": "CARMONA*FERIA",
+    "createdAt": "11/28/2025, 14:14:27"
+  },
+  {
+    "id": "bd53e966-ef0b-4b91-ae17-236a8c378d64",
+    "name": "SF-Operations Management & Productivity",
+    "creatorId": "114296292442331381937",
+    "creatorLastName": "CARMONA*FERIA",
+    "createdAt": "11/28/2025, 14:06:46"
+  },
+  {
+    "id": "93405148-07c5-482f-a4d2-f9d9ce28b90c",
+    "name": "SF-Marketing & Customer Experience",
+    "creatorId": "114296292442331381937",
+    "creatorLastName": "CARMONA*FERIA",
+    "createdAt": "11/28/2025, 14:01:44"
+  },
   {
     "id": "a8af0cf4-3ca7-4ca3-a2b8-42efadd383dd",
     "name": "Leadership Strategies in the Modern Era",
