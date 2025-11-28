@@ -1,7 +1,21 @@
-// Generated on 11/28/2025, 10:00:01 (EST)
-// Total records: 715
+// Generated on 11/28/2025, 10:15:01 (EST)
+// Total records: 717
 
 export const games = [
+  {
+    "id": "c59cb9ea-e4c1-49d6-a381-6da13f50d1f1",
+    "name": "a VS b",
+    "creatorId": "103880503737856930225",
+    "creatorLastName": "Corbinais",
+    "createdAt": "11/28/2025, 10:14:14"
+  },
+  {
+    "id": "9c823cf0-d8e9-4c1b-901c-205752c41111",
+    "name": "CBOCs VS HQ",
+    "creatorId": "112403571295716199898",
+    "creatorLastName": "Smiley",
+    "createdAt": "11/28/2025, 10:07:14"
+  },
   {
     "id": "54780328-4fd3-411e-9513-f3430c2553ab",
     "name": "THING 1 VS THING 2",
