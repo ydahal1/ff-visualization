@@ -1,7 +1,14 @@
-// Generated on 11/28/2025, 15:15:02 (EST)
-// Total records: 729
+// Generated on 11/28/2025, 15:30:02 (EST)
+// Total records: 730
 
 export const games = [
+  {
+    "id": "1d7347a2-646f-4223-bbc4-02a848dd5420",
+    "name": "Fun Friday",
+    "creatorId": "103317098814901156579",
+    "creatorLastName": "Nugent",
+    "createdAt": "11/28/2025, 15:18:30"
+  },
   {
     "id": "826bc9d1-44e0-4647-9818-57fde2e2f3a4",
     "name": "Fish/Haller/Hibbard Thanksgiving Brawl 2025 - Game",
