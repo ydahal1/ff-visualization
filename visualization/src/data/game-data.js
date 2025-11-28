@@ -1,7 +1,14 @@
-// Generated on 11/28/2025, 24:45:01 (EST)
-// Total records: 705
+// Generated on 11/28/2025, 01:00:01 (EST)
+// Total records: 706
 
 export const games = [
+  {
+    "id": "6769ba8d-7042-4609-be01-5ec21e1372b3",
+    "name": "Charlotte VS Mia",
+    "creatorId": "117030579320330626643",
+    "creatorLastName": "Conners",
+    "createdAt": "11/28/2025, 24:53:53"
+  },
   {
     "id": "759903d9-d59a-414f-b00e-9483de1d92cf",
     "name": "lil VS n",
