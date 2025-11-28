@@ -1,7 +1,21 @@
-// Generated on 11/27/2025, 22:45:01 (EST)
-// Total records: 698
+// Generated on 11/27/2025, 23:00:02 (EST)
+// Total records: 700
 
 export const games = [
+  {
+    "id": "4c0b3727-cf26-4af7-8e04-71cbb743c211",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "101968687721315748496",
+    "creatorLastName": "Patel",
+    "createdAt": "11/27/2025, 22:55:51"
+  },
+  {
+    "id": "ce98ce16-8e7f-4da7-946c-259413d19de7",
+    "name": "goats VS sheep",
+    "creatorId": "103446010271813114791",
+    "creatorLastName": "Screen",
+    "createdAt": "11/27/2025, 22:47:12"
+  },
   {
     "id": "bc03cfe0-63d4-4231-9088-590624b6cd66",
     "name": "YUS VS EM",
