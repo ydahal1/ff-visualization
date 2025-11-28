@@ -1,7 +1,21 @@
-// Generated on 11/27/2025, 20:45:02 (EST)
-// Total records: 687
+// Generated on 11/27/2025, 21:00:01 (EST)
+// Total records: 689
 
 export const games = [
+  {
+    "id": "ac3eabff-72c4-4cf4-a1c7-11a2c58b8842",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "106914206426264741040",
+    "creatorLastName": "Gordon",
+    "createdAt": "11/27/2025, 20:54:55"
+  },
+  {
+    "id": "c6817c1b-f461-4873-8369-99e6f78c0ec1",
+    "name": "Kids VS Adults",
+    "creatorId": "107650830337135630367",
+    "creatorLastName": "Sherman",
+    "createdAt": "11/27/2025, 20:48:27"
+  },
   {
     "id": "02e8b607-8211-4fdf-b3cd-7f78b0b75a34",
     "name": "Husker VS Betsy",
