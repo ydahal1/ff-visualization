@@ -1,7 +1,28 @@
-// Generated on 11/27/2025, 21:15:01 (EST)
-// Total records: 691
+// Generated on 11/27/2025, 21:30:01 (EST)
+// Total records: 694
 
 export const games = [
+  {
+    "id": "f93deb49-78e7-4752-8be7-9ab7e6ae7772",
+    "name": "KC Reisner VS Workman2",
+    "creatorId": "110025049117664373443",
+    "creatorLastName": "Reisner",
+    "createdAt": "11/27/2025, 21:23:50"
+  },
+  {
+    "id": "070edf82-a0da-4133-96f0-76a76f54bfe6",
+    "name": "Men 2 VS Women 2",
+    "creatorId": "115095021543005587599",
+    "creatorLastName": "Nowicki",
+    "createdAt": "11/27/2025, 21:19:16"
+  },
+  {
+    "id": "3784bba8-076a-46d8-bfa5-72cd241978b8",
+    "name": "Rudolphs VS Frostys",
+    "creatorId": "101547935983450707234",
+    "creatorLastName": "Allison",
+    "createdAt": "11/27/2025, 21:18:21"
+  },
   {
     "id": "238b68ce-cda3-4196-ae12-f6072b7d7383",
     "name": "Team 1 VS Team 2",
