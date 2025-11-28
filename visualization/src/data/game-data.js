@@ -1,7 +1,21 @@
-// Generated on 11/27/2025, 21:00:01 (EST)
-// Total records: 689
+// Generated on 11/27/2025, 21:15:01 (EST)
+// Total records: 691
 
 export const games = [
+  {
+    "id": "238b68ce-cda3-4196-ae12-f6072b7d7383",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "103279496813270281295",
+    "creatorLastName": "Alva",
+    "createdAt": "11/27/2025, 21:08:21"
+  },
+  {
+    "id": "49c8a319-2288-4096-8219-51ac7d0aa3e0",
+    "name": "Team us VS Team u",
+    "creatorId": "110530485963561727442",
+    "creatorLastName": "Grunfeld",
+    "createdAt": "11/27/2025, 21:07:01"
+  },
   {
     "id": "ac3eabff-72c4-4cf4-a1c7-11a2c58b8842",
     "name": "Team 1 VS Team 2",
