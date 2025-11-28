@@ -1,7 +1,35 @@
-// Generated on 11/28/2025, 01:00:01 (EST)
-// Total records: 706
+// Generated on 11/28/2025, 01:15:01 (EST)
+// Total records: 710
 
 export const games = [
+  {
+    "id": "c9481b92-ed23-4a8f-9fd9-6af9afa2c6d5",
+    "name": "Divisions VS Division",
+    "creatorId": "107245318256508713339",
+    "creatorLastName": "Ariella",
+    "createdAt": "11/28/2025, 01:14:41"
+  },
+  {
+    "id": "646eb1b4-27d5-4624-ae04-b0221386c06e",
+    "name": "x VS y",
+    "creatorId": "107245318256508713339",
+    "creatorLastName": "Ariella",
+    "createdAt": "11/28/2025, 01:08:05"
+  },
+  {
+    "id": "c123e9ff-3d28-458e-bedb-f45abf2c314c",
+    "name": "j VS u",
+    "creatorId": "115798509996180426084",
+    "creatorLastName": "wilken",
+    "createdAt": "11/28/2025, 01:05:29"
+  },
+  {
+    "id": "19bf61a9-c92c-4e63-8413-cf4350f7eb89",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "107245318256508713339",
+    "creatorLastName": "Ariella",
+    "createdAt": "11/28/2025, 01:05:07"
+  },
   {
     "id": "6769ba8d-7042-4609-be01-5ec21e1372b3",
     "name": "Charlotte VS Mia",
