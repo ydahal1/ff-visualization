@@ -1,7 +1,14 @@
-// Generated on 11/29/2025, 14:30:01 (EST)
-// Total records: 761
+// Generated on 11/29/2025, 14:45:01 (EST)
+// Total records: 762
 
 export const games = [
+  {
+    "id": "f67448a0-d5c2-49d8-9370-299f71ff3522",
+    "name": "Group 3",
+    "creatorId": "101319012583799099050",
+    "creatorLastName": "Lambert",
+    "createdAt": "11/29/2025, 14:43:09"
+  },
   {
     "id": "5a21e20f-8038-4c7e-860e-77a99e5bc1a7",
     "name": "Family feud 1",
