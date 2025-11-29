@@ -1,7 +1,28 @@
-// Generated on 11/29/2025, 15:00:01 (EST)
-// Total records: 762
+// Generated on 11/29/2025, 15:15:01 (EST)
+// Total records: 760
 
 export const games = [
+  {
+    "id": "de0370bf-6db5-4ad4-9ee7-ee8749214291",
+    "name": "Fun Time",
+    "creatorId": "110091634567525704379",
+    "creatorLastName": "Guy",
+    "createdAt": "11/29/2025, 15:11:36"
+  },
+  {
+    "id": "93f97fca-47f8-4714-bc07-17b7ca463d15",
+    "name": "Friday Evening Fun",
+    "creatorId": "110091634567525704379",
+    "creatorLastName": "Guy",
+    "createdAt": "11/29/2025, 15:05:00"
+  },
+  {
+    "id": "fdbe6353-a818-43ea-bc00-91e040d1c7d3",
+    "name": "Frinds feud",
+    "creatorId": "115589289485058984339",
+    "creatorLastName": "Chain",
+    "createdAt": "11/29/2025, 15:05:00"
+  },
   {
     "id": "f67448a0-d5c2-49d8-9370-299f71ff3522",
     "name": "Group 3",
@@ -330,13 +351,6 @@ export const games = [
     "creatorId": "118398045643308882603",
     "creatorLastName": "Dahal",
     "createdAt": "11/28/2025, 10:57:40"
-  },
-  {
-    "id": "05608756-6667-48c3-ad9d-07ca9fc9b098",
-    "name": "Nepali Sena",
-    "creatorId": "110091634567525704379",
-    "creatorLastName": "Guy",
-    "createdAt": "11/28/2025, 10:32:22"
   },
   {
     "id": "9c823cf0-d8e9-4c1b-901c-205752c41111",
@@ -3531,13 +3545,6 @@ export const games = [
     "createdAt": "11/16/2025, 22:04:28"
   },
   {
-    "id": "fc5f6b59-f908-43e7-b7d5-80a79dcc87ed",
-    "name": "TEAM 1 VS TEAM 2",
-    "creatorId": "110091634567525704379",
-    "creatorLastName": "Guy",
-    "createdAt": "11/16/2025, 22:03:24"
-  },
-  {
     "id": "7429e488-da66-4eeb-a592-f890b4b47722",
     "name": "Team ! VS Team ?",
     "creatorId": "102126054840851967391",
@@ -4273,25 +4280,11 @@ export const games = [
     "createdAt": "11/11/2025, 18:29:50"
   },
   {
-    "id": "e37e58b1-911f-48ab-a0c6-c1bb19f9cea8",
-    "name": "First Born VS Second Born",
-    "creatorId": "110091634567525704379",
-    "creatorLastName": "Guy",
-    "createdAt": "11/11/2025, 18:18:42"
-  },
-  {
     "id": "73cbe9af-910d-4587-aca8-64a497000c1b",
     "name": "Rec VS Appreci",
     "creatorId": "103923058492609428265",
     "creatorLastName": "adunni",
     "createdAt": "11/11/2025, 18:07:10"
-  },
-  {
-    "id": "6094e296-84c1-414b-aec0-611d18509104",
-    "name": "Suahs Dahal VS Niral Dahal",
-    "creatorId": "110091634567525704379",
-    "creatorLastName": "Guy",
-    "createdAt": "11/11/2025, 17:11:43"
   },
   {
     "id": "e0129ad9-3da9-4ba4-a4dc-8b8624cd5828",
@@ -4600,13 +4593,6 @@ export const games = [
     "creatorId": "109042873495962269230",
     "creatorLastName": "zanger",
     "createdAt": "11/09/2025, 18:50:31"
-  },
-  {
-    "id": "f933ad41-d8ff-411b-8375-4f2171ef0acb",
-    "name": "Suhas VS Niral",
-    "creatorId": "110091634567525704379",
-    "creatorLastName": "Guy",
-    "createdAt": "11/09/2025, 18:37:44"
   },
   {
     "id": "764b360d-075f-4d56-94d8-85209dd0d564",
