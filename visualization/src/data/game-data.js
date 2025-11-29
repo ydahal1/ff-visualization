@@ -1,5 +1,5 @@
-// Generated on 11/29/2025, 02:30:01 (EST)
-// Total records: 755
+// Generated on 11/29/2025, 02:45:02 (EST)
+// Total records: 754
 
 export const games = [
   {
@@ -288,13 +288,6 @@ export const games = [
     "creatorId": "112403571295716199898",
     "creatorLastName": "Smiley",
     "createdAt": "11/28/2025, 10:07:14"
-  },
-  {
-    "id": "54780328-4fd3-411e-9513-f3430c2553ab",
-    "name": "THING 1 VS THING 2",
-    "creatorId": "111201343294029250602",
-    "creatorLastName": "Morris",
-    "createdAt": "11/28/2025, 07:20:23"
   },
   {
     "id": "b4e61a0a-34c6-4275-a1d2-472c916c5804",
