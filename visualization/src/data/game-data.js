@@ -1,7 +1,14 @@
-// Generated on 11/29/2025, 15:15:01 (EST)
-// Total records: 760
+// Generated on 11/29/2025, 15:30:01 (EST)
+// Total records: 761
 
 export const games = [
+  {
+    "id": "36ba9c58-04ff-4ef8-b56b-99bfa4e8876b",
+    "name": "Adapt",
+    "creatorId": "102256436615570375566",
+    "creatorLastName": "Hatto",
+    "createdAt": "11/29/2025, 15:27:11"
+  },
   {
     "id": "de0370bf-6db5-4ad4-9ee7-ee8749214291",
     "name": "Fun Time",
