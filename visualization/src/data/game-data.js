@@ -1,7 +1,14 @@
-// Generated on 11/29/2025, 13:30:01 (EST)
-// Total records: 759
+// Generated on 11/29/2025, 13:45:01 (EST)
+// Total records: 760
 
 export const games = [
+  {
+    "id": "f8890810-f4b9-431a-83ca-18356e57fc68",
+    "name": "Friends Feud",
+    "creatorId": "115589289485058984339",
+    "creatorLastName": "Chain",
+    "createdAt": "11/29/2025, 13:44:03"
+  },
   {
     "id": "e811280e-e637-4c9d-b9cc-4a9363cd9e12",
     "name": "j",
