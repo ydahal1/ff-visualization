@@ -1,7 +1,21 @@
-// Generated on 11/28/2025, 18:45:01 (EST)
-// Total records: 741
+// Generated on 11/28/2025, 19:00:02 (EST)
+// Total records: 743
 
 export const games = [
+  {
+    "id": "4432e2aa-fd53-43b5-b162-68588d07f56d",
+    "name": "City VS City 2",
+    "creatorId": "116329583186882837961",
+    "creatorLastName": "Dwight-Higgin",
+    "createdAt": "11/28/2025, 18:57:19"
+  },
+  {
+    "id": "fa8a6428-fbd7-4691-964d-658f16a7425f",
+    "name": "fam",
+    "creatorId": "106268929553366825743",
+    "creatorLastName": "Herrera",
+    "createdAt": "11/28/2025, 18:53:44"
+  },
   {
     "id": "e7c2e761-a5de-446e-8c9c-d3f58a2671f3",
     "name": "City vs City",
