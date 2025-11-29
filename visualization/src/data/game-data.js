@@ -1,7 +1,28 @@
-// Generated on 11/28/2025, 19:45:02 (EST)
-// Total records: 743
+// Generated on 11/28/2025, 20:00:02 (EST)
+// Total records: 746
 
 export const games = [
+  {
+    "id": "94695902-11af-4d4a-9631-07f04d652d76",
+    "name": "Rivera Family Feud- Round 3",
+    "creatorId": "105492292677893100691",
+    "creatorLastName": "Rivera",
+    "createdAt": "11/28/2025, 19:59:18"
+  },
+  {
+    "id": "c151a363-0b55-4de4-a870-18c112faa928",
+    "name": "Rivera Family Feud- Round 2",
+    "creatorId": "105492292677893100691",
+    "creatorLastName": "Rivera",
+    "createdAt": "11/28/2025, 19:56:58"
+  },
+  {
+    "id": "2606cd3d-d215-4270-b62f-274c01b6bdbf",
+    "name": "Rivera Family Feud- Round 1",
+    "creatorId": "105492292677893100691",
+    "creatorLastName": "Rivera",
+    "createdAt": "11/28/2025, 19:54:48"
+  },
   {
     "id": "4432e2aa-fd53-43b5-b162-68588d07f56d",
     "name": "City VS City 2",
