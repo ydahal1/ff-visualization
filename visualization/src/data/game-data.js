@@ -1,7 +1,14 @@
-// Generated on 11/29/2025, 18:15:01 (EST)
-// Total records: 768
+// Generated on 11/29/2025, 18:30:01 (EST)
+// Total records: 769
 
 export const games = [
+  {
+    "id": "f4fc6850-b4ec-4a98-be1e-b6d8f7589dc1",
+    "name": "f",
+    "creatorId": "110454446757817679755",
+    "creatorLastName": "Paranda",
+    "createdAt": "11/29/2025, 18:23:28"
+  },
   {
     "id": "d01d97ab-6fce-4572-85e5-4a7fa4238346",
     "name": "CSC",
