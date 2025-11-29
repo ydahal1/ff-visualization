@@ -1,7 +1,14 @@
-// Generated on 11/29/2025, 18:00:01 (EST)
-// Total records: 767
+// Generated on 11/29/2025, 18:15:01 (EST)
+// Total records: 768
 
 export const games = [
+  {
+    "id": "d01d97ab-6fce-4572-85e5-4a7fa4238346",
+    "name": "CSC",
+    "creatorId": "102873900153777276405",
+    "creatorLastName": "Bautista",
+    "createdAt": "11/29/2025, 18:06:36"
+  },
   {
     "id": "3a3b3969-3033-4089-9985-9925a0bc057e",
     "name": "Test",
