@@ -1,7 +1,14 @@
-// Generated on 11/29/2025, 15:30:01 (EST)
-// Total records: 761
+// Generated on 11/29/2025, 15:45:01 (EST)
+// Total records: 762
 
 export const games = [
+  {
+    "id": "ea993e87-aac1-49ea-9cb4-f5e1153ec70d",
+    "name": "Bible Feud",
+    "creatorId": "118251663392276805035",
+    "creatorLastName": "Hill",
+    "createdAt": "11/29/2025, 15:43:37"
+  },
   {
     "id": "36ba9c58-04ff-4ef8-b56b-99bfa4e8876b",
     "name": "Adapt",
