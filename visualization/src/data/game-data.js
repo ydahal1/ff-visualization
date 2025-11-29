@@ -1,7 +1,14 @@
-// Generated on 11/28/2025, 20:45:01 (EST)
-// Total records: 747
+// Generated on 11/28/2025, 21:00:01 (EST)
+// Total records: 748
 
 export const games = [
+  {
+    "id": "28b40c53-f259-4250-920a-819513b83881",
+    "name": "Thanksgiving Round 1",
+    "creatorId": "101478200717155881953",
+    "creatorLastName": "Mei",
+    "createdAt": "11/28/2025, 20:54:00"
+  },
   {
     "id": "1cbe64dc-6e1e-4e03-a56d-c2321abb0c01",
     "name": "Christmas Family Feud",
