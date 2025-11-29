@@ -1,7 +1,14 @@
-// Generated on 11/28/2025, 20:00:02 (EST)
-// Total records: 746
+// Generated on 11/28/2025, 20:15:02 (EST)
+// Total records: 747
 
 export const games = [
+  {
+    "id": "1cbe64dc-6e1e-4e03-a56d-c2321abb0c01",
+    "name": "Christmas Family Feud",
+    "creatorId": "107524226206626792800",
+    "creatorLastName": "Bruggeman",
+    "createdAt": "11/28/2025, 20:12:02"
+  },
   {
     "id": "94695902-11af-4d4a-9631-07f04d652d76",
     "name": "Rivera Family Feud- Round 3",
