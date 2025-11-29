@@ -1,7 +1,21 @@
-// Generated on 11/28/2025, 21:15:01 (EST)
-// Total records: 750
+// Generated on 11/28/2025, 21:30:01 (EST)
+// Total records: 752
 
 export const games = [
+  {
+    "id": "393d5189-6c65-4527-b881-ed0a0d2c7c63",
+    "name": "Thanksgiving Round 3",
+    "creatorId": "101478200717155881953",
+    "creatorLastName": "Mei",
+    "createdAt": "11/28/2025, 21:29:27"
+  },
+  {
+    "id": "82943ecf-6795-485e-a369-4d75a643e6d9",
+    "name": "Thanksgiving Round 2",
+    "creatorId": "101478200717155881953",
+    "creatorLastName": "Mei",
+    "createdAt": "11/28/2025, 21:26:22"
+  },
   {
     "id": "b179c10b-4c15-4eb2-aded-869cba0f5151",
     "name": "hailey",
