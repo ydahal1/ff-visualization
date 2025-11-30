@@ -1,7 +1,21 @@
-// Generated on 11/29/2025, 19:30:01 (EST)
-// Total records: 770
+// Generated on 11/29/2025, 19:45:01 (EST)
+// Total records: 772
 
 export const games = [
+  {
+    "id": "8320d0e3-e82a-4bec-a324-e9dfd5967a34",
+    "name": "College Success",
+    "creatorId": "107371197865760833997",
+    "creatorLastName": "Nevado",
+    "createdAt": "11/29/2025, 19:44:53"
+  },
+  {
+    "id": "aefb0c76-310e-4b4e-a46d-d5a04e2700a0",
+    "name": "v2",
+    "creatorId": "102873900153777276405",
+    "creatorLastName": "Bautista",
+    "createdAt": "11/29/2025, 19:36:23"
+  },
   {
     "id": "a4cf75b6-606d-418a-b901-5a0939740efb",
     "name": "Test Game",
