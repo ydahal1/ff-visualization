@@ -1,20 +1,20 @@
-// Generated on 11/30/2025, 24:15:01 (EST)
+// Generated on 11/30/2025, 24:30:01 (EST)
 // Total records: 784
 
 export const games = [
+  {
+    "id": "24c979fb-5f3b-4949-b930-4e0baeb2079f",
+    "name": "Family Fued",
+    "creatorId": "100533728403387364118",
+    "creatorLastName": "Mumm",
+    "createdAt": "11/30/2025, 24:16:08"
+  },
   {
     "id": "c223662a-2478-4d12-a2b6-f4788be6df9f",
     "name": "CHAMPIONSHIP",
     "creatorId": "114705993740738417365",
     "creatorLastName": "Jaewon",
     "createdAt": "11/29/2025, 23:33:56"
-  },
-  {
-    "id": "5b018b28-43f5-4516-9f17-dacca0e5d46b",
-    "name": "CSC Edition",
-    "creatorId": "107250323810928886847",
-    "creatorLastName": "Borja",
-    "createdAt": "11/29/2025, 23:24:11"
   },
   {
     "id": "e80a83de-da4b-430b-8db9-3404509b66f0",
