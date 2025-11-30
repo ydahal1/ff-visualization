@@ -1,7 +1,14 @@
-// Generated on 11/30/2025, 14:00:01 (EST)
-// Total records: 788
+// Generated on 11/30/2025, 14:15:02 (EST)
+// Total records: 789
 
 export const games = [
+  {
+    "id": "fed1b3b8-188d-4b93-b118-2d65506db642",
+    "name": "STM Christmas",
+    "creatorId": "101602106142008400654",
+    "creatorLastName": "Purtell",
+    "createdAt": "11/30/2025, 14:12:40"
+  },
   {
     "id": "62a1d71c-f19b-4470-a535-8ff19e185692",
     "name": "Friday Fun Evening",
