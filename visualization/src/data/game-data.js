@@ -1,7 +1,28 @@
-// Generated on 11/30/2025, 24:30:01 (EST)
-// Total records: 784
+// Generated on 11/30/2025, 24:45:01 (EST)
+// Total records: 787
 
 export const games = [
+  {
+    "id": "558da809-bac1-44fb-8e06-615373dfbde5",
+    "name": "Set 3",
+    "creatorId": "107250323810928886847",
+    "creatorLastName": "Borja",
+    "createdAt": "11/30/2025, 24:43:44"
+  },
+  {
+    "id": "170898ad-5c9f-4170-a1e3-d0d37d207242",
+    "name": "Set 2",
+    "creatorId": "107250323810928886847",
+    "creatorLastName": "Borja",
+    "createdAt": "11/30/2025, 24:43:19"
+  },
+  {
+    "id": "cac7624e-fb0b-467c-8bbd-70ffa8852db1",
+    "name": "Set 1",
+    "creatorId": "107250323810928886847",
+    "creatorLastName": "Borja",
+    "createdAt": "11/30/2025, 24:42:43"
+  },
   {
     "id": "24c979fb-5f3b-4949-b930-4e0baeb2079f",
     "name": "Family Fued",
