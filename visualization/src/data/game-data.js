@@ -1,7 +1,21 @@
-// Generated on 11/29/2025, 23:15:01 (EST)
-// Total records: 781
+// Generated on 11/29/2025, 23:30:01 (EST)
+// Total records: 783
 
 export const games = [
+  {
+    "id": "5b018b28-43f5-4516-9f17-dacca0e5d46b",
+    "name": "CSC Edition",
+    "creatorId": "107250323810928886847",
+    "creatorLastName": "Borja",
+    "createdAt": "11/29/2025, 23:24:11"
+  },
+  {
+    "id": "e80a83de-da4b-430b-8db9-3404509b66f0",
+    "name": "GAME 2",
+    "creatorId": "114705993740738417365",
+    "creatorLastName": "Jaewon",
+    "createdAt": "11/29/2025, 23:20:05"
+  },
   {
     "id": "2e082493-bb9f-42b6-ad93-e58b886f6539",
     "name": "GAME 1",
