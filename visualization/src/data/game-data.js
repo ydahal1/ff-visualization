@@ -1,7 +1,14 @@
-// Generated on 11/30/2025, 15:45:01 (EST)
-// Total records: 792
+// Generated on 11/30/2025, 16:00:01 (EST)
+// Total records: 793
 
 export const games = [
+  {
+    "id": "2f97c321-e95b-48c3-9322-4b7cdda31400",
+    "name": "game 1",
+    "creatorId": "118028774368034190437",
+    "creatorLastName": "BLueSS",
+    "createdAt": "11/30/2025, 15:55:21"
+  },
   {
     "id": "f96d066a-d80d-46ae-b161-2e0c21eb93fd",
     "name": "Repair Game",
