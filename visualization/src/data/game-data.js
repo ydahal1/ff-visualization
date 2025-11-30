@@ -1,7 +1,14 @@
-// Generated on 11/30/2025, 14:15:02 (EST)
-// Total records: 789
+// Generated on 11/30/2025, 14:30:02 (EST)
+// Total records: 790
 
 export const games = [
+  {
+    "id": "b28943f9-34ee-4c4a-b8dd-cfbc1447c746",
+    "name": "Team Kerschner",
+    "creatorId": "102489251181348414963",
+    "creatorLastName": "Kerschner",
+    "createdAt": "11/30/2025, 14:28:46"
+  },
   {
     "id": "fed1b3b8-188d-4b93-b118-2d65506db642",
     "name": "STM Christmas",
