@@ -1,7 +1,14 @@
-// Generated on 11/29/2025, 22:15:01 (EST)
-// Total records: 779
+// Generated on 11/29/2025, 22:30:01 (EST)
+// Total records: 780
 
 export const games = [
+  {
+    "id": "414ae9f5-7e5c-40c2-97c1-91616c532c47",
+    "name": "Nico&Gals2 VS Cruken2",
+    "creatorId": "115095021543005587599",
+    "creatorLastName": "Nowicki",
+    "createdAt": "11/29/2025, 22:19:01"
+  },
   {
     "id": "fd8cc107-9e87-474e-b8b0-0100caa56c66",
     "name": "Round 3 Simi Bday",
