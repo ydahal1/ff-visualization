@@ -1,7 +1,14 @@
-// Generated on 11/30/2025, 10:30:02 (EST)
-// Total records: 787
+// Generated on 11/30/2025, 10:45:01 (EST)
+// Total records: 788
 
 export const games = [
+  {
+    "id": "62a1d71c-f19b-4470-a535-8ff19e185692",
+    "name": "Friday Fun Evening",
+    "creatorId": "110091634567525704379",
+    "creatorLastName": "Guy",
+    "createdAt": "11/30/2025, 10:31:46"
+  },
   {
     "id": "32d5fc7c-94ea-48f9-89f2-1daa1164a5f9",
     "name": "Set 3",
