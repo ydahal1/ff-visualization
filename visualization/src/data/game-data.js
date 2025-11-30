@@ -1,7 +1,28 @@
-// Generated on 11/29/2025, 21:45:01 (EST)
-// Total records: 774
+// Generated on 11/29/2025, 22:00:02 (EST)
+// Total records: 777
 
 export const games = [
+  {
+    "id": "ee135015-4202-444a-a983-a05b63ddd088",
+    "name": "Nico&Gals VS Cruken",
+    "creatorId": "115095021543005587599",
+    "creatorLastName": "Nowicki",
+    "createdAt": "11/29/2025, 21:51:04"
+  },
+  {
+    "id": "583ef1bd-5972-4748-a299-c2ab97db3d6a",
+    "name": "asdasdasd",
+    "creatorId": "100897587551537289351",
+    "creatorLastName": "HONGHOUA",
+    "createdAt": "11/29/2025, 21:49:25"
+  },
+  {
+    "id": "9ae34bde-af26-495a-b39a-9f02c329c374",
+    "name": "Round 2 Simi Bday",
+    "creatorId": "107790629208450767637",
+    "creatorLastName": "Mann",
+    "createdAt": "11/29/2025, 21:48:39"
+  },
   {
     "id": "599f7a76-7319-4dfe-bb8d-3a1e52456c58",
     "name": "Round 1 Simi Bday",
