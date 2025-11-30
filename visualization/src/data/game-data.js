@@ -1,7 +1,14 @@
-// Generated on 11/30/2025, 18:00:01 (EST)
-// Total records: 798
+// Generated on 11/30/2025, 18:15:01 (EST)
+// Total records: 799
 
 export const games = [
+  {
+    "id": "e7b02113-f7cb-446d-803e-ea5820afe108",
+    "name": "CAN Clinic Feud",
+    "creatorId": "115161740040059068253",
+    "creatorLastName": "Kotrec",
+    "createdAt": "11/30/2025, 18:05:18"
+  },
   {
     "id": "9eaa5f37-8e42-4b0f-8030-1b84f2b6b306",
     "name": "Family Fun Facts 1",
