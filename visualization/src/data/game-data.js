@@ -1,7 +1,14 @@
-// Generated on 11/29/2025, 22:30:01 (EST)
+// Generated on 11/29/2025, 22:45:01 (EST)
 // Total records: 780
 
 export const games = [
+  {
+    "id": "2509db91-371e-4ec4-9eb1-9208ea45e922",
+    "name": "Ss",
+    "creatorId": "106988334493045945977",
+    "creatorLastName": "Latte",
+    "createdAt": "11/29/2025, 22:44:01"
+  },
   {
     "id": "414ae9f5-7e5c-40c2-97c1-91616c532c47",
     "name": "Nico&Gals2 VS Cruken2",
@@ -2108,13 +2115,6 @@ export const games = [
     "creatorId": "104550447787235690394",
     "creatorLastName": "Lising",
     "createdAt": "11/24/2025, 03:46:32"
-  },
-  {
-    "id": "4a91c238-7301-4a7e-a0a2-71dc09d6ed90",
-    "name": "TEAM A VS TEAM B",
-    "creatorId": "115300085433865639132",
-    "creatorLastName": "Rotanak",
-    "createdAt": "11/23/2025, 22:38:19"
   },
   {
     "id": "c8a70c33-a490-4106-bead-8b79b2523430",
