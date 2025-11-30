@@ -1,7 +1,21 @@
-// Generated on 11/30/2025, 17:15:01 (EST)
-// Total records: 794
+// Generated on 11/30/2025, 17:30:02 (EST)
+// Total records: 796
 
 export const games = [
+  {
+    "id": "859fee88-b2cd-4cc5-9648-9084e0bb243c",
+    "name": "Test game",
+    "creatorId": "104576018975543233074",
+    "creatorLastName": "Panyszak",
+    "createdAt": "11/30/2025, 17:20:19"
+  },
+  {
+    "id": "69a7f470-e962-4377-aead-5a359f895f81",
+    "name": "Xmas FF Part 2",
+    "creatorId": "104576018975543233074",
+    "creatorLastName": "Panyszak",
+    "createdAt": "11/30/2025, 17:15:55"
+  },
   {
     "id": "08e925f3-60ce-4ea3-a2e9-112723e83ff6",
     "name": "Xmas FF Part 1",
