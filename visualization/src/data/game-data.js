@@ -1,7 +1,21 @@
-// Generated on 11/30/2025, 17:45:01 (EST)
-// Total records: 796
+// Generated on 11/30/2025, 18:00:01 (EST)
+// Total records: 798
 
 export const games = [
+  {
+    "id": "9eaa5f37-8e42-4b0f-8030-1b84f2b6b306",
+    "name": "Family Fun Facts 1",
+    "creatorId": "104576018975543233074",
+    "creatorLastName": "Panyszak",
+    "createdAt": "11/30/2025, 17:57:58"
+  },
+  {
+    "id": "c6741dfb-4d46-4b8d-9d8a-5b58127f89d6",
+    "name": "game 1",
+    "creatorId": "113869787222917531911",
+    "creatorLastName": "Ch.",
+    "createdAt": "11/30/2025, 17:56:13"
+  },
   {
     "id": "859fee88-b2cd-4cc5-9648-9084e0bb243c",
     "name": "Test game",
