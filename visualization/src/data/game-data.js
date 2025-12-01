@@ -1,7 +1,35 @@
-// Generated on 12/01/2025, 16:30:02 (EST)
-// Total records: 834
+// Generated on 12/01/2025, 16:45:01 (EST)
+// Total records: 836
 
 export const games = [
+  {
+    "id": "49b49223-8198-4260-87cc-b066bb3cf528",
+    "name": "USAHS Holiday Party 2025 2",
+    "creatorId": "104309997023887543167",
+    "creatorLastName": "Cummings",
+    "createdAt": "12/01/2025, 16:40:40"
+  },
+  {
+    "id": "dc5bd7b6-6417-4c31-acce-2f00020f080d",
+    "name": "USAHS Holiday Party 2025 1",
+    "creatorId": "104309997023887543167",
+    "creatorLastName": "Cummings",
+    "createdAt": "12/01/2025, 16:40:05"
+  },
+  {
+    "id": "c3df118f-8211-432d-aa55-21a1fe31d32e",
+    "name": "Caste",
+    "creatorId": "106378732119640227934",
+    "creatorLastName": "Foster",
+    "createdAt": "12/01/2025, 16:32:55"
+  },
+  {
+    "id": "8d91770c-c502-4b48-9087-c1abe25984cb",
+    "name": "Machado Trivia 3",
+    "creatorId": "109973256596907290074",
+    "creatorLastName": "Renzella",
+    "createdAt": "12/01/2025, 16:30:43"
+  },
   {
     "id": "0aecc899-b49b-4c5e-8251-061edb423fe4",
     "name": "Corporate Family Feud 3",
@@ -78,13 +106,6 @@ export const games = [
     "creatorId": "108704764481364596467",
     "creatorLastName": "Arulepp",
     "createdAt": "12/01/2025, 12:11:00"
-  },
-  {
-    "id": "1aab4c36-a797-4492-a1a3-c9fac502e93b",
-    "name": "Holiday Game 1",
-    "creatorId": "104309997023887543167",
-    "creatorLastName": "Cummings",
-    "createdAt": "12/01/2025, 11:01:56"
   },
   {
     "id": "311560c5-5835-4186-8852-d95943c8e190",
@@ -3739,13 +3760,6 @@ export const games = [
     "creatorId": "103315866547897556985",
     "creatorLastName": "Hoq",
     "createdAt": "11/18/2025, 16:45:13"
-  },
-  {
-    "id": "b7fc6961-4438-4425-b7a6-a87ec0f4f6e1",
-    "name": "Boomer VS Sooner",
-    "creatorId": "104309997023887543167",
-    "creatorLastName": "Cummings",
-    "createdAt": "11/18/2025, 16:45:10"
   },
   {
     "id": "755faf17-c83a-4f39-b825-ae7924495f20",
