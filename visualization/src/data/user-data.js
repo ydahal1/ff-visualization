@@ -1,7 +1,12 @@
-// Generated on 12/01/2025, 12:45:00 (EST)
-// Total records: 584
+// Generated on 12/01/2025, 13:00:00 (EST)
+// Total records: 585
 
 export const users = [
+  {
+    "id": "112192843104249422495",
+    "lName": "song",
+    "createdAt": "12/01/2025, 12:47:56"
+  },
   {
     "id": "115460229364389733004",
     "lName": "Persyn",
