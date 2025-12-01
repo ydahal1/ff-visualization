@@ -1,7 +1,14 @@
-// Generated on 12/01/2025, 17:30:01 (EST)
-// Total records: 839
+// Generated on 12/01/2025, 17:45:01 (EST)
+// Total records: 840
 
 export const games = [
+  {
+    "id": "a1d47071-baad-4738-9a96-eff27eabf563",
+    "name": "Game 1",
+    "creatorId": "117030579320330626643",
+    "creatorLastName": "Conners",
+    "createdAt": "12/01/2025, 17:38:18"
+  },
   {
     "id": "5b171ff0-4096-4217-9560-35415b54a986",
     "name": "Corporate Family Feud 4",
