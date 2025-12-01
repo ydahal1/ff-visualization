@@ -1,13 +1,13 @@
-// Generated on 11/30/2025, 21:15:01 (EST)
+// Generated on 11/30/2025, 21:30:01 (EST)
 // Total records: 808
 
 export const games = [
   {
-    "id": "8d0c847a-e06c-4656-a66d-1099b25acc1f",
-    "name": "Andersen Feud",
+    "id": "53e2a737-d237-4896-b553-44775325bada",
+    "name": "ANDERSEN",
     "creatorId": "100149882344556193062",
     "creatorLastName": "Andersen",
-    "createdAt": "11/30/2025, 20:49:52"
+    "createdAt": "11/30/2025, 21:25:42"
   },
   {
     "id": "e8bef5bc-e9cb-4172-ae4f-b5b49d5f2438",
