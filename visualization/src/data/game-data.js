@@ -1,20 +1,20 @@
-// Generated on 11/30/2025, 20:45:01 (EST)
+// Generated on 11/30/2025, 21:00:02 (EST)
 // Total records: 808
 
 export const games = [
+  {
+    "id": "8d0c847a-e06c-4656-a66d-1099b25acc1f",
+    "name": "Andersen Feud",
+    "creatorId": "100149882344556193062",
+    "creatorLastName": "Andersen",
+    "createdAt": "11/30/2025, 20:49:52"
+  },
   {
     "id": "e8bef5bc-e9cb-4172-ae4f-b5b49d5f2438",
     "name": "Winter Family Feud",
     "creatorId": "111073757655531782127",
     "creatorLastName": "Christian",
     "createdAt": "11/30/2025, 20:35:15"
-  },
-  {
-    "id": "e4f726b3-4c18-451b-b37d-6e57b337fa58",
-    "name": "fanf",
-    "creatorId": "100149882344556193062",
-    "creatorLastName": "Andersen",
-    "createdAt": "11/30/2025, 20:12:38"
   },
   {
     "id": "13af11e8-4cf8-43cf-a71a-e11da2d2a163",
