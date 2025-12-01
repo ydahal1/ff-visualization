@@ -1,7 +1,14 @@
-// Generated on 12/01/2025, 09:15:01 (EST)
-// Total records: 818
+// Generated on 12/01/2025, 09:30:01 (EST)
+// Total records: 819
 
 export const games = [
+  {
+    "id": "8ad3efdd-1950-493d-97da-9463cbd10635",
+    "name": "Public Feud!",
+    "creatorId": "108316227731972688276",
+    "creatorLastName": "Barcley",
+    "createdAt": "12/01/2025, 09:29:24"
+  },
   {
     "id": "7493d4c6-3ae8-4d34-8076-673b72c8bfad",
     "name": "Christmas 2025",
