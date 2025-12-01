@@ -1,7 +1,14 @@
-// Generated on 12/01/2025, 06:45:01 (EST)
-// Total records: 816
+// Generated on 12/01/2025, 07:00:01 (EST)
+// Total records: 817
 
 export const games = [
+  {
+    "id": "04fbd285-3e45-4de8-8201-4efa02afbe60",
+    "name": "NAS Party",
+    "creatorId": "114317041135643834482",
+    "creatorLastName": "TEAM",
+    "createdAt": "12/01/2025, 06:52:00"
+  },
   {
     "id": "c2a43306-3683-473c-a778-74d82bf1c7bb",
     "name": "Game 2!",
