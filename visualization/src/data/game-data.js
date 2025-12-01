@@ -1,7 +1,28 @@
-// Generated on 12/01/2025, 13:45:01 (EST)
-// Total records: 825
+// Generated on 12/01/2025, 14:00:01 (EST)
+// Total records: 828
 
 export const games = [
+  {
+    "id": "53e9af65-4cff-445f-a546-20d082fdec22",
+    "name": "Test2",
+    "creatorId": "112403571295716199898",
+    "creatorLastName": "Smiley",
+    "createdAt": "12/01/2025, 13:58:41"
+  },
+  {
+    "id": "f6207d52-4fa4-4d9d-b829-4774a4abdb33",
+    "name": "Machado Trivia",
+    "creatorId": "109973256596907290074",
+    "creatorLastName": "Renzella",
+    "createdAt": "12/01/2025, 13:53:55"
+  },
+  {
+    "id": "51288fdb-5682-479e-ba84-cfeef483448b",
+    "name": "Power Puff Girls",
+    "creatorId": "112192843104249422495",
+    "creatorLastName": "song",
+    "createdAt": "12/01/2025, 13:50:16"
+  },
   {
     "id": "f440f11a-5eab-4242-b5b8-e879a186a64e",
     "name": "Champions bankett 5-10 küs",
