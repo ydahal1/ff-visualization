@@ -1,7 +1,14 @@
-// Generated on 12/01/2025, 02:00:02 (EST)
-// Total records: 812
+// Generated on 12/01/2025, 02:15:02 (EST)
+// Total records: 813
 
 export const games = [
+  {
+    "id": "101b05e8-25e8-40dc-b18c-4b5b80fb0567",
+    "name": "Gm",
+    "creatorId": "101180447668722096511",
+    "creatorLastName": "Rasiński",
+    "createdAt": "12/01/2025, 02:11:21"
+  },
   {
     "id": "83e97f77-a18e-4643-a85e-29417fd88e1f",
     "name": "HS BAtch 1993",
