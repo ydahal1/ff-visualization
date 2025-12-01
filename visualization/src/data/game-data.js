@@ -1,7 +1,28 @@
-// Generated on 11/30/2025, 19:30:01 (EST)
-// Total records: 803
+// Generated on 11/30/2025, 19:45:01 (EST)
+// Total records: 806
 
 export const games = [
+  {
+    "id": "e9c2f525-ba0d-4dd8-8d0d-46e1e26b8a42",
+    "name": "Hej Svejs",
+    "creatorId": "112826966469126791312",
+    "creatorLastName": "B",
+    "createdAt": "11/30/2025, 19:35:16"
+  },
+  {
+    "id": "9e7c9a01-821e-40de-be2a-f1de065b3317",
+    "name": "Sigmas VS BSU",
+    "creatorId": "113595880961210939432",
+    "creatorLastName": "Zepeda",
+    "createdAt": "11/30/2025, 19:32:29"
+  },
+  {
+    "id": "565457bd-0fc2-496d-b39e-719bb728b3a4",
+    "name": "St. A's Family Feud",
+    "creatorId": "103375175102300468174",
+    "creatorLastName": "Whitehouse",
+    "createdAt": "11/30/2025, 19:30:14"
+  },
   {
     "id": "39936025-cdcb-4b1a-a616-542458d5beac",
     "name": "Sunday Night Fun",
