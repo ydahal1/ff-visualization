@@ -1,7 +1,21 @@
-// Generated on 12/01/2025, 12:00:01 (EST)
-// Total records: 823
+// Generated on 12/01/2025, 12:15:02 (EST)
+// Total records: 825
 
 export const games = [
+  {
+    "id": "bdc7713b-fbf5-47d6-9b90-765c99b5a8a3",
+    "name": "Champions bankett 5-10",
+    "creatorId": "108704764481364596467",
+    "creatorLastName": "Arulepp",
+    "createdAt": "12/01/2025, 12:12:10"
+  },
+  {
+    "id": "fa7839a7-4a72-4700-9052-7ddff3864fbd",
+    "name": "Champions bankett",
+    "creatorId": "108704764481364596467",
+    "creatorLastName": "Arulepp",
+    "createdAt": "12/01/2025, 12:11:00"
+  },
   {
     "id": "1aab4c36-a797-4492-a1a3-c9fac502e93b",
     "name": "Holiday Game 1",
