@@ -1,7 +1,14 @@
-// Generated on 11/30/2025, 19:15:01 (EST)
-// Total records: 802
+// Generated on 11/30/2025, 19:30:01 (EST)
+// Total records: 803
 
 export const games = [
+  {
+    "id": "39936025-cdcb-4b1a-a616-542458d5beac",
+    "name": "Sunday Night Fun",
+    "creatorId": "110091634567525704379",
+    "creatorLastName": "Guy",
+    "createdAt": "11/30/2025, 19:23:42"
+  },
   {
     "id": "7a2da2b7-5475-4678-8ac8-bf33a469b384",
     "name": "Test",
