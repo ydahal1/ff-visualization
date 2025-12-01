@@ -1,7 +1,14 @@
-// Generated on 12/01/2025, 02:45:01 (EST)
+// Generated on 12/01/2025, 03:00:02 (EST)
 // Total records: 813
 
 export const games = [
+  {
+    "id": "6085b901-0669-430e-ba8e-db4faa422f83",
+    "name": "FINALS",
+    "creatorId": "114705993740738417365",
+    "creatorLastName": "Jaewon",
+    "createdAt": "12/01/2025, 02:53:08"
+  },
   {
     "id": "101b05e8-25e8-40dc-b18c-4b5b80fb0567",
     "name": "Gm",
@@ -218,13 +225,6 @@ export const games = [
     "creatorId": "100533728403387364118",
     "creatorLastName": "Mumm",
     "createdAt": "11/30/2025, 24:16:08"
-  },
-  {
-    "id": "c223662a-2478-4d12-a2b6-f4788be6df9f",
-    "name": "CHAMPIONSHIP",
-    "creatorId": "114705993740738417365",
-    "creatorLastName": "Jaewon",
-    "createdAt": "11/29/2025, 23:33:56"
   },
   {
     "id": "e80a83de-da4b-430b-8db9-3404509b66f0",
