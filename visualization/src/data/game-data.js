@@ -1,7 +1,14 @@
-// Generated on 11/30/2025, 22:30:01 (EST)
-// Total records: 808
+// Generated on 11/30/2025, 22:45:01 (EST)
+// Total records: 809
 
 export const games = [
+  {
+    "id": "232b4ece-9ee6-4143-9159-3b6923fa6da1",
+    "name": "MaFia",
+    "creatorId": "108521254617351318507",
+    "creatorLastName": "ferreiro",
+    "createdAt": "11/30/2025, 22:39:51"
+  },
   {
     "id": "a00ea17f-85da-4f57-8015-f631d77c5b29",
     "name": "Family Feud SDGs",
