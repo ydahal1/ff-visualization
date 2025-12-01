@@ -1,7 +1,14 @@
-// Generated on 11/30/2025, 22:45:01 (EST)
-// Total records: 809
+// Generated on 11/30/2025, 23:00:01 (EST)
+// Total records: 810
 
 export const games = [
+  {
+    "id": "ea19887e-ce96-43db-b6d7-74b4f05a5d9b",
+    "name": "16 lugo",
+    "creatorId": "108521254617351318507",
+    "creatorLastName": "ferreiro",
+    "createdAt": "11/30/2025, 22:48:06"
+  },
   {
     "id": "232b4ece-9ee6-4143-9159-3b6923fa6da1",
     "name": "MaFia",
