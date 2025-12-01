@@ -1,13 +1,13 @@
-// Generated on 12/01/2025, 12:45:02 (EST)
+// Generated on 12/01/2025, 13:00:01 (EST)
 // Total records: 825
 
 export const games = [
   {
-    "id": "bdc7713b-fbf5-47d6-9b90-765c99b5a8a3",
-    "name": "Champions bankett 5-10",
-    "creatorId": "108704764481364596467",
-    "creatorLastName": "Arulepp",
-    "createdAt": "12/01/2025, 12:12:10"
+    "id": "3cc50ff1-b239-4963-b001-457e057c4823",
+    "name": "Girl power",
+    "creatorId": "112192843104249422495",
+    "creatorLastName": "song",
+    "createdAt": "12/01/2025, 12:49:27"
   },
   {
     "id": "fa7839a7-4a72-4700-9052-7ddff3864fbd",
