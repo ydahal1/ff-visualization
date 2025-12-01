@@ -1,7 +1,21 @@
-// Generated on 12/01/2025, 15:15:01 (EST)
-// Total records: 833
+// Generated on 12/01/2025, 15:30:01 (EST)
+// Total records: 835
 
 export const games = [
+  {
+    "id": "0aecc899-b49b-4c5e-8251-061edb423fe4",
+    "name": "Corporate Family Feud 3",
+    "creatorId": "111437564869994870066",
+    "creatorLastName": "Bagri",
+    "createdAt": "12/01/2025, 15:20:43"
+  },
+  {
+    "id": "efab8e08-070c-4ee2-b810-71e9b6acc028",
+    "name": "Best Friends",
+    "creatorId": "112604854993367404211",
+    "creatorLastName": "Brooks",
+    "createdAt": "12/01/2025, 15:15:47"
+  },
   {
     "id": "98bd7a4c-b6ed-4f2c-813a-f514769cc4b1",
     "name": "Corporate Family Feud 2",
