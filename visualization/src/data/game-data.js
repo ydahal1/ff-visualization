@@ -1,7 +1,14 @@
-// Generated on 12/01/2025, 11:00:01 (EST)
-// Total records: 822
+// Generated on 12/01/2025, 11:15:01 (EST)
+// Total records: 823
 
 export const games = [
+  {
+    "id": "1aab4c36-a797-4492-a1a3-c9fac502e93b",
+    "name": "Holiday Game 1",
+    "creatorId": "104309997023887543167",
+    "creatorLastName": "Cummings",
+    "createdAt": "12/01/2025, 11:01:56"
+  },
   {
     "id": "311560c5-5835-4186-8852-d95943c8e190",
     "name": "Test",
