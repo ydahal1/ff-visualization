@@ -1,7 +1,12 @@
-// Generated on 12/01/2025, 06:45:00 (EST)
-// Total records: 577
+// Generated on 12/01/2025, 07:00:00 (EST)
+// Total records: 578
 
 export const users = [
+  {
+    "id": "114317041135643834482",
+    "lName": "TEAM",
+    "createdAt": "12/01/2025, 06:49:36"
+  },
   {
     "id": "114813258709203161642",
     "lName": "Cruz Monte",
