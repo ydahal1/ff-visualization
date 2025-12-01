@@ -1,7 +1,12 @@
-// Generated on 12/01/2025, 13:45:00 (EST)
-// Total records: 585
+// Generated on 12/01/2025, 14:00:00 (EST)
+// Total records: 586
 
 export const users = [
+  {
+    "id": "109973256596907290074",
+    "lName": "Renzella",
+    "createdAt": "12/01/2025, 13:52:36"
+  },
   {
     "id": "112192843104249422495",
     "lName": "song",
