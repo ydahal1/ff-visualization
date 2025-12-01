@@ -1,7 +1,21 @@
-// Generated on 12/01/2025, 14:30:01 (EST)
-// Total records: 829
+// Generated on 12/01/2025, 14:45:01 (EST)
+// Total records: 831
 
 export const games = [
+  {
+    "id": "f9490b88-6ab1-47de-9a1e-814ca516967e",
+    "name": "Senior Senoff",
+    "creatorId": "115954634865192703948",
+    "creatorLastName": "Scott",
+    "createdAt": "12/01/2025, 14:39:04"
+  },
+  {
+    "id": "d89fc9fc-4083-4de0-a2f8-5b7d56439503",
+    "name": "Pure",
+    "creatorId": "106378732119640227934",
+    "creatorLastName": "Foster",
+    "createdAt": "12/01/2025, 14:30:17"
+  },
   {
     "id": "d3c16361-0bd9-472e-af1b-6ae686d295ca",
     "name": "Machado Trivia 2",
