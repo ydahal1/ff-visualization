@@ -1,7 +1,14 @@
-// Generated on 11/30/2025, 19:45:01 (EST)
+// Generated on 11/30/2025, 20:00:02 (EST)
 // Total records: 806
 
 export const games = [
+  {
+    "id": "13af11e8-4cf8-43cf-a71a-e11da2d2a163",
+    "name": "Family Fued SDG's",
+    "creatorId": "115300085433865639132",
+    "creatorLastName": "Rotanak",
+    "createdAt": "11/30/2025, 19:58:57"
+  },
   {
     "id": "e9c2f525-ba0d-4dd8-8d0d-46e1e26b8a42",
     "name": "Hej Svejs",
@@ -204,13 +211,6 @@ export const games = [
     "creatorId": "107790629208450767637",
     "creatorLastName": "Mann",
     "createdAt": "11/29/2025, 22:08:33"
-  },
-  {
-    "id": "9ba1c037-1f1f-406d-9753-1a378fb5b2d8",
-    "name": "SDGs",
-    "creatorId": "115300085433865639132",
-    "creatorLastName": "Rotanak",
-    "createdAt": "11/29/2025, 22:06:07"
   },
   {
     "id": "ee135015-4202-444a-a983-a05b63ddd088",
