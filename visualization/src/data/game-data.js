@@ -1,7 +1,14 @@
-// Generated on 12/01/2025, 09:45:01 (EST)
-// Total records: 820
+// Generated on 12/01/2025, 10:00:02 (EST)
+// Total records: 821
 
 export const games = [
+  {
+    "id": "7ae0284c-e044-4b37-847c-4f58c478827a",
+    "name": "CS Christmas Family Feud",
+    "creatorId": "107047207730960303213",
+    "creatorLastName": "B",
+    "createdAt": "12/01/2025, 09:51:31"
+  },
   {
     "id": "37a35aeb-aacf-412e-8509-de3f764f2bc5",
     "name": "ESW FAMILY FEUD",
