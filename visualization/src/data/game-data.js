@@ -1,7 +1,21 @@
-// Generated on 12/01/2025, 04:30:02 (EST)
-// Total records: 811
+// Generated on 12/01/2025, 04:45:02 (EST)
+// Total records: 813
 
 export const games = [
+  {
+    "id": "a65fbd9e-1d36-4cbc-b499-018998dd2227",
+    "name": "ANGLAIS 1",
+    "creatorId": "103880503737856930225",
+    "creatorLastName": "Corbinais",
+    "createdAt": "12/01/2025, 04:43:06"
+  },
+  {
+    "id": "2881fce3-af54-474c-8791-c28678e75a31",
+    "name": "Jogo de Natal",
+    "creatorId": "114813258709203161642",
+    "creatorLastName": "Cruz Monte",
+    "createdAt": "12/01/2025, 04:32:17"
+  },
   {
     "id": "6085b901-0669-430e-ba8e-db4faa422f83",
     "name": "FINALS",
