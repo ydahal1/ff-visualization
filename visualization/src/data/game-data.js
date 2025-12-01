@@ -1,5 +1,5 @@
-// Generated on 11/30/2025, 22:15:01 (EST)
-// Total records: 809
+// Generated on 11/30/2025, 22:30:01 (EST)
+// Total records: 808
 
 export const games = [
   {
@@ -22,13 +22,6 @@ export const games = [
     "creatorId": "111073757655531782127",
     "creatorLastName": "Christian",
     "createdAt": "11/30/2025, 20:35:15"
-  },
-  {
-    "id": "13af11e8-4cf8-43cf-a71a-e11da2d2a163",
-    "name": "Family Fued SDG's",
-    "creatorId": "115300085433865639132",
-    "creatorLastName": "Rotanak",
-    "createdAt": "11/30/2025, 19:58:57"
   },
   {
     "id": "e9c2f525-ba0d-4dd8-8d0d-46e1e26b8a42",
