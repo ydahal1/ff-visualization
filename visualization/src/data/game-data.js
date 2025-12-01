@@ -1,7 +1,14 @@
-// Generated on 12/01/2025, 16:45:01 (EST)
-// Total records: 836
+// Generated on 12/01/2025, 17:00:01 (EST)
+// Total records: 837
 
 export const games = [
+  {
+    "id": "23e4c763-cdb1-4fbb-8a94-3298d4cec81c",
+    "name": "Pure",
+    "creatorId": "106378732119640227934",
+    "creatorLastName": "Foster",
+    "createdAt": "12/01/2025, 16:45:03"
+  },
   {
     "id": "49b49223-8198-4260-87cc-b066bb3cf528",
     "name": "USAHS Holiday Party 2025 2",
