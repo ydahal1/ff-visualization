@@ -1,7 +1,12 @@
-// Generated on 12/01/2025, 07:45:00 (EST)
-// Total records: 578
+// Generated on 12/01/2025, 08:00:00 (EST)
+// Total records: 579
 
 export const users = [
+  {
+    "id": "108704764481364596467",
+    "lName": "Arulepp",
+    "createdAt": "12/01/2025, 07:54:05"
+  },
   {
     "id": "114317041135643834482",
     "lName": "TEAM",
