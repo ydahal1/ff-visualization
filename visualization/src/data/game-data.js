@@ -1,7 +1,14 @@
-// Generated on 12/01/2025, 01:15:01 (EST)
-// Total records: 811
+// Generated on 12/01/2025, 01:30:02 (EST)
+// Total records: 812
 
 export const games = [
+  {
+    "id": "83e97f77-a18e-4643-a85e-29417fd88e1f",
+    "name": "HS BAtch 1993",
+    "creatorId": "103454524072049038232",
+    "creatorLastName": "Estrada",
+    "createdAt": "12/01/2025, 01:15:39"
+  },
   {
     "id": "8a2aad14-037c-45ef-b52e-f6f5619c9dc3",
     "name": "Roommate Survival",
