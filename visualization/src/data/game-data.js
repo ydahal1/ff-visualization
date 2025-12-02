@@ -1,7 +1,21 @@
-// Generated on 12/01/2025, 19:15:02 (EST)
-// Total records: 843
+// Generated on 12/01/2025, 19:30:01 (EST)
+// Total records: 845
 
 export const games = [
+  {
+    "id": "80828651-fa33-4df6-bfe3-fbb6752f5b9a",
+    "name": "Family Christmas Party",
+    "creatorId": "101168091936330942779",
+    "creatorLastName": "Petrovic",
+    "createdAt": "12/01/2025, 19:23:16"
+  },
+  {
+    "id": "fdd65d5c-dd20-406b-980b-afe8b470f3e2",
+    "name": "Team 1of3 VS Team 2of3",
+    "creatorId": "115915408976791323899",
+    "creatorLastName": "Lasky",
+    "createdAt": "12/01/2025, 19:17:53"
+  },
   {
     "id": "0adb1287-b63b-4a79-8d8a-f9c19b0f76d2",
     "name": "Team 1of2 VS Team 2of2",
