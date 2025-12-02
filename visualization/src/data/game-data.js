@@ -1,7 +1,21 @@
-// Generated on 12/02/2025, 13:30:01 (EST)
-// Total records: 867
+// Generated on 12/02/2025, 13:45:01 (EST)
+// Total records: 869
 
 export const games = [
+  {
+    "id": "f322018b-de19-4b71-8109-af598d073230",
+    "name": "Play",
+    "creatorId": "115494300288633839577",
+    "creatorLastName": "Beltran",
+    "createdAt": "12/02/2025, 13:38:46"
+  },
+  {
+    "id": "3158aa76-5efa-473d-ae2e-2f784fe93fd6",
+    "name": "Christmas Family Feud",
+    "creatorId": "101127221165128575161",
+    "creatorLastName": "Fab",
+    "createdAt": "12/02/2025, 13:35:23"
+  },
   {
     "id": "d7802cec-a963-4984-b699-434b4d3f222c",
     "name": "FAST MONEY",
