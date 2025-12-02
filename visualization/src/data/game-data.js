@@ -1,7 +1,14 @@
-// Generated on 12/02/2025, 16:30:02 (EST)
-// Total records: 874
+// Generated on 12/02/2025, 16:45:01 (EST)
+// Total records: 875
 
 export const games = [
+  {
+    "id": "76f5afd2-58c0-47af-836b-87d6e4868c25",
+    "name": "test",
+    "creatorId": "100246298055175757401",
+    "creatorLastName": "Schultz",
+    "createdAt": "12/02/2025, 16:43:18"
+  },
   {
     "id": "a35ed5bd-eac9-4b0b-ad78-e5ed55e4c45a",
     "name": "hghg",
