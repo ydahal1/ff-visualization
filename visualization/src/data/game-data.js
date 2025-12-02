@@ -1,7 +1,14 @@
-// Generated on 12/02/2025, 12:15:01 (EST)
-// Total records: 864
+// Generated on 12/02/2025, 12:30:01 (EST)
+// Total records: 865
 
 export const games = [
+  {
+    "id": "912cef42-6749-4175-bcd9-38fd62ca76fa",
+    "name": "Christmas Family Fued",
+    "creatorId": "105911302471303899238",
+    "creatorLastName": "Creamery",
+    "createdAt": "12/02/2025, 12:28:17"
+  },
   {
     "id": "00a6b797-b246-4950-a3ce-06856611262e",
     "name": "MACHADO TECH_TRIVIA",
