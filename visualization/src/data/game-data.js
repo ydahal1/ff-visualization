@@ -1,7 +1,14 @@
-// Generated on 12/02/2025, 16:15:02 (EST)
-// Total records: 873
+// Generated on 12/02/2025, 16:30:02 (EST)
+// Total records: 874
 
 export const games = [
+  {
+    "id": "a35ed5bd-eac9-4b0b-ad78-e5ed55e4c45a",
+    "name": "hghg",
+    "creatorId": "114576444376220641730",
+    "creatorLastName": "Burkhalter",
+    "createdAt": "12/02/2025, 16:25:19"
+  },
   {
     "id": "64f8c82e-c8e2-45bb-be2f-999d1ee1c88e",
     "name": "Psinergy Final question",
