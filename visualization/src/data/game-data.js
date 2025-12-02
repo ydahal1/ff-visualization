@@ -1,7 +1,14 @@
-// Generated on 12/02/2025, 14:45:02 (EST)
-// Total records: 869
+// Generated on 12/02/2025, 15:00:01 (EST)
+// Total records: 870
 
 export const games = [
+  {
+    "id": "3348081b-facb-405f-a6d1-f260873d8a5b",
+    "name": "Psinergy 01",
+    "creatorId": "103246963167280883176",
+    "creatorLastName": "Psinergy",
+    "createdAt": "12/02/2025, 14:55:07"
+  },
   {
     "id": "357f57a2-c401-40e6-8d6c-ed28c1cef11d",
     "name": "test",
