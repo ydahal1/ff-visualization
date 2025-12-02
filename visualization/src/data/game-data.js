@@ -1,7 +1,14 @@
-// Generated on 12/02/2025, 14:30:02 (EST)
-// Total records: 868
+// Generated on 12/02/2025, 14:45:02 (EST)
+// Total records: 869
 
 export const games = [
+  {
+    "id": "357f57a2-c401-40e6-8d6c-ed28c1cef11d",
+    "name": "test",
+    "creatorId": "117457608104234681776",
+    "creatorLastName": "Millet-Williams",
+    "createdAt": "12/02/2025, 14:43:06"
+  },
   {
     "id": "93e1335b-1e0a-446d-a706-ed86497710d4",
     "name": "Small Group Christmas Party",
