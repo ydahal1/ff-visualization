@@ -1,7 +1,12 @@
-// Generated on 12/02/2025, 04:45:01 (EST)
-// Total records: 607
+// Generated on 12/02/2025, 05:00:01 (EST)
+// Total records: 608
 
 export const users = [
+  {
+    "id": "100986736962458899900",
+    "lName": "Feodorów",
+    "createdAt": "12/02/2025, 04:52:38"
+  },
   {
     "id": "118307833436854833401",
     "lName": "Villanueva",
