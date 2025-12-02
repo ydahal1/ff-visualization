@@ -1,7 +1,14 @@
-// Generated on 12/02/2025, 01:00:01 (EST)
-// Total records: 851
+// Generated on 12/02/2025, 01:15:02 (EST)
+// Total records: 852
 
 export const games = [
+  {
+    "id": "e9235500-6027-4a3d-a550-afe108628d66",
+    "name": "Countdown to Christmas 2",
+    "creatorId": "117482071694949051879",
+    "creatorLastName": "Martinson",
+    "createdAt": "12/02/2025, 01:12:04"
+  },
   {
     "id": "4730d36f-8f81-43c3-87a8-f6b73615982e",
     "name": "Countdown to Christmas 1",
