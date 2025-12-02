@@ -1,7 +1,14 @@
-// Generated on 12/02/2025, 11:00:01 (EST)
-// Total records: 856
+// Generated on 12/02/2025, 11:15:02 (EST)
+// Total records: 857
 
 export const games = [
+  {
+    "id": "e68c3d42-9114-46f7-8a3b-ad7d623ee7b9",
+    "name": "trend",
+    "creatorId": "113510425134284538471",
+    "creatorLastName": "galang",
+    "createdAt": "12/02/2025, 11:01:12"
+  },
   {
     "id": "b2c83adb-58a3-4636-a31e-2f4888600283",
     "name": "A&P2 Review 5",
