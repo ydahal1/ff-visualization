@@ -1,7 +1,14 @@
-// Generated on 12/02/2025, 12:30:01 (EST)
-// Total records: 865
+// Generated on 12/02/2025, 12:45:01 (EST)
+// Total records: 866
 
 export const games = [
+  {
+    "id": "407779ef-5886-441d-92ce-b118bc7fbc06",
+    "name": "HR Fued",
+    "creatorId": "104899184388322708116",
+    "creatorLastName": "Kuruvilla",
+    "createdAt": "12/02/2025, 12:33:29"
+  },
   {
     "id": "912cef42-6749-4175-bcd9-38fd62ca76fa",
     "name": "Christmas Family Fued",
