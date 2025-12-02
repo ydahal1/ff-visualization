@@ -1,7 +1,21 @@
-// Generated on 12/01/2025, 21:30:02 (EST)
-// Total records: 845
+// Generated on 12/01/2025, 21:45:02 (EST)
+// Total records: 847
 
 export const games = [
+  {
+    "id": "cf9d716e-e31e-41f0-beaa-e03867e80595",
+    "name": "GAME SAMPLE",
+    "creatorId": "109278414063437884165",
+    "creatorLastName": "Vargas",
+    "createdAt": "12/01/2025, 21:34:32"
+  },
+  {
+    "id": "a36af974-8623-4c12-94ae-63d90d02bb2a",
+    "name": "Blue Lock Family Fued",
+    "creatorId": "117893181385800292665",
+    "creatorLastName": "NoLife",
+    "createdAt": "12/01/2025, 21:33:05"
+  },
   {
     "id": "1276a98f-bd19-45d4-a297-13025baa0afb",
     "name": "Family Feud Game 4",
