@@ -1,7 +1,21 @@
-// Generated on 12/02/2025, 24:15:01 (EST)
-// Total records: 848
+// Generated on 12/02/2025, 24:30:01 (EST)
+// Total records: 850
 
 export const games = [
+  {
+    "id": "34066389-3794-43be-a75f-ddc8eef3576d",
+    "name": "Psinergy Test",
+    "creatorId": "103246963167280883176",
+    "creatorLastName": "Psinergy",
+    "createdAt": "12/02/2025, 24:21:46"
+  },
+  {
+    "id": "2b7a9640-6e45-41c3-b292-337f5c8e4749",
+    "name": "Game 2",
+    "creatorId": "118241970879166505212",
+    "creatorLastName": "Hansen",
+    "createdAt": "12/02/2025, 24:16:32"
+  },
   {
     "id": "833ad7ed-58d4-4e36-a79c-48a16fbded77",
     "name": "Game 1",
