@@ -1,20 +1,20 @@
-// Generated on 12/02/2025, 15:30:01 (EST)
+// Generated on 12/02/2025, 15:45:01 (EST)
 // Total records: 869
 
 export const games = [
+  {
+    "id": "ba2acb5d-c2c4-4ac2-b0b0-397c2ea0b3e9",
+    "name": "Path Chat",
+    "creatorId": "103659021941731423469",
+    "creatorLastName": "Henry",
+    "createdAt": "12/02/2025, 15:39:38"
+  },
   {
     "id": "1cd46446-b2c9-446c-a3b7-c267d6bd0540",
     "name": "Family Feud",
     "creatorId": "116083676053756983775",
     "creatorLastName": "Bratton",
     "createdAt": "12/02/2025, 15:28:01"
-  },
-  {
-    "id": "3348081b-facb-405f-a6d1-f260873d8a5b",
-    "name": "Psinergy 01",
-    "creatorId": "103246963167280883176",
-    "creatorLastName": "Psinergy",
-    "createdAt": "12/02/2025, 14:55:07"
   },
   {
     "id": "93e1335b-1e0a-446d-a706-ed86497710d4",
