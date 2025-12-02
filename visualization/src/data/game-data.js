@@ -1,7 +1,21 @@
-// Generated on 12/02/2025, 16:00:02 (EST)
-// Total records: 871
+// Generated on 12/02/2025, 16:15:02 (EST)
+// Total records: 873
 
 export const games = [
+  {
+    "id": "64f8c82e-c8e2-45bb-be2f-999d1ee1c88e",
+    "name": "Psinergy Final question",
+    "creatorId": "103246963167280883176",
+    "creatorLastName": "Psinergy",
+    "createdAt": "12/02/2025, 16:03:31"
+  },
+  {
+    "id": "075f2d51-7706-4d6a-ac62-165d291eaed6",
+    "name": "Psinergy Feud Round 2",
+    "creatorId": "103246963167280883176",
+    "creatorLastName": "Psinergy",
+    "createdAt": "12/02/2025, 16:00:20"
+  },
   {
     "id": "8dd9d5cf-8b14-4c51-a093-8d60de452618",
     "name": "Psinergy Feud Round 1",
