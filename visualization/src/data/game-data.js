@@ -1,5 +1,5 @@
-// Generated on 12/02/2025, 15:00:01 (EST)
-// Total records: 870
+// Generated on 12/02/2025, 15:15:01 (EST)
+// Total records: 868
 
 export const games = [
   {
@@ -8,13 +8,6 @@ export const games = [
     "creatorId": "103246963167280883176",
     "creatorLastName": "Psinergy",
     "createdAt": "12/02/2025, 14:55:07"
-  },
-  {
-    "id": "357f57a2-c401-40e6-8d6c-ed28c1cef11d",
-    "name": "test",
-    "creatorId": "117457608104234681776",
-    "creatorLastName": "Millet-Williams",
-    "createdAt": "12/02/2025, 14:43:06"
   },
   {
     "id": "93e1335b-1e0a-446d-a706-ed86497710d4",
@@ -2668,13 +2661,6 @@ export const games = [
     "creatorId": "102191045364898788218",
     "creatorLastName": "FERNANDEZ",
     "createdAt": "11/24/2025, 13:48:11"
-  },
-  {
-    "id": "a176dc97-35b6-4274-a949-456e0d552163",
-    "name": "1 VS 2",
-    "creatorId": "117457608104234681776",
-    "creatorLastName": "Millet-Williams",
-    "createdAt": "11/24/2025, 13:47:45"
   },
   {
     "id": "f006f8b3-c356-442c-94e2-2ca8dda67bd6",
