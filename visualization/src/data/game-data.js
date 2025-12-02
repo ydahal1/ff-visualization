@@ -1,14 +1,7 @@
-// Generated on 12/02/2025, 01:45:02 (EST)
-// Total records: 854
+// Generated on 12/02/2025, 02:00:02 (EST)
+// Total records: 853
 
 export const games = [
-  {
-    "id": "cbcee6bf-ff71-4116-a1d9-089f92090a9b",
-    "name": "Holiday party",
-    "creatorId": "115981354745393608945",
-    "creatorLastName": "Joseph",
-    "createdAt": "12/02/2025, 01:39:51"
-  },
   {
     "id": "e5875ebc-2772-41f5-9038-7ee1ee23d309",
     "name": "Countdown to Christmas 3",
