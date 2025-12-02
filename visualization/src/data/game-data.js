@@ -1,7 +1,14 @@
-// Generated on 12/02/2025, 13:00:02 (EST)
-// Total records: 866
+// Generated on 12/02/2025, 13:15:01 (EST)
+// Total records: 867
 
 export const games = [
+  {
+    "id": "d7802cec-a963-4984-b699-434b4d3f222c",
+    "name": "FAST MONEY",
+    "creatorId": "117482071694949051879",
+    "creatorLastName": "Martinson",
+    "createdAt": "12/02/2025, 13:05:08"
+  },
   {
     "id": "407779ef-5886-441d-92ce-b118bc7fbc06",
     "name": "HR Fued",
