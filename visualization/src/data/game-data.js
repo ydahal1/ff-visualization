@@ -1,7 +1,28 @@
-// Generated on 12/02/2025, 12:00:02 (EST)
-// Total records: 861
+// Generated on 12/02/2025, 12:15:01 (EST)
+// Total records: 864
 
 export const games = [
+  {
+    "id": "00a6b797-b246-4950-a3ce-06856611262e",
+    "name": "MACHADO TECH_TRIVIA",
+    "creatorId": "109973256596907290074",
+    "creatorLastName": "Renzella",
+    "createdAt": "12/02/2025, 12:13:40"
+  },
+  {
+    "id": "45f36a6f-1e0d-4ac9-a2b9-0e4aa4b10368",
+    "name": "Round 1",
+    "creatorId": "113393667981277475839",
+    "creatorLastName": "Marie",
+    "createdAt": "12/02/2025, 12:07:53"
+  },
+  {
+    "id": "1f9c9e02-e725-4845-ae01-ed326e5f9e77",
+    "name": "Family Feud",
+    "creatorId": "108090806005733268996",
+    "creatorLastName": "Pfaus",
+    "createdAt": "12/02/2025, 12:03:08"
+  },
   {
     "id": "51c3f8b6-fb27-4545-822f-8c290e7d0c88",
     "name": "Testing 1",
