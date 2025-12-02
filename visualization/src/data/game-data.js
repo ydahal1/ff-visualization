@@ -1,7 +1,21 @@
-// Generated on 12/01/2025, 19:45:01 (EST)
-// Total records: 845
+// Generated on 12/01/2025, 20:00:02 (EST)
+// Total records: 844
 
 export const games = [
+  {
+    "id": "5c273127-2853-4279-b1b3-70a00f744515",
+    "name": "Pure",
+    "creatorId": "106378732119640227934",
+    "creatorLastName": "Foster",
+    "createdAt": "12/01/2025, 19:56:00"
+  },
+  {
+    "id": "0550c141-a178-428a-8fc3-71b6b3554ddf",
+    "name": "MACHADO TECH TRIVIA",
+    "creatorId": "109973256596907290074",
+    "creatorLastName": "Renzella",
+    "createdAt": "12/01/2025, 19:55:51"
+  },
   {
     "id": "80828651-fa33-4df6-bfe3-fbb6752f5b9a",
     "name": "Family Christmas Party",
@@ -94,13 +108,6 @@ export const games = [
     "createdAt": "12/01/2025, 16:40:05"
   },
   {
-    "id": "8d91770c-c502-4b48-9087-c1abe25984cb",
-    "name": "Machado Trivia 3",
-    "creatorId": "109973256596907290074",
-    "creatorLastName": "Renzella",
-    "createdAt": "12/01/2025, 16:30:43"
-  },
-  {
     "id": "0aecc899-b49b-4c5e-8251-061edb423fe4",
     "name": "Corporate Family Feud 3",
     "creatorId": "111437564869994870066",
@@ -136,25 +143,11 @@ export const games = [
     "createdAt": "12/01/2025, 14:39:04"
   },
   {
-    "id": "d3c16361-0bd9-472e-af1b-6ae686d295ca",
-    "name": "Machado Trivia 2",
-    "creatorId": "109973256596907290074",
-    "creatorLastName": "Renzella",
-    "createdAt": "12/01/2025, 14:13:05"
-  },
-  {
     "id": "53e9af65-4cff-445f-a546-20d082fdec22",
     "name": "Test2",
     "creatorId": "112403571295716199898",
     "creatorLastName": "Smiley",
     "createdAt": "12/01/2025, 13:58:41"
-  },
-  {
-    "id": "f6207d52-4fa4-4d9d-b829-4774a4abdb33",
-    "name": "Machado Trivia",
-    "creatorId": "109973256596907290074",
-    "creatorLastName": "Renzella",
-    "createdAt": "12/01/2025, 13:53:55"
   },
   {
     "id": "51288fdb-5682-479e-ba84-cfeef483448b",
