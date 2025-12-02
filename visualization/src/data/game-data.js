@@ -1,7 +1,21 @@
-// Generated on 12/02/2025, 15:45:01 (EST)
-// Total records: 869
+// Generated on 12/02/2025, 16:00:02 (EST)
+// Total records: 871
 
 export const games = [
+  {
+    "id": "8dd9d5cf-8b14-4c51-a093-8d60de452618",
+    "name": "Psinergy Feud Round 1",
+    "creatorId": "103246963167280883176",
+    "creatorLastName": "Psinergy",
+    "createdAt": "12/02/2025, 15:56:48"
+  },
+  {
+    "id": "fe5d657e-797f-4205-9c17-4bde02258c1b",
+    "name": "Jamison Christmas",
+    "creatorId": "108329828015303286649",
+    "creatorLastName": "Lockhart",
+    "createdAt": "12/02/2025, 15:51:22"
+  },
   {
     "id": "ba2acb5d-c2c4-4ac2-b0b0-397c2ea0b3e9",
     "name": "Path Chat",
