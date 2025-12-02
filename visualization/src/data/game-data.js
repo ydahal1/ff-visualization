@@ -1,7 +1,14 @@
-// Generated on 12/02/2025, 18:15:01 (EST)
-// Total records: 878
+// Generated on 12/02/2025, 18:30:01 (EST)
+// Total records: 879
 
 export const games = [
+  {
+    "id": "0df68629-e8c1-445e-8eb4-8cbfa48c378e",
+    "name": "Improv",
+    "creatorId": "112099502222575529665",
+    "creatorLastName": "Boy",
+    "createdAt": "12/02/2025, 18:21:19"
+  },
   {
     "id": "3da06a99-4abf-4fc2-8dbd-174748928131",
     "name": "EmPATH Family Feud",
