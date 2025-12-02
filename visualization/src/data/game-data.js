@@ -1,13 +1,13 @@
-// Generated on 12/01/2025, 20:15:02 (EST)
+// Generated on 12/01/2025, 20:30:02 (EST)
 // Total records: 845
 
 export const games = [
   {
-    "id": "d54ffd8b-fb63-4a6e-b62c-c6f8dad5b4a6",
-    "name": "Family Feud",
-    "creatorId": "104580791028689477913",
-    "creatorLastName": "zielinski",
-    "createdAt": "12/01/2025, 20:10:36"
+    "id": "e483c91c-7c47-490b-b4bb-a83aa55b029e",
+    "name": "Beaver Feud",
+    "creatorId": "104301617569589447621",
+    "creatorLastName": "Egertson",
+    "createdAt": "12/01/2025, 20:21:51"
   },
   {
     "id": "5c273127-2853-4279-b1b3-70a00f744515",
