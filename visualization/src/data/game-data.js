@@ -1,7 +1,21 @@
-// Generated on 12/01/2025, 18:45:01 (EST)
-// Total records: 843
+// Generated on 12/01/2025, 19:00:01 (EST)
+// Total records: 842
 
 export const games = [
+  {
+    "id": "6c6f0cc3-9817-44dd-8551-d9fa4c749749",
+    "name": "Team 1 VS Team 2",
+    "creatorId": "115915408976791323899",
+    "creatorLastName": "Lasky",
+    "createdAt": "12/01/2025, 18:59:14"
+  },
+  {
+    "id": "ca36a463-4bc0-4e38-b43f-56b14b5754ac",
+    "name": "Caste",
+    "creatorId": "106378732119640227934",
+    "creatorLastName": "Foster",
+    "createdAt": "12/01/2025, 18:56:26"
+  },
   {
     "id": "5016eefe-a10e-4394-b2ee-360d8a58f984",
     "name": "bb",
@@ -45,13 +59,6 @@ export const games = [
     "createdAt": "12/01/2025, 17:13:41"
   },
   {
-    "id": "23e4c763-cdb1-4fbb-8a94-3298d4cec81c",
-    "name": "Pure",
-    "creatorId": "106378732119640227934",
-    "creatorLastName": "Foster",
-    "createdAt": "12/01/2025, 16:45:03"
-  },
-  {
     "id": "49b49223-8198-4260-87cc-b066bb3cf528",
     "name": "USAHS Holiday Party 2025 2",
     "creatorId": "104309997023887543167",
@@ -64,13 +71,6 @@ export const games = [
     "creatorId": "104309997023887543167",
     "creatorLastName": "Cummings",
     "createdAt": "12/01/2025, 16:40:05"
-  },
-  {
-    "id": "c3df118f-8211-432d-aa55-21a1fe31d32e",
-    "name": "Caste",
-    "creatorId": "106378732119640227934",
-    "creatorLastName": "Foster",
-    "createdAt": "12/01/2025, 16:32:55"
   },
   {
     "id": "8d91770c-c502-4b48-9087-c1abe25984cb",
@@ -1660,13 +1660,6 @@ export const games = [
     "creatorId": "113958919273172769674",
     "creatorLastName": "Zadina",
     "createdAt": "11/26/2025, 17:46:16"
-  },
-  {
-    "id": "314decb1-2861-4c9a-99ec-523cd0048c55",
-    "name": "A VS B",
-    "creatorId": "115915408976791323899",
-    "creatorLastName": "Lasky",
-    "createdAt": "11/26/2025, 17:24:46"
   },
   {
     "id": "adf7838b-03fe-49ba-ad52-622f32c11a38",
