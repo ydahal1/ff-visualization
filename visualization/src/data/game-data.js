@@ -1,7 +1,14 @@
-// Generated on 12/02/2025, 14:15:02 (EST)
+// Generated on 12/02/2025, 14:30:02 (EST)
 // Total records: 868
 
 export const games = [
+  {
+    "id": "93e1335b-1e0a-446d-a706-ed86497710d4",
+    "name": "Small Group Christmas Party",
+    "creatorId": "100728745983853645604",
+    "creatorLastName": "Clatterbuck",
+    "createdAt": "12/02/2025, 14:24:10"
+  },
   {
     "id": "3158aa76-5efa-473d-ae2e-2f784fe93fd6",
     "name": "Christmas Family Feud",
@@ -127,13 +134,6 @@ export const games = [
     "creatorId": "117482071694949051879",
     "creatorLastName": "Martinson",
     "createdAt": "12/02/2025, 24:52:07"
-  },
-  {
-    "id": "34066389-3794-43be-a75f-ddc8eef3576d",
-    "name": "Psinergy Test",
-    "creatorId": "103246963167280883176",
-    "creatorLastName": "Psinergy",
-    "createdAt": "12/02/2025, 24:21:46"
   },
   {
     "id": "2b7a9640-6e45-41c3-b292-337f5c8e4749",
