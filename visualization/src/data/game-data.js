@@ -1,7 +1,14 @@
-// Generated on 12/02/2025, 03:45:02 (EST)
-// Total records: 854
+// Generated on 12/02/2025, 04:00:01 (EST)
+// Total records: 855
 
 export const games = [
+  {
+    "id": "2b1f1395-5ae8-4eb1-b7a0-bda2d38ed8b8",
+    "name": "RIZZY",
+    "creatorId": "118307833436854833401",
+    "creatorLastName": "Villanueva",
+    "createdAt": "12/02/2025, 03:49:34"
+  },
   {
     "id": "e1d568d2-024d-423a-9e0e-5839dd54b1bf",
     "name": "Countdown to Christmas 4",
