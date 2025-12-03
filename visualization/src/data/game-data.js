@@ -1,7 +1,21 @@
-// Generated on 12/02/2025, 21:45:01 (EST)
-// Total records: 888
+// Generated on 12/02/2025, 22:00:01 (EST)
+// Total records: 889
 
 export const games = [
+  {
+    "id": "32ff1f27-23d4-435f-8d1c-b3ef150922ab",
+    "name": "Hiring Manager Family Feud",
+    "creatorId": "114155244304369600931",
+    "creatorLastName": "Leahy",
+    "createdAt": "12/02/2025, 21:55:40"
+  },
+  {
+    "id": "27dfdcd2-96ad-46cc-b37f-d77bc83cad2e",
+    "name": "Pure 1",
+    "creatorId": "106378732119640227934",
+    "creatorLastName": "Foster",
+    "createdAt": "12/02/2025, 21:45:37"
+  },
   {
     "id": "ee081606-2e3b-4fc2-9f44-d4bb64ea1683",
     "name": "OHANA FEUD",
@@ -330,13 +344,6 @@ export const games = [
     "creatorId": "104301617569589447621",
     "creatorLastName": "Egertson",
     "createdAt": "12/01/2025, 20:21:51"
-  },
-  {
-    "id": "5c273127-2853-4279-b1b3-70a00f744515",
-    "name": "Pure",
-    "creatorId": "106378732119640227934",
-    "creatorLastName": "Foster",
-    "createdAt": "12/01/2025, 19:56:00"
   },
   {
     "id": "0550c141-a178-428a-8fc3-71b6b3554ddf",
