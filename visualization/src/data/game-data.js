@@ -1,7 +1,28 @@
-// Generated on 12/02/2025, 21:30:01 (EST)
-// Total records: 885
+// Generated on 12/02/2025, 21:45:01 (EST)
+// Total records: 888
 
 export const games = [
+  {
+    "id": "ee081606-2e3b-4fc2-9f44-d4bb64ea1683",
+    "name": "OHANA FEUD",
+    "creatorId": "116317948337562145847",
+    "creatorLastName": "Kamaile",
+    "createdAt": "12/02/2025, 21:41:27"
+  },
+  {
+    "id": "7489221a-5287-4f4f-994c-d3d04a0af63a",
+    "name": "Winter Family Feud",
+    "creatorId": "110083334151292232746",
+    "creatorLastName": "Beilstein",
+    "createdAt": "12/02/2025, 21:37:28"
+  },
+  {
+    "id": "3e15c280-b006-4f3c-894e-994676f34b53",
+    "name": "Holiday Party 2025",
+    "creatorId": "105357720757445355062",
+    "creatorLastName": "Sandbloom",
+    "createdAt": "12/02/2025, 21:30:24"
+  },
   {
     "id": "58a2fb25-714c-4d70-aca1-1a68de63f412",
     "name": "League of legends",
