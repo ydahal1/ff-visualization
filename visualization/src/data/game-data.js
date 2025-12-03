@@ -1,7 +1,21 @@
-// Generated on 12/02/2025, 21:15:01 (EST)
-// Total records: 883
+// Generated on 12/02/2025, 21:30:01 (EST)
+// Total records: 885
 
 export const games = [
+  {
+    "id": "58a2fb25-714c-4d70-aca1-1a68de63f412",
+    "name": "League of legends",
+    "creatorId": "115426073577645984791",
+    "creatorLastName": "League",
+    "createdAt": "12/02/2025, 21:22:58"
+  },
+  {
+    "id": "89c06c3f-1242-4fe5-b7fb-9442581ea7ed",
+    "name": "sample",
+    "creatorId": "115925134747190715998",
+    "creatorLastName": "Javier",
+    "createdAt": "12/02/2025, 21:19:47"
+  },
   {
     "id": "61e53b08-96ff-4b51-9801-d924804238bc",
     "name": "Christmas Edition!",
