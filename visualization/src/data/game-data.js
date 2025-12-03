@@ -1,7 +1,14 @@
-// Generated on 12/03/2025, 05:15:02 (EST)
-// Total records: 895
+// Generated on 12/03/2025, 05:30:02 (EST)
+// Total records: 896
 
 export const games = [
+  {
+    "id": "357a447b-c4f3-4230-a9bc-d6c3fcf4dfd4",
+    "name": "FAMILY FEUD - MARRIOTT EDITION",
+    "creatorId": "102947534295305498512",
+    "creatorLastName": "Bulatao",
+    "createdAt": "12/03/2025, 05:25:23"
+  },
   {
     "id": "27e1b6b1-4374-4661-9e24-5bc6ec76d944",
     "name": "Winning Round",
