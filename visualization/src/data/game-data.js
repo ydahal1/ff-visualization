@@ -1,7 +1,14 @@
-// Generated on 12/03/2025, 08:00:02 (EST)
-// Total records: 902
+// Generated on 12/03/2025, 08:15:01 (EST)
+// Total records: 903
 
 export const games = [
+  {
+    "id": "0f9b6758-15e4-455d-9b9a-0b9cf724b6d7",
+    "name": "Family Feud Christmas Party",
+    "creatorId": "116083676053756983775",
+    "creatorLastName": "Bratton",
+    "createdAt": "12/03/2025, 08:13:39"
+  },
   {
     "id": "bd39d5f4-0fe3-4318-afe2-e7b5f7a7ca40",
     "name": "Game 4",
