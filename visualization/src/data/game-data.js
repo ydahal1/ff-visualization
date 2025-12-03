@@ -1,7 +1,14 @@
-// Generated on 12/03/2025, 16:45:01 (EST)
-// Total records: 936
+// Generated on 12/03/2025, 17:00:02 (EST)
+// Total records: 937
 
 export const games = [
+  {
+    "id": "df7046d6-ab13-4538-a7d3-2b27191f083b",
+    "name": "LIVE! FAMILY FEUD",
+    "creatorId": "115558373009301738772",
+    "creatorLastName": "Gettemy",
+    "createdAt": "12/03/2025, 16:58:23"
+  },
   {
     "id": "6b1290cb-7722-456c-a434-b14b3e514d93",
     "name": "⭐ CATEGORY 5: Literary Skills",
