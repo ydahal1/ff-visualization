@@ -1,7 +1,14 @@
-// Generated on 12/02/2025, 22:00:01 (EST)
+// Generated on 12/02/2025, 22:15:02 (EST)
 // Total records: 889
 
 export const games = [
+  {
+    "id": "edaae01a-dc49-46af-a78d-d33aafb9ac42",
+    "name": "Holiday party",
+    "creatorId": "116750955706442875501",
+    "creatorLastName": "Schrimper",
+    "createdAt": "12/02/2025, 22:14:47"
+  },
   {
     "id": "32ff1f27-23d4-435f-8d1c-b3ef150922ab",
     "name": "Hiring Manager Family Feud",
@@ -43,13 +50,6 @@ export const games = [
     "creatorId": "115426073577645984791",
     "creatorLastName": "League",
     "createdAt": "12/02/2025, 21:22:58"
-  },
-  {
-    "id": "89c06c3f-1242-4fe5-b7fb-9442581ea7ed",
-    "name": "sample",
-    "creatorId": "115925134747190715998",
-    "creatorLastName": "Javier",
-    "createdAt": "12/02/2025, 21:19:47"
   },
   {
     "id": "61e53b08-96ff-4b51-9801-d924804238bc",
