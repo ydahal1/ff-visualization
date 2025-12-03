@@ -1,7 +1,28 @@
-// Generated on 12/03/2025, 07:00:01 (EST)
-// Total records: 897
+// Generated on 12/03/2025, 07:15:02 (EST)
+// Total records: 900
 
 export const games = [
+  {
+    "id": "5123d1e5-f545-44e8-bb3a-269009948f75",
+    "name": "Game 2",
+    "creatorId": "113423960315136554349",
+    "creatorLastName": "Santos",
+    "createdAt": "12/03/2025, 07:13:19"
+  },
+  {
+    "id": "833f0023-5cde-4f12-85a3-3baa26634c07",
+    "name": "Game 1",
+    "creatorId": "113423960315136554349",
+    "creatorLastName": "Santos",
+    "createdAt": "12/03/2025, 07:11:24"
+  },
+  {
+    "id": "f26b4914-aad8-4183-a0a7-390f209d6eef",
+    "name": "NAStalgic Family Feud",
+    "creatorId": "112078187579050215289",
+    "creatorLastName": "Hidalgo",
+    "createdAt": "12/03/2025, 07:01:26"
+  },
   {
     "id": "ca568c6c-c9af-497a-8a78-c219664700bc",
     "name": "🎉FAMILY FEUD - MARRIOTT EDITION .",
