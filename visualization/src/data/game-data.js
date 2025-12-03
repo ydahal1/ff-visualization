@@ -1,7 +1,14 @@
-// Generated on 12/03/2025, 11:15:02 (EST)
-// Total records: 907
+// Generated on 12/03/2025, 11:30:02 (EST)
+// Total records: 908
 
 export const games = [
+  {
+    "id": "d6c67278-b5bb-4e44-9b46-93cdeb01059a",
+    "name": "SQL Query Study Game",
+    "creatorId": "102474317910981016980",
+    "creatorLastName": "Ortiz",
+    "createdAt": "12/03/2025, 11:19:38"
+  },
   {
     "id": "32fbfcca-bdb5-442c-b7b7-fa3515d71f71",
     "name": "game",
