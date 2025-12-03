@@ -1,7 +1,21 @@
-// Generated on 12/03/2025, 11:30:02 (EST)
-// Total records: 908
+// Generated on 12/03/2025, 11:45:02 (EST)
+// Total records: 910
 
 export const games = [
+  {
+    "id": "1363841b-bfdf-41f8-a2b6-1d75d8ca3316",
+    "name": "ITSS Feud",
+    "creatorId": "113415829915315783894",
+    "creatorLastName": "Taylor",
+    "createdAt": "12/03/2025, 11:31:14"
+  },
+  {
+    "id": "41eaf54a-e939-4ee5-93a8-3d93edce5788",
+    "name": "CRC Family Feud",
+    "creatorId": "105675783611125120049",
+    "creatorLastName": "Yang",
+    "createdAt": "12/03/2025, 11:30:21"
+  },
   {
     "id": "d6c67278-b5bb-4e44-9b46-93cdeb01059a",
     "name": "SQL Query Study Game",
