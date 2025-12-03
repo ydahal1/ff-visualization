@@ -1,7 +1,21 @@
-// Generated on 12/02/2025, 18:45:01 (EST)
-// Total records: 879
+// Generated on 12/02/2025, 19:00:02 (EST)
+// Total records: 881
 
 export const games = [
+  {
+    "id": "5be9d49e-9958-459b-a0ad-ffc2ad79143c",
+    "name": "3grdwgv3qw",
+    "creatorId": "115136242275773838377",
+    "creatorLastName": "Tse",
+    "createdAt": "12/02/2025, 18:56:05"
+  },
+  {
+    "id": "7e7b20ce-2606-4a53-af0f-0c3609523f79",
+    "name": "Psinergy Feud Final Question",
+    "creatorId": "103246963167280883176",
+    "creatorLastName": "Psinergy",
+    "createdAt": "12/02/2025, 18:47:29"
+  },
   {
     "id": "0c5e5570-269a-4158-bdd0-4af81baf4954",
     "name": "Psinergy Feud part 2",
