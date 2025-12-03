@@ -1,7 +1,14 @@
-// Generated on 12/02/2025, 22:15:02 (EST)
+// Generated on 12/02/2025, 22:30:02 (EST)
 // Total records: 889
 
 export const games = [
+  {
+    "id": "95e6af19-07ab-400a-9a24-d824f82c23ba",
+    "name": "FinalFinal question",
+    "creatorId": "103246963167280883176",
+    "creatorLastName": "Psinergy",
+    "createdAt": "12/02/2025, 22:29:05"
+  },
   {
     "id": "edaae01a-dc49-46af-a78d-d33aafb9ac42",
     "name": "Holiday party",
@@ -85,13 +92,6 @@ export const games = [
     "creatorId": "103246963167280883176",
     "creatorLastName": "Psinergy",
     "createdAt": "12/02/2025, 18:42:25"
-  },
-  {
-    "id": "33fec150-415b-4046-9804-c58e879b35f7",
-    "name": "Christmas",
-    "creatorId": "104563049085655973333",
-    "creatorLastName": "Sarabando",
-    "createdAt": "12/02/2025, 18:39:09"
   },
   {
     "id": "24465f36-3a73-4eed-a002-2797a800e0a8",
