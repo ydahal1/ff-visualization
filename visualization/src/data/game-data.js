@@ -1,7 +1,14 @@
-// Generated on 12/02/2025, 19:45:02 (EST)
-// Total records: 882
+// Generated on 12/02/2025, 20:00:02 (EST)
+// Total records: 883
 
 export const games = [
+  {
+    "id": "61e53b08-96ff-4b51-9801-d924804238bc",
+    "name": "Christmas Edition!",
+    "creatorId": "101795711977678604094",
+    "creatorLastName": "hatfield",
+    "createdAt": "12/02/2025, 19:56:36"
+  },
   {
     "id": "aa1b5000-9cbf-4fcb-a3c8-4f1e3179c188",
     "name": "MVMT v1",
