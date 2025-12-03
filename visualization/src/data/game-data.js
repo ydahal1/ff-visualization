@@ -1,7 +1,42 @@
-// Generated on 12/03/2025, 16:00:01 (EST)
-// Total records: 930
+// Generated on 12/03/2025, 16:15:02 (EST)
+// Total records: 935
 
 export const games = [
+  {
+    "id": "63c5857a-84c8-4cb9-a8ed-a2455c84d734",
+    "name": "Game 1",
+    "creatorId": "114273072265548047004",
+    "creatorLastName": "Harvey",
+    "createdAt": "12/03/2025, 16:13:47"
+  },
+  {
+    "id": "5ded80aa-8975-435d-a358-a2d33e6c150f",
+    "name": "Kalėdos II",
+    "creatorId": "114959054136987472467",
+    "creatorLastName": "Nikitinė",
+    "createdAt": "12/03/2025, 16:12:41"
+  },
+  {
+    "id": "b66cc481-7805-462e-bc69-0424e20d12df",
+    "name": "CATEGORY 4: Comparing All Texts",
+    "creatorId": "112148998311536143510",
+    "creatorLastName": "naji",
+    "createdAt": "12/03/2025, 16:12:17"
+  },
+  {
+    "id": "5c075007-35fe-4f45-8e39-27dbdedffe9b",
+    "name": "⭐ CATEGORY 3: My Friend, Walt Whitman",
+    "creatorId": "112148998311536143510",
+    "creatorLastName": "naji",
+    "createdAt": "12/03/2025, 16:03:27"
+  },
+  {
+    "id": "9c729336-8b59-4ec7-a84a-5b75b13f78d2",
+    "name": "Christmas Feud",
+    "creatorId": "107416188191882898354",
+    "creatorLastName": "Santellana",
+    "createdAt": "12/03/2025, 16:02:35"
+  },
   {
     "id": "bef1a3f1-d23e-41f1-8d06-f58e6b4c7473",
     "name": "⭐ CATEGORY 2: Song of Myself",
