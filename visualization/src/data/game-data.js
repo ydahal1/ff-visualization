@@ -1,7 +1,21 @@
-// Generated on 12/03/2025, 14:30:01 (EST)
-// Total records: 918
+// Generated on 12/03/2025, 14:45:02 (EST)
+// Total records: 920
 
 export const games = [
+  {
+    "id": "ec7fa3db-97c9-429e-99c2-16ff05484e98",
+    "name": "Swift Family Feud - CS",
+    "creatorId": "106936220563459585082",
+    "creatorLastName": "Sanchez",
+    "createdAt": "12/03/2025, 14:35:58"
+  },
+  {
+    "id": "c13aaa3d-0c36-4c03-84fe-c50416e47fcd",
+    "name": "Game",
+    "creatorId": "104301617569589447621",
+    "creatorLastName": "Egertson",
+    "createdAt": "12/03/2025, 14:32:49"
+  },
   {
     "id": "273e6043-a842-467c-a0db-65d711bac683",
     "name": "Swift Family Feud",
