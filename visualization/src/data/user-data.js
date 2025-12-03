@@ -1,7 +1,27 @@
-// Generated on 12/03/2025, 14:15:00 (EST)
-// Total records: 664
+// Generated on 12/03/2025, 14:30:00 (EST)
+// Total records: 668
 
 export const users = [
+  {
+    "id": "115201747109246978482",
+    "lName": "Wiederholt",
+    "createdAt": "12/03/2025, 14:27:48"
+  },
+  {
+    "id": "106936220563459585082",
+    "lName": "Sanchez",
+    "createdAt": "12/03/2025, 14:27:40"
+  },
+  {
+    "id": "113235408286072020376",
+    "lName": "Stockwell",
+    "createdAt": "12/03/2025, 14:25:46"
+  },
+  {
+    "id": "107865619912142505696",
+    "lName": "Easterwood",
+    "createdAt": "12/03/2025, 14:25:34"
+  },
   {
     "id": "102355797271565732386",
     "lName": "-",
