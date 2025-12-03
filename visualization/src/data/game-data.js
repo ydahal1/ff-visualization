@@ -1,13 +1,20 @@
-// Generated on 12/03/2025, 05:30:02 (EST)
-// Total records: 896
+// Generated on 12/03/2025, 05:45:01 (EST)
+// Total records: 897
 
 export const games = [
   {
-    "id": "357a447b-c4f3-4230-a9bc-d6c3fcf4dfd4",
-    "name": "FAMILY FEUD - MARRIOTT EDITION",
+    "id": "55051b26-43c2-42d9-a182-6c84ee936266",
+    "name": "Family feud",
+    "creatorId": "116902232678389108307",
+    "creatorLastName": "ERSON L.",
+    "createdAt": "12/03/2025, 05:30:25"
+  },
+  {
+    "id": "e93cb4de-b65d-4f32-983a-68f43a2fab5a",
+    "name": "🎉FAMILY FEUD - MARRIOTT EDITION",
     "creatorId": "102947534295305498512",
     "creatorLastName": "Bulatao",
-    "createdAt": "12/03/2025, 05:25:23"
+    "createdAt": "12/03/2025, 05:30:21"
   },
   {
     "id": "27e1b6b1-4374-4661-9e24-5bc6ec76d944",
