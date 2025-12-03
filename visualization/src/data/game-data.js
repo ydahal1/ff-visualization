@@ -1,7 +1,14 @@
-// Generated on 12/03/2025, 24:30:02 (EST)
-// Total records: 892
+// Generated on 12/03/2025, 24:45:02 (EST)
+// Total records: 893
 
 export const games = [
+  {
+    "id": "387a45cc-c1b9-4c77-8b2b-9888154414df",
+    "name": "Pure",
+    "creatorId": "106378732119640227934",
+    "creatorLastName": "Foster",
+    "createdAt": "12/03/2025, 24:37:24"
+  },
   {
     "id": "3e434645-e821-4410-a9e1-a1e354d69088",
     "name": "matt and max test",
