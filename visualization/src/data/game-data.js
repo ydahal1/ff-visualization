@@ -1,7 +1,14 @@
-// Generated on 12/03/2025, 16:15:02 (EST)
-// Total records: 935
+// Generated on 12/03/2025, 16:30:01 (EST)
+// Total records: 936
 
 export const games = [
+  {
+    "id": "6b1290cb-7722-456c-a434-b14b3e514d93",
+    "name": "⭐ CATEGORY 5: Literary Skills",
+    "creatorId": "112148998311536143510",
+    "creatorLastName": "naji",
+    "createdAt": "12/03/2025, 16:17:44"
+  },
   {
     "id": "63c5857a-84c8-4cb9-a8ed-a2455c84d734",
     "name": "Game 1",
