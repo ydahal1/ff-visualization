@@ -1,7 +1,28 @@
-// Generated on 12/03/2025, 15:15:02 (EST)
-// Total records: 925
+// Generated on 12/03/2025, 15:30:02 (EST)
+// Total records: 928
 
 export const games = [
+  {
+    "id": "b6e8de99-c17a-431c-bb4f-5c15ae359be6",
+    "name": "Christmas Fued",
+    "creatorId": "104561019340604601093",
+    "creatorLastName": "Mahoney",
+    "createdAt": "12/03/2025, 15:27:19"
+  },
+  {
+    "id": "37376428-813e-4804-8796-3ac30ddbae49",
+    "name": "Round 1",
+    "creatorId": "117760468370553413865",
+    "creatorLastName": "Hawkins",
+    "createdAt": "12/03/2025, 15:21:44"
+  },
+  {
+    "id": "335e4bea-ed24-4798-a8c6-1496d0ad9193",
+    "name": "⭐ CATEGORY 1: Soldier of the Crown",
+    "creatorId": "112148998311536143510",
+    "creatorLastName": "naji",
+    "createdAt": "12/03/2025, 15:18:32"
+  },
   {
     "id": "f2578715-6a85-47df-be2d-4e4b16431723",
     "name": "Round 3",
