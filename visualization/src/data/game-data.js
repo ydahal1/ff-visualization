@@ -1,7 +1,28 @@
-// Generated on 12/03/2025, 17:15:02 (EST)
-// Total records: 937
+// Generated on 12/03/2025, 17:30:01 (EST)
+// Total records: 940
 
 export const games = [
+  {
+    "id": "ec9d9a22-6fbd-45ae-a105-5a99bca030d3",
+    "name": "Random",
+    "creatorId": "116375840246624415303",
+    "creatorLastName": "Madden",
+    "createdAt": "12/03/2025, 17:25:58"
+  },
+  {
+    "id": "e3588762-f2d3-4cf8-b749-403e1741cdf6",
+    "name": "Random",
+    "creatorId": "113393667981277475839",
+    "creatorLastName": "Marie",
+    "createdAt": "12/03/2025, 17:24:24"
+  },
+  {
+    "id": "e3b52b63-5745-4d2c-94c4-ade61ebc8942",
+    "name": "Test run",
+    "creatorId": "113393667981277475839",
+    "creatorLastName": "Marie",
+    "createdAt": "12/03/2025, 17:17:07"
+  },
   {
     "id": "df7046d6-ab13-4538-a7d3-2b27191f083b",
     "name": "LIVE! FAMILY FEUD",
