@@ -1,14 +1,7 @@
-// Generated on 12/03/2025, 11:00:01 (EST)
-// Total records: 908
+// Generated on 12/03/2025, 11:15:02 (EST)
+// Total records: 907
 
 export const games = [
-  {
-    "id": "dd4b9fd1-2be3-41a7-9e5a-1ce8bf388b97",
-    "name": "SQL Practice",
-    "creatorId": "102474317910981016980",
-    "creatorLastName": "Ortiz",
-    "createdAt": "12/03/2025, 10:57:10"
-  },
   {
     "id": "32fbfcca-bdb5-442c-b7b7-fa3515d71f71",
     "name": "game",
