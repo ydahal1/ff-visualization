@@ -1,7 +1,21 @@
-// Generated on 12/03/2025, 15:45:01 (EST)
-// Total records: 928
+// Generated on 12/03/2025, 16:00:01 (EST)
+// Total records: 930
 
 export const games = [
+  {
+    "id": "bef1a3f1-d23e-41f1-8d06-f58e6b4c7473",
+    "name": "⭐ CATEGORY 2: Song of Myself",
+    "creatorId": "112148998311536143510",
+    "creatorLastName": "naji",
+    "createdAt": "12/03/2025, 15:58:42"
+  },
+  {
+    "id": "01a40f8e-e0c7-43a1-bc65-24baf43ad7ce",
+    "name": "Kalėdos",
+    "creatorId": "114959054136987472467",
+    "creatorLastName": "Nikitinė",
+    "createdAt": "12/03/2025, 15:56:54"
+  },
   {
     "id": "b6e8de99-c17a-431c-bb4f-5c15ae359be6",
     "name": "Christmas Fued",
