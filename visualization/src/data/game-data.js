@@ -1,7 +1,14 @@
-// Generated on 12/04/2025, 11:00:01 (EST)
-// Total records: 978
+// Generated on 12/04/2025, 11:15:01 (EST)
+// Total records: 979
 
 export const games = [
+  {
+    "id": "309b77a1-dd3d-4162-8116-148376e91409",
+    "name": "Random",
+    "creatorId": "102638363125990503770",
+    "creatorLastName": "Castaneda",
+    "createdAt": "12/04/2025, 11:14:18"
+  },
   {
     "id": "1bd44ab7-1225-4f46-92d2-3c3f8aa99a25",
     "name": "Christmas Feud",
