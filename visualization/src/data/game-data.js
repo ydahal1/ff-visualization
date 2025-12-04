@@ -1,7 +1,28 @@
-// Generated on 12/03/2025, 21:15:02 (EST)
-// Total records: 947
+// Generated on 12/03/2025, 21:30:02 (EST)
+// Total records: 950
 
 export const games = [
+  {
+    "id": "ef19655a-fc43-45df-9181-f52909ee1108",
+    "name": "Querelle de bureau 3",
+    "creatorId": "103899081844087061896",
+    "creatorLastName": "Gutierrez",
+    "createdAt": "12/03/2025, 21:28:12"
+  },
+  {
+    "id": "2df5f62a-3794-4be1-8ff4-bf5d1b42fbf2",
+    "name": "Querelle de bureau 2",
+    "creatorId": "103899081844087061896",
+    "creatorLastName": "Gutierrez",
+    "createdAt": "12/03/2025, 21:27:19"
+  },
+  {
+    "id": "ec10d572-35c7-43db-a3d7-8a2e83f11a13",
+    "name": "Querelle de bureau 1",
+    "creatorId": "103899081844087061896",
+    "creatorLastName": "Gutierrez",
+    "createdAt": "12/03/2025, 21:26:09"
+  },
   {
     "id": "da9543e5-936b-4c81-ad33-64f56fccf3b9",
     "name": "Small Group Christmas Party 3",
