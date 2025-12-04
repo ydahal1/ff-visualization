@@ -1,7 +1,28 @@
-// Generated on 12/04/2025, 12:00:02 (EST)
-// Total records: 979
+// Generated on 12/04/2025, 12:15:02 (EST)
+// Total records: 981
 
 export const games = [
+  {
+    "id": "4a8510ae-6206-4c6f-ae07-7c82626a6030",
+    "name": "Fun Friday 3",
+    "creatorId": "103317098814901156579",
+    "creatorLastName": "Nugent",
+    "createdAt": "12/04/2025, 12:13:17"
+  },
+  {
+    "id": "c66e715a-43cb-446a-bb02-230e4cad713e",
+    "name": "Fun Friday",
+    "creatorId": "103317098814901156579",
+    "creatorLastName": "Nugent",
+    "createdAt": "12/04/2025, 12:11:46"
+  },
+  {
+    "id": "7d4795cd-f136-4937-a4ed-5f992ccb0325",
+    "name": "Fun Friday round 2",
+    "creatorId": "103317098814901156579",
+    "creatorLastName": "Nugent",
+    "createdAt": "12/04/2025, 12:01:52"
+  },
   {
     "id": "309b77a1-dd3d-4162-8116-148376e91409",
     "name": "Random",
@@ -1863,13 +1884,6 @@ export const games = [
     "creatorId": "103978892139999309542",
     "creatorLastName": "Fish",
     "createdAt": "11/28/2025, 15:37:35"
-  },
-  {
-    "id": "1d7347a2-646f-4223-bbc4-02a848dd5420",
-    "name": "Fun Friday",
-    "creatorId": "103317098814901156579",
-    "creatorLastName": "Nugent",
-    "createdAt": "11/28/2025, 15:18:30"
   },
   {
     "id": "826bc9d1-44e0-4647-9818-57fde2e2f3a4",
