@@ -1,7 +1,14 @@
-// Generated on 12/04/2025, 05:45:01 (EST)
-// Total records: 958
+// Generated on 12/04/2025, 06:00:02 (EST)
+// Total records: 959
 
 export const games = [
+  {
+    "id": "c0261c3b-b7a8-4e29-871c-3c5d3b5219cc",
+    "name": "Finance Feud",
+    "creatorId": "118147015452955935504",
+    "creatorLastName": "Harmony",
+    "createdAt": "12/04/2025, 05:56:35"
+  },
   {
     "id": "ac887cdd-07e9-4deb-92a7-c692a5f05069",
     "name": "TRIAL",
