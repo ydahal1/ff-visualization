@@ -1,7 +1,14 @@
-// Generated on 12/04/2025, 15:15:02 (EST)
-// Total records: 992
+// Generated on 12/04/2025, 15:30:01 (EST)
+// Total records: 993
 
 export const games = [
+  {
+    "id": "c91de23b-051c-42ef-adc6-532990e8cff4",
+    "name": "Margus",
+    "creatorId": "113158632716107476686",
+    "creatorLastName": "Ojamets",
+    "createdAt": "12/04/2025, 15:22:31"
+  },
   {
     "id": "a1cae925-8000-4e73-aad6-fc56034ae8d6",
     "name": "Family Feud Cookie Edition",
