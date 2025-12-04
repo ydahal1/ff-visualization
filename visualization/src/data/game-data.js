@@ -1,7 +1,14 @@
-// Generated on 12/04/2025, 10:45:01 (EST)
-// Total records: 977
+// Generated on 12/04/2025, 11:00:01 (EST)
+// Total records: 978
 
 export const games = [
+  {
+    "id": "1bd44ab7-1225-4f46-92d2-3c3f8aa99a25",
+    "name": "Christmas Feud",
+    "creatorId": "100156677491870716825",
+    "creatorLastName": "Watts",
+    "createdAt": "12/04/2025, 10:54:27"
+  },
   {
     "id": "e4360fab-593b-4a0f-844a-8719e8e26a38",
     "name": "Tax Compliance Game 4",
