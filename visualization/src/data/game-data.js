@@ -1,7 +1,21 @@
-// Generated on 12/04/2025, 13:00:02 (EST)
-// Total records: 981
+// Generated on 12/04/2025, 13:15:01 (EST)
+// Total records: 983
 
 export const games = [
+  {
+    "id": "8c3ff6b2-acff-47cb-b998-5a0506b5fe14",
+    "name": "Test",
+    "creatorId": "112701262724874919066",
+    "creatorLastName": "M",
+    "createdAt": "12/04/2025, 13:04:20"
+  },
+  {
+    "id": "8dbd9fed-0724-40af-8306-22bf1d95caaf",
+    "name": "Family Feud",
+    "creatorId": "105675783611125120049",
+    "creatorLastName": "Yang",
+    "createdAt": "12/04/2025, 13:01:39"
+  },
   {
     "id": "ceb18ce2-97ce-43c0-9412-869406f643e3",
     "name": "Holiday Party Game",
