@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from "react";
-import { Tabs, Table, DatePicker, Space, Card, Statistic } from "antd";
+import { Tabs, Table, DatePicker, Space, Card, Statistic, Modal, Button } from "antd";
 import {
   LineChart,
   Line,
@@ -51,6 +51,8 @@ const UserStatistics = () => {
   });
   const [activeTab, setActiveTab] = useState("1");
   const [activeIndex, setActiveIndex] = useState(null);
+  const [modalVisible, setModalVisible] = useState(false);
+  const [selectedUser, setSelectedUser] = useState(null);
 
   // Get user data with games count
   const getUserData = () => {
@@ -680,6 +682,81 @@ const UserStatistics = () => {
     return cumulative.sort((a, b) => b.gameCount - a.gameCount);
   }, [gamesPerUserDistribution]);
 
+  // Returning users data
+  const returningUsers = useMemo(() => {
+    // Group games by user
+    const userGames = {};
+    games.forEach((game) => {
+      if (!userGames[game.creatorId]) {
+        userGames[game.creatorId] = {
+          lastName: game.creatorLastName,
+          games: [],
+        };
+      }
+      userGames[game.creatorId].games.push(game);
+    });
+
+    // Find users who created games on multiple different dates
+    const returningUsers = [];
+
+    Object.keys(userGames).forEach((creatorId) => {
+      const userGameList = userGames[creatorId].games;
+
+      // Extract unique dates (without time)
+      const uniqueDates = new Set(
+        userGameList.map((game) => game.createdAt.split(",")[0])
+      );
+
+      if (uniqueDates.size > 1) {
+        const userData = {
+          creatorId: creatorId,
+          lastName: userGames[creatorId].lastName,
+          totalGames: userGameList.length,
+          uniqueDates: Array.from(uniqueDates),
+          games: userGameList,
+        };
+        
+        returningUsers.push(userData);
+      }
+    });
+
+    // Sort by total games created
+    returningUsers.sort((a, b) => b.totalGames - a.totalGames);
+
+    return returningUsers;
+  }, []);
+
+  // Prepare chart data for selected returning user
+  const getUserChartData = (user) => {
+    if (!user) return [];
+
+    // Group games by date
+    const dateGroups = {};
+    user.games.forEach((game) => {
+      const date = game.createdAt.split(",")[0];
+      dateGroups[date] = (dateGroups[date] || 0) + 1;
+    });
+
+    // Convert to chart format and sort by date
+    return Object.entries(dateGroups)
+      .map(([date, count]) => ({
+        date,
+        count,
+        formattedDate: dayjs(date).format("MMM DD, YYYY"),
+      }))
+      .sort((a, b) => dayjs(a.date).valueOf() - dayjs(b.date).valueOf());
+  };
+
+  const handleGameCountClick = (user) => {
+    setSelectedUser(user);
+    setModalVisible(true);
+  };
+
+  const handleModalClose = () => {
+    setModalVisible(false);
+    setSelectedUser(null);
+  };
+
   // Table columns for users
   const userColumns = [
     {
@@ -717,6 +794,44 @@ const UserStatistics = () => {
       key: "createdAt",
       sorter: (a, b) =>
         dayjs(a.createdAt).valueOf() - dayjs(b.createdAt).valueOf(),
+    },
+  ];
+
+  // Table columns for returning users
+  const returningUsersColumns = [
+    {
+      title: "#",
+      key: "index",
+      width: 60,
+      render: (_, __, index) => index + 1,
+    },
+    {
+      title: "Name",
+      dataIndex: "lastName",
+      key: "lastName",
+      sorter: (a, b) => a.lastName.localeCompare(b.lastName),
+    },
+    {
+      title: "Game Count",
+      dataIndex: "totalGames",
+      key: "totalGames",
+      sorter: (a, b) => a.totalGames - b.totalGames,
+      render: (count, record) => (
+        <Button
+          type="link"
+          onClick={() => handleGameCountClick(record)}
+          style={{ padding: 0, height: 'auto', color: '#1890ff' }}
+        >
+          {count}
+        </Button>
+      ),
+    },
+    {
+      title: "Unique Days",
+      dataIndex: "uniqueDates",
+      key: "uniqueDays",
+      sorter: (a, b) => a.uniqueDates.length - b.uniqueDates.length,
+      render: (uniqueDates) => uniqueDates.length,
     },
   ];
 
@@ -1223,6 +1338,43 @@ const UserStatistics = () => {
         </Card>
       ),
     },
+    {
+      key: "8",
+      label: <span>Returning Users</span>,
+      children: (
+        <Card size="small" className={styles.cardContainer}>
+          <div style={{ marginBottom: '16px' }}>
+            <Space>
+              <Statistic
+                title="Returning Users"
+                value={returningUsers.length}
+                valueStyle={{ color: "var(--success-color)", fontSize: "16px" }}
+              />
+              <Statistic
+                title="Total Games"
+                value={returningUsers.reduce((sum, user) => sum + user.totalGames, 0)}
+                valueStyle={{ color: "var(--primary-color)", fontSize: "16px" }}
+              />
+            </Space>
+          </div>
+          <Table
+            columns={returningUsersColumns}
+            dataSource={returningUsers.map((user, index) => ({
+              ...user,
+              key: index,
+            }))}
+            pagination={{
+              pageSize: 10,
+              showSizeChanger: false,
+              showTotal: false,
+            }}
+            size="small"
+            scroll={{ x: "max-content" }}
+            className={styles.dataTable}
+          />
+        </Card>
+      ),
+    },
   ];
 
   return (
@@ -1236,6 +1388,51 @@ const UserStatistics = () => {
         className={styles.tabs}
         tabBarExtraContent={getTabExtraContent(activeTab)}
       />
+
+      {/* Modal for returning user timeline */}
+      <Modal
+        title={`Game Creation Timeline - ${selectedUser?.lastName}`}
+        open={modalVisible}
+        onCancel={handleModalClose}
+        footer={null}
+        width={1000}
+      >
+        {selectedUser && (
+          <div style={{ height: '400px', width: '100%' }}>
+            <ResponsiveContainer width="100%" height="100%">
+              <LineChart data={getUserChartData(selectedUser)}>
+                <CartesianGrid strokeDasharray="3 3" />
+                <XAxis
+                  dataKey="formattedDate"
+                  angle={-45}
+                  textAnchor="end"
+                  height={80}
+                  fontSize={11}
+                />
+                <YAxis
+                  label={{
+                    value: "Games Created",
+                    angle: -90,
+                    position: "insideLeft",
+                  }}
+                  fontSize={11}
+                />
+                <Tooltip
+                  labelFormatter={(label) => `Date: ${label}`}
+                  formatter={(value) => [value, "Games"]}
+                />
+                <Line
+                  type="monotone"
+                  dataKey="count"
+                  stroke="#1890ff"
+                  strokeWidth={3}
+                  dot={{ r: 6, fill: "#1890ff" }}
+                />
+              </LineChart>
+            </ResponsiveContainer>
+          </div>
+        )}
+      </Modal>
     </div>
   );
 };

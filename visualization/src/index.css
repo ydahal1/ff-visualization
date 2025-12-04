@@ -1,4 +1,4 @@
-/* Reset and global styles */
+/* Reset and global styles - Mobile-first */
 * {
   box-sizing: border-box;
 }
@@ -30,26 +30,96 @@ body,
 
 .ant-layout-content {
   background: #f5f5f5;
-  padding: 16px !important;
+  padding: 8px !important;
 }
 
 .ant-card {
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
 
 /* Header styling */
 .ant-layout-header {
   background: #fff !important;
   border-bottom: 1px solid #f0f0f0;
+  padding: 0 12px !important;
 }
 
-/* Tabs styling */
+/* Tabs styling - Mobile optimized */
+.ant-tabs {
+  overflow: visible;
+}
+
+.ant-tabs-nav {
+  margin-bottom: 8px !important;
+}
+
+.ant-tabs-tab {
+  padding: 8px 12px !important;
+  font-size: 14px !important;
+}
+
 .ant-tabs-content {
   margin-top: 0;
 }
 
 .ant-tabs-tabpane {
   padding-top: 0;
+}
+
+/* Make tab extra content responsive */
+.ant-tabs-extra-content {
+  font-size: 12px;
+}
+
+/* Table responsive */
+.ant-table-wrapper {
+  overflow-x: auto;
+}
+
+.ant-table {
+  font-size: 13px;
+}
+
+.ant-table-thead > tr > th {
+  padding: 8px !important;
+  font-size: 13px !important;
+}
+
+.ant-table-tbody > tr > td {
+  padding: 8px !important;
+  font-size: 13px !important;
+}
+
+/* Statistics cards */
+.ant-statistic {
+  font-size: 12px;
+}
+
+.ant-statistic-title {
+  font-size: 12px !important;
+}
+
+.ant-statistic-content {
+  font-size: 16px !important;
+}
+
+/* Modal responsive */
+.ant-modal {
+  max-width: calc(100vw - 32px);
+  margin: 16px auto;
+}
+
+.ant-modal-body {
+  padding: 16px;
+}
+
+/* Drawer styling */
+.ant-drawer-header {
+  padding: 16px;
+}
+
+.ant-drawer-body {
+  padding: 0;
 }
 
 /* Scrollbar customization */
@@ -77,13 +147,101 @@ body,
   min-height: 200px;
 }
 
-/* Chart responsiveness */
-@media (max-width: 768px) {
+/* Chart responsiveness - Mobile first */
+.recharts-wrapper {
+  font-size: 11px;
+}
+
+.recharts-cartesian-axis-tick-value {
+  font-size: 10px;
+}
+
+.recharts-legend-item-text {
+  font-size: 11px;
+}
+
+.recharts-tooltip-wrapper {
+  font-size: 12px;
+}
+
+/* Date picker mobile friendly */
+.ant-picker {
+  font-size: 13px;
+}
+
+/* Tablet and up (768px+) */
+@media (min-width: 768px) {
+  .ant-layout-content {
+    padding: 16px !important;
+  }
+
+  .ant-card {
+    margin-bottom: 12px;
+  }
+
+  .ant-layout-header {
+    padding: 0 24px !important;
+  }
+
+  .ant-tabs-nav {
+    margin-bottom: 12px !important;
+  }
+
+  .ant-tabs-tab {
+    padding: 10px 16px !important;
+    font-size: 15px !important;
+  }
+
+  .ant-table {
+    font-size: 14px;
+  }
+
+  .ant-table-thead > tr > th,
+  .ant-table-tbody > tr > td {
+    padding: 12px !important;
+    font-size: 14px !important;
+  }
+
+  .ant-statistic-title {
+    font-size: 14px !important;
+  }
+
+  .ant-statistic-content {
+    font-size: 18px !important;
+  }
+
+  .recharts-wrapper {
+    font-size: 12px;
+  }
+
   .recharts-cartesian-axis-tick-value {
-    font-size: 10px;
+    font-size: 11px;
   }
 
   .recharts-legend-item-text {
     font-size: 12px;
+  }
+
+  .ant-modal-body {
+    padding: 20px;
+  }
+
+  .ant-picker {
+    font-size: 14px;
+  }
+}
+
+/* Desktop (992px+) */
+@media (min-width: 992px) {
+  .recharts-cartesian-axis-tick-value {
+    font-size: 12px;
+  }
+
+  .recharts-legend-item-text {
+    font-size: 13px;
+  }
+
+  .ant-tabs-tab {
+    font-size: 16px !important;
   }
 }

@@ -1,9 +1,10 @@
-/* App.module.css */
+/* App.module.css - Mobile-first approach */
 
 .layout {
   min-height: 100vh;
 }
 
+/* Sidebar - Hidden on mobile by default */
 .sider {
   background: var(--background-white);
   box-shadow: 2px 0 6px var(--shadow-light);
@@ -12,23 +13,49 @@
   left: 0;
   top: 0;
   z-index: 10;
+  display: none; /* Hidden on mobile */
 }
 
+.siderHeader {
+  padding: 16px;
+  text-align: center;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.mainLayout {
+  width: 100%;
+}
+
+/* Header - Mobile first */
 .header {
   background: var(--background-white);
-  padding: 0;
+  padding: 0 16px;
   box-shadow: 0 2px 8px var(--shadow-light);
-  margin-left: var(--sidebar-width);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  position: sticky;
+  top: 0;
+  z-index: 9;
+  height: 56px;
 }
 
+/* Hamburger menu button - visible on mobile */
+.menuButton {
+  font-size: 20px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Content - Mobile first */
 .content {
-  margin-left: var(--sidebar-width);
-  min-height: calc(100vh - var(--header-height));
+  min-height: calc(100vh - 56px);
+  padding: 12px;
+  background: var(--background-light);
 }
 
 .contentContainer {
-  /* margin: var(--spacing-md); */
-  /* padding: var(--spacing-md); */
   background: var(--background-light);
   min-height: 280px;
   border-radius: var(--border-radius);
@@ -47,29 +74,62 @@
 
 .pageTitle {
   margin: 0;
-  padding: 0 var(--spacing-lg);
-  padding-bottom: 0;
+  padding: 0;
   color: var(--text-primary);
+  font-size: 18px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
-/* Responsive design */
-@media (max-width: 768px) {
-  .sider {
-    position: fixed !important;
-    left: -200px;
-    transition: left 0.3s ease;
-  }
+.mobileDrawer {
+  z-index: 1001;
+}
 
-  .header {
-    margin-left: 0;
+/* Tablet and up (768px+) */
+@media (min-width: 768px) {
+  .pageTitle {
+    font-size: 22px;
   }
 
   .content {
-    margin-left: 0;
+    padding: 16px;
+  }
+}
+
+/* Desktop (992px+) */
+@media (min-width: 992px) {
+  /* Show sidebar on desktop */
+  .sider {
+    display: block !important;
   }
 
+  /* Hide hamburger menu on desktop */
+  .menuButton {
+    display: none;
+  }
+
+  .header {
+    margin-left: var(--sidebar-width);
+    padding: 0 24px;
+    height: 64px;
+  }
+
+  .content {
+    margin-left: var(--sidebar-width);
+    min-height: calc(100vh - 64px);
+    padding: 24px;
+  }
+
+  .pageTitle {
+    font-size: 24px;
+  }
+}
+
+/* Large desktop (1200px+) */
+@media (min-width: 1200px) {
   .contentContainer {
-    margin: var(--spacing-sm);
-    padding: var(--spacing-sm);
+    max-width: 1400px;
+    margin: 0 auto;
   }
 }

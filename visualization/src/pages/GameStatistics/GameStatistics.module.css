@@ -1,4 +1,4 @@
-/* GameStatistics.module.css */
+/* GameStatistics.module.css - Mobile-first */
 
 .container {
   width: 100%;
@@ -17,14 +17,17 @@
   margin-top: 0;
 }
 
+/* Mobile-first chart container */
 .chartContainer {
-  height: 80vh;
+  height: 400px;
+  min-height: 300px;
 }
 
 .tabExtraContent {
   display: flex;
   align-items: center;
-  gap: var(--spacing-md);
+  gap: 8px;
+  flex-wrap: wrap;
 }
 
 .noDataMessage {
@@ -33,11 +36,28 @@
   color: var(--text-disabled);
 }
 
-/* Responsive design */
-@media (max-width: 768px) {
+/* Tablet and up */
+@media (min-width: 768px) {
+  .chartContainer {
+    height: 500px;
+  }
+
   .tabExtraContent {
-    flex-direction: column;
-    align-items: stretch;
-    gap: var(--spacing-sm);
+    gap: var(--spacing-md);
+  }
+}
+
+/* Desktop */
+@media (min-width: 992px) {
+  .chartContainer {
+    height: 70vh;
+    min-height: 500px;
+  }
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+  .chartContainer {
+    height: 75vh;
   }
 }

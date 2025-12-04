@@ -1,9 +1,8 @@
 import React, { useState } from "react";
-import { Layout, Menu, Typography } from "antd";
-import { UserOutlined, PlayCircleOutlined, ReloadOutlined } from "@ant-design/icons";
+import { Layout, Menu, Typography, Drawer, Button } from "antd";
+import { UserOutlined, PlayCircleOutlined, MenuOutlined } from "@ant-design/icons";
 import UserStatistics from "./pages/UserStatistics/UserStatistics";
 import GameStatistics from "./pages/GameStatistics/GameStatistics";
-import ReturningUsers from "./pages/ReturningUsers/ReturningUsers";
 import "./styles/common.css";
 import styles from "./App.module.css";
 
@@ -12,6 +11,7 @@ const { Title } = Typography;
 
 const App = () => {
   const [selectedMenu, setSelectedMenu] = useState("users");
+  const [drawerVisible, setDrawerVisible] = useState(false);
 
   // Menu items for sidebar
   const menuItems = [
@@ -25,15 +25,15 @@ const App = () => {
       icon: <PlayCircleOutlined />,
       label: "Game Statistics",
     },
-    {
-      key: "returning",
-      icon: <ReloadOutlined />,
-      label: "Returning Users",
-    },
   ];
 
   const handleMenuClick = ({ key }) => {
     setSelectedMenu(key);
+    setDrawerVisible(false); // Close drawer on mobile after selection
+  };
+
+  const toggleDrawer = () => {
+    setDrawerVisible(!drawerVisible);
   };
 
   // Render the current page based on selected menu
@@ -43,8 +43,6 @@ const App = () => {
         return <UserStatistics />;
       case "games":
         return <GameStatistics />;
-      case "returning":
-        return <ReturningUsers />;
       default:
         return <UserStatistics />;
     }
@@ -64,8 +62,9 @@ const App = () => {
 
   return (
     <Layout className={styles.layout}>
-      <Sider width={200} className={styles.sider}>
-        <div style={{ padding: "16px", textAlign: "center" }}>
+      {/* Desktop Sidebar */}
+      <Sider width={200} className={styles.sider} breakpoint="lg" collapsedWidth="0">
+        <div className={styles.siderHeader}>
           <Title level={4} style={{ color: "#1890ff", margin: 0 }}>
             Dashboard
           </Title>
@@ -78,8 +77,32 @@ const App = () => {
           className={styles.menu}
         />
       </Sider>
-      <Layout>
+
+      {/* Mobile Drawer */}
+      <Drawer
+        title="Dashboard"
+        placement="left"
+        onClose={() => setDrawerVisible(false)}
+        open={drawerVisible}
+        className={styles.mobileDrawer}
+        width={250}
+      >
+        <Menu
+          mode="inline"
+          selectedKeys={[selectedMenu]}
+          onClick={handleMenuClick}
+          items={menuItems}
+        />
+      </Drawer>
+
+      <Layout className={styles.mainLayout}>
         <Header className={styles.header}>
+          <Button
+            type="text"
+            icon={<MenuOutlined />}
+            onClick={toggleDrawer}
+            className={styles.menuButton}
+          />
           <Title level={2} className={styles.pageTitle}>
             {getPageTitle()}
           </Title>
