@@ -1,7 +1,14 @@
-// Generated on 12/04/2025, 05:00:02 (EST)
-// Total records: 957
+// Generated on 12/04/2025, 05:15:02 (EST)
+// Total records: 958
 
 export const games = [
+  {
+    "id": "ac887cdd-07e9-4deb-92a7-c692a5f05069",
+    "name": "TRIAL",
+    "creatorId": "109931551709945474165",
+    "creatorLastName": "Ignacio - MAPSY",
+    "createdAt": "12/04/2025, 05:05:35"
+  },
   {
     "id": "f614b3ad-24e3-4797-95ba-dc41f7a92554",
     "name": "PART 2 - PSYCH TESTING QUIZ 1",
