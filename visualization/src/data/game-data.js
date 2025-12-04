@@ -1,7 +1,14 @@
-// Generated on 12/04/2025, 24:45:02 (EST)
-// Total records: 952
+// Generated on 12/04/2025, 01:00:01 (EST)
+// Total records: 953
 
 export const games = [
+  {
+    "id": "05398425-1f91-4652-a44b-8478625cb181",
+    "name": "try",
+    "creatorId": "109931551709945474165",
+    "creatorLastName": "Ignacio - MAPSY",
+    "createdAt": "12/04/2025, 24:57:35"
+  },
   {
     "id": "b9a273ab-1ea6-47ac-a33b-55827853ea90",
     "name": "CHRISTMAS HIGH RISE FEUD",
