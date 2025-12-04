@@ -1,7 +1,14 @@
-// Generated on 12/04/2025, 06:30:02 (EST)
-// Total records: 960
+// Generated on 12/04/2025, 06:45:01 (EST)
+// Total records: 961
 
 export const games = [
+  {
+    "id": "f0c80eac-5168-4b0e-b16d-589e912d1583",
+    "name": "amigo",
+    "creatorId": "118398045643308882603",
+    "creatorLastName": "Dahal",
+    "createdAt": "12/04/2025, 06:43:17"
+  },
   {
     "id": "2dc4ae94-bd81-4d6f-befd-fec779e89811",
     "name": "Test",
