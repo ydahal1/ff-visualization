@@ -1,7 +1,14 @@
-// Generated on 12/03/2025, 22:45:01 (EST)
+// Generated on 12/03/2025, 23:00:01 (EST)
 // Total records: 952
 
 export const games = [
+  {
+    "id": "b9a273ab-1ea6-47ac-a33b-55827853ea90",
+    "name": "CHRISTMAS HIGH RISE FEUD",
+    "creatorId": "103834351072564641509",
+    "creatorLastName": "Halford",
+    "createdAt": "12/03/2025, 22:46:52"
+  },
   {
     "id": "feeb3964-770e-4bc8-b09a-fb03e6e74893",
     "name": "Round 4",
@@ -3543,13 +3550,6 @@ export const games = [
     "creatorId": "109518331258550090929",
     "creatorLastName": "H.",
     "createdAt": "11/22/2025, 09:04:12"
-  },
-  {
-    "id": "51fe1da3-6b6f-49e5-8351-d89279dd50c8",
-    "name": "red VS green",
-    "creatorId": "103834351072564641509",
-    "creatorLastName": "Halford",
-    "createdAt": "11/22/2025, 06:42:36"
   },
   {
     "id": "3b63b393-6f4f-412c-b4fe-d56201d894c1",
