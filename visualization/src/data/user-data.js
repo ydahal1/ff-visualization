@@ -1,7 +1,12 @@
-// Generated on 12/04/2025, 17:45:00 (EST)
-// Total records: 716
+// Generated on 12/04/2025, 18:00:00 (EST)
+// Total records: 717
 
 export const users = [
+  {
+    "id": "101245147354944105069",
+    "lName": "Makinwa",
+    "createdAt": "12/04/2025, 17:54:50"
+  },
   {
     "id": "117010491364264918071",
     "lName": "Save The Planet",
