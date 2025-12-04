@@ -1,7 +1,14 @@
-// Generated on 12/04/2025, 02:15:01 (EST)
-// Total records: 953
+// Generated on 12/04/2025, 02:30:02 (EST)
+// Total records: 954
 
 export const games = [
+  {
+    "id": "8c5dde92-52a7-43d8-b9ec-c44fc6f5b85e",
+    "name": "CHRISTMAS",
+    "creatorId": "110035975956695833394",
+    "creatorLastName": "Batangas_System",
+    "createdAt": "12/04/2025, 02:24:08"
+  },
   {
     "id": "40cb1769-9e83-4679-97d4-2a67a97a8d9e",
     "name": "PSYCH TESTING QUIZ 1",
