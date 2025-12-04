@@ -1,7 +1,21 @@
-// Generated on 12/04/2025, 16:45:01 (EST)
-// Total records: 1000
+// Generated on 12/04/2025, 17:00:01 (EST)
+// Total records: 1002
 
 export const games = [
+  {
+    "id": "67d94498-5a37-4c92-97f8-1884c7720977",
+    "name": "Fast Money",
+    "creatorId": "101547935983450707234",
+    "creatorLastName": "Allison",
+    "createdAt": "12/04/2025, 16:54:17"
+  },
+  {
+    "id": "e5bd9c5c-569e-49e5-8c2d-beab078ed6dd",
+    "name": "Christmas Eve Family Feud 3",
+    "creatorId": "101547935983450707234",
+    "creatorLastName": "Allison",
+    "createdAt": "12/04/2025, 16:50:53"
+  },
   {
     "id": "ebe0dc7c-c78d-4e80-ba1e-24707fab452f",
     "name": "a",
