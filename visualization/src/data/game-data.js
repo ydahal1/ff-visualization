@@ -1,7 +1,14 @@
-// Generated on 12/04/2025, 01:45:01 (EST)
-// Total records: 952
+// Generated on 12/04/2025, 02:00:01 (EST)
+// Total records: 953
 
 export const games = [
+  {
+    "id": "40cb1769-9e83-4679-97d4-2a67a97a8d9e",
+    "name": "PSYCH TESTING QUIZ 1",
+    "creatorId": "109931551709945474165",
+    "creatorLastName": "Ignacio - MAPSY",
+    "createdAt": "12/04/2025, 01:56:04"
+  },
   {
     "id": "0fd5a0a0-10c4-45d2-988b-42486c5eed21",
     "name": "Round 1",
