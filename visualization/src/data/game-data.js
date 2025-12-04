@@ -1,14 +1,7 @@
-// Generated on 12/03/2025, 19:45:01 (EST)
-// Total records: 945
+// Generated on 12/03/2025, 20:00:01 (EST)
+// Total records: 944
 
 export const games = [
-  {
-    "id": "cdcccc59-79b9-4529-9bdb-2fee71e50cb0",
-    "name": "Work Feud",
-    "creatorId": "103899081844087061896",
-    "creatorLastName": "Gutierrez",
-    "createdAt": "12/03/2025, 19:44:02"
-  },
   {
     "id": "a1efd6c5-11ed-4b71-a8eb-1c30045e8543",
     "name": "FAMILY FEUD STREAM",
