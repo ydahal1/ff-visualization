@@ -1,13 +1,13 @@
-// Generated on 12/04/2025, 01:00:01 (EST)
+// Generated on 12/04/2025, 01:15:01 (EST)
 // Total records: 953
 
 export const games = [
   {
-    "id": "05398425-1f91-4652-a44b-8478625cb181",
-    "name": "try",
-    "creatorId": "109931551709945474165",
-    "creatorLastName": "Ignacio - MAPSY",
-    "createdAt": "12/04/2025, 24:57:35"
+    "id": "0fd5a0a0-10c4-45d2-988b-42486c5eed21",
+    "name": "Round 1",
+    "creatorId": "100933880148703615248",
+    "creatorLastName": "O",
+    "createdAt": "12/04/2025, 01:12:24"
   },
   {
     "id": "b9a273ab-1ea6-47ac-a33b-55827853ea90",
