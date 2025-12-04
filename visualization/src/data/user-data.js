@@ -1,7 +1,22 @@
-// Generated on 12/04/2025, 16:30:00 (EST)
-// Total records: 713
+// Generated on 12/04/2025, 16:45:00 (EST)
+// Total records: 716
 
 export const users = [
+  {
+    "id": "117010491364264918071",
+    "lName": "Save The Planet",
+    "createdAt": "12/04/2025, 16:41:48"
+  },
+  {
+    "id": "112385556091405975303",
+    "lName": "Wall",
+    "createdAt": "12/04/2025, 16:38:02"
+  },
+  {
+    "id": "106113843687927717861",
+    "lName": "Lehrfeld",
+    "createdAt": "12/04/2025, 16:33:17"
+  },
   {
     "id": "107529414343274280416",
     "lName": "Groff",
