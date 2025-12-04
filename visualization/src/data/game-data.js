@@ -1,7 +1,14 @@
-// Generated on 12/04/2025, 13:30:01 (EST)
+// Generated on 12/04/2025, 13:45:01 (EST)
 // Total records: 986
 
 export const games = [
+  {
+    "id": "4cc6bb13-4921-470a-b0f3-bdb59f876095",
+    "name": "Game #2",
+    "creatorId": "117953425215878643641",
+    "creatorLastName": "Dylinski",
+    "createdAt": "12/04/2025, 13:30:02"
+  },
   {
     "id": "bcb580fd-b2ae-48de-8015-a2a11575f874",
     "name": "I",
@@ -15,13 +22,6 @@ export const games = [
     "creatorId": "100848683029699576740",
     "creatorLastName": "Gutierrez",
     "createdAt": "12/04/2025, 13:28:10"
-  },
-  {
-    "id": "275ad16d-eb97-421d-9bbe-afe2d6d92901",
-    "name": "Practice",
-    "creatorId": "105866460354749108525",
-    "creatorLastName": "Macias",
-    "createdAt": "12/04/2025, 13:26:14"
   },
   {
     "id": "d1aab94c-daed-4442-9dd8-6f50121876c1",
