@@ -1,7 +1,21 @@
-// Generated on 12/04/2025, 16:15:01 (EST)
+// Generated on 12/04/2025, 16:30:01 (EST)
 // Total records: 997
 
 export const games = [
+  {
+    "id": "b8bd17f2-2227-4994-a045-6b31573ced2f",
+    "name": "Christmas Eve Family Feud",
+    "creatorId": "101547935983450707234",
+    "creatorLastName": "Allison",
+    "createdAt": "12/04/2025, 16:22:00"
+  },
+  {
+    "id": "bda0084c-e7dc-4a94-bcf1-7a05b7b2fc6a",
+    "name": "Organization Behavior",
+    "creatorId": "110852976344169816595",
+    "creatorLastName": "Lemley",
+    "createdAt": "12/04/2025, 16:17:06"
+  },
   {
     "id": "e1bed4c3-afae-40c0-9f3f-fffb1a68943a",
     "name": "Big Dick Randy",
@@ -2243,13 +2257,6 @@ export const games = [
     "createdAt": "11/27/2025, 21:19:16"
   },
   {
-    "id": "3784bba8-076a-46d8-bfa5-72cd241978b8",
-    "name": "Rudolphs VS Frostys",
-    "creatorId": "101547935983450707234",
-    "creatorLastName": "Allison",
-    "createdAt": "11/27/2025, 21:18:21"
-  },
-  {
     "id": "238b68ce-cda3-4196-ae12-f6072b7d7383",
     "name": "Team 1 VS Team 2",
     "creatorId": "103279496813270281295",
@@ -3459,13 +3466,6 @@ export const games = [
     "creatorId": "107184540554489277341",
     "creatorLastName": "aragones",
     "createdAt": "11/24/2025, 19:29:38"
-  },
-  {
-    "id": "0be1a8c3-d7b9-47c3-9263-36cfa039080b",
-    "name": "Jingle VS Frosty",
-    "creatorId": "101547935983450707234",
-    "creatorLastName": "Allison",
-    "createdAt": "11/24/2025, 19:18:22"
   },
   {
     "id": "0f8bf6e9-1ed6-4ed8-9f9a-dfed76cc867c",
