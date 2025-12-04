@@ -1,13 +1,34 @@
-// Generated on 12/04/2025, 13:15:01 (EST)
-// Total records: 983
+// Generated on 12/04/2025, 13:30:01 (EST)
+// Total records: 986
 
 export const games = [
   {
-    "id": "8c3ff6b2-acff-47cb-b998-5a0506b5fe14",
-    "name": "Test",
-    "creatorId": "112701262724874919066",
-    "creatorLastName": "M",
-    "createdAt": "12/04/2025, 13:04:20"
+    "id": "bcb580fd-b2ae-48de-8015-a2a11575f874",
+    "name": "I",
+    "creatorId": "100848683029699576740",
+    "creatorLastName": "Gutierrez",
+    "createdAt": "12/04/2025, 13:28:44"
+  },
+  {
+    "id": "8837b7cf-79ca-4726-9537-b31291a408f5",
+    "name": "Dh",
+    "creatorId": "100848683029699576740",
+    "creatorLastName": "Gutierrez",
+    "createdAt": "12/04/2025, 13:28:10"
+  },
+  {
+    "id": "275ad16d-eb97-421d-9bbe-afe2d6d92901",
+    "name": "Practice",
+    "creatorId": "105866460354749108525",
+    "creatorLastName": "Macias",
+    "createdAt": "12/04/2025, 13:26:14"
+  },
+  {
+    "id": "d1aab94c-daed-4442-9dd8-6f50121876c1",
+    "name": "MM Team 12/11/2025",
+    "creatorId": "117953425215878643641",
+    "creatorLastName": "Dylinski",
+    "createdAt": "12/04/2025, 13:24:45"
   },
   {
     "id": "8dbd9fed-0724-40af-8306-22bf1d95caaf",
