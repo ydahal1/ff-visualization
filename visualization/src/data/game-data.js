@@ -1,7 +1,14 @@
-// Generated on 12/04/2025, 12:15:02 (EST)
+// Generated on 12/04/2025, 12:30:01 (EST)
 // Total records: 981
 
 export const games = [
+  {
+    "id": "ceb18ce2-97ce-43c0-9412-869406f643e3",
+    "name": "Holiday Party Game",
+    "creatorId": "117832922742820924188",
+    "creatorLastName": "CR",
+    "createdAt": "12/04/2025, 12:15:17"
+  },
   {
     "id": "4a8510ae-6206-4c6f-ae07-7c82626a6030",
     "name": "Fun Friday 3",
@@ -827,13 +834,6 @@ export const games = [
     "creatorId": "117978620760213708130",
     "creatorLastName": "Lester",
     "createdAt": "12/02/2025, 16:58:26"
-  },
-  {
-    "id": "928b30ac-2949-4d5c-be71-ea5d96af16dd",
-    "name": "Test",
-    "creatorId": "104474696052387569083",
-    "creatorLastName": "Schultz",
-    "createdAt": "12/02/2025, 16:49:47"
   },
   {
     "id": "76f5afd2-58c0-47af-836b-87d6e4868c25",
