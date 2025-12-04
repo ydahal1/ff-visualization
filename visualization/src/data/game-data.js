@@ -1,7 +1,14 @@
-// Generated on 12/04/2025, 18:15:01 (EST)
+// Generated on 12/04/2025, 18:30:01 (EST)
 // Total records: 1002
 
 export const games = [
+  {
+    "id": "875824c0-4212-4cd9-b431-7ce70e75cae9",
+    "name": "Test",
+    "creatorId": "112461492821006546103",
+    "creatorLastName": "Kagal",
+    "createdAt": "12/04/2025, 18:23:37"
+  },
   {
     "id": "67d94498-5a37-4c92-97f8-1884c7720977",
     "name": "Fast Money",
@@ -687,13 +694,6 @@ export const games = [
     "creatorId": "109697369085750807997",
     "creatorLastName": "Wood",
     "createdAt": "12/03/2025, 13:40:26"
-  },
-  {
-    "id": "b5164797-0583-4261-ade9-f35165ed5726",
-    "name": "test game",
-    "creatorId": "102355797271565732386",
-    "creatorLastName": "-",
-    "createdAt": "12/03/2025, 13:39:10"
   },
   {
     "id": "319fa48a-2956-4318-a8b4-7591e215dd16",
