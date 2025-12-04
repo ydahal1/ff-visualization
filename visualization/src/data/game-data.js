@@ -1,7 +1,14 @@
-// Generated on 12/04/2025, 15:00:02 (EST)
-// Total records: 991
+// Generated on 12/04/2025, 15:15:02 (EST)
+// Total records: 992
 
 export const games = [
+  {
+    "id": "a1cae925-8000-4e73-aad6-fc56034ae8d6",
+    "name": "Family Feud Cookie Edition",
+    "creatorId": "106809656494390853270",
+    "creatorLastName": "Beckworth",
+    "createdAt": "12/04/2025, 15:01:44"
+  },
   {
     "id": "671429aa-4143-4d33-a6be-35f6a25f004c",
     "name": "Round 5",
