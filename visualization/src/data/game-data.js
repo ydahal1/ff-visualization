@@ -1,7 +1,21 @@
-// Generated on 12/04/2025, 10:15:02 (EST)
-// Total records: 975
+// Generated on 12/04/2025, 10:30:01 (EST)
+// Total records: 977
 
 export const games = [
+  {
+    "id": "e4360fab-593b-4a0f-844a-8719e8e26a38",
+    "name": "Tax Compliance Game 4",
+    "creatorId": "103560164427878033163",
+    "creatorLastName": "•",
+    "createdAt": "12/04/2025, 10:21:04"
+  },
+  {
+    "id": "34321fac-8041-48d0-8bfd-df42f4253485",
+    "name": "Tax Compliance Game 3",
+    "creatorId": "103560164427878033163",
+    "creatorLastName": "•",
+    "createdAt": "12/04/2025, 10:16:47"
+  },
   {
     "id": "a97708df-b545-4247-956c-b7fb9dd33dc7",
     "name": "Tax Compliance Game 2",
