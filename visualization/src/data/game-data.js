@@ -1,14 +1,7 @@
-// Generated on 12/04/2025, 01:30:02 (EST)
-// Total records: 954
+// Generated on 12/04/2025, 01:45:01 (EST)
+// Total records: 952
 
 export const games = [
-  {
-    "id": "00bd6b1d-303f-4aa9-a736-de167710f5cd",
-    "name": "CIE'S PSYCH TESTING",
-    "creatorId": "109931551709945474165",
-    "creatorLastName": "Ignacio - MAPSY",
-    "createdAt": "12/04/2025, 01:24:08"
-  },
   {
     "id": "0fd5a0a0-10c4-45d2-988b-42486c5eed21",
     "name": "Round 1",
@@ -3438,13 +3431,6 @@ export const games = [
     "creatorId": "108722754444996269914",
     "creatorLastName": "salas",
     "createdAt": "11/23/2025, 14:01:02"
-  },
-  {
-    "id": "b422f522-9937-491c-af03-6cbfa92180df",
-    "name": "TEAM 1 VS TEAM 2",
-    "creatorId": "109931551709945474165",
-    "creatorLastName": "Ignacio - MAPSY",
-    "createdAt": "11/23/2025, 13:38:28"
   },
   {
     "id": "0bdc81cb-39ee-4eec-a375-2da77005d74b",
