@@ -50,6 +50,7 @@ const UserStatistics = () => {
     return [startDate, endDate];
   });
   const [activeTab, setActiveTab] = useState("1");
+  const [activeIndex, setActiveIndex] = useState(null);
 
   // Get user data with games count
   const getUserData = () => {
@@ -607,6 +608,78 @@ const UserStatistics = () => {
     ];
   }, []);
 
+  // Data for games per user distribution pie chart
+  const gamesPerUserDistribution = useMemo(() => {
+    // Calculate games count per user
+    const gamesCountByUser = {};
+    games.forEach((game) => {
+      const creator = game.creatorLastName;
+      gamesCountByUser[creator] = (gamesCountByUser[creator] || 0) + 1;
+    });
+
+    // Count how many users created X games
+    const distribution = {};
+    
+    // First, count users with 0 games
+    users.forEach((user) => {
+      const gameCount = gamesCountByUser[user.lName] || 0;
+      distribution[gameCount] = (distribution[gameCount] || 0) + 1;
+    });
+
+    // Define colors for the pie chart slices
+    const colors = [
+      '#8884d8', '#82ca9d', '#ffc658', '#ff8042', '#0088fe',
+      '#00c49f', '#ffbb28', '#ff6b9d', '#a4de6c', '#d084d0',
+      '#8dd1e1', '#83a6ed', '#ffa07a', '#98d8c8', '#f6a5b6'
+    ];
+
+    // Convert to array format for pie chart, sorted by game count (ascending)
+    const chartData = Object.entries(distribution)
+      .map(([gameCount, userCount]) => {
+        const percentage = users.length > 0 ? ((userCount / users.length) * 100).toFixed(1) : 0;
+        return {
+          name: `${gameCount} ${gameCount === '1' ? 'Game' : 'Games'}`,
+          gameCount: parseInt(gameCount),
+          value: userCount,
+          percentage,
+        };
+      })
+      .sort((a, b) => a.gameCount - b.gameCount) // Ascending order by game count
+      .map((item, index) => ({
+        ...item,
+        color: colors[index % colors.length],
+      }));
+
+    return chartData;
+  }, []);
+
+  // Calculate cumulative data (users with X or more games)
+  const cumulativeData = useMemo(() => {
+    if (gamesPerUserDistribution.length === 0) return [];
+
+    const cumulative = [];
+    const sortedData = [...gamesPerUserDistribution].sort((a, b) => b.gameCount - a.gameCount);
+    
+    let runningTotal = 0;
+    for (let i = 0; i < sortedData.length; i++) {
+      runningTotal += sortedData[i].value;
+      const gameCount = sortedData[i].gameCount;
+      
+      // Skip 0 games and 1 game for cumulative (start from 2+)
+      if (gameCount >= 2) {
+        const percentage = users.length > 0 ? ((runningTotal / users.length) * 100).toFixed(1) : 0;
+        cumulative.push({
+          gameCount,
+          userCount: runningTotal,
+          percentage,
+        });
+      }
+    }
+
+    // Return in descending order (higher game counts first)
+    return cumulative.sort((a, b) => b.gameCount - a.gameCount);
+  }, [gamesPerUserDistribution]);
+
   // Table columns for users
   const userColumns = [
     {
@@ -1036,6 +1109,116 @@ const UserStatistics = () => {
                 />
               </PieChart>
             </ResponsiveContainer>
+          </div>
+        </Card>
+      ),
+    },
+    {
+      key: "7",
+      label: <span>Games Per User</span>,
+      children: (
+        <Card size="small" className={styles.cardContainer}>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '30px' }}>
+            {/* Pie Chart */}
+            <div className={styles.chartContainer}>
+              <ResponsiveContainer width="100%" height="100%">
+                <PieChart>
+                  <Pie
+                    data={gamesPerUserDistribution}
+                    cx="35%"
+                    cy="50%"
+                    labelLine={false}
+                    label={false}
+                    outerRadius={150}
+                    fill="#8884d8"
+                    dataKey="value"
+                    activeIndex={activeIndex}
+                    activeShape={{
+                      outerRadius: 165,
+                      stroke: '#333',
+                      strokeWidth: 2,
+                    }}
+                    onMouseEnter={(_, index) => setActiveIndex(index)}
+                    onMouseLeave={() => setActiveIndex(null)}
+                  >
+                    {gamesPerUserDistribution.map((entry, index) => (
+                      <Cell 
+                        key={`cell-${index}`} 
+                        fill={entry.color}
+                        style={{ cursor: 'pointer' }}
+                      />
+                    ))}
+                  </Pie>
+                  <Tooltip 
+                    formatter={(value, name, props) => [
+                      `${value} users (${props.payload.percentage}%)`,
+                      props.payload.name
+                    ]}
+                  />
+                  <Legend 
+                    layout="vertical"
+                    align="right"
+                    verticalAlign="middle"
+                    formatter={(value, entry) => `${entry.payload.name}: ${entry.payload.value} users (${entry.payload.percentage}%)`}
+                    onMouseEnter={(entry) => {
+                      const index = gamesPerUserDistribution.findIndex(
+                        item => item.name === entry.payload.name
+                      );
+                      setActiveIndex(index);
+                    }}
+                    onMouseLeave={() => setActiveIndex(null)}
+                    wrapperStyle={{ cursor: 'pointer' }}
+                  />
+                </PieChart>
+              </ResponsiveContainer>
+            </div>
+
+            {/* Cumulative Data Table */}
+            {cumulativeData.length > 0 && (
+              <div style={{ padding: '0 20px' }}>
+                <h3 style={{ marginBottom: '15px', color: 'var(--text-primary)', fontSize: '16px' }}>
+                  Cumulative Distribution (Users with X or More Games)
+                </h3>
+                <div style={{ 
+                  display: 'grid', 
+                  gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))',
+                  gap: '12px',
+                }}>
+                  {cumulativeData.map((item) => (
+                    <div 
+                      key={item.gameCount}
+                      style={{
+                        padding: '12px 16px',
+                        background: 'var(--card-bg, #f5f5f5)',
+                        borderRadius: '6px',
+                        border: '1px solid var(--border-color, #d9d9d9)',
+                      }}
+                    >
+                      <div style={{ 
+                        fontSize: '13px', 
+                        color: 'var(--text-secondary, #666)',
+                        marginBottom: '4px',
+                      }}>
+                        {item.gameCount}+ Games
+                      </div>
+                      <div style={{ 
+                        fontSize: '20px', 
+                        fontWeight: 'bold',
+                        color: 'var(--primary-color, #1890ff)',
+                      }}>
+                        {item.userCount}
+                      </div>
+                      <div style={{ 
+                        fontSize: '12px', 
+                        color: 'var(--text-secondary, #666)',
+                      }}>
+                        ({item.percentage}% of users)
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
         </Card>
       ),
