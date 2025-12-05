@@ -1,7 +1,14 @@
-// Generated on 12/05/2025, 18:30:01 (EST)
-// Total records: 1080
+// Generated on 12/05/2025, 18:45:01 (EST)
+// Total records: 1081
 
 export const games = [
+  {
+    "id": "9860860c-bf00-4300-add8-be5a1560c926",
+    "name": "Family Feud Cookie Edition Part 2",
+    "creatorId": "106809656494390853270",
+    "creatorLastName": "Beckworth",
+    "createdAt": "12/05/2025, 18:30:57"
+  },
   {
     "id": "f19d9b10-2745-4985-9b73-b057776f0d52",
     "name": "Family Feud Cookie Edition Part 1",
