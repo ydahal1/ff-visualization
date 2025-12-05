@@ -1,7 +1,14 @@
-// Generated on 12/05/2025, 14:15:02 (EST)
-// Total records: 1061
+// Generated on 12/05/2025, 14:30:01 (EST)
+// Total records: 1062
 
 export const games = [
+  {
+    "id": "12e89349-e313-4dbe-8b42-1abb216a954a",
+    "name": "Lightpath",
+    "creatorId": "108818253228703670737",
+    "creatorLastName": "Stabile",
+    "createdAt": "12/05/2025, 14:24:04"
+  },
   {
     "id": "9d13c2aa-ee87-4d6a-9ac5-eddae75a2c72",
     "name": "Saturday fun 1",
