@@ -1,7 +1,21 @@
-// Generated on 12/05/2025, 11:30:02 (EST)
-// Total records: 1037
+// Generated on 12/05/2025, 11:45:01 (EST)
+// Total records: 1039
 
 export const games = [
+  {
+    "id": "995aedac-b552-4635-a63c-27b4a2db9e10",
+    "name": "Game 1 (pt 2)",
+    "creatorId": "108367492575193429329",
+    "creatorLastName": "Alikhan",
+    "createdAt": "12/05/2025, 11:43:42"
+  },
+  {
+    "id": "72b46ed2-1907-4e40-9ba3-07a7b16ce3bf",
+    "name": "FF1",
+    "creatorId": "116675875249185386495",
+    "creatorLastName": "Escalante",
+    "createdAt": "12/05/2025, 11:41:23"
+  },
   {
     "id": "20beb9d2-03d4-4317-b60e-97ca5f300f40",
     "name": "Game 1",
