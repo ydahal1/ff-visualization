@@ -1,7 +1,28 @@
-// Generated on 12/04/2025, 18:45:01 (EST)
-// Total records: 1004
+// Generated on 12/04/2025, 19:00:02 (EST)
+// Total records: 1007
 
 export const games = [
+  {
+    "id": "c6c0f5e6-17e2-45d0-9d3b-f1c7846112b2",
+    "name": "Prince",
+    "creatorId": "116529562870446243087",
+    "creatorLastName": "Prince",
+    "createdAt": "12/04/2025, 18:57:28"
+  },
+  {
+    "id": "21ab5222-b41e-4e76-94a4-d5ba72c5f099",
+    "name": "fast cash",
+    "creatorId": "102257273386315856460",
+    "creatorLastName": "Shepard",
+    "createdAt": "12/04/2025, 18:55:12"
+  },
+  {
+    "id": "24159093-4a9d-41b3-935b-70dfb90db7cb",
+    "name": "Template",
+    "creatorId": "110497411564572884369",
+    "creatorLastName": "Crumley",
+    "createdAt": "12/04/2025, 18:51:53"
+  },
   {
     "id": "73da7ab9-14c2-4fd9-ae80-b71cb4be30da",
     "name": "Cottage",
