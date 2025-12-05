@@ -1,7 +1,21 @@
-// Generated on 12/05/2025, 16:45:02 (EST)
-// Total records: 1065
+// Generated on 12/05/2025, 17:00:02 (EST)
+// Total records: 1066
 
 export const games = [
+  {
+    "id": "8a487fc6-e17a-44d8-a14a-4d8f6980a543",
+    "name": "# Lightning Round #",
+    "creatorId": "113393667981277475839",
+    "creatorLastName": "Marie",
+    "createdAt": "12/05/2025, 16:54:07"
+  },
+  {
+    "id": "86e42830-0eb7-40bb-ac25-4d8403c14aaa",
+    "name": "More Questions",
+    "creatorId": "113393667981277475839",
+    "creatorLastName": "Marie",
+    "createdAt": "12/05/2025, 16:49:51"
+  },
   {
     "id": "13004707-680a-4ef9-86a4-2b2ba30df482",
     "name": "Test",
@@ -15,13 +29,6 @@ export const games = [
     "creatorId": "101319012583799099050",
     "creatorLastName": "Lambert",
     "createdAt": "12/05/2025, 15:34:55"
-  },
-  {
-    "id": "a24e4667-d0dd-4694-95a6-20696bbaba7d",
-    "name": "Lightning Round",
-    "creatorId": "113393667981277475839",
-    "creatorLastName": "Marie",
-    "createdAt": "12/05/2025, 15:31:31"
   },
   {
     "id": "a8e5f570-d39d-4e28-a5dd-5e066e684c0e",
