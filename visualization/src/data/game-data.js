@@ -1,13 +1,27 @@
-// Generated on 12/05/2025, 11:45:01 (EST)
+// Generated on 12/05/2025, 12:00:02 (EST)
 // Total records: 1039
 
 export const games = [
   {
-    "id": "995aedac-b552-4635-a63c-27b4a2db9e10",
-    "name": "Game 1 (pt 2)",
+    "id": "c8bf45d6-d349-4d4a-939a-7f5b7e941079",
+    "name": "Game 1",
     "creatorId": "108367492575193429329",
     "creatorLastName": "Alikhan",
-    "createdAt": "12/05/2025, 11:43:42"
+    "createdAt": "12/05/2025, 11:58:03"
+  },
+  {
+    "id": "0b1ee5b6-48af-41e4-a733-fd0b63af4c6e",
+    "name": "ff2",
+    "creatorId": "116675875249185386495",
+    "creatorLastName": "Escalante",
+    "createdAt": "12/05/2025, 11:51:38"
+  },
+  {
+    "id": "c59e6ec5-4e58-427b-bed4-8b8da459df95",
+    "name": "RECAP",
+    "creatorId": "101904389135754441216",
+    "creatorLastName": "Biasca",
+    "createdAt": "12/05/2025, 11:50:50"
   },
   {
     "id": "72b46ed2-1907-4e40-9ba3-07a7b16ce3bf",
@@ -15,13 +29,6 @@ export const games = [
     "creatorId": "116675875249185386495",
     "creatorLastName": "Escalante",
     "createdAt": "12/05/2025, 11:41:23"
-  },
-  {
-    "id": "20beb9d2-03d4-4317-b60e-97ca5f300f40",
-    "name": "Game 1",
-    "creatorId": "108367492575193429329",
-    "creatorLastName": "Alikhan",
-    "createdAt": "12/05/2025, 11:29:24"
   },
   {
     "id": "88043fe4-375c-43a4-9bc7-8a1d049aa41d",
@@ -64,13 +71,6 @@ export const games = [
     "creatorId": "108306692833962260748",
     "creatorLastName": "Aguirre",
     "createdAt": "12/05/2025, 10:16:46"
-  },
-  {
-    "id": "9bc31ebd-bac0-4425-908a-834ed7f5150a",
-    "name": "demo",
-    "creatorId": "101904389135754441216",
-    "creatorLastName": "Biasca",
-    "createdAt": "12/05/2025, 10:14:38"
   },
   {
     "id": "09ec3525-6e59-40c7-b711-3221fc0bfe35",
