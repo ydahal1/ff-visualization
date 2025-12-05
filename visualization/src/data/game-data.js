@@ -1,7 +1,35 @@
-// Generated on 12/04/2025, 22:00:01 (EST)
-// Total records: 1019
+// Generated on 12/04/2025, 22:15:02 (EST)
+// Total records: 1023
 
 export const games = [
+  {
+    "id": "ba27d3fa-a9a5-4227-8237-4c1ba8ea6501",
+    "name": "CAN - Family Feud",
+    "creatorId": "115161740040059068253",
+    "creatorLastName": "Kotrec",
+    "createdAt": "12/04/2025, 22:12:25"
+  },
+  {
+    "id": "57c5f48e-74dd-4f5d-b693-c6d98f37408c",
+    "name": "PUB^",
+    "creatorId": "113595880961210939432",
+    "creatorLastName": "Zepeda",
+    "createdAt": "12/04/2025, 22:08:43"
+  },
+  {
+    "id": "1e1a38a8-47a8-4959-88d1-3a92eb9404c6",
+    "name": "ALL STAFF",
+    "creatorId": "102355797271565732386",
+    "creatorLastName": "-",
+    "createdAt": "12/04/2025, 22:05:13"
+  },
+  {
+    "id": "6cdaf83b-2116-4f25-843d-de41c237c565",
+    "name": "Game 3",
+    "creatorId": "105154239155662008894",
+    "creatorLastName": "Williams",
+    "createdAt": "12/04/2025, 22:02:43"
+  },
   {
     "id": "d598179e-4b8a-46e0-aba7-c40761135be6",
     "name": "CAN Family Feud",
