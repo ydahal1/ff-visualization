@@ -1,7 +1,12 @@
-// Generated on 12/05/2025, 02:45:00 (EST)
-// Total records: 734
+// Generated on 12/05/2025, 03:00:00 (EST)
+// Total records: 735
 
 export const users = [
+  {
+    "id": "106390912169960688637",
+    "lName": "Dangerfield",
+    "createdAt": "12/05/2025, 02:48:17"
+  },
   {
     "id": "115949419347096083560",
     "lName": "Smith",
