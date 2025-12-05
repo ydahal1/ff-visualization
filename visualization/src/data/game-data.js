@@ -1,7 +1,35 @@
-// Generated on 12/05/2025, 18:15:01 (EST)
-// Total records: 1076
+// Generated on 12/05/2025, 18:30:01 (EST)
+// Total records: 1080
 
 export const games = [
+  {
+    "id": "f19d9b10-2745-4985-9b73-b057776f0d52",
+    "name": "Family Feud Cookie Edition Part 1",
+    "creatorId": "106809656494390853270",
+    "creatorLastName": "Beckworth",
+    "createdAt": "12/05/2025, 18:28:40"
+  },
+  {
+    "id": "deb0d44a-9e20-4678-b11d-94bae70cae39",
+    "name": "2025 Q4 MX Leaders Game #3",
+    "creatorId": "118431199063317231894",
+    "creatorLastName": "Scheyer",
+    "createdAt": "12/05/2025, 18:26:19"
+  },
+  {
+    "id": "0b140dad-21c5-40a9-b9e1-79b70d5b2b8b",
+    "name": "2025 Q4 MX Leaders Game #2",
+    "creatorId": "118431199063317231894",
+    "creatorLastName": "Scheyer",
+    "createdAt": "12/05/2025, 18:22:23"
+  },
+  {
+    "id": "68c78ddf-2e16-4086-9c35-57dd7a117df2",
+    "name": "2025 Q4 MX Leaders Round #1",
+    "creatorId": "118431199063317231894",
+    "creatorLastName": "Scheyer",
+    "createdAt": "12/05/2025, 18:17:49"
+  },
   {
     "id": "098bca62-3607-49d9-89f3-2ae7a383638b",
     "name": "more",
