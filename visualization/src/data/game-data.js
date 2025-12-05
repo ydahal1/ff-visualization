@@ -1,7 +1,14 @@
-// Generated on 12/05/2025, 09:15:02 (EST)
-// Total records: 1029
+// Generated on 12/05/2025, 09:30:02 (EST)
+// Total records: 1030
 
 export const games = [
+  {
+    "id": "671155eb-1966-4c4d-831d-d34e12056148",
+    "name": "Feud 2",
+    "creatorId": "101245147354944105069",
+    "creatorLastName": "Makinwa",
+    "createdAt": "12/05/2025, 09:26:25"
+  },
   {
     "id": "66ab0875-d331-4d7c-be31-37a673a6ab01",
     "name": "ALL STAFF 20251205",
