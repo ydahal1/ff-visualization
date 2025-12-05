@@ -1,7 +1,14 @@
-// Generated on 12/04/2025, 20:45:01 (EST)
-// Total records: 1010
+// Generated on 12/04/2025, 21:00:02 (EST)
+// Total records: 1011
 
 export const games = [
+  {
+    "id": "c0bf2db8-7829-40a3-addd-feb6db5860e8",
+    "name": "First Round",
+    "creatorId": "115995169505220776366",
+    "creatorLastName": "Major",
+    "createdAt": "12/04/2025, 20:59:37"
+  },
   {
     "id": "7a575a88-530c-4fe3-8d50-f3a620ef18b3",
     "name": "Sigmas VS BSU 1",
