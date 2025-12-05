@@ -1,7 +1,14 @@
-// Generated on 12/04/2025, 22:45:01 (EST)
-// Total records: 1021
+// Generated on 12/04/2025, 23:00:01 (EST)
+// Total records: 1022
 
 export const games = [
+  {
+    "id": "aa17cec0-9409-4cd2-9221-15dc007bc09a",
+    "name": "game 1",
+    "creatorId": "107634777031990650584",
+    "creatorLastName": "Gupte",
+    "createdAt": "12/04/2025, 22:52:23"
+  },
   {
     "id": "544663cc-74cf-4bda-b3f4-20ed7f6dc387",
     "name": "Prince",
