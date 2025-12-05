@@ -1,7 +1,14 @@
-// Generated on 12/04/2025, 21:00:02 (EST)
-// Total records: 1011
+// Generated on 12/04/2025, 21:15:01 (EST)
+// Total records: 1012
 
 export const games = [
+  {
+    "id": "7d7db2f3-ebcf-44e3-8d50-4fd5fe77df97",
+    "name": "Game 1",
+    "creatorId": "105154239155662008894",
+    "creatorLastName": "Williams",
+    "createdAt": "12/04/2025, 21:13:38"
+  },
   {
     "id": "c0bf2db8-7829-40a3-addd-feb6db5860e8",
     "name": "First Round",
