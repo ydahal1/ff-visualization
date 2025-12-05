@@ -1,7 +1,28 @@
-// Generated on 12/04/2025, 21:30:02 (EST)
-// Total records: 1015
+// Generated on 12/04/2025, 21:45:02 (EST)
+// Total records: 1017
 
 export const games = [
+  {
+    "id": "e829f74a-e817-47d3-b98d-1db1a1dbde49",
+    "name": "Pub3",
+    "creatorId": "113595880961210939432",
+    "creatorLastName": "Zepeda",
+    "createdAt": "12/04/2025, 21:41:39"
+  },
+  {
+    "id": "f3174a1b-5c3f-4df6-aace-26cbae06ad27",
+    "name": "Game 2",
+    "creatorId": "105154239155662008894",
+    "creatorLastName": "Williams",
+    "createdAt": "12/04/2025, 21:32:13"
+  },
+  {
+    "id": "95afae35-7c51-4ef0-9045-53a48e8b9ef5",
+    "name": "PUB 2",
+    "creatorId": "113595880961210939432",
+    "creatorLastName": "Zepeda",
+    "createdAt": "12/04/2025, 21:30:29"
+  },
   {
     "id": "c2e4351e-7361-4567-9ef9-1be33f8b1691",
     "name": "c",
@@ -22,13 +43,6 @@ export const games = [
     "creatorId": "113595880961210939432",
     "creatorLastName": "Zepeda",
     "createdAt": "12/04/2025, 21:19:50"
-  },
-  {
-    "id": "7d7db2f3-ebcf-44e3-8d50-4fd5fe77df97",
-    "name": "Game 1",
-    "creatorId": "105154239155662008894",
-    "creatorLastName": "Williams",
-    "createdAt": "12/04/2025, 21:13:38"
   },
   {
     "id": "c0bf2db8-7829-40a3-addd-feb6db5860e8",
