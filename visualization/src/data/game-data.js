@@ -1,7 +1,14 @@
-// Generated on 12/05/2025, 03:15:02 (EST)
-// Total records: 1027
+// Generated on 12/05/2025, 03:30:01 (EST)
+// Total records: 1028
 
 export const games = [
+  {
+    "id": "26e98d54-39d9-4911-99c4-62a12e66df32",
+    "name": "Inclusivity Rivalry",
+    "creatorId": "117618506439752276867",
+    "creatorLastName": "Agcanas Jr.",
+    "createdAt": "12/05/2025, 03:27:48"
+  },
   {
     "id": "972c3ee9-9691-4c0e-8450-b87a3b1e1dbf",
     "name": "Feud 1",
