@@ -1,7 +1,14 @@
-// Generated on 12/05/2025, 09:00:02 (EST)
+// Generated on 12/05/2025, 09:15:02 (EST)
 // Total records: 1029
 
 export const games = [
+  {
+    "id": "66ab0875-d331-4d7c-be31-37a673a6ab01",
+    "name": "ALL STAFF 20251205",
+    "creatorId": "102355797271565732386",
+    "creatorLastName": "-",
+    "createdAt": "12/05/2025, 09:00:59"
+  },
   {
     "id": "0ec0e593-b305-45c4-8d58-604ef41c0474",
     "name": "Final Test",
@@ -113,13 +120,6 @@ export const games = [
     "creatorId": "113595880961210939432",
     "creatorLastName": "Zepeda",
     "createdAt": "12/04/2025, 22:08:43"
-  },
-  {
-    "id": "1e1a38a8-47a8-4959-88d1-3a92eb9404c6",
-    "name": "ALL STAFF",
-    "creatorId": "102355797271565732386",
-    "creatorLastName": "-",
-    "createdAt": "12/04/2025, 22:05:13"
   },
   {
     "id": "6cdaf83b-2116-4f25-843d-de41c237c565",
