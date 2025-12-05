@@ -1,7 +1,14 @@
-// Generated on 12/04/2025, 19:15:01 (EST)
-// Total records: 1007
+// Generated on 12/04/2025, 19:30:02 (EST)
+// Total records: 1008
 
 export const games = [
+  {
+    "id": "97bc8452-3c6e-4d9c-8a94-6c7082efbb77",
+    "name": "Bafana",
+    "creatorId": "116529562870446243087",
+    "creatorLastName": "Prince",
+    "createdAt": "12/04/2025, 19:21:09"
+  },
   {
     "id": "c6c0f5e6-17e2-45d0-9d3b-f1c7846112b2",
     "name": "Prince",
