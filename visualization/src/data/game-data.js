@@ -1,7 +1,14 @@
-// Generated on 12/05/2025, 13:00:02 (EST)
-// Total records: 1057
+// Generated on 12/05/2025, 13:15:02 (EST)
+// Total records: 1058
 
 export const games = [
+  {
+    "id": "2eab7b3e-033a-429c-9ec6-a3b466b0227e",
+    "name": "ITIHS #1",
+    "creatorId": "108017949527711875820",
+    "creatorLastName": "Allmaras",
+    "createdAt": "12/05/2025, 13:01:20"
+  },
   {
     "id": "8afce999-4224-4c6b-9c21-b4881c3a9b3a",
     "name": "regus boo",
