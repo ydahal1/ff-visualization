@@ -1,7 +1,28 @@
-// Generated on 12/05/2025, 12:00:02 (EST)
-// Total records: 1039
+// Generated on 12/05/2025, 12:15:01 (EST)
+// Total records: 1042
 
 export const games = [
+  {
+    "id": "83058ab1-9c24-4731-86ef-ad862c0f46fe",
+    "name": "Game 2",
+    "creatorId": "108367492575193429329",
+    "creatorLastName": "Alikhan",
+    "createdAt": "12/05/2025, 12:05:40"
+  },
+  {
+    "id": "c148b639-2404-4b54-8ac7-e14b94ea17ac",
+    "name": "Game 1 (pt 2)",
+    "creatorId": "108367492575193429329",
+    "creatorLastName": "Alikhan",
+    "createdAt": "12/05/2025, 12:04:47"
+  },
+  {
+    "id": "c514363e-86af-4520-9e0c-63b131a0e181",
+    "name": "Family Feuds - Bristol",
+    "creatorId": "103051844197413232804",
+    "creatorLastName": "Hinchey",
+    "createdAt": "12/05/2025, 12:04:16"
+  },
   {
     "id": "c8bf45d6-d349-4d4a-939a-7f5b7e941079",
     "name": "Game 1",
