@@ -1,7 +1,28 @@
-// Generated on 12/04/2025, 21:15:01 (EST)
-// Total records: 1012
+// Generated on 12/04/2025, 21:30:02 (EST)
+// Total records: 1015
 
 export const games = [
+  {
+    "id": "c2e4351e-7361-4567-9ef9-1be33f8b1691",
+    "name": "c",
+    "creatorId": "102282321919704002085",
+    "creatorLastName": "Lynxa",
+    "createdAt": "12/04/2025, 21:29:15"
+  },
+  {
+    "id": "ea6da71b-fa8d-4252-b4c9-8ff8de264254",
+    "name": "Integrity",
+    "creatorId": "102493041434597657827",
+    "creatorLastName": "Tejada",
+    "createdAt": "12/04/2025, 21:20:43"
+  },
+  {
+    "id": "03eab055-0da6-4f15-8117-113db27bcf6b",
+    "name": "Pub",
+    "creatorId": "113595880961210939432",
+    "creatorLastName": "Zepeda",
+    "createdAt": "12/04/2025, 21:19:50"
+  },
   {
     "id": "7d7db2f3-ebcf-44e3-8d50-4fd5fe77df97",
     "name": "Game 1",
