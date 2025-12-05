@@ -1,7 +1,21 @@
-// Generated on 12/04/2025, 20:15:02 (EST)
-// Total records: 1008
+// Generated on 12/04/2025, 20:30:01 (EST)
+// Total records: 1010
 
 export const games = [
+  {
+    "id": "7a575a88-530c-4fe3-8d50-f3a620ef18b3",
+    "name": "Sigmas VS BSU 1",
+    "creatorId": "113595880961210939432",
+    "creatorLastName": "Zepeda",
+    "createdAt": "12/04/2025, 20:27:28"
+  },
+  {
+    "id": "25eaea9e-9ca1-46e8-acd5-ac80a962ce41",
+    "name": "BGV",
+    "creatorId": "116529562870446243087",
+    "creatorLastName": "Prince",
+    "createdAt": "12/04/2025, 20:24:40"
+  },
   {
     "id": "97bc8452-3c6e-4d9c-8a94-6c7082efbb77",
     "name": "Bafana",
