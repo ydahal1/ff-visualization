@@ -1,7 +1,21 @@
-// Generated on 12/05/2025, 13:15:02 (EST)
-// Total records: 1058
+// Generated on 12/05/2025, 13:30:02 (EST)
+// Total records: 1060
 
 export const games = [
+  {
+    "id": "dd8ff11a-ae50-4702-be42-b21d9d37a2d1",
+    "name": "ff4",
+    "creatorId": "116675875249185386495",
+    "creatorLastName": "Escalante",
+    "createdAt": "12/05/2025, 13:26:23"
+  },
+  {
+    "id": "2b9fe48e-e953-44c0-928b-db54ac16b316",
+    "name": "fast money 3",
+    "creatorId": "116675875249185386495",
+    "creatorLastName": "Escalante",
+    "createdAt": "12/05/2025, 13:24:36"
+  },
   {
     "id": "2eab7b3e-033a-429c-9ec6-a3b466b0227e",
     "name": "ITIHS #1",
