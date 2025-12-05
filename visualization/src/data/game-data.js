@@ -1,5 +1,5 @@
-// Generated on 12/05/2025, 05:00:03 (EST)
-// Total records: 1028
+// Generated on 12/05/2025, 05:15:02 (EST)
+// Total records: 1027
 
 export const games = [
   {
@@ -8,13 +8,6 @@ export const games = [
     "creatorId": "117618506439752276867",
     "creatorLastName": "Agcanas Jr.",
     "createdAt": "12/05/2025, 03:27:48"
-  },
-  {
-    "id": "972c3ee9-9691-4c0e-8450-b87a3b1e1dbf",
-    "name": "Feud 1",
-    "creatorId": "101245147354944105069",
-    "creatorLastName": "Makinwa",
-    "createdAt": "12/05/2025, 02:04:51"
   },
   {
     "id": "b3389c8d-26b2-4ab5-9095-f0b12e3a6c1d",
