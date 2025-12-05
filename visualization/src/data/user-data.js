@@ -1,7 +1,27 @@
-// Generated on 12/05/2025, 10:00:00 (EST)
-// Total records: 742
+// Generated on 12/05/2025, 10:15:00 (EST)
+// Total records: 746
 
 export const users = [
+  {
+    "id": "101904389135754441216",
+    "lName": "Biasca",
+    "createdAt": "12/05/2025, 10:12:56"
+  },
+  {
+    "id": "103038806015672863520",
+    "lName": "D",
+    "createdAt": "12/05/2025, 10:11:16"
+  },
+  {
+    "id": "116675875249185386495",
+    "lName": "Escalante",
+    "createdAt": "12/05/2025, 10:02:27"
+  },
+  {
+    "id": "115700186035971661203",
+    "lName": "Tait",
+    "createdAt": "12/05/2025, 10:00:28"
+  },
   {
     "id": "108306692833962260748",
     "lName": "Aguirre",
