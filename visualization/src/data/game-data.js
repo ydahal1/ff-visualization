@@ -1,5 +1,5 @@
-// Generated on 12/04/2025, 22:15:02 (EST)
-// Total records: 1023
+// Generated on 12/04/2025, 22:30:01 (EST)
+// Total records: 1022
 
 export const games = [
   {
@@ -29,13 +29,6 @@ export const games = [
     "creatorId": "105154239155662008894",
     "creatorLastName": "Williams",
     "createdAt": "12/04/2025, 22:02:43"
-  },
-  {
-    "id": "d598179e-4b8a-46e0-aba7-c40761135be6",
-    "name": "CAN Family Feud",
-    "creatorId": "115161740040059068253",
-    "creatorLastName": "Kotrec",
-    "createdAt": "12/04/2025, 21:57:01"
   },
   {
     "id": "5d45c801-917c-4214-b44a-2631749f67d0",
