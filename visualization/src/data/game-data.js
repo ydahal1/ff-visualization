@@ -1,7 +1,21 @@
-// Generated on 12/05/2025, 14:45:01 (EST)
-// Total records: 1062
+// Generated on 12/05/2025, 15:00:01 (EST)
+// Total records: 1064
 
 export const games = [
+  {
+    "id": "ea702cf6-5474-4acb-9c99-c4170aab5774",
+    "name": "Enable Party",
+    "creatorId": "104359936499435681762",
+    "creatorLastName": "carter",
+    "createdAt": "12/05/2025, 14:59:12"
+  },
+  {
+    "id": "f7781c2e-d66f-4460-be5b-49f36ae4e6eb",
+    "name": "fe",
+    "creatorId": "100954307860055947470",
+    "creatorLastName": "Centre",
+    "createdAt": "12/05/2025, 14:52:21"
+  },
   {
     "id": "12e89349-e313-4dbe-8b42-1abb216a954a",
     "name": "Lightpath",
