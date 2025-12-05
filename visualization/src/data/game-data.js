@@ -1,7 +1,63 @@
-// Generated on 12/05/2025, 12:15:01 (EST)
-// Total records: 1042
+// Generated on 12/05/2025, 12:30:02 (EST)
+// Total records: 1049
 
 export const games = [
+  {
+    "id": "ba5cfac0-0c0a-4847-8aac-46a88805fc47",
+    "name": "Kids' Kamp Christmas Part 6",
+    "creatorId": "104422654447867790495",
+    "creatorLastName": "Berthelot",
+    "createdAt": "12/05/2025, 12:29:59"
+  },
+  {
+    "id": "feeddae7-0c32-4ced-adec-b11f004d578c",
+    "name": "Kids' Kamp Christmas Part 5",
+    "creatorId": "104422654447867790495",
+    "creatorLastName": "Berthelot",
+    "createdAt": "12/05/2025, 12:29:35"
+  },
+  {
+    "id": "51f34e68-d05c-46e9-a19f-18bb0b3c7e8e",
+    "name": "Kids' Kamp Christmas Part 4",
+    "creatorId": "104422654447867790495",
+    "creatorLastName": "Berthelot",
+    "createdAt": "12/05/2025, 12:28:01"
+  },
+  {
+    "id": "7e5c0582-ed7b-419c-bc41-a6f9ce422dbe",
+    "name": "Bristol Generic Round",
+    "creatorId": "103051844197413232804",
+    "creatorLastName": "Hinchey",
+    "createdAt": "12/05/2025, 12:26:56"
+  },
+  {
+    "id": "a34303d9-a7ac-4fe0-a2b4-f101d1ebf53f",
+    "name": "Kids' Kamp Christmas Part 3",
+    "creatorId": "104422654447867790495",
+    "creatorLastName": "Berthelot",
+    "createdAt": "12/05/2025, 12:26:51"
+  },
+  {
+    "id": "60f86074-b225-4782-908a-b75a59875400",
+    "name": "Kids' Kamp Christmas Part 2",
+    "creatorId": "104422654447867790495",
+    "creatorLastName": "Berthelot",
+    "createdAt": "12/05/2025, 12:25:01"
+  },
+  {
+    "id": "e34ff300-dfc6-4be3-8c13-0b0910f1ed4a",
+    "name": "Kids' Kamp Christmas Part 1",
+    "creatorId": "104422654447867790495",
+    "creatorLastName": "Berthelot",
+    "createdAt": "12/05/2025, 12:20:11"
+  },
+  {
+    "id": "57f0e338-f9df-44d6-883f-371cad7be92f",
+    "name": "Christmas party",
+    "creatorId": "112411580136416956957",
+    "creatorLastName": "Palmer",
+    "createdAt": "12/05/2025, 12:18:44"
+  },
   {
     "id": "83058ab1-9c24-4731-86ef-ad862c0f46fe",
     "name": "Game 2",
@@ -15,13 +71,6 @@ export const games = [
     "creatorId": "108367492575193429329",
     "creatorLastName": "Alikhan",
     "createdAt": "12/05/2025, 12:04:47"
-  },
-  {
-    "id": "c514363e-86af-4520-9e0c-63b131a0e181",
-    "name": "Family Feuds - Bristol",
-    "creatorId": "103051844197413232804",
-    "creatorLastName": "Hinchey",
-    "createdAt": "12/05/2025, 12:04:16"
   },
   {
     "id": "c8bf45d6-d349-4d4a-939a-7f5b7e941079",
