@@ -1,7 +1,28 @@
-// Generated on 12/04/2025, 23:15:02 (EST)
-// Total records: 1022
+// Generated on 12/04/2025, 23:30:01 (EST)
+// Total records: 1025
 
 export const games = [
+  {
+    "id": "285657c8-c883-4a3e-965d-6e05f298e294",
+    "name": "MLK Christmas Party - Final Round",
+    "creatorId": "116059403033453386087",
+    "creatorLastName": "Kermezian",
+    "createdAt": "12/04/2025, 23:17:05"
+  },
+  {
+    "id": "0dd366f9-127a-4fcf-a19f-39fad4bf6b46",
+    "name": "MLK Christmas Party - Round 2",
+    "creatorId": "116059403033453386087",
+    "creatorLastName": "Kermezian",
+    "createdAt": "12/04/2025, 23:16:19"
+  },
+  {
+    "id": "fb328650-8a2b-4bfc-a2f9-cca70f243adc",
+    "name": "MLK Christmas Party - Round 1",
+    "creatorId": "116059403033453386087",
+    "creatorLastName": "Kermezian",
+    "createdAt": "12/04/2025, 23:15:25"
+  },
   {
     "id": "aa17cec0-9409-4cd2-9221-15dc007bc09a",
     "name": "game 1",
