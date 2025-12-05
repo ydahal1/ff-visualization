@@ -1,5 +1,5 @@
-// Generated on 12/05/2025, 15:00:01 (EST)
-// Total records: 1064
+// Generated on 12/05/2025, 15:15:01 (EST)
+// Total records: 1063
 
 export const games = [
   {
@@ -680,13 +680,6 @@ export const games = [
     "creatorId": "102638363125990503770",
     "creatorLastName": "Castaneda",
     "createdAt": "12/04/2025, 11:14:18"
-  },
-  {
-    "id": "1bd44ab7-1225-4f46-92d2-3c3f8aa99a25",
-    "name": "Christmas Feud",
-    "creatorId": "100156677491870716825",
-    "creatorLastName": "Watts",
-    "createdAt": "12/04/2025, 10:54:27"
   },
   {
     "id": "e4360fab-593b-4a0f-844a-8719e8e26a38",
