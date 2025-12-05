@@ -1,5 +1,5 @@
-// Generated on 12/05/2025, 08:00:02 (EST)
-// Total records: 1029
+// Generated on 12/05/2025, 08:15:02 (EST)
+// Total records: 1026
 
 export const games = [
   {
@@ -1529,13 +1529,6 @@ export const games = [
     "createdAt": "12/01/2025, 14:39:04"
   },
   {
-    "id": "53e9af65-4cff-445f-a546-20d082fdec22",
-    "name": "Test2",
-    "creatorId": "112403571295716199898",
-    "creatorLastName": "Smiley",
-    "createdAt": "12/01/2025, 13:58:41"
-  },
-  {
     "id": "51288fdb-5682-479e-ba84-cfeef483448b",
     "name": "Power Puff Girls",
     "creatorId": "112192843104249422495",
@@ -2166,13 +2159,6 @@ export const games = [
     "createdAt": "11/28/2025, 18:34:08"
   },
   {
-    "id": "b2c72302-6726-4720-8b8a-bc634278de70",
-    "name": "Test",
-    "creatorId": "112403571295716199898",
-    "creatorLastName": "Smiley",
-    "createdAt": "11/28/2025, 17:52:53"
-  },
-  {
     "id": "02e526fd-357b-4d0c-b40c-d2629356907d",
     "name": "Family Game 1",
     "creatorId": "113840012572186366633",
@@ -2325,13 +2311,6 @@ export const games = [
     "creatorId": "118398045643308882603",
     "creatorLastName": "Dahal",
     "createdAt": "11/28/2025, 10:57:40"
-  },
-  {
-    "id": "9c823cf0-d8e9-4c1b-901c-205752c41111",
-    "name": "CBOCs VS HQ",
-    "creatorId": "112403571295716199898",
-    "creatorLastName": "Smiley",
-    "createdAt": "11/28/2025, 10:07:14"
   },
   {
     "id": "b4e61a0a-34c6-4275-a1d2-472c916c5804",
