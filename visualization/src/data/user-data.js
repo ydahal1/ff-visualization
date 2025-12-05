@@ -1,7 +1,22 @@
-// Generated on 12/05/2025, 14:45:00 (EST)
-// Total records: 757
+// Generated on 12/05/2025, 15:00:00 (EST)
+// Total records: 760
 
 export const users = [
+  {
+    "id": "104359936499435681762",
+    "lName": "carter",
+    "createdAt": "12/05/2025, 14:55:28"
+  },
+  {
+    "id": "100954307860055947470",
+    "lName": "Centre",
+    "createdAt": "12/05/2025, 14:51:46"
+  },
+  {
+    "id": "107886724179001102979",
+    "lName": "Barnes",
+    "createdAt": "12/05/2025, 14:49:44"
+  },
   {
     "id": "114039684444826352399",
     "lName": "Lyon",
