@@ -1,5 +1,5 @@
-// Generated on 12/05/2025, 10:45:01 (EST)
-// Total records: 1037
+// Generated on 12/05/2025, 11:00:02 (EST)
+// Total records: 1036
 
 export const games = [
   {
@@ -323,13 +323,6 @@ export const games = [
     "creatorId": "112385556091405975303",
     "creatorLastName": "Wall",
     "createdAt": "12/04/2025, 16:38:44"
-  },
-  {
-    "id": "b8bd17f2-2227-4994-a045-6b31573ced2f",
-    "name": "Christmas Eve Family Feud",
-    "creatorId": "101547935983450707234",
-    "creatorLastName": "Allison",
-    "createdAt": "12/04/2025, 16:22:00"
   },
   {
     "id": "bda0084c-e7dc-4a94-bcf1-7a05b7b2fc6a",
