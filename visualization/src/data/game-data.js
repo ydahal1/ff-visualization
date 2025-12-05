@@ -1,7 +1,42 @@
-// Generated on 12/05/2025, 12:45:01 (EST)
-// Total records: 1052
+// Generated on 12/05/2025, 13:00:02 (EST)
+// Total records: 1057
 
 export const games = [
+  {
+    "id": "8afce999-4224-4c6b-9c21-b4881c3a9b3a",
+    "name": "regus boo",
+    "creatorId": "100452048405418625554",
+    "creatorLastName": "Gray",
+    "createdAt": "12/05/2025, 12:54:56"
+  },
+  {
+    "id": "aee96b99-518d-4225-87da-bbde98b9aa12",
+    "name": "Fast money 2",
+    "creatorId": "116675875249185386495",
+    "creatorLastName": "Escalante",
+    "createdAt": "12/05/2025, 12:51:04"
+  },
+  {
+    "id": "6c5f0aaf-1d01-4b11-aa54-7702645b03ff",
+    "name": "Family freud",
+    "creatorId": "118438206715362301156",
+    "creatorLastName": "Gielen",
+    "createdAt": "12/05/2025, 12:48:13"
+  },
+  {
+    "id": "ba446ab8-1837-4b37-874c-498e3280dfa2",
+    "name": "Game 2 pt2",
+    "creatorId": "108367492575193429329",
+    "creatorLastName": "Alikhan",
+    "createdAt": "12/05/2025, 12:45:58"
+  },
+  {
+    "id": "aed57eb0-3c4d-4548-99ce-8b92b01a3aef",
+    "name": "fast money",
+    "creatorId": "116675875249185386495",
+    "creatorLastName": "Escalante",
+    "createdAt": "12/05/2025, 12:45:34"
+  },
   {
     "id": "f21f3591-b933-42ab-9c2c-62ad6d39fa6c",
     "name": "ff3",
