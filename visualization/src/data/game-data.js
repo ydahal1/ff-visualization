@@ -1,7 +1,21 @@
-// Generated on 12/05/2025, 15:30:02 (EST)
-// Total records: 1062
+// Generated on 12/05/2025, 15:45:03 (EST)
+// Total records: 1064
 
 export const games = [
+  {
+    "id": "63a461ed-7bc0-46d2-bf1b-72ceac5c04cd",
+    "name": "Saturday fun 3",
+    "creatorId": "101319012583799099050",
+    "creatorLastName": "Lambert",
+    "createdAt": "12/05/2025, 15:34:55"
+  },
+  {
+    "id": "a24e4667-d0dd-4694-95a6-20696bbaba7d",
+    "name": "Lightning Round",
+    "creatorId": "113393667981277475839",
+    "creatorLastName": "Marie",
+    "createdAt": "12/05/2025, 15:31:31"
+  },
   {
     "id": "a8e5f570-d39d-4e28-a5dd-5e066e684c0e",
     "name": "Saturday fun 2",
