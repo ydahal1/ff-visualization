@@ -1,7 +1,14 @@
-// Generated on 12/05/2025, 07:00:02 (EST)
-// Total records: 1027
+// Generated on 12/05/2025, 07:15:01 (EST)
+// Total records: 1028
 
 export const games = [
+  {
+    "id": "4472892d-3068-4262-a5d0-e2449fcf3e13",
+    "name": "My Feud Game",
+    "creatorId": "101245147354944105069",
+    "creatorLastName": "Makinwa",
+    "createdAt": "12/05/2025, 07:10:57"
+  },
   {
     "id": "26e98d54-39d9-4911-99c4-62a12e66df32",
     "name": "Inclusivity Rivalry",
