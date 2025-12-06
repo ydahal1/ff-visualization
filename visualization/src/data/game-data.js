@@ -1,7 +1,21 @@
-// Generated on 12/06/2025, 10:15:02 (EST)
-// Total records: 1104
+// Generated on 12/06/2025, 10:30:01 (EST)
+// Total records: 1106
 
 export const games = [
+  {
+    "id": "c78a5d4c-1151-4649-9ec8-a3de9a09709b",
+    "name": "Home Buyer Showdown",
+    "creatorId": "108390406048571875694",
+    "creatorLastName": "Realty",
+    "createdAt": "12/06/2025, 10:27:46"
+  },
+  {
+    "id": "95cbbe09-0dd6-46e4-a937-3624f4bd5004",
+    "name": "Kailan mo nararamdaman ang Lord?",
+    "creatorId": "105548033463987752792",
+    "creatorLastName": "Chua",
+    "createdAt": "12/06/2025, 10:16:38"
+  },
   {
     "id": "75eaff68-9dea-4447-afd9-5ee2214130ee",
     "name": "Game 1",
