@@ -1,7 +1,21 @@
-// Generated on 12/05/2025, 21:30:02 (EST)
-// Total records: 1089
+// Generated on 12/05/2025, 21:45:01 (EST)
+// Total records: 1091
 
 export const games = [
+  {
+    "id": "091b65ee-5734-41e7-a0c6-1e9f6dceaee6",
+    "name": "Practice",
+    "creatorId": "113393667981277475839",
+    "creatorLastName": "Marie",
+    "createdAt": "12/05/2025, 21:41:56"
+  },
+  {
+    "id": "c4fdf370-dee7-4994-b04d-64ac797e96da",
+    "name": "Team 1",
+    "creatorId": "106730975055381039171",
+    "creatorLastName": "Manna",
+    "createdAt": "12/05/2025, 21:32:06"
+  },
   {
     "id": "50c34405-6f38-412b-adbd-1003b7c55c52",
     "name": "patho 1",
