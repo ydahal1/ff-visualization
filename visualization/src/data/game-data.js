@@ -1,13 +1,27 @@
-// Generated on 12/06/2025, 17:00:01 (EST)
-// Total records: 1126
+// Generated on 12/06/2025, 17:15:01 (EST)
+// Total records: 1128
 
 export const games = [
   {
-    "id": "dcc9a6ea-6113-4c94-aefb-f7c2fc90a989",
-    "name": "solomon",
+    "id": "ea4817d3-3842-4add-bfdd-3e77e9694b35",
+    "name": "FAMILY FUED MV",
+    "creatorId": "102155047006042790749",
+    "creatorLastName": "Meyer",
+    "createdAt": "12/06/2025, 17:11:38"
+  },
+  {
+    "id": "2bc9094b-040e-4b0a-8915-adb7cc176db3",
+    "name": "test",
+    "creatorId": "103789195688384757248",
+    "creatorLastName": "Nelson",
+    "createdAt": "12/06/2025, 17:11:04"
+  },
+  {
+    "id": "96a77bfd-e273-4097-9b23-1e40230f5107",
+    "name": "Christmas Family Fued",
     "creatorId": "108848743126285580458",
     "creatorLastName": "Cleveland",
-    "createdAt": "12/06/2025, 16:39:15"
+    "createdAt": "12/06/2025, 17:09:07"
   },
   {
     "id": "117ce7fb-d755-4d05-b355-d7ccf61fed00",
