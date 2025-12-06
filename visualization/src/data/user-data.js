@@ -1,7 +1,12 @@
-// Generated on 12/05/2025, 20:15:00 (EST)
-// Total records: 767
+// Generated on 12/05/2025, 20:30:00 (EST)
+// Total records: 768
 
 export const users = [
+  {
+    "id": "112308838541173687912",
+    "lName": "Asare-Agyemang",
+    "createdAt": "12/05/2025, 20:27:10"
+  },
   {
     "id": "100563840600189047577",
     "lName": "Konnection",
