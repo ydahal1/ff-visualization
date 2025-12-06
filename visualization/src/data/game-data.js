@@ -1,7 +1,14 @@
-// Generated on 12/06/2025, 12:30:02 (EST)
-// Total records: 1111
+// Generated on 12/06/2025, 12:45:01 (EST)
+// Total records: 1112
 
 export const games = [
+  {
+    "id": "2e423680-ad89-4ce0-8746-83084fd09510",
+    "name": "Fast Money 1",
+    "creatorId": "101287041069633311522",
+    "creatorLastName": "Sarsany",
+    "createdAt": "12/06/2025, 12:35:05"
+  },
   {
     "id": "406fc10c-a0c0-4c43-8401-3fdd6d2cf265",
     "name": "Christmas",
