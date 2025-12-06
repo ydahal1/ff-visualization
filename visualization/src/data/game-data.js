@@ -1,5 +1,5 @@
-// Generated on 12/06/2025, 02:45:01 (EST)
-// Total records: 1102
+// Generated on 12/06/2025, 03:00:02 (EST)
+// Total records: 1101
 
 export const games = [
   {
@@ -1555,13 +1555,6 @@ export const games = [
     "creatorId": "113423960315136554349",
     "creatorLastName": "Santos",
     "createdAt": "12/03/2025, 07:11:24"
-  },
-  {
-    "id": "f26b4914-aad8-4183-a0a7-390f209d6eef",
-    "name": "NAStalgic Family Feud",
-    "creatorId": "112078187579050215289",
-    "creatorLastName": "Hidalgo",
-    "createdAt": "12/03/2025, 07:01:26"
   },
   {
     "id": "ca568c6c-c9af-497a-8a78-c219664700bc",
