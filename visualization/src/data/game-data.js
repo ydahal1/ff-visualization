@@ -1,7 +1,14 @@
-// Generated on 12/06/2025, 01:00:02 (EST)
-// Total records: 1101
+// Generated on 12/06/2025, 01:15:01 (EST)
+// Total records: 1102
 
 export const games = [
+  {
+    "id": "e526f98d-7349-45e3-831e-890483c8d09d",
+    "name": "Christmas Cookie Party pt 2",
+    "creatorId": "102282321919704002085",
+    "creatorLastName": "Lynxa",
+    "createdAt": "12/06/2025, 01:00:42"
+  },
   {
     "id": "50b5a0f8-a87b-4515-abe5-61724826cd42",
     "name": "Christmas Family Feud",
