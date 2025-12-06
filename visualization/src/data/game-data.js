@@ -1,7 +1,14 @@
-// Generated on 12/06/2025, 11:15:02 (EST)
+// Generated on 12/06/2025, 11:30:01 (EST)
 // Total records: 1108
 
 export const games = [
+  {
+    "id": "ddcfa5a9-ce6b-43b2-b5a8-43e679f7352a",
+    "name": "Train Your Brain",
+    "creatorId": "104539531731238697020",
+    "creatorLastName": "Linton",
+    "createdAt": "12/06/2025, 11:15:43"
+  },
   {
     "id": "72a559d8-fea1-4c85-91dd-878cf8d1f76e",
     "name": "demo",
@@ -6392,13 +6399,6 @@ export const games = [
     "creatorId": "111769315865903469163",
     "creatorLastName": "Nelson",
     "createdAt": "11/13/2025, 17:50:27"
-  },
-  {
-    "id": "2e556a99-85d9-4ecc-bc35-03ebbf4e2c90",
-    "name": "Team One VS Team Two",
-    "creatorId": "104539531731238697020",
-    "creatorLastName": "Linton",
-    "createdAt": "11/13/2025, 17:33:29"
   },
   {
     "id": "9e480859-5c71-4fb9-8ec6-9e1d95682ddd",
