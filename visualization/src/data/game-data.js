@@ -1,7 +1,21 @@
-// Generated on 12/06/2025, 24:45:01 (EST)
-// Total records: 1100
+// Generated on 12/06/2025, 01:00:02 (EST)
+// Total records: 1101
 
 export const games = [
+  {
+    "id": "50b5a0f8-a87b-4515-abe5-61724826cd42",
+    "name": "Christmas Family Feud",
+    "creatorId": "112936771847705007740",
+    "creatorLastName": "Barker",
+    "createdAt": "12/06/2025, 24:59:01"
+  },
+  {
+    "id": "4e8d3997-56f9-4e77-acba-e6aa08f8020e",
+    "name": "Christmas Cookie Party pt 1",
+    "creatorId": "102282321919704002085",
+    "creatorLastName": "Lynxa",
+    "createdAt": "12/06/2025, 24:56:32"
+  },
   {
     "id": "c42322a9-669d-4d2a-bec4-cef608f79d63",
     "name": "Garry #2",
@@ -715,13 +729,6 @@ export const games = [
     "creatorId": "113595880961210939432",
     "creatorLastName": "Zepeda",
     "createdAt": "12/04/2025, 21:30:29"
-  },
-  {
-    "id": "c2e4351e-7361-4567-9ef9-1be33f8b1691",
-    "name": "c",
-    "creatorId": "102282321919704002085",
-    "creatorLastName": "Lynxa",
-    "createdAt": "12/04/2025, 21:29:15"
   },
   {
     "id": "03eab055-0da6-4f15-8117-113db27bcf6b",
