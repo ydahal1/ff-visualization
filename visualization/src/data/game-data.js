@@ -1,7 +1,14 @@
-// Generated on 12/06/2025, 14:00:01 (EST)
-// Total records: 1118
+// Generated on 12/06/2025, 14:15:01 (EST)
+// Total records: 1119
 
 export const games = [
+  {
+    "id": "220ec9ce-5105-43f3-848f-933981afa3fa",
+    "name": "Gimtadienis",
+    "creatorId": "114959054136987472467",
+    "creatorLastName": "Nikitinė",
+    "createdAt": "12/06/2025, 14:11:41"
+  },
   {
     "id": "7fa2b82e-fba3-4af4-a853-a86ec0bf5faf",
     "name": "Random 3",
