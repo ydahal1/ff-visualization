@@ -1,7 +1,14 @@
-// Generated on 12/06/2025, 05:15:01 (EST)
-// Total records: 1102
+// Generated on 12/06/2025, 05:30:02 (EST)
+// Total records: 1103
 
 export const games = [
+  {
+    "id": "5ebd32fe-acb2-48f7-9c9f-b0570dffad6b",
+    "name": "Family Feud",
+    "creatorId": "112078187579050215289",
+    "creatorLastName": "Hidalgo",
+    "createdAt": "12/06/2025, 05:19:25"
+  },
   {
     "id": "49e5f0b2-07bc-46c1-8c01-c4a5a2110116",
     "name": "Family freud 2",
