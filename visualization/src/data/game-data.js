@@ -1,7 +1,14 @@
-// Generated on 12/06/2025, 04:45:01 (EST)
-// Total records: 1101
+// Generated on 12/06/2025, 05:00:01 (EST)
+// Total records: 1102
 
 export const games = [
+  {
+    "id": "49e5f0b2-07bc-46c1-8c01-c4a5a2110116",
+    "name": "Family freud 2",
+    "creatorId": "118438206715362301156",
+    "creatorLastName": "Gielen",
+    "createdAt": "12/06/2025, 04:59:19"
+  },
   {
     "id": "e526f98d-7349-45e3-831e-890483c8d09d",
     "name": "Christmas Cookie Party pt 2",
