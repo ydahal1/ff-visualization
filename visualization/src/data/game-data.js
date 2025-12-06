@@ -1,14 +1,7 @@
-// Generated on 12/06/2025, 03:45:02 (EST)
-// Total records: 1103
+// Generated on 12/06/2025, 04:00:02 (EST)
+// Total records: 1102
 
 export const games = [
-  {
-    "id": "ae627c5d-6c58-4508-a1e0-0db62e76711e",
-    "name": "HomeBuyer Show Down",
-    "creatorId": "108390406048571875694",
-    "creatorLastName": "Realty",
-    "createdAt": "12/06/2025, 03:44:36"
-  },
   {
     "id": "b3fdfcd8-2c4f-4925-924d-965ead65d504",
     "name": "Family Feud Game",
