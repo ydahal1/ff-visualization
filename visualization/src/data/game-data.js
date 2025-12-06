@@ -1,7 +1,21 @@
-// Generated on 12/06/2025, 12:45:01 (EST)
-// Total records: 1112
+// Generated on 12/06/2025, 13:00:01 (EST)
+// Total records: 1114
 
 export const games = [
+  {
+    "id": "3573bccb-c046-4282-ba9b-a2c44a9613eb",
+    "name": "Fast Money 2",
+    "creatorId": "101287041069633311522",
+    "creatorLastName": "Sarsany",
+    "createdAt": "12/06/2025, 12:56:14"
+  },
+  {
+    "id": "1c39f071-ba76-4686-918c-2d11732399a8",
+    "name": "Sports",
+    "creatorId": "113828917915742969381",
+    "creatorLastName": "Fehr",
+    "createdAt": "12/06/2025, 12:46:30"
+  },
   {
     "id": "2e423680-ad89-4ce0-8746-83084fd09510",
     "name": "Fast Money 1",
