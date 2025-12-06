@@ -1,7 +1,21 @@
-// Generated on 12/05/2025, 19:00:01 (EST)
-// Total records: 1083
+// Generated on 12/05/2025, 19:15:02 (EST)
+// Total records: 1085
 
 export const games = [
+  {
+    "id": "55f9918e-e826-4898-aa13-39395b909b01",
+    "name": "Riverton SDS",
+    "creatorId": "115622885589226346351",
+    "creatorLastName": "Stratford",
+    "createdAt": "12/05/2025, 19:01:22"
+  },
+  {
+    "id": "f695a94c-ecaa-483b-841b-38236e0eb8b9",
+    "name": "CHAMPIONSHIP",
+    "creatorId": "108739916752760589923",
+    "creatorLastName": "Plagerman",
+    "createdAt": "12/05/2025, 19:01:09"
+  },
   {
     "id": "e6d8af2c-eace-4ca8-b384-ff20f97aa30c",
     "name": "Round 2",
