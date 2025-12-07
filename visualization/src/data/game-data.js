@@ -1,7 +1,14 @@
-// Generated on 12/07/2025, 18:15:01 (EST)
-// Total records: 1172
+// Generated on 12/07/2025, 18:30:01 (EST)
+// Total records: 1173
 
 export const games = [
+  {
+    "id": "888047cd-f85a-4ea7-aa6b-eb42c6512f1b",
+    "name": "Renewal Christmas Party",
+    "creatorId": "115700186035971661203",
+    "creatorLastName": "Tait",
+    "createdAt": "12/07/2025, 18:25:00"
+  },
   {
     "id": "ae6d737a-44a5-4329-9b8b-21b80599db3c",
     "name": "NC100BW 2025 Christmas Party",
