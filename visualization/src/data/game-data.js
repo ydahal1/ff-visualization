@@ -1,7 +1,14 @@
-// Generated on 12/07/2025, 15:45:01 (EST)
-// Total records: 1154
+// Generated on 12/07/2025, 16:00:01 (EST)
+// Total records: 1155
 
 export const games = [
+  {
+    "id": "f8921bf9-cfeb-4542-9cd2-31d4a00b509e",
+    "name": "Classroom Feud",
+    "creatorId": "101803226789689310310",
+    "creatorLastName": "Cintron",
+    "createdAt": "12/07/2025, 15:46:43"
+  },
   {
     "id": "15254e34-cfd7-45ec-8f09-529e6f2711b2",
     "name": "Do You Know Fortnite?",
