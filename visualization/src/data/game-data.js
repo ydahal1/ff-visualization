@@ -1,7 +1,21 @@
-// Generated on 12/07/2025, 17:00:02 (EST)
-// Total records: 1169
+// Generated on 12/07/2025, 17:15:03 (EST)
+// Total records: 1171
 
 export const games = [
+  {
+    "id": "84d11da3-b12d-424a-aa5a-957b7ceb8f67",
+    "name": "Part 2",
+    "creatorId": "100394160828584685205",
+    "creatorLastName": "Sharma",
+    "createdAt": "12/07/2025, 17:13:12"
+  },
+  {
+    "id": "ac9780f2-c6fc-494f-9f2b-cc7a2804a5f5",
+    "name": "Part 1",
+    "creatorId": "100394160828584685205",
+    "creatorLastName": "Sharma",
+    "createdAt": "12/07/2025, 17:03:19"
+  },
   {
     "id": "c1d5a000-d519-40cd-ac27-7d554fd52910",
     "name": "Round 10",
