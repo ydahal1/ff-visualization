@@ -1,7 +1,21 @@
-// Generated on 12/07/2025, 14:00:01 (EST)
-// Total records: 1151
+// Generated on 12/07/2025, 14:15:02 (EST)
+// Total records: 1153
 
 export const games = [
+  {
+    "id": "c08538da-1b19-40d6-a7fd-853157038866",
+    "name": "Serata chill",
+    "creatorId": "107586862461934417416",
+    "creatorLastName": "Maniglio",
+    "createdAt": "12/07/2025, 14:08:23"
+  },
+  {
+    "id": "84fe0a77-8eee-4e87-9489-202fb174c11c",
+    "name": "Ff",
+    "creatorId": "106107304205946959960",
+    "creatorLastName": "Doyle",
+    "createdAt": "12/07/2025, 14:00:26"
+  },
   {
     "id": "162728d8-2664-4fd7-80f0-8fe39bd368db",
     "name": "Family Feud Home",
