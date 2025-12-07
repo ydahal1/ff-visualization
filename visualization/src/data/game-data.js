@@ -1,7 +1,14 @@
-// Generated on 12/07/2025, 14:30:01 (EST)
-// Total records: 1153
+// Generated on 12/07/2025, 14:45:02 (EST)
+// Total records: 1154
 
 export const games = [
+  {
+    "id": "15254e34-cfd7-45ec-8f09-529e6f2711b2",
+    "name": "Do You Know Fortnite?",
+    "creatorId": "104838994960898895606",
+    "creatorLastName": "Miller",
+    "createdAt": "12/07/2025, 14:33:12"
+  },
   {
     "id": "c08538da-1b19-40d6-a7fd-853157038866",
     "name": "Serata chill",
