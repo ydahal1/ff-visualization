@@ -1,7 +1,28 @@
-// Generated on 12/06/2025, 21:15:02 (EST)
-// Total records: 1134
+// Generated on 12/06/2025, 21:30:02 (EST)
+// Total records: 1137
 
 export const games = [
+  {
+    "id": "bc974e73-70b0-4127-a850-bb5c904550af",
+    "name": "Christmas Cookie Party pt. 2",
+    "creatorId": "102282321919704002085",
+    "creatorLastName": "Lynxa",
+    "createdAt": "12/06/2025, 21:29:41"
+  },
+  {
+    "id": "366ec5bd-31ba-46e1-af62-c3ff2bb56e57",
+    "name": "Christmas Cookie Party",
+    "creatorId": "102282321919704002085",
+    "creatorLastName": "Lynxa",
+    "createdAt": "12/06/2025, 21:29:10"
+  },
+  {
+    "id": "e7faf9b7-4b9b-4a89-b055-6dd9b3176734",
+    "name": "Avid Fued",
+    "creatorId": "111301094356848405599",
+    "creatorLastName": "Kolt",
+    "createdAt": "12/06/2025, 21:22:03"
+  },
   {
     "id": "cb5fa0d9-54c6-4973-862d-5455f197c7a8",
     "name": "First 5 Questions",
