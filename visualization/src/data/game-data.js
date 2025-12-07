@@ -1,7 +1,14 @@
-// Generated on 12/07/2025, 12:45:02 (EST)
-// Total records: 1149
+// Generated on 12/07/2025, 13:00:02 (EST)
+// Total records: 1150
 
 export const games = [
+  {
+    "id": "dde4015a-58c0-4293-9442-04deb27d0acd",
+    "name": "Game 1",
+    "creatorId": "103657120874124366892",
+    "creatorLastName": "Williams",
+    "createdAt": "12/07/2025, 12:47:35"
+  },
   {
     "id": "d20159bf-7f26-47af-bdba-8d99e3df06dd",
     "name": "test again",
