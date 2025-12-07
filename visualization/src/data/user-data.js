@@ -1,7 +1,17 @@
-// Generated on 12/07/2025, 16:00:00 (EST)
-// Total records: 817
+// Generated on 12/07/2025, 16:15:00 (EST)
+// Total records: 819
 
 export const users = [
+  {
+    "id": "113817272161998503683",
+    "lName": "B",
+    "createdAt": "12/07/2025, 16:13:21"
+  },
+  {
+    "id": "103656871792767028014",
+    "lName": "Udofia",
+    "createdAt": "12/07/2025, 16:06:23"
+  },
   {
     "id": "101803226789689310310",
     "lName": "Cintron",
