@@ -1,7 +1,14 @@
-// Generated on 12/06/2025, 20:15:02 (EST)
-// Total records: 1130
+// Generated on 12/06/2025, 20:30:03 (EST)
+// Total records: 1131
 
 export const games = [
+  {
+    "id": "1fb6adac-a858-4093-8f09-a98b85403d8c",
+    "name": "Christmas edition 2!",
+    "creatorId": "101795711977678604094",
+    "creatorLastName": "hatfield",
+    "createdAt": "12/06/2025, 20:29:28"
+  },
   {
     "id": "326361ea-8743-4da8-8f9a-7b5ffbc3d3e1",
     "name": "Christmas Edition",
