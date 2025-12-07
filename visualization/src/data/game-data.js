@@ -1,7 +1,35 @@
-// Generated on 12/07/2025, 16:30:01 (EST)
-// Total records: 1164
+// Generated on 12/07/2025, 16:45:02 (EST)
+// Total records: 1168
 
 export const games = [
+  {
+    "id": "26cb268d-9edc-4f97-ba1b-aa4939f645af",
+    "name": "931 Thanksmas",
+    "creatorId": "113817272161998503683",
+    "creatorLastName": "B",
+    "createdAt": "12/07/2025, 16:39:49"
+  },
+  {
+    "id": "b9581e3f-7e00-4fbf-a896-d9579031c841",
+    "name": "Round 9",
+    "creatorId": "103656871792767028014",
+    "creatorLastName": "Udofia",
+    "createdAt": "12/07/2025, 16:37:59"
+  },
+  {
+    "id": "b417a086-7416-47e2-96e5-ce795ae49c26",
+    "name": "Chilling",
+    "creatorId": "107586862461934417416",
+    "creatorLastName": "Maniglio",
+    "createdAt": "12/07/2025, 16:32:45"
+  },
+  {
+    "id": "1a036d2a-8e5c-4c1b-b69d-23178fcc082e",
+    "name": "Round 8",
+    "creatorId": "103656871792767028014",
+    "creatorLastName": "Udofia",
+    "createdAt": "12/07/2025, 16:32:07"
+  },
   {
     "id": "df9eb463-4f12-4099-ae2c-ab6286b28dfa",
     "name": "Round 7",
