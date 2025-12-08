@@ -1,7 +1,14 @@
-// Generated on 12/08/2025, 17:45:02 (EST)
+// Generated on 12/08/2025, 18:00:02 (EST)
 // Total records: 1226
 
 export const games = [
+  {
+    "id": "abcfbcb3-e2e4-4fe8-8b6a-38873ecd8a99",
+    "name": "Trial",
+    "creatorId": "114928153810265537454",
+    "creatorLastName": "Jacobsen",
+    "createdAt": "12/08/2025, 17:51:21"
+  },
   {
     "id": "ffe43770-ca2f-4a73-ac72-f9f35be2efb0",
     "name": "Christmas 2025",
@@ -85,13 +92,6 @@ export const games = [
     "creatorId": "104249542126310816013",
     "creatorLastName": "Holmes",
     "createdAt": "12/08/2025, 16:12:41"
-  },
-  {
-    "id": "62660bee-ea43-4eda-94c9-676a8d3dede3",
-    "name": "ADP questions 2025",
-    "creatorId": "107350479515002363679",
-    "creatorLastName": "Legue",
-    "createdAt": "12/08/2025, 16:04:22"
   },
   {
     "id": "085852f0-0553-4364-abeb-7b1e9de234e6",
