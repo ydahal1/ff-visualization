@@ -1,7 +1,14 @@
-// Generated on 12/07/2025, 19:00:01 (EST)
-// Total records: 1177
+// Generated on 12/07/2025, 19:15:01 (EST)
+// Total records: 1178
 
 export const games = [
+  {
+    "id": "0fcaf2d2-93a6-4d1c-b5d6-4c48d4b53025",
+    "name": "Game 1",
+    "creatorId": "116170524652803809485",
+    "creatorLastName": "Lutz",
+    "createdAt": "12/07/2025, 19:02:38"
+  },
   {
     "id": "45ccb986-bac3-4803-af64-98ac21fbe2ea",
     "name": "Renewal Party 5",
