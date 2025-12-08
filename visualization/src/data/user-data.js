@@ -1,7 +1,12 @@
-// Generated on 12/08/2025, 13:30:00 (EST)
-// Total records: 857
+// Generated on 12/08/2025, 13:45:00 (EST)
+// Total records: 858
 
 export const users = [
+  {
+    "id": "113200008858534266856",
+    "lName": "Sandoval Guzman",
+    "createdAt": "12/08/2025, 13:31:31"
+  },
   {
     "id": "107425846799106389203",
     "lName": "Carter",
