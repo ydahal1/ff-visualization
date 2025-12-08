@@ -1,7 +1,28 @@
-// Generated on 12/08/2025, 12:15:02 (EST)
-// Total records: 1205
+// Generated on 12/08/2025, 12:30:02 (EST)
+// Total records: 1208
 
 export const games = [
+  {
+    "id": "cc039d61-1ae9-4d55-88f0-f18fc8e0b209",
+    "name": "B",
+    "creatorId": "108929918054186446868",
+    "creatorLastName": "Mikson",
+    "createdAt": "12/08/2025, 12:23:16"
+  },
+  {
+    "id": "a9dd0de2-7db0-443e-8b6c-ab65ae284c34",
+    "name": "Sandra Mikson",
+    "creatorId": "108929918054186446868",
+    "creatorLastName": "Mikson",
+    "createdAt": "12/08/2025, 12:22:51"
+  },
+  {
+    "id": "9adf924b-665e-4c38-8446-aaea3fb751ad",
+    "name": "Sector Showdown: Family Feud Style",
+    "creatorId": "112645673725464523385",
+    "creatorLastName": "Wentland",
+    "createdAt": "12/08/2025, 12:18:36"
+  },
   {
     "id": "6a11f11e-5415-4cca-ab5c-437eda869a69",
     "name": "kool",
