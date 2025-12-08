@@ -1,7 +1,28 @@
-// Generated on 12/08/2025, 15:45:01 (EST)
-// Total records: 1213
+// Generated on 12/08/2025, 16:00:02 (EST)
+// Total records: 1216
 
 export const games = [
+  {
+    "id": "085852f0-0553-4364-abeb-7b1e9de234e6",
+    "name": "Merry Christmas!",
+    "creatorId": "104462045667195831271",
+    "creatorLastName": "Swanson",
+    "createdAt": "12/08/2025, 15:57:45"
+  },
+  {
+    "id": "0f47f393-dc67-4d3e-ad51-55f8960b2bd9",
+    "name": "100 mexicanos dijeron",
+    "creatorId": "104169334747873979211",
+    "creatorLastName": "Hernández Mesa",
+    "createdAt": "12/08/2025, 15:54:35"
+  },
+  {
+    "id": "90f65541-1ce3-4667-ae84-8d6b56be7314",
+    "name": "Final BIO",
+    "creatorId": "105709781320203243729",
+    "creatorLastName": "Restuccia",
+    "createdAt": "12/08/2025, 15:46:19"
+  },
   {
     "id": "69ab66ba-7585-4f79-ab14-294ffcd04436",
     "name": "Family Feud",
