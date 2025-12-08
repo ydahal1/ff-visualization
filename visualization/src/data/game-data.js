@@ -1,5 +1,5 @@
-// Generated on 12/08/2025, 14:00:02 (EST)
-// Total records: 1211
+// Generated on 12/08/2025, 14:15:01 (EST)
+// Total records: 1210
 
 export const games = [
   {
@@ -421,13 +421,6 @@ export const games = [
     "creatorId": "106107304205946959960",
     "creatorLastName": "Doyle",
     "createdAt": "12/07/2025, 14:00:26"
-  },
-  {
-    "id": "162728d8-2664-4fd7-80f0-8fe39bd368db",
-    "name": "Family Feud Home",
-    "creatorId": "105675783611125120049",
-    "creatorLastName": "Yang",
-    "createdAt": "12/07/2025, 13:41:00"
   },
   {
     "id": "dde4015a-58c0-4293-9442-04deb27d0acd",
