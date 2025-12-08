@@ -1,7 +1,21 @@
-// Generated on 12/08/2025, 12:00:02 (EST)
-// Total records: 1203
+// Generated on 12/08/2025, 12:15:02 (EST)
+// Total records: 1205
 
 export const games = [
+  {
+    "id": "6a11f11e-5415-4cca-ab5c-437eda869a69",
+    "name": "kool",
+    "creatorId": "101425105577120607859",
+    "creatorLastName": "almar",
+    "createdAt": "12/08/2025, 12:13:20"
+  },
+  {
+    "id": "378e2651-2347-4e15-9946-2a44b85d0398",
+    "name": "Family Feud BIO",
+    "creatorId": "105709781320203243729",
+    "creatorLastName": "Restuccia",
+    "createdAt": "12/08/2025, 12:11:04"
+  },
   {
     "id": "200b5f6d-bab4-400e-8f50-aaad918682d3",
     "name": "CARL Party",
