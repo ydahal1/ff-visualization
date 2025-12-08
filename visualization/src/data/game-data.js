@@ -1,7 +1,14 @@
-// Generated on 12/08/2025, 06:45:02 (EST)
-// Total records: 1196
+// Generated on 12/08/2025, 07:00:01 (EST)
+// Total records: 1197
 
 export const games = [
+  {
+    "id": "d94b7022-ac7f-43da-89be-9b20117bb0e3",
+    "name": "CONVERTERS FEUD",
+    "creatorId": "113751827329223768963",
+    "creatorLastName": "Tagaylo",
+    "createdAt": "12/08/2025, 06:45:05"
+  },
   {
     "id": "dce8c0d6-710b-4bda-8a3a-fbba86f747ec",
     "name": "EASY CATEGORY",
