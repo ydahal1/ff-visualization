@@ -1,7 +1,14 @@
-// Generated on 12/08/2025, 10:45:01 (EST)
-// Total records: 1202
+// Generated on 12/08/2025, 11:00:01 (EST)
+// Total records: 1203
 
 export const games = [
+  {
+    "id": "200b5f6d-bab4-400e-8f50-aaad918682d3",
+    "name": "CARL Party",
+    "creatorId": "113937985982196296862",
+    "creatorLastName": "Miller",
+    "createdAt": "12/08/2025, 10:47:49"
+  },
   {
     "id": "673ce9c4-a41f-4e25-b53c-c2388a96d9e8",
     "name": "tallad",
