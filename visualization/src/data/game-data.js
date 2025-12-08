@@ -1,7 +1,14 @@
-// Generated on 12/08/2025, 24:30:02 (EST)
-// Total records: 1191
+// Generated on 12/08/2025, 24:45:02 (EST)
+// Total records: 1192
 
 export const games = [
+  {
+    "id": "7bc90ec4-4445-4894-b36f-0dddeed05833",
+    "name": "Black Mammoth 2025",
+    "creatorId": "108786480670224554016",
+    "creatorLastName": "Jones",
+    "createdAt": "12/08/2025, 24:33:46"
+  },
   {
     "id": "27a02616-6f2a-4530-ade2-5064483b8062",
     "name": "ROUND 1 martinez family feud",
