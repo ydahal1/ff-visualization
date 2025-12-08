@@ -1,13 +1,20 @@
-// Generated on 12/08/2025, 16:30:02 (EST)
-// Total records: 1221
+// Generated on 12/08/2025, 16:45:01 (EST)
+// Total records: 1220
 
 export const games = [
   {
-    "id": "5a5db680-ca71-494c-bdad-49d12f640dda",
-    "name": "WANADA Holiday Party 2",
+    "id": "f7c4eb5d-a4d0-4027-9405-da184b0a7127",
+    "name": "Family Feud .",
+    "creatorId": "105675783611125120049",
+    "creatorLastName": "Yang",
+    "createdAt": "12/08/2025, 16:41:02"
+  },
+  {
+    "id": "dfe23431-4d53-4511-9a5b-d00ba17b944c",
+    "name": "WANADA Holiday Party 3",
     "creatorId": "104249542126310816013",
     "creatorLastName": "Holmes",
-    "createdAt": "12/08/2025, 16:26:01"
+    "createdAt": "12/08/2025, 16:30:13"
   },
   {
     "id": "102b2cb4-9bc1-428d-aaf3-0d477fb2c55e",
@@ -512,13 +519,6 @@ export const games = [
     "creatorId": "103390368463983023577",
     "creatorLastName": "Pascal",
     "createdAt": "12/07/2025, 12:32:33"
-  },
-  {
-    "id": "35ac9a4b-a585-480d-ab01-3d53246e5ac9",
-    "name": "Urban Air Fued Testing",
-    "creatorId": "109513590036575107267",
-    "creatorLastName": "Jahan",
-    "createdAt": "12/07/2025, 11:30:39"
   },
   {
     "id": "ed69235a-4da6-4beb-ac54-65aba4b70c37",
@@ -1786,13 +1786,6 @@ export const games = [
     "creatorId": "117953425215878643641",
     "creatorLastName": "Dylinski",
     "createdAt": "12/04/2025, 13:24:45"
-  },
-  {
-    "id": "8dbd9fed-0724-40af-8306-22bf1d95caaf",
-    "name": "Family Feud",
-    "creatorId": "105675783611125120049",
-    "creatorLastName": "Yang",
-    "createdAt": "12/04/2025, 13:01:39"
   },
   {
     "id": "ceb18ce2-97ce-43c0-9412-869406f643e3",
