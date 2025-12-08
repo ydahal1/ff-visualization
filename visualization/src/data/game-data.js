@@ -1,7 +1,21 @@
-// Generated on 12/08/2025, 14:15:01 (EST)
-// Total records: 1210
+// Generated on 12/08/2025, 14:30:01 (EST)
+// Total records: 1212
 
 export const games = [
+  {
+    "id": "bc99508b-166d-4a32-bc8f-6b29ae1a666f",
+    "name": "xmas",
+    "creatorId": "113988925722724507318",
+    "creatorLastName": "Walker",
+    "createdAt": "12/08/2025, 14:16:33"
+  },
+  {
+    "id": "6d16dec9-f249-4f71-86b9-5a7d03692c00",
+    "name": "RENAISSANCE CAPITAL GAMES",
+    "creatorId": "116036129940070560410",
+    "creatorLastName": "Berendsohn",
+    "createdAt": "12/08/2025, 14:15:17"
+  },
   {
     "id": "ec9a4109-b593-4600-b781-2e3e613d858f",
     "name": "100 mexis",
