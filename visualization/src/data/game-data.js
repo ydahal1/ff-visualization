@@ -1,7 +1,21 @@
-// Generated on 12/09/2025, 09:45:02 (EST)
-// Total records: 1257
+// Generated on 12/09/2025, 10:00:02 (EST)
+// Total records: 1259
 
 export const games = [
+  {
+    "id": "af87b28e-80cb-499a-adf0-ac6cbc674df0",
+    "name": "test",
+    "creatorId": "115850612434165264270",
+    "creatorLastName": "Hamar",
+    "createdAt": "12/09/2025, 09:55:47"
+  },
+  {
+    "id": "1267d2d9-a917-4e1c-8359-47da22c48284",
+    "name": "ITIHS 2",
+    "creatorId": "108017949527711875820",
+    "creatorLastName": "Allmaras",
+    "createdAt": "12/09/2025, 09:55:12"
+  },
   {
     "id": "f8fb0b8c-814b-4d7c-b3ca-155bd1c6de82",
     "name": "Team Building 1",
