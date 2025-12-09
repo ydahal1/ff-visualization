@@ -1,7 +1,14 @@
-// Generated on 12/08/2025, 21:30:01 (EST)
-// Total records: 1233
+// Generated on 12/08/2025, 21:45:01 (EST)
+// Total records: 1234
 
 export const games = [
+  {
+    "id": "021ccb03-2a77-4b17-b297-31e139917dce",
+    "name": "XMAS PARTY",
+    "creatorId": "114510935752210217797",
+    "creatorLastName": "Panoso",
+    "createdAt": "12/08/2025, 21:44:23"
+  },
   {
     "id": "1bec0c44-79bf-42b5-bfed-d94bed21a77a",
     "name": "Schau Christmas",
