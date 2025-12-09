@@ -1,7 +1,21 @@
-// Generated on 12/09/2025, 09:15:02 (EST)
-// Total records: 1255
+// Generated on 12/09/2025, 09:30:02 (EST)
+// Total records: 1257
 
 export const games = [
+  {
+    "id": "f8fb0b8c-814b-4d7c-b3ca-155bd1c6de82",
+    "name": "Team Building 1",
+    "creatorId": "105795927830433101854",
+    "creatorLastName": "Claridge",
+    "createdAt": "12/09/2025, 09:25:20"
+  },
+  {
+    "id": "65e4f75f-3386-4f53-96b3-096d9ffe46b4",
+    "name": "Team Building",
+    "creatorId": "105795927830433101854",
+    "creatorLastName": "Claridge",
+    "createdAt": "12/09/2025, 09:22:33"
+  },
   {
     "id": "78b5b9b6-f96a-468e-995f-80aa2d3be62d",
     "name": "Wigilia Dex",
