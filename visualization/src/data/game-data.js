@@ -1,7 +1,14 @@
-// Generated on 12/09/2025, 05:30:02 (EST)
-// Total records: 1252
+// Generated on 12/09/2025, 05:45:02 (EST)
+// Total records: 1253
 
 export const games = [
+  {
+    "id": "19a66419-1983-4a00-b5dc-a35268b13698",
+    "name": "BSBA HRM 3-3N",
+    "creatorId": "108207518461908314416",
+    "creatorLastName": "Curie",
+    "createdAt": "12/09/2025, 05:38:05"
+  },
   {
     "id": "fbfe4ace-607d-4f63-8321-ea44becd1882",
     "name": "game 2",
