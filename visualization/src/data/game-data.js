@@ -1,7 +1,14 @@
-// Generated on 12/09/2025, 10:45:02 (EST)
-// Total records: 1261
+// Generated on 12/09/2025, 11:00:02 (EST)
+// Total records: 1262
 
 export const games = [
+  {
+    "id": "c47b6db9-8097-4892-804c-b856ae05bebb",
+    "name": "FAMILY FEUD",
+    "creatorId": "104886595967485811320",
+    "creatorLastName": "Feraro",
+    "createdAt": "12/09/2025, 10:51:24"
+  },
   {
     "id": "959c4126-f11c-4af7-9c9b-5853538b1352",
     "name": "slay Feud",
