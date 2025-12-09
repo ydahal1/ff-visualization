@@ -1,7 +1,14 @@
-// Generated on 12/09/2025, 17:45:01 (EST)
-// Total records: 1283
+// Generated on 12/09/2025, 18:00:02 (EST)
+// Total records: 1284
 
 export const games = [
+  {
+    "id": "60738371-52e7-4c8b-b6da-2430508f268b",
+    "name": "Family Feud",
+    "creatorId": "108106147850130961947",
+    "creatorLastName": "Wagner",
+    "createdAt": "12/09/2025, 17:51:18"
+  },
   {
     "id": "b38d886c-a83e-486e-aa1e-737363834040",
     "name": "CMF Holiday Party",
