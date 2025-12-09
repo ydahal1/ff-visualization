@@ -1,7 +1,28 @@
-// Generated on 12/09/2025, 13:45:01 (EST)
-// Total records: 1276
+// Generated on 12/09/2025, 14:00:01 (EST)
+// Total records: 1279
 
 export const games = [
+  {
+    "id": "8d773bd9-1218-4255-a27d-b2b3b9673ef2",
+    "name": "Christmas Round 1",
+    "creatorId": "108674121843155627051",
+    "creatorLastName": "L",
+    "createdAt": "12/09/2025, 13:58:22"
+  },
+  {
+    "id": "e6b500e8-2409-4beb-a095-4f1d5a6bc5b9",
+    "name": "Christmas Round 3",
+    "creatorId": "108674121843155627051",
+    "creatorLastName": "L",
+    "createdAt": "12/09/2025, 13:55:30"
+  },
+  {
+    "id": "0e545461-d043-4ba4-aff8-f9a93a575729",
+    "name": "Christmas Round 2",
+    "creatorId": "108674121843155627051",
+    "creatorLastName": "L",
+    "createdAt": "12/09/2025, 13:51:13"
+  },
   {
     "id": "1622e92d-c2c1-4690-96f3-fc69fbb991ab",
     "name": "Ecaterina",
