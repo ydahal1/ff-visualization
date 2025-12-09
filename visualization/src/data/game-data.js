@@ -1,20 +1,20 @@
-// Generated on 12/09/2025, 05:00:02 (EST)
+// Generated on 12/09/2025, 05:15:02 (EST)
 // Total records: 1253
 
 export const games = [
+  {
+    "id": "3f7646aa-0047-439d-9cfa-21f8c677d435",
+    "name": "BSBA HRM 3-3N",
+    "creatorId": "108207518461908314416",
+    "creatorLastName": "Curie",
+    "createdAt": "12/09/2025, 05:13:10"
+  },
   {
     "id": "fbfe4ace-607d-4f63-8321-ea44becd1882",
     "name": "game 2",
     "creatorId": "104102925159677975045",
     "creatorLastName": "Malik",
     "createdAt": "12/09/2025, 04:44:18"
-  },
-  {
-    "id": "2a9e68bb-bd44-4208-9d93-394aeb2b354f",
-    "name": "GROUP 5",
-    "creatorId": "108207518461908314416",
-    "creatorLastName": "Curie",
-    "createdAt": "12/09/2025, 02:38:41"
   },
   {
     "id": "6ffb6de9-33bf-4b25-8e7a-aadb5da126bc",
