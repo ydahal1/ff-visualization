@@ -1,7 +1,14 @@
-// Generated on 12/09/2025, 10:00:02 (EST)
-// Total records: 1259
+// Generated on 12/09/2025, 10:15:01 (EST)
+// Total records: 1260
 
 export const games = [
+  {
+    "id": "2e8ad1e6-adf9-46c1-9432-6f5dfd0dff9c",
+    "name": "How well do you know RIS",
+    "creatorId": "108806437886387779684",
+    "creatorLastName": "Mockbee",
+    "createdAt": "12/09/2025, 10:13:21"
+  },
   {
     "id": "af87b28e-80cb-499a-adf0-ac6cbc674df0",
     "name": "test",
