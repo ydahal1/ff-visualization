@@ -1,20 +1,20 @@
-// Generated on 12/09/2025, 07:00:02 (EST)
+// Generated on 12/09/2025, 07:15:03 (EST)
 // Total records: 1255
 
 export const games = [
+  {
+    "id": "78b5b9b6-f96a-468e-995f-80aa2d3be62d",
+    "name": "Wigilia Dex",
+    "creatorId": "109869672775672884784",
+    "creatorLastName": "Sfgh",
+    "createdAt": "12/09/2025, 07:01:52"
+  },
   {
     "id": "3c94d936-cd68-4e25-aff9-86ff7598a883",
     "name": "Test",
     "creatorId": "112971951647364997944",
     "creatorLastName": "Talampas",
     "createdAt": "12/09/2025, 06:55:51"
-  },
-  {
-    "id": "d5aad08e-9450-46ea-8fdb-ae12ae6004c5",
-    "name": "Aaaa",
-    "creatorId": "109869672775672884784",
-    "creatorLastName": "Sfgh",
-    "createdAt": "12/09/2025, 06:51:22"
   },
   {
     "id": "dd89f4ab-515e-426d-b10e-b366914ea48a",
