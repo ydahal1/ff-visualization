@@ -1,7 +1,21 @@
-// Generated on 12/09/2025, 11:30:01 (EST)
-// Total records: 1263
+// Generated on 12/09/2025, 11:45:01 (EST)
+// Total records: 1265
 
 export const games = [
+  {
+    "id": "79627a24-0c84-4cf8-a916-3c1be0d18b22",
+    "name": "People Supported Family Feud",
+    "creatorId": "117629787183743624559",
+    "creatorLastName": "Telson",
+    "createdAt": "12/09/2025, 11:41:19"
+  },
+  {
+    "id": "981493ec-3427-4b66-bbe0-07919cd15b25",
+    "name": "YANKA FAMILY FEUD",
+    "creatorId": "105205272511718931381",
+    "creatorLastName": "Garcia",
+    "createdAt": "12/09/2025, 11:35:15"
+  },
   {
     "id": "dca62871-1ad6-4451-a7f3-16b6561f2b37",
     "name": "Game",
