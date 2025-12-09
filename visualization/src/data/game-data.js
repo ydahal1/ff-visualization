@@ -1,7 +1,14 @@
-// Generated on 12/09/2025, 24:45:02 (EST)
-// Total records: 1245
+// Generated on 12/09/2025, 01:00:01 (EST)
+// Total records: 1246
 
 export const games = [
+  {
+    "id": "9fa3a26b-6b0e-4302-a192-7b0278a47c63",
+    "name": "2",
+    "creatorId": "106156413427283143739",
+    "creatorLastName": "Auigbelle-Arcand",
+    "createdAt": "12/09/2025, 24:45:14"
+  },
   {
     "id": "7f743bb5-5292-4820-834c-ef76097e0429",
     "name": "1",
