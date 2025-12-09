@@ -1,7 +1,35 @@
-// Generated on 12/09/2025, 12:15:02 (EST)
-// Total records: 1269
+// Generated on 12/09/2025, 12:30:02 (EST)
+// Total records: 1273
 
 export const games = [
+  {
+    "id": "a401b652-9cc2-41cf-8319-54536fa1afe1",
+    "name": "WANADA Holiday Party 7",
+    "creatorId": "104249542126310816013",
+    "creatorLastName": "Holmes",
+    "createdAt": "12/09/2025, 12:27:18"
+  },
+  {
+    "id": "24a2a346-b364-48f6-b63d-5a39ad5d406b",
+    "name": "MCD FF",
+    "creatorId": "113298104104728277346",
+    "creatorLastName": "Bennett",
+    "createdAt": "12/09/2025, 12:23:09"
+  },
+  {
+    "id": "55bda2e4-0723-48df-b2c9-eb8a1ec19acc",
+    "name": "WANADA Holiday Party 6",
+    "creatorId": "104249542126310816013",
+    "creatorLastName": "Holmes",
+    "createdAt": "12/09/2025, 12:20:13"
+  },
+  {
+    "id": "08ff1660-ec18-40a8-9755-38a3e5dc9c4b",
+    "name": "Marry Kogmas",
+    "creatorId": "112429434983302786221",
+    "creatorLastName": "Fredriksson",
+    "createdAt": "12/09/2025, 12:18:34"
+  },
   {
     "id": "3fa72e98-a610-4cd1-9ca1-e5e490b112c1",
     "name": "WANADA Holiday Party 5",
