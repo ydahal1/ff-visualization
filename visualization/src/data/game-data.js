@@ -1,7 +1,14 @@
-// Generated on 12/09/2025, 17:30:01 (EST)
-// Total records: 1282
+// Generated on 12/09/2025, 17:45:01 (EST)
+// Total records: 1283
 
 export const games = [
+  {
+    "id": "b38d886c-a83e-486e-aa1e-737363834040",
+    "name": "CMF Holiday Party",
+    "creatorId": "115552572967362114936",
+    "creatorLastName": "Fox",
+    "createdAt": "12/09/2025, 17:37:56"
+  },
   {
     "id": "59249477-d7e8-48d2-ae99-f084cf0c4443",
     "name": "SL Fued",
