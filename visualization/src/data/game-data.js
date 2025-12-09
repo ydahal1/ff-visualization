@@ -1,7 +1,21 @@
-// Generated on 12/09/2025, 01:15:02 (EST)
-// Total records: 1246
+// Generated on 12/09/2025, 01:30:02 (EST)
+// Total records: 1248
 
 export const games = [
+  {
+    "id": "04908d28-04a3-4536-a1bc-0f33267844b9",
+    "name": "Test Game KP 2",
+    "creatorId": "107419577245396437998",
+    "creatorLastName": "Man",
+    "createdAt": "12/09/2025, 01:24:24"
+  },
+  {
+    "id": "163b8e5b-4208-4659-84ea-8eea0e59e691",
+    "name": "Steve Harvey",
+    "creatorId": "104102925159677975045",
+    "creatorLastName": "Malik",
+    "createdAt": "12/09/2025, 01:17:43"
+  },
   {
     "id": "9fa3a26b-6b0e-4302-a192-7b0278a47c63",
     "name": "2",
