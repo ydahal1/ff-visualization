@@ -1,7 +1,14 @@
-// Generated on 12/08/2025, 20:45:01 (EST)
-// Total records: 1232
+// Generated on 12/08/2025, 21:00:01 (EST)
+// Total records: 1233
 
 export const games = [
+  {
+    "id": "1bec0c44-79bf-42b5-bfed-d94bed21a77a",
+    "name": "Schau Christmas",
+    "creatorId": "108440021086297003353",
+    "creatorLastName": "Schau",
+    "createdAt": "12/08/2025, 20:46:45"
+  },
   {
     "id": "8a8096aa-d775-43c5-b9a9-c667f766f49b",
     "name": "Desert Family Feud",
