@@ -1,7 +1,12 @@
-// Generated on 12/08/2025, 21:15:00 (EST)
-// Total records: 872
+// Generated on 12/08/2025, 21:30:00 (EST)
+// Total records: 873
 
 export const users = [
+  {
+    "id": "100566284411039136306",
+    "lName": "Hohenkerk",
+    "createdAt": "12/08/2025, 21:25:29"
+  },
   {
     "id": "108440021086297003353",
     "lName": "Schau",
