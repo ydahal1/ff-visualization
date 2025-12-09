@@ -1,7 +1,12 @@
-// Generated on 12/09/2025, 24:30:01 (EST)
-// Total records: 878
+// Generated on 12/09/2025, 24:45:00 (EST)
+// Total records: 879
 
 export const users = [
+  {
+    "id": "106156413427283143739",
+    "lName": "Auigbelle-Arcand",
+    "createdAt": "12/09/2025, 24:33:10"
+  },
   {
     "id": "105233712466401910401",
     "lName": "Passi",
