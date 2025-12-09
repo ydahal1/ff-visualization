@@ -1,7 +1,14 @@
-// Generated on 12/09/2025, 04:30:02 (EST)
-// Total records: 1252
+// Generated on 12/09/2025, 04:45:02 (EST)
+// Total records: 1253
 
 export const games = [
+  {
+    "id": "fbfe4ace-607d-4f63-8321-ea44becd1882",
+    "name": "game 2",
+    "creatorId": "104102925159677975045",
+    "creatorLastName": "Malik",
+    "createdAt": "12/09/2025, 04:44:18"
+  },
   {
     "id": "2a9e68bb-bd44-4208-9d93-394aeb2b354f",
     "name": "GROUP 5",
