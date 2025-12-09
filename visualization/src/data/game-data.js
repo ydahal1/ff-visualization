@@ -1,7 +1,14 @@
-// Generated on 12/09/2025, 01:45:02 (EST)
-// Total records: 1248
+// Generated on 12/09/2025, 02:00:01 (EST)
+// Total records: 1249
 
 export const games = [
+  {
+    "id": "8ad9c01b-48ac-4b93-a1bc-1d745cd23a32",
+    "name": "test2",
+    "creatorId": "107419577245396437998",
+    "creatorLastName": "Man",
+    "createdAt": "12/09/2025, 01:45:08"
+  },
   {
     "id": "04908d28-04a3-4536-a1bc-0f33267844b9",
     "name": "Test Game KP 2",
