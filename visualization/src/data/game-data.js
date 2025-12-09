@@ -1,7 +1,14 @@
-// Generated on 12/09/2025, 10:15:01 (EST)
-// Total records: 1260
+// Generated on 12/09/2025, 10:30:02 (EST)
+// Total records: 1261
 
 export const games = [
+  {
+    "id": "959c4126-f11c-4af7-9c9b-5853538b1352",
+    "name": "slay Feud",
+    "creatorId": "106339092892968390071",
+    "creatorLastName": "الهجله",
+    "createdAt": "12/09/2025, 10:17:00"
+  },
   {
     "id": "2e8ad1e6-adf9-46c1-9432-6f5dfd0dff9c",
     "name": "How well do you know RIS",
