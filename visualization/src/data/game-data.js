@@ -1,7 +1,14 @@
-// Generated on 12/09/2025, 16:30:01 (EST)
-// Total records: 1281
+// Generated on 12/09/2025, 16:45:01 (EST)
+// Total records: 1282
 
 export const games = [
+  {
+    "id": "59249477-d7e8-48d2-ae99-f084cf0c4443",
+    "name": "SL Fued",
+    "creatorId": "107862912153650207973",
+    "creatorLastName": "Smith",
+    "createdAt": "12/09/2025, 16:41:27"
+  },
   {
     "id": "8c92c21c-3bff-4e54-aad1-9194fb68128d",
     "name": "YoungLife",
