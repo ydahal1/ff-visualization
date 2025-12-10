@@ -1,7 +1,14 @@
-// Generated on 12/10/2025, 10:00:02 (EST)
-// Total records: 1308
+// Generated on 12/10/2025, 10:15:02 (EST)
+// Total records: 1309
 
 export const games = [
+  {
+    "id": "2b048318-61ac-4e59-b872-caa0541d8f47",
+    "name": "SCPA 3",
+    "creatorId": "111147769987160844716",
+    "creatorLastName": "Lee",
+    "createdAt": "12/10/2025, 10:14:30"
+  },
   {
     "id": "addd9bec-e707-4bd6-a08e-889fa1f464dd",
     "name": "G vs A",
