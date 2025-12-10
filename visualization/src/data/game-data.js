@@ -1,7 +1,21 @@
-// Generated on 12/09/2025, 19:15:02 (EST)
-// Total records: 1287
+// Generated on 12/09/2025, 19:30:02 (EST)
+// Total records: 1289
 
 export const games = [
+  {
+    "id": "f700eeae-8d47-475a-95c1-86a778cb02c3",
+    "name": "Guess It!",
+    "creatorId": "101261003746814792650",
+    "creatorLastName": "Malaza",
+    "createdAt": "12/09/2025, 19:29:24"
+  },
+  {
+    "id": "77fcbf81-57b6-4027-b4bd-46f9d46f9dc8",
+    "name": "Yanka",
+    "creatorId": "105205272511718931381",
+    "creatorLastName": "Garcia",
+    "createdAt": "12/09/2025, 19:27:29"
+  },
   {
     "id": "8b1cb081-804b-4178-8e46-7ecced37103d",
     "name": "BSOM Holiday 2025",
