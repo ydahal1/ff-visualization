@@ -1,7 +1,21 @@
-// Generated on 12/10/2025, 17:00:02 (EST)
-// Total records: 1327
+// Generated on 12/10/2025, 17:15:02 (EST)
+// Total records: 1328
 
 export const games = [
+  {
+    "id": "e9b94887-e99a-48a5-bbb1-18c8b24b63ea",
+    "name": "X-mas",
+    "creatorId": "114614570994288136680",
+    "creatorLastName": "Fisher",
+    "createdAt": "12/10/2025, 17:06:12"
+  },
+  {
+    "id": "db4b023b-3cb6-4f30-976d-17932465e737",
+    "name": "Template",
+    "creatorId": "110497411564572884369",
+    "creatorLastName": "Crumley",
+    "createdAt": "12/10/2025, 17:04:43"
+  },
   {
     "id": "23a99449-519d-4f08-941e-bb8e4780cc36",
     "name": "BSOM Holiday Spectacular Edition",
@@ -2374,13 +2388,6 @@ export const games = [
     "creatorId": "102257273386315856460",
     "creatorLastName": "Shepard",
     "createdAt": "12/04/2025, 18:55:12"
-  },
-  {
-    "id": "24159093-4a9d-41b3-935b-70dfb90db7cb",
-    "name": "Template",
-    "creatorId": "110497411564572884369",
-    "creatorLastName": "Crumley",
-    "createdAt": "12/04/2025, 18:51:53"
   },
   {
     "id": "73da7ab9-14c2-4fd9-ae80-b71cb4be30da",
