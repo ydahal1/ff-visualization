@@ -1,7 +1,14 @@
-// Generated on 12/10/2025, 18:00:02 (EST)
-// Total records: 1331
+// Generated on 12/10/2025, 18:15:02 (EST)
+// Total records: 1332
 
 export const games = [
+  {
+    "id": "eae7c47b-000c-4f50-bdd1-016907fc39bf",
+    "name": "Finals Game",
+    "creatorId": "109513590036575107267",
+    "creatorLastName": "Jahan",
+    "createdAt": "12/10/2025, 18:00:33"
+  },
   {
     "id": "fbddadb3-adb8-4fdb-87ee-f4b295401af1",
     "name": "Round 1",
