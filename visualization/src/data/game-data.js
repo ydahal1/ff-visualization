@@ -1,7 +1,14 @@
-// Generated on 12/10/2025, 13:30:02 (EST)
-// Total records: 1318
+// Generated on 12/10/2025, 13:45:02 (EST)
+// Total records: 1319
 
 export const games = [
+  {
+    "id": "9cf4b305-a1aa-442a-adac-0fd395e7181c",
+    "name": "SCPA Christmas",
+    "creatorId": "111147769987160844716",
+    "creatorLastName": "Lee",
+    "createdAt": "12/10/2025, 13:39:56"
+  },
   {
     "id": "a8896d49-5125-433b-a7ab-e0c9d66e32af",
     "name": "Team 1",
