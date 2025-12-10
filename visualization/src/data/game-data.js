@@ -1,7 +1,14 @@
-// Generated on 12/10/2025, 16:00:02 (EST)
+// Generated on 12/10/2025, 16:15:02 (EST)
 // Total records: 1328
 
 export const games = [
+  {
+    "id": "23a99449-519d-4f08-941e-bb8e4780cc36",
+    "name": "BSOM Holiday Spectacular Edition",
+    "creatorId": "101619788145948579221",
+    "creatorLastName": "Johnson",
+    "createdAt": "12/10/2025, 16:08:47"
+  },
   {
     "id": "57d174fa-9bc1-4ae4-b80b-e4603de841e2",
     "name": "TEST",
@@ -302,13 +309,6 @@ export const games = [
     "creatorId": "101261003746814792650",
     "creatorLastName": "Malaza",
     "createdAt": "12/09/2025, 19:29:24"
-  },
-  {
-    "id": "8b1cb081-804b-4178-8e46-7ecced37103d",
-    "name": "BSOM Holiday 2025",
-    "creatorId": "101619788145948579221",
-    "creatorLastName": "Johnson",
-    "createdAt": "12/09/2025, 19:02:23"
   },
   {
     "id": "778bc0d0-8e11-4fb1-aab3-0debd4861cea",
