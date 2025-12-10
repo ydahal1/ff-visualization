@@ -1,7 +1,28 @@
-// Generated on 12/10/2025, 14:30:01 (EST)
-// Total records: 1323
+// Generated on 12/10/2025, 14:45:02 (EST)
+// Total records: 1326
 
 export const games = [
+  {
+    "id": "5d3e0776-329f-49d1-8858-4665a36326fb",
+    "name": "dkfjdk",
+    "creatorId": "112782708769554781765",
+    "creatorLastName": "Zahn",
+    "createdAt": "12/10/2025, 14:39:22"
+  },
+  {
+    "id": "650893f6-fd0b-48d9-8a0b-71c69f121f6f",
+    "name": "Game 3",
+    "creatorId": "107908735878009595081",
+    "creatorLastName": "Barrett",
+    "createdAt": "12/10/2025, 14:31:10"
+  },
+  {
+    "id": "339a1c49-5a3b-4235-8d99-8c2c74b78361",
+    "name": "Seniors",
+    "creatorId": "100933479251898474764",
+    "creatorLastName": "Sobotta",
+    "createdAt": "12/10/2025, 14:31:05"
+  },
   {
     "id": "27b70c9f-d054-4ef7-b66b-cbe057d68cd1",
     "name": "Game 2",
