@@ -1,7 +1,21 @@
-// Generated on 12/10/2025, 14:15:01 (EST)
-// Total records: 1321
+// Generated on 12/10/2025, 14:30:01 (EST)
+// Total records: 1323
 
 export const games = [
+  {
+    "id": "27b70c9f-d054-4ef7-b66b-cbe057d68cd1",
+    "name": "Game 2",
+    "creatorId": "107908735878009595081",
+    "creatorLastName": "Barrett",
+    "createdAt": "12/10/2025, 14:28:33"
+  },
+  {
+    "id": "1acd891d-2810-40fe-be58-868ec3379f7b",
+    "name": "Game 1",
+    "creatorId": "107908735878009595081",
+    "creatorLastName": "Barrett",
+    "createdAt": "12/10/2025, 14:22:55"
+  },
   {
     "id": "26f97d8f-5c7a-48e3-b78b-df17c865b8f9",
     "name": "Cafe Family Feud #2",
