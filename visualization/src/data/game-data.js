@@ -1,7 +1,21 @@
-// Generated on 12/10/2025, 12:30:02 (EST)
-// Total records: 1316
+// Generated on 12/10/2025, 12:45:02 (EST)
+// Total records: 1318
 
 export const games = [
+  {
+    "id": "a8896d49-5125-433b-a7ab-e0c9d66e32af",
+    "name": "Team 1",
+    "creatorId": "102347509183694965742",
+    "creatorLastName": "Edwardsen",
+    "createdAt": "12/10/2025, 12:39:18"
+  },
+  {
+    "id": "36d9cf72-df8a-4535-9b09-2fa621155dd1",
+    "name": "Team",
+    "creatorId": "102347509183694965742",
+    "creatorLastName": "Edwardsen",
+    "createdAt": "12/10/2025, 12:36:36"
+  },
   {
     "id": "faabae54-596b-4177-b2b5-e17740dd515e",
     "name": "Family Christmas",
