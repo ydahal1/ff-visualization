@@ -1,7 +1,14 @@
-// Generated on 12/09/2025, 19:00:01 (EST)
-// Total records: 1286
+// Generated on 12/09/2025, 19:15:02 (EST)
+// Total records: 1287
 
 export const games = [
+  {
+    "id": "8b1cb081-804b-4178-8e46-7ecced37103d",
+    "name": "BSOM Holiday 2025",
+    "creatorId": "101619788145948579221",
+    "creatorLastName": "Johnson",
+    "createdAt": "12/09/2025, 19:02:23"
+  },
   {
     "id": "778bc0d0-8e11-4fb1-aab3-0debd4861cea",
     "name": "ff 6",
