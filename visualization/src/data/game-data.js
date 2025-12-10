@@ -1,7 +1,14 @@
-// Generated on 12/10/2025, 04:00:01 (EST)
-// Total records: 1296
+// Generated on 12/10/2025, 04:15:01 (EST)
+// Total records: 1297
 
 export const games = [
+  {
+    "id": "c3be991f-ba3e-4df8-9f35-36951ceb6081",
+    "name": "Egmont Big Christmas Feud",
+    "creatorId": "104151717526076381900",
+    "creatorLastName": "kilpatrick",
+    "createdAt": "12/10/2025, 04:09:48"
+  },
   {
     "id": "45e544b0-fc4b-4705-844d-f9142058729d",
     "name": "Extra Rounds",
