@@ -1,7 +1,14 @@
-// Generated on 12/10/2025, 08:45:01 (EST)
-// Total records: 1306
+// Generated on 12/10/2025, 09:00:02 (EST)
+// Total records: 1307
 
 export const games = [
+  {
+    "id": "527d03d4-9f73-4643-ac7f-59195e18b371",
+    "name": "Holiday Family Feud",
+    "creatorId": "107642451664974691350",
+    "creatorLastName": "Andolina",
+    "createdAt": "12/10/2025, 08:47:20"
+  },
   {
     "id": "788cdb48-f716-4bf3-9050-197e70d50c88",
     "name": "hi",
