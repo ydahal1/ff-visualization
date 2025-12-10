@@ -1,7 +1,12 @@
-// Generated on 12/10/2025, 14:00:00 (EST)
-// Total records: 936
+// Generated on 12/10/2025, 14:15:00 (EST)
+// Total records: 937
 
 export const users = [
+  {
+    "id": "100933479251898474764",
+    "lName": "Sobotta",
+    "createdAt": "12/10/2025, 14:06:44"
+  },
   {
     "id": "100457229189048270766",
     "lName": "bean",
