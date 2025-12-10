@@ -1,13 +1,20 @@
-// Generated on 12/09/2025, 23:45:01 (EST)
-// Total records: 1295
+// Generated on 12/10/2025, 24:00:02 (EST)
+// Total records: 1296
 
 export const games = [
   {
-    "id": "51f42786-343e-4379-988d-93fbdebc385e",
-    "name": "Test",
+    "id": "45e544b0-fc4b-4705-844d-f9142058729d",
+    "name": "Extra Rounds",
+    "creatorId": "101625245615092553403",
+    "creatorLastName": "W",
+    "createdAt": "12/09/2025, 23:56:28"
+  },
+  {
+    "id": "1fe95795-943f-4e62-99db-69f9b6ff11f3",
+    "name": "Universal Fans",
     "creatorId": "115840939118382205304",
     "creatorLastName": "D",
-    "createdAt": "12/09/2025, 23:43:54"
+    "createdAt": "12/09/2025, 23:52:40"
   },
   {
     "id": "cea95fc8-ca5e-4839-ad21-5feab521af66",
