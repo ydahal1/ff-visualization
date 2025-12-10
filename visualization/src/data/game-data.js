@@ -1,7 +1,14 @@
-// Generated on 12/10/2025, 14:00:01 (EST)
-// Total records: 1320
+// Generated on 12/10/2025, 14:15:01 (EST)
+// Total records: 1321
 
 export const games = [
+  {
+    "id": "26f97d8f-5c7a-48e3-b78b-df17c865b8f9",
+    "name": "Cafe Family Feud #2",
+    "creatorId": "106324219813549392880",
+    "creatorLastName": "McCune-Streit",
+    "createdAt": "12/10/2025, 14:12:29"
+  },
   {
     "id": "75a3c127-0846-43c2-b428-af78d81073cb",
     "name": "Test Game",
