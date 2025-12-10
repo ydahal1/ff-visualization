@@ -1,7 +1,14 @@
-// Generated on 12/10/2025, 04:45:01 (EST)
-// Total records: 1298
+// Generated on 12/10/2025, 05:00:02 (EST)
+// Total records: 1299
 
 export const games = [
+  {
+    "id": "3257edf5-4b98-4513-be40-a7eac5664f06",
+    "name": "HOUSE FEUD",
+    "creatorId": "108449997644486560906",
+    "creatorLastName": "Setiawan",
+    "createdAt": "12/10/2025, 04:51:08"
+  },
   {
     "id": "f5d68f59-5348-4f02-b9aa-dd0400b54716",
     "name": "Egmont Big Christmas Feud!",
