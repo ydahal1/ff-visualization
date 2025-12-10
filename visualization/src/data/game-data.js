@@ -1,7 +1,14 @@
-// Generated on 12/10/2025, 09:15:02 (EST)
-// Total records: 1307
+// Generated on 12/10/2025, 09:30:02 (EST)
+// Total records: 1308
 
 export const games = [
+  {
+    "id": "addd9bec-e707-4bd6-a08e-889fa1f464dd",
+    "name": "G vs A",
+    "creatorId": "100465279183819592781",
+    "creatorLastName": "Maldonado",
+    "createdAt": "12/10/2025, 09:25:43"
+  },
   {
     "id": "527d03d4-9f73-4643-ac7f-59195e18b371",
     "name": "Holiday Family Feud",
