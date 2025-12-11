@@ -1,7 +1,21 @@
-// Generated on 12/11/2025, 15:30:01 (EST)
-// Total records: 1377
+// Generated on 12/11/2025, 15:45:02 (EST)
+// Total records: 1379
 
 export const games = [
+  {
+    "id": "4187c8ed-eabb-4c90-b53a-9c75162636cd",
+    "name": "Cottage christmas",
+    "creatorId": "102257273386315856460",
+    "creatorLastName": "Shepard",
+    "createdAt": "12/11/2025, 15:44:39"
+  },
+  {
+    "id": "cca11ad2-876e-4011-a659-5bf54d8219c4",
+    "name": "Labor Relations Family Feud",
+    "creatorId": "108032915049780098587",
+    "creatorLastName": "Duarte",
+    "createdAt": "12/11/2025, 15:40:54"
+  },
   {
     "id": "4719471f-c3a0-493d-b287-b019dad4c63d",
     "name": "Game 3",
