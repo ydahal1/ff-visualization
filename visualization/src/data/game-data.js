@@ -1,7 +1,21 @@
-// Generated on 12/11/2025, 11:30:02 (EST)
-// Total records: 1361
+// Generated on 12/11/2025, 11:45:02 (EST)
+// Total records: 1363
 
 export const games = [
+  {
+    "id": "a9325602-b289-4380-883d-a73e969b0d48",
+    "name": "8th Grade US History Final Exam",
+    "creatorId": "112647899240585234587",
+    "creatorLastName": "L.",
+    "createdAt": "12/11/2025, 11:38:56"
+  },
+  {
+    "id": "cf996a1a-a02d-4cad-9d1a-a4788e9a9850",
+    "name": "Cousins",
+    "creatorId": "108459701436056377004",
+    "creatorLastName": "Parrett",
+    "createdAt": "12/11/2025, 11:34:44"
+  },
   {
     "id": "72c6c63a-3dcf-43ae-b089-6aeb698e4f24",
     "name": "christmas friendly feud",
