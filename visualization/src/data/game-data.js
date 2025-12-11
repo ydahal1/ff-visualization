@@ -1,7 +1,14 @@
-// Generated on 12/11/2025, 08:45:02 (EST)
-// Total records: 1350
+// Generated on 12/11/2025, 09:00:02 (EST)
+// Total records: 1351
 
 export const games = [
+  {
+    "id": "eb789d7b-2b3f-4edc-9805-804504b705dc",
+    "name": "Belas BD Game",
+    "creatorId": "103595157120954470680",
+    "creatorLastName": "Humberg",
+    "createdAt": "12/11/2025, 08:57:21"
+  },
   {
     "id": "2985330e-39cc-4934-90ac-26fd7660a829",
     "name": "Ocean Compass Blue Economy",
