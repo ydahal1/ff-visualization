@@ -1,7 +1,14 @@
-// Generated on 12/11/2025, 13:30:02 (EST)
-// Total records: 1376
+// Generated on 12/11/2025, 13:45:03 (EST)
+// Total records: 1377
 
 export const games = [
+  {
+    "id": "80681890-9cdb-443e-86a6-19c166c1ec9c",
+    "name": "Game 3",
+    "creatorId": "100172933866709155509",
+    "creatorLastName": "Asriel",
+    "createdAt": "12/11/2025, 13:31:42"
+  },
   {
     "id": "4c3debf8-1095-41bd-b8f9-6b0c1ed97a17",
     "name": "SUD Youth part2",
