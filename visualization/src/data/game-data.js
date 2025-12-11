@@ -1,7 +1,35 @@
-// Generated on 12/11/2025, 12:45:02 (EST)
-// Total records: 1369
+// Generated on 12/11/2025, 13:00:01 (EST)
+// Total records: 1370
 
 export const games = [
+  {
+    "id": "231e61c9-4cb9-4ebe-b297-1b0f4d919ec8",
+    "name": "SUD Youth Part 1",
+    "creatorId": "106782906635348531903",
+    "creatorLastName": "Herring",
+    "createdAt": "12/11/2025, 12:59:08"
+  },
+  {
+    "id": "933a0ff5-6bac-4143-bfa9-3c8b74ddc1f7",
+    "name": "Identitate și Non-Discriminare",
+    "creatorId": "117935773959087673287",
+    "creatorLastName": "John21",
+    "createdAt": "12/11/2025, 12:59:07"
+  },
+  {
+    "id": "2376b1ae-92e1-4a55-95ab-4c6c5aabd70f",
+    "name": "Sănătate și Bunăstare",
+    "creatorId": "117935773959087673287",
+    "creatorLastName": "John21",
+    "createdAt": "12/11/2025, 12:52:56"
+  },
+  {
+    "id": "ed8db750-67b6-437f-ab26-c8a5b309515a",
+    "name": "Participare și Exprimare",
+    "creatorId": "117935773959087673287",
+    "creatorLastName": "John21",
+    "createdAt": "12/11/2025, 12:46:06"
+  },
   {
     "id": "de41906d-a3d3-4b36-aecf-3fe0b766b7d7",
     "name": "Protecție și Siguranță",
@@ -50,13 +78,6 @@ export const games = [
     "creatorId": "117146084936547322086",
     "creatorLastName": "jones",
     "createdAt": "12/11/2025, 12:10:41"
-  },
-  {
-    "id": "df05532c-2b2b-497a-be83-c6355708f912",
-    "name": "sud youth `1",
-    "creatorId": "106782906635348531903",
-    "creatorLastName": "Herring",
-    "createdAt": "12/11/2025, 12:03:00"
   },
   {
     "id": "cf996a1a-a02d-4cad-9d1a-a4788e9a9850",
@@ -204,20 +225,6 @@ export const games = [
     "creatorId": "107273587042546946585",
     "creatorLastName": "Francisco",
     "createdAt": "12/11/2025, 03:30:30"
-  },
-  {
-    "id": "f6b6b450-c9ed-498a-9078-ad2724a7a48a",
-    "name": "Same sex marriages",
-    "creatorId": "100172933866709155509",
-    "creatorLastName": "Asriel",
-    "createdAt": "12/11/2025, 02:17:57"
-  },
-  {
-    "id": "db6019bc-0e54-413a-8d8c-401ee10fd8a8",
-    "name": "Same sex marriage",
-    "creatorId": "100172933866709155509",
-    "creatorLastName": "Asriel",
-    "createdAt": "12/11/2025, 02:17:14"
   },
   {
     "id": "9141fe71-f872-45d8-b541-ab0812eead2f",
