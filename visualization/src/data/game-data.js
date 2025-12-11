@@ -1,7 +1,14 @@
-// Generated on 12/11/2025, 10:30:02 (EST)
+// Generated on 12/11/2025, 10:45:02 (EST)
 // Total records: 1358
 
 export const games = [
+  {
+    "id": "6d053aa8-f54c-48ef-a4ef-ba961a776e3f",
+    "name": "Ocean Compass Blue Economy",
+    "creatorId": "105032441829031337867",
+    "creatorLastName": "Moreno",
+    "createdAt": "12/11/2025, 10:40:16"
+  },
   {
     "id": "542b7d6f-0475-4a45-b815-74d3e1953196",
     "name": "Round 6",
@@ -36,13 +43,6 @@ export const games = [
     "creatorId": "113188817440659281444",
     "creatorLastName": "Shaw",
     "createdAt": "12/11/2025, 09:58:27"
-  },
-  {
-    "id": "40390774-5c11-4647-9175-7527ac317387",
-    "name": "Ocean Compass Blue Economy",
-    "creatorId": "105032441829031337867",
-    "creatorLastName": "Moreno",
-    "createdAt": "12/11/2025, 09:55:49"
   },
   {
     "id": "cc563224-8472-4782-b4c0-8b829c4f9076",
