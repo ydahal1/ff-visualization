@@ -1,13 +1,13 @@
-// Generated on 12/11/2025, 09:00:02 (EST)
+// Generated on 12/11/2025, 09:15:02 (EST)
 // Total records: 1351
 
 export const games = [
   {
-    "id": "eb789d7b-2b3f-4edc-9805-804504b705dc",
+    "id": "e5fcd3a0-bf7e-472f-97a3-15858275a896",
     "name": "Belas BD Game",
     "creatorId": "103595157120954470680",
     "creatorLastName": "Humberg",
-    "createdAt": "12/11/2025, 08:57:21"
+    "createdAt": "12/11/2025, 09:13:50"
   },
   {
     "id": "2985330e-39cc-4934-90ac-26fd7660a829",
