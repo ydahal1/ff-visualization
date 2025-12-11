@@ -1,7 +1,14 @@
-// Generated on 12/10/2025, 22:00:02 (EST)
-// Total records: 1336
+// Generated on 12/10/2025, 22:15:02 (EST)
+// Total records: 1337
 
 export const games = [
+  {
+    "id": "e2a55834-9974-4ffc-897b-9c2c69b86b3f",
+    "name": "WINTER FEUD 2",
+    "creatorId": "108214373121951175602",
+    "creatorLastName": "Bellmaine",
+    "createdAt": "12/10/2025, 22:05:49"
+  },
   {
     "id": "8d341000-2a28-49e9-9680-16f73e97cdf1",
     "name": "WINTER FEUD 1",
