@@ -1,7 +1,14 @@
-// Generated on 12/10/2025, 21:45:02 (EST)
-// Total records: 1340
+// Generated on 12/10/2025, 22:00:02 (EST)
+// Total records: 1336
 
 export const games = [
+  {
+    "id": "8d341000-2a28-49e9-9680-16f73e97cdf1",
+    "name": "WINTER FEUD 1",
+    "creatorId": "108214373121951175602",
+    "creatorLastName": "Bellmaine",
+    "createdAt": "12/10/2025, 21:55:58"
+  },
   {
     "id": "d95c771a-5202-4c78-aac7-1eac911c7bb6",
     "name": "Universal Fans - A Christmas Party",
@@ -661,27 +668,6 @@ export const games = [
     "createdAt": "12/09/2025, 04:44:18"
   },
   {
-    "id": "6ffb6de9-33bf-4b25-8e7a-aadb5da126bc",
-    "name": "test4",
-    "creatorId": "107419577245396437998",
-    "creatorLastName": "Man",
-    "createdAt": "12/09/2025, 02:23:24"
-  },
-  {
-    "id": "7a4f4716-1693-49b7-a1d2-16e03e4d7587",
-    "name": "test3",
-    "creatorId": "107419577245396437998",
-    "creatorLastName": "Man",
-    "createdAt": "12/09/2025, 02:00:30"
-  },
-  {
-    "id": "8ad9c01b-48ac-4b93-a1bc-1d745cd23a32",
-    "name": "test2",
-    "creatorId": "107419577245396437998",
-    "creatorLastName": "Man",
-    "createdAt": "12/09/2025, 01:45:08"
-  },
-  {
     "id": "163b8e5b-4208-4659-84ea-8eea0e59e691",
     "name": "Steve Harvey",
     "creatorId": "104102925159677975045",
@@ -703,25 +689,11 @@ export const games = [
     "createdAt": "12/09/2025, 24:33:32"
   },
   {
-    "id": "8c8af295-5749-4d5f-a9fc-635548872d85",
-    "name": "Test Game",
-    "creatorId": "107419577245396437998",
-    "creatorLastName": "Man",
-    "createdAt": "12/09/2025, 24:18:40"
-  },
-  {
     "id": "f1f97efe-b2c0-400b-bd2e-d68521f5deee",
     "name": "cundick christmas family feud",
     "creatorId": "116538961971679534700",
     "creatorLastName": "Cundick",
     "createdAt": "12/09/2025, 24:13:57"
-  },
-  {
-    "id": "c0c65499-899d-47b9-815b-60e2279092b2",
-    "name": "Test",
-    "creatorId": "107419577245396437998",
-    "creatorLastName": "Man",
-    "createdAt": "12/09/2025, 24:01:52"
   },
   {
     "id": "d3766c22-6cb3-4eec-a86f-3b985c16f2a3",
