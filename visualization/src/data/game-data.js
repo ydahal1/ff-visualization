@@ -1,7 +1,28 @@
-// Generated on 12/10/2025, 20:45:01 (EST)
-// Total records: 1336
+// Generated on 12/10/2025, 21:00:01 (EST)
+// Total records: 1339
 
 export const games = [
+  {
+    "id": "497e0b1d-ac5a-4f50-9f17-595482f4ecdf",
+    "name": "Gva",
+    "creatorId": "100465279183819592781",
+    "creatorLastName": "Maldonado",
+    "createdAt": "12/10/2025, 20:59:05"
+  },
+  {
+    "id": "c00131d8-1f00-405c-84a8-d4017e9bb016",
+    "name": "House Feud Round 2",
+    "creatorId": "108449997644486560906",
+    "creatorLastName": "Setiawan",
+    "createdAt": "12/10/2025, 20:49:01"
+  },
+  {
+    "id": "411eeb26-fa78-484e-aab3-207693b4a472",
+    "name": "House Feud Round 1",
+    "creatorId": "108449997644486560906",
+    "creatorLastName": "Setiawan",
+    "createdAt": "12/10/2025, 20:48:13"
+  },
   {
     "id": "69f5959d-7b6f-40e6-b3b9-8fd6e9f04571",
     "name": "Holiday Family Feud",
