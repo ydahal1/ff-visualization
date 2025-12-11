@@ -1,5 +1,5 @@
-// Generated on 12/11/2025, 24:00:01 (EST)
-// Total records: 1339
+// Generated on 12/11/2025, 24:15:02 (EST)
+// Total records: 1338
 
 export const games = [
   {
@@ -1660,13 +1660,6 @@ export const games = [
     "creatorId": "108390406048571875694",
     "creatorLastName": "Realty",
     "createdAt": "12/06/2025, 11:56:30"
-  },
-  {
-    "id": "ac632cc0-c068-409a-8a16-d1a94c344345",
-    "name": "Friendsgiving #2",
-    "creatorId": "103685808013737152082",
-    "creatorLastName": "Anderson",
-    "createdAt": "12/06/2025, 11:53:29"
   },
   {
     "id": "ddcfa5a9-ce6b-43b2-b5a8-43e679f7352a",
