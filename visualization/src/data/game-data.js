@@ -1,7 +1,14 @@
-// Generated on 12/11/2025, 06:15:02 (EST)
-// Total records: 1349
+// Generated on 12/11/2025, 06:30:02 (EST)
+// Total records: 1350
 
 export const games = [
+  {
+    "id": "2985330e-39cc-4934-90ac-26fd7660a829",
+    "name": "Ocean Compass Blue Economy",
+    "creatorId": "105032441829031337867",
+    "creatorLastName": "Moreno",
+    "createdAt": "12/11/2025, 06:15:47"
+  },
   {
     "id": "3f46059c-dabe-4f1d-9524-fa37f548e716",
     "name": "Deasia's Game",
