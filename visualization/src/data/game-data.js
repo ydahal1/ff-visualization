@@ -1,7 +1,35 @@
-// Generated on 12/11/2025, 12:15:01 (EST)
-// Total records: 1365
+// Generated on 12/11/2025, 12:30:02 (EST)
+// Total records: 1368
 
 export const games = [
+  {
+    "id": "e79b5c12-7789-4d20-b688-a9a4580f6fce",
+    "name": "8th Grade US History Final Exam Pt3",
+    "creatorId": "112647899240585234587",
+    "creatorLastName": "L.",
+    "createdAt": "12/11/2025, 12:29:16"
+  },
+  {
+    "id": "4f3128a0-e024-4dfa-9ef2-8e612cc9e8ea",
+    "name": "8th Grade US History Final Exam Pt2",
+    "creatorId": "112647899240585234587",
+    "creatorLastName": "L.",
+    "createdAt": "12/11/2025, 12:28:35"
+  },
+  {
+    "id": "8003f115-7f4f-44f1-a749-d8552e0ba29b",
+    "name": "8th Grade US History Final Exam Pt1",
+    "creatorId": "112647899240585234587",
+    "creatorLastName": "L.",
+    "createdAt": "12/11/2025, 12:26:41"
+  },
+  {
+    "id": "66f78dfe-9145-4c10-ab3a-3d7364e4c800",
+    "name": "Property Masters Family Feud",
+    "creatorId": "112340131885644228534",
+    "creatorLastName": "Howell",
+    "createdAt": "12/11/2025, 12:23:32"
+  },
   {
     "id": "77351cd2-8117-4904-b18a-55f519ae294a",
     "name": "Family Christmas 2",
@@ -687,13 +715,6 @@ export const games = [
     "creatorId": "108245150124336823216",
     "creatorLastName": "Huckenberry",
     "createdAt": "12/09/2025, 16:16:15"
-  },
-  {
-    "id": "837784a3-2a63-4765-98c3-41a6f285a903",
-    "name": "Kate",
-    "creatorId": "117935773959087673287",
-    "creatorLastName": "John21",
-    "createdAt": "12/09/2025, 15:35:16"
   },
   {
     "id": "8d773bd9-1218-4255-a27d-b2b3b9673ef2",
