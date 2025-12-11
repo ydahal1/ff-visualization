@@ -1,7 +1,14 @@
-// Generated on 12/10/2025, 19:15:02 (EST)
-// Total records: 1332
+// Generated on 12/10/2025, 19:30:02 (EST)
+// Total records: 1333
 
 export const games = [
+  {
+    "id": "72232b87-5ed6-4a79-9030-81379f35ece2",
+    "name": "“Cultural Food Feud: Jamaican Edition”",
+    "creatorId": "100583215465430817633",
+    "creatorLastName": "B",
+    "createdAt": "12/10/2025, 19:25:15"
+  },
   {
     "id": "eae7c47b-000c-4f50-bdd1-016907fc39bf",
     "name": "Finals Game",
