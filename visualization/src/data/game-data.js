@@ -1,7 +1,14 @@
-// Generated on 12/11/2025, 05:45:02 (EST)
-// Total records: 1348
+// Generated on 12/11/2025, 06:00:02 (EST)
+// Total records: 1349
 
 export const games = [
+  {
+    "id": "3f46059c-dabe-4f1d-9524-fa37f548e716",
+    "name": "Deasia's Game",
+    "creatorId": "106196808967040786938",
+    "creatorLastName": "Whited",
+    "createdAt": "12/11/2025, 05:54:15"
+  },
   {
     "id": "f1d78b39-02d9-4c70-b737-f65399547e1d",
     "name": "OIIAI",
