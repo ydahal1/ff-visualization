@@ -1,13 +1,13 @@
-// Generated on 12/10/2025, 23:30:01 (EST)
-// Total records: 1340
+// Generated on 12/10/2025, 23:45:01 (EST)
+// Total records: 1339
 
 export const games = [
   {
-    "id": "cf33af12-0910-4cd0-8e27-088618e250bd",
-    "name": "Friendsgiving #3",
-    "creatorId": "103685808013737152082",
-    "creatorLastName": "Anderson",
-    "createdAt": "12/10/2025, 23:21:56"
+    "id": "42309ca3-ed9a-4145-9f1e-384e54556f1b",
+    "name": "S&O Family Feud - Holiday Edition",
+    "creatorId": "115795995283227869589",
+    "creatorLastName": "Effendy",
+    "createdAt": "12/10/2025, 23:33:24"
   },
   {
     "id": "170d26bb-6ae8-47c0-9e8c-09de20d869ea",
@@ -1807,13 +1807,6 @@ export const games = [
     "creatorId": "103855261096612693461",
     "creatorLastName": "Penalosa",
     "createdAt": "12/05/2025, 23:00:47"
-  },
-  {
-    "id": "727b0e1e-3d98-4bcc-9901-6805b412d61c",
-    "name": "Friendsgiving Part 1",
-    "creatorId": "103685808013737152082",
-    "creatorLastName": "Anderson",
-    "createdAt": "12/05/2025, 22:49:07"
   },
   {
     "id": "091b65ee-5734-41e7-a0c6-1e9f6dceaee6",
