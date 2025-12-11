@@ -1,7 +1,14 @@
-// Generated on 12/11/2025, 15:15:02 (EST)
-// Total records: 1376
+// Generated on 12/11/2025, 15:30:01 (EST)
+// Total records: 1377
 
 export const games = [
+  {
+    "id": "4719471f-c3a0-493d-b287-b019dad4c63d",
+    "name": "Game 3",
+    "creatorId": "116083676053756983775",
+    "creatorLastName": "Bratton",
+    "createdAt": "12/11/2025, 15:15:44"
+  },
   {
     "id": "c2e0d95c-8ae1-4f8c-8690-222352b80561",
     "name": "Practice Game",
