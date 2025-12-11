@@ -1,7 +1,14 @@
-// Generated on 12/11/2025, 11:15:02 (EST)
-// Total records: 1360
+// Generated on 12/11/2025, 11:30:02 (EST)
+// Total records: 1361
 
 export const games = [
+  {
+    "id": "72c6c63a-3dcf-43ae-b089-6aeb698e4f24",
+    "name": "christmas friendly feud",
+    "creatorId": "115956036294059948907",
+    "creatorLastName": "Titus",
+    "createdAt": "12/11/2025, 11:29:53"
+  },
   {
     "id": "bf28ffcf-c4b0-42d7-9ac3-6665b8af50dd",
     "name": "ARUBA FAMILLY FEUD!",
