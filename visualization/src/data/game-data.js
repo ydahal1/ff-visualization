@@ -1,7 +1,21 @@
-// Generated on 12/11/2025, 12:30:02 (EST)
-// Total records: 1368
+// Generated on 12/11/2025, 12:45:02 (EST)
+// Total records: 1369
 
 export const games = [
+  {
+    "id": "de41906d-a3d3-4b36-aecf-3fe0b766b7d7",
+    "name": "Protecție și Siguranță",
+    "creatorId": "117935773959087673287",
+    "creatorLastName": "John21",
+    "createdAt": "12/11/2025, 12:39:09"
+  },
+  {
+    "id": "bd82ecd8-ed8e-405a-a952-078769ca1ed5",
+    "name": "Educație și Informare",
+    "creatorId": "117935773959087673287",
+    "creatorLastName": "John21",
+    "createdAt": "12/11/2025, 12:33:30"
+  },
   {
     "id": "e79b5c12-7789-4d20-b688-a9a4580f6fce",
     "name": "8th Grade US History Final Exam Pt3",
@@ -43,13 +57,6 @@ export const games = [
     "creatorId": "106782906635348531903",
     "creatorLastName": "Herring",
     "createdAt": "12/11/2025, 12:03:00"
-  },
-  {
-    "id": "a9325602-b289-4380-883d-a73e969b0d48",
-    "name": "8th Grade US History Final Exam",
-    "creatorId": "112647899240585234587",
-    "creatorLastName": "L.",
-    "createdAt": "12/11/2025, 11:38:56"
   },
   {
     "id": "cf996a1a-a02d-4cad-9d1a-a4788e9a9850",
