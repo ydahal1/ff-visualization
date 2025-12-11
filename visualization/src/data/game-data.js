@@ -1,7 +1,21 @@
-// Generated on 12/11/2025, 02:15:02 (EST)
-// Total records: 1339
+// Generated on 12/11/2025, 02:30:02 (EST)
+// Total records: 1341
 
 export const games = [
+  {
+    "id": "f6b6b450-c9ed-498a-9078-ad2724a7a48a",
+    "name": "Same sex marriages",
+    "creatorId": "100172933866709155509",
+    "creatorLastName": "Asriel",
+    "createdAt": "12/11/2025, 02:17:57"
+  },
+  {
+    "id": "db6019bc-0e54-413a-8d8c-401ee10fd8a8",
+    "name": "Same sex marriage",
+    "creatorId": "100172933866709155509",
+    "creatorLastName": "Asriel",
+    "createdAt": "12/11/2025, 02:17:14"
+  },
   {
     "id": "9141fe71-f872-45d8-b541-ab0812eead2f",
     "name": "BCCHC FAMILY FEUD",
