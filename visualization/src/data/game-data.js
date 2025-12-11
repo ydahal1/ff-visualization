@@ -1,7 +1,21 @@
-// Generated on 12/11/2025, 14:45:01 (EST)
-// Total records: 1374
+// Generated on 12/11/2025, 15:00:02 (EST)
+// Total records: 1376
 
 export const games = [
+  {
+    "id": "c2e0d95c-8ae1-4f8c-8690-222352b80561",
+    "name": "Practice Game",
+    "creatorId": "110369362243278373898",
+    "creatorLastName": "Clark",
+    "createdAt": "12/11/2025, 14:55:41"
+  },
+  {
+    "id": "776ed807-8235-466e-92b2-2045576ddedf",
+    "name": "test",
+    "creatorId": "107226920413713961172",
+    "creatorLastName": "Williams",
+    "createdAt": "12/11/2025, 14:48:50"
+  },
   {
     "id": "41558cc1-1637-417d-9436-e4a58377d965",
     "name": "practice",
