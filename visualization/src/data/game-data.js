@@ -1,7 +1,21 @@
-// Generated on 12/11/2025, 14:00:02 (EST)
-// Total records: 1376
+// Generated on 12/11/2025, 14:15:02 (EST)
+// Total records: 1375
 
 export const games = [
+  {
+    "id": "41558cc1-1637-417d-9436-e4a58377d965",
+    "name": "practice",
+    "creatorId": "105271681946104125483",
+    "creatorLastName": "Word",
+    "createdAt": "12/11/2025, 14:12:41"
+  },
+  {
+    "id": "5e3f54b0-21c8-4fcf-904c-6f93a8dbe2f4",
+    "name": "SUD Youth part3",
+    "creatorId": "106782906635348531903",
+    "creatorLastName": "Herring",
+    "createdAt": "12/11/2025, 14:03:15"
+  },
   {
     "id": "80681890-9cdb-443e-86a6-19c166c1ec9c",
     "name": "Game 3",
@@ -507,13 +521,6 @@ export const games = [
     "createdAt": "12/10/2025, 13:49:36"
   },
   {
-    "id": "9cf4b305-a1aa-442a-adac-0fd395e7181c",
-    "name": "SCPA Christmas",
-    "creatorId": "111147769987160844716",
-    "creatorLastName": "Lee",
-    "createdAt": "12/10/2025, 13:39:56"
-  },
-  {
     "id": "a8896d49-5125-433b-a7ab-e0c9d66e32af",
     "name": "Team 1",
     "creatorId": "102347509183694965742",
@@ -855,20 +862,6 @@ export const games = [
     "creatorId": "104249542126310816013",
     "creatorLastName": "Holmes",
     "createdAt": "12/09/2025, 12:10:33"
-  },
-  {
-    "id": "ff02a022-7d78-41f9-929c-efbf858c8f93",
-    "name": "SCPA(2)",
-    "creatorId": "111147769987160844716",
-    "creatorLastName": "Lee",
-    "createdAt": "12/09/2025, 12:07:07"
-  },
-  {
-    "id": "b29a333f-71ba-4153-9a3f-22265df398c5",
-    "name": "SCPA",
-    "creatorId": "111147769987160844716",
-    "creatorLastName": "Lee",
-    "createdAt": "12/09/2025, 12:04:15"
   },
   {
     "id": "0301a90a-6a52-4227-a4d2-2b890778296b",
