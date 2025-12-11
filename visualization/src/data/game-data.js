@@ -1,7 +1,21 @@
-// Generated on 12/11/2025, 18:30:02 (EST)
-// Total records: 1387
+// Generated on 12/11/2025, 18:45:02 (EST)
+// Total records: 1389
 
 export const games = [
+  {
+    "id": "5e11350a-7c81-49e7-90d5-c8802fd4c9f1",
+    "name": "ZOOM GAME 2",
+    "creatorId": "111306949734895590160",
+    "creatorLastName": "Joyce",
+    "createdAt": "12/11/2025, 18:37:08"
+  },
+  {
+    "id": "1fda59cf-7538-4b2a-bf12-152d94d992ca",
+    "name": "ZOOM GAME 1",
+    "creatorId": "111306949734895590160",
+    "creatorLastName": "Joyce",
+    "createdAt": "12/11/2025, 18:36:02"
+  },
   {
     "id": "970b4e00-c83f-4321-945c-a98ff31f3b88",
     "name": "Test",
