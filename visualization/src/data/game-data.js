@@ -1,5 +1,5 @@
-// Generated on 12/11/2025, 14:30:01 (EST)
-// Total records: 1375
+// Generated on 12/11/2025, 14:45:01 (EST)
+// Total records: 1374
 
 export const games = [
   {
@@ -7288,13 +7288,6 @@ export const games = [
     "creatorId": "100781044952002907216",
     "creatorLastName": "Nicolls",
     "createdAt": "11/19/2025, 15:07:42"
-  },
-  {
-    "id": "2bff9a1a-0449-49e4-9948-28e54f36fc93",
-    "name": "SLERO/SERO VS Admin",
-    "creatorId": "108032915049780098587",
-    "creatorLastName": "Duarte",
-    "createdAt": "11/19/2025, 15:00:09"
   },
   {
     "id": "60e0f913-9a37-4b40-a5ef-b7bd635ba8f1",
