@@ -1,7 +1,12 @@
-// Generated on 12/11/2025, 14:00:01 (EST)
-// Total records: 977
+// Generated on 12/11/2025, 14:15:00 (EST)
+// Total records: 978
 
 export const users = [
+  {
+    "id": "105271681946104125483",
+    "lName": "Word",
+    "createdAt": "12/11/2025, 14:12:13"
+  },
   {
     "id": "113603564530284836651",
     "lName": "Scheduler",
