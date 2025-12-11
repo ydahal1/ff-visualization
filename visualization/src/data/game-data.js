@@ -1,7 +1,14 @@
-// Generated on 12/11/2025, 09:15:02 (EST)
-// Total records: 1351
+// Generated on 12/11/2025, 09:30:01 (EST)
+// Total records: 1352
 
 export const games = [
+  {
+    "id": "d4a2f97e-c594-4fca-ac49-88c5020c4141",
+    "name": "The Great Christmas Game Night",
+    "creatorId": "100192404371308247536",
+    "creatorLastName": "Hinson",
+    "createdAt": "12/11/2025, 09:21:31"
+  },
   {
     "id": "e5fcd3a0-bf7e-472f-97a3-15858275a896",
     "name": "Belas BD Game",
