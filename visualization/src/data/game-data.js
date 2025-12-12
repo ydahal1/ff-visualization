@@ -1,7 +1,21 @@
-// Generated on 12/12/2025, 14:15:01 (EST)
-// Total records: 1455
+// Generated on 12/12/2025, 14:30:02 (EST)
+// Total records: 1457
 
 export const games = [
+  {
+    "id": "316e6950-953f-464d-a761-3d1a6b14e3cf",
+    "name": "Christmas 2",
+    "creatorId": "107105994569899413113",
+    "creatorLastName": "Everhardt",
+    "createdAt": "12/12/2025, 14:22:02"
+  },
+  {
+    "id": "c17166ba-2b5b-43c4-869e-02168492d6bf",
+    "name": "Christmas 1",
+    "creatorId": "107105994569899413113",
+    "creatorLastName": "Everhardt",
+    "createdAt": "12/12/2025, 14:18:46"
+  },
   {
     "id": "87af84e6-0710-41cd-b9c6-ea04e50518a5",
     "name": "Test",
