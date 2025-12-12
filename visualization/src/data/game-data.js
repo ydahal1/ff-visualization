@@ -1,7 +1,14 @@
-// Generated on 12/12/2025, 17:00:01 (EST)
+// Generated on 12/12/2025, 17:15:01 (EST)
 // Total records: 1464
 
 export const games = [
+  {
+    "id": "91166ba3-55ae-49e5-8dce-f08161e65cfd",
+    "name": "Christmas Family Feud",
+    "creatorId": "112936771847705007740",
+    "creatorLastName": "Barker",
+    "createdAt": "12/12/2025, 17:02:37"
+  },
   {
     "id": "fc8b1306-0706-476b-bb0a-69d80ff9eaba",
     "name": "BEN'S Fam Feud Game",
@@ -2633,13 +2640,6 @@ export const games = [
     "creatorId": "102282321919704002085",
     "creatorLastName": "Lynxa",
     "createdAt": "12/06/2025, 01:00:42"
-  },
-  {
-    "id": "50b5a0f8-a87b-4515-abe5-61724826cd42",
-    "name": "Christmas Family Feud",
-    "creatorId": "112936771847705007740",
-    "creatorLastName": "Barker",
-    "createdAt": "12/06/2025, 24:59:01"
   },
   {
     "id": "4e8d3997-56f9-4e77-acba-e6aa08f8020e",
