@@ -1,7 +1,21 @@
-// Generated on 12/11/2025, 23:00:01 (EST)
-// Total records: 1394
+// Generated on 12/11/2025, 23:15:01 (EST)
+// Total records: 1396
 
 export const games = [
+  {
+    "id": "cdec73d3-8a0e-4c3a-b3e0-292d2859bd04",
+    "name": "Christmas 2",
+    "creatorId": "110887656092933484005",
+    "creatorLastName": "Simmons",
+    "createdAt": "12/11/2025, 23:08:36"
+  },
+  {
+    "id": "7040906a-6d2d-4de1-bce7-28177d749554",
+    "name": "study guide 1",
+    "creatorId": "108244261733447403184",
+    "creatorLastName": "Parra",
+    "createdAt": "12/11/2025, 23:01:04"
+  },
   {
     "id": "6a8a4112-37c6-4142-9bae-b52a9356bc66",
     "name": "Senior Feud",
