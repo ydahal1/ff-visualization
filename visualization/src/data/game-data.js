@@ -1,7 +1,14 @@
-// Generated on 12/11/2025, 19:00:02 (EST)
+// Generated on 12/11/2025, 19:15:02 (EST)
 // Total records: 1389
 
 export const games = [
+  {
+    "id": "75504946-a674-40f9-b880-4fc70770f0da",
+    "name": "Template",
+    "creatorId": "110497411564572884369",
+    "creatorLastName": "Crumley",
+    "createdAt": "12/11/2025, 19:09:29"
+  },
   {
     "id": "5e11350a-7c81-49e7-90d5-c8802fd4c9f1",
     "name": "ZOOM GAME 2",
@@ -547,13 +554,6 @@ export const games = [
     "creatorId": "114614570994288136680",
     "creatorLastName": "Fisher",
     "createdAt": "12/10/2025, 17:06:12"
-  },
-  {
-    "id": "db4b023b-3cb6-4f30-976d-17932465e737",
-    "name": "Template",
-    "creatorId": "110497411564572884369",
-    "creatorLastName": "Crumley",
-    "createdAt": "12/10/2025, 17:04:43"
   },
   {
     "id": "23a99449-519d-4f08-941e-bb8e4780cc36",
