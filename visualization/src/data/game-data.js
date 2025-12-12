@@ -1,7 +1,14 @@
-// Generated on 12/12/2025, 13:30:02 (EST)
-// Total records: 1454
+// Generated on 12/12/2025, 13:45:02 (EST)
+// Total records: 1455
 
 export const games = [
+  {
+    "id": "0e0ffaea-1f87-4ed0-bade-d3705b048396",
+    "name": "Game 1",
+    "creatorId": "104442549765436448305",
+    "creatorLastName": "Journot",
+    "createdAt": "12/12/2025, 13:35:09"
+  },
   {
     "id": "d55ae50d-26d2-4dcb-b552-1e33f77548fb",
     "name": "6th Grade Bible",
