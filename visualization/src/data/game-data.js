@@ -1,7 +1,21 @@
-// Generated on 12/12/2025, 11:15:01 (EST)
-// Total records: 1440
+// Generated on 12/12/2025, 11:30:01 (EST)
+// Total records: 1442
 
 export const games = [
+  {
+    "id": "ee440c26-7d47-46f7-afb7-0d8cabc932a6",
+    "name": "SECOND GAME",
+    "creatorId": "106447918387508361457",
+    "creatorLastName": "Belarmino",
+    "createdAt": "12/12/2025, 11:23:05"
+  },
+  {
+    "id": "3f642fab-5058-40bd-829e-0ad155b9e5ea",
+    "name": "FIRST GAME",
+    "creatorId": "106447918387508361457",
+    "creatorLastName": "Belarmino",
+    "createdAt": "12/12/2025, 11:21:38"
+  },
   {
     "id": "a20d109f-f7e4-4ca5-9d87-9b04e80a96a2",
     "name": "Family Feud !",
