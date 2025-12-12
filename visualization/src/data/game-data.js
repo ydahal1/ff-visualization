@@ -1,20 +1,69 @@
-// Generated on 12/12/2025, 09:45:02 (EST)
-// Total records: 1430
+// Generated on 12/12/2025, 10:00:03 (EST)
+// Total records: 1437
 
 export const games = [
   {
-    "id": "423d380f-191b-4678-8d06-3ea16f0a761d",
+    "id": "4221d4aa-cdf0-4e7a-9422-1dfac48ce083",
+    "name": "Test",
+    "creatorId": "108459701436056377004",
+    "creatorLastName": "Parrett",
+    "createdAt": "12/12/2025, 09:59:27"
+  },
+  {
+    "id": "2493c0ec-7f43-4227-986e-58128e4543e8",
+    "name": "Round 1",
+    "creatorId": "108459701436056377004",
+    "creatorLastName": "Parrett",
+    "createdAt": "12/12/2025, 09:59:02"
+  },
+  {
+    "id": "4ce050c8-6005-429f-91e3-7ed3d353daf2",
+    "name": "beerat",
+    "creatorId": "106447918387508361457",
+    "creatorLastName": "Belarmino",
+    "createdAt": "12/12/2025, 09:56:18"
+  },
+  {
+    "id": "7325e85f-7abd-4258-847b-a9f76de0e357",
+    "name": "Fast Money",
+    "creatorId": "107886724179001102979",
+    "creatorLastName": "Barnes",
+    "createdAt": "12/12/2025, 09:54:47"
+  },
+  {
+    "id": "ff1a123b-9311-4317-bc59-ace5868d4609",
+    "name": "Regus Game 5",
+    "creatorId": "107886724179001102979",
+    "creatorLastName": "Barnes",
+    "createdAt": "12/12/2025, 09:54:11"
+  },
+  {
+    "id": "cf393dd2-357c-448a-aba1-b2cc0c965d6e",
+    "name": "Regus Feud Game 4",
+    "creatorId": "107886724179001102979",
+    "creatorLastName": "Barnes",
+    "createdAt": "12/12/2025, 09:53:20"
+  },
+  {
+    "id": "ec3289d8-28ea-4ea2-8852-4c70f184883a",
+    "name": "Regus Feud Game 3",
+    "creatorId": "107886724179001102979",
+    "creatorLastName": "Barnes",
+    "createdAt": "12/12/2025, 09:51:50"
+  },
+  {
+    "id": "76502a69-2bd2-4dcf-87bb-4b8d4ef80e10",
     "name": "Regus Feud Game 2",
     "creatorId": "107886724179001102979",
     "creatorLastName": "Barnes",
-    "createdAt": "12/12/2025, 09:39:39"
+    "createdAt": "12/12/2025, 09:48:17"
   },
   {
-    "id": "2d837941-f223-482d-9fae-14e480dbdf01",
+    "id": "63fcb7e5-5c60-4cee-bfc6-1f5a6783ffe0",
     "name": "Regus Feud Game 1",
     "creatorId": "107886724179001102979",
     "creatorLastName": "Barnes",
-    "createdAt": "12/12/2025, 09:38:43"
+    "createdAt": "12/12/2025, 09:47:40"
   },
   {
     "id": "0109f4aa-301f-4f82-bdd6-7c58264e812f",
