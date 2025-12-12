@@ -1,7 +1,35 @@
-// Generated on 12/12/2025, 09:30:02 (EST)
-// Total records: 1426
+// Generated on 12/12/2025, 09:45:02 (EST)
+// Total records: 1430
 
 export const games = [
+  {
+    "id": "423d380f-191b-4678-8d06-3ea16f0a761d",
+    "name": "Regus Feud Game 2",
+    "creatorId": "107886724179001102979",
+    "creatorLastName": "Barnes",
+    "createdAt": "12/12/2025, 09:39:39"
+  },
+  {
+    "id": "2d837941-f223-482d-9fae-14e480dbdf01",
+    "name": "Regus Feud Game 1",
+    "creatorId": "107886724179001102979",
+    "creatorLastName": "Barnes",
+    "createdAt": "12/12/2025, 09:38:43"
+  },
+  {
+    "id": "0109f4aa-301f-4f82-bdd6-7c58264e812f",
+    "name": "Borden Christmas",
+    "creatorId": "111764723308328031206",
+    "creatorLastName": "Borden",
+    "createdAt": "12/12/2025, 09:37:50"
+  },
+  {
+    "id": "64a94163-fdca-48e6-9b70-a58c9ea3041d",
+    "name": "Family Feud #3",
+    "creatorId": "108949452867870782928",
+    "creatorLastName": "monroe",
+    "createdAt": "12/12/2025, 09:37:00"
+  },
   {
     "id": "b57a5be7-78d8-422c-8dc0-73e5967d9669",
     "name": "Girl's Night",
