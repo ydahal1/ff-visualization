@@ -1,7 +1,14 @@
-// Generated on 12/12/2025, 09:15:02 (EST)
+// Generated on 12/12/2025, 09:30:02 (EST)
 // Total records: 1426
 
 export const games = [
+  {
+    "id": "b57a5be7-78d8-422c-8dc0-73e5967d9669",
+    "name": "Girl's Night",
+    "creatorId": "111764723308328031206",
+    "creatorLastName": "Borden",
+    "createdAt": "12/12/2025, 09:18:08"
+  },
   {
     "id": "55235717-36fe-487f-930d-cda42bbcda51",
     "name": "USO Family Feud #2",
@@ -442,13 +449,6 @@ export const games = [
     "creatorId": "100780044269052650105",
     "creatorLastName": "Ingram",
     "createdAt": "12/11/2025, 13:05:25"
-  },
-  {
-    "id": "43b8e8b8-2204-4fe2-8e3e-9555ff29d143",
-    "name": "Regus Feud Game 1",
-    "creatorId": "107886724179001102979",
-    "creatorLastName": "Barnes",
-    "createdAt": "12/11/2025, 13:01:53"
   },
   {
     "id": "231e61c9-4cb9-4ebe-b297-1b0f4d919ec8",
