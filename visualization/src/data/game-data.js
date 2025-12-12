@@ -1,7 +1,21 @@
-// Generated on 12/11/2025, 23:15:01 (EST)
-// Total records: 1396
+// Generated on 12/11/2025, 23:30:02 (EST)
+// Total records: 1398
 
 export const games = [
+  {
+    "id": "14be72d3-76d5-4632-ae24-21f23f4533ca",
+    "name": "study guide 2",
+    "creatorId": "108244261733447403184",
+    "creatorLastName": "Parra",
+    "createdAt": "12/11/2025, 23:25:52"
+  },
+  {
+    "id": "70746af6-6638-4234-aefc-16955fa6e818",
+    "name": "Family Feud",
+    "creatorId": "110175192799215430714",
+    "creatorLastName": "Park",
+    "createdAt": "12/11/2025, 23:16:08"
+  },
   {
     "id": "cdec73d3-8a0e-4c3a-b3e0-292d2859bd04",
     "name": "Christmas 2",
