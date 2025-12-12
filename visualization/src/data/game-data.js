@@ -1,7 +1,14 @@
-// Generated on 12/12/2025, 11:00:02 (EST)
-// Total records: 1441
+// Generated on 12/12/2025, 11:15:01 (EST)
+// Total records: 1440
 
 export const games = [
+  {
+    "id": "a20d109f-f7e4-4ca5-9d87-9b04e80a96a2",
+    "name": "Family Feud !",
+    "creatorId": "117193694241457358153",
+    "creatorLastName": "Jamroziewicz",
+    "createdAt": "12/12/2025, 11:01:35"
+  },
   {
     "id": "2c7973a6-d55a-4c0e-9a79-94e06b3adc31",
     "name": "Christmas Eve Family Feud 4",
@@ -38,13 +45,6 @@ export const games = [
     "createdAt": "12/12/2025, 10:19:19"
   },
   {
-    "id": "2f074512-b849-4ce1-b8b5-f9a01e0a6132",
-    "name": "bet",
-    "creatorId": "106447918387508361457",
-    "creatorLastName": "Belarmino",
-    "createdAt": "12/12/2025, 10:05:56"
-  },
-  {
     "id": "a32c5a1a-0ab3-46e2-b00c-cc3ca228b2d8",
     "name": "Round 2",
     "creatorId": "108459701436056377004",
@@ -64,13 +64,6 @@ export const games = [
     "creatorId": "108459701436056377004",
     "creatorLastName": "Parrett",
     "createdAt": "12/12/2025, 09:59:02"
-  },
-  {
-    "id": "4ce050c8-6005-429f-91e3-7ed3d353daf2",
-    "name": "beerat",
-    "creatorId": "106447918387508361457",
-    "creatorLastName": "Belarmino",
-    "createdAt": "12/12/2025, 09:56:18"
   },
   {
     "id": "7325e85f-7abd-4258-847b-a9f76de0e357",
