@@ -1,7 +1,14 @@
-// Generated on 12/12/2025, 08:45:02 (EST)
-// Total records: 1422
+// Generated on 12/12/2025, 09:00:01 (EST)
+// Total records: 1423
 
 export const games = [
+  {
+    "id": "5228dbe7-6d56-45d5-9124-ccc33889660d",
+    "name": "Friday Blitz",
+    "creatorId": "114233859790975617314",
+    "creatorLastName": "Scoville",
+    "createdAt": "12/12/2025, 08:56:28"
+  },
   {
     "id": "42611bbf-932c-4f09-927d-9fcf418ea7d5",
     "name": "AP 2",
