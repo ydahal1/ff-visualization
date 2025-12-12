@@ -1,7 +1,14 @@
-// Generated on 12/12/2025, 13:00:01 (EST)
-// Total records: 1453
+// Generated on 12/12/2025, 13:15:02 (EST)
+// Total records: 1452
 
 export const games = [
+  {
+    "id": "fea82941-d6ec-4372-a138-9c8797167dab",
+    "name": "POPs Holiday Game",
+    "creatorId": "108748326988442917240",
+    "creatorLastName": "Williams",
+    "createdAt": "12/12/2025, 13:03:03"
+  },
   {
     "id": "5e91841e-f171-4d03-918d-b681dcc1f2ad",
     "name": "Round 3",
@@ -29,13 +36,6 @@ export const games = [
     "creatorId": "113257516158930622153",
     "creatorLastName": "Chau",
     "createdAt": "12/12/2025, 12:44:15"
-  },
-  {
-    "id": "dd216972-7619-4434-8657-0eb083a69865",
-    "name": "Family Feud S&O",
-    "creatorId": "115795995283227869589",
-    "creatorLastName": "Effendy",
-    "createdAt": "12/12/2025, 12:33:04"
   },
   {
     "id": "2bfef0c5-7153-40b1-a208-ab34cbdc2f5e",
@@ -883,13 +883,6 @@ export const games = [
     "creatorId": "114213311952180880752",
     "creatorLastName": "Deals Shop",
     "createdAt": "12/11/2025, 01:10:15"
-  },
-  {
-    "id": "42309ca3-ed9a-4145-9f1e-384e54556f1b",
-    "name": "S&O Family Feud - Holiday Edition",
-    "creatorId": "115795995283227869589",
-    "creatorLastName": "Effendy",
-    "createdAt": "12/10/2025, 23:33:24"
   },
   {
     "id": "170d26bb-6ae8-47c0-9e8c-09de20d869ea",
