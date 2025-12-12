@@ -1,13 +1,13 @@
-// Generated on 12/12/2025, 10:15:02 (EST)
+// Generated on 12/12/2025, 10:30:02 (EST)
 // Total records: 1439
 
 export const games = [
   {
-    "id": "44abc2dd-3879-4557-8e11-78e51126c3f6",
-    "name": "ARUBA FAMILY FEUD! Game 2",
+    "id": "92f5847e-fd57-4b72-b24e-ac2413b6548c",
+    "name": "ARUBA FAMILY FEUD! Game 1",
     "creatorId": "102947534295305498512",
     "creatorLastName": "Bulatao",
-    "createdAt": "12/12/2025, 10:09:59"
+    "createdAt": "12/12/2025, 10:19:19"
   },
   {
     "id": "2f074512-b849-4ce1-b8b5-f9a01e0a6132",
