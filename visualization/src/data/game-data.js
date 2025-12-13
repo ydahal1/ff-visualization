@@ -1,7 +1,14 @@
-// Generated on 12/12/2025, 21:00:01 (EST)
-// Total records: 1478
+// Generated on 12/12/2025, 21:15:01 (EST)
+// Total records: 1479
 
 export const games = [
+  {
+    "id": "665339fd-07da-4710-935e-16f8dfedc95d",
+    "name": "Game 1",
+    "creatorId": "104563049085655973333",
+    "creatorLastName": "Sarabando",
+    "createdAt": "12/12/2025, 21:11:12"
+  },
   {
     "id": "c9ad5607-3d68-485e-a8bc-2a7d8bfdef3a",
     "name": "Game 3 - The Final",
