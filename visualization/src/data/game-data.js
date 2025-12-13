@@ -1,7 +1,21 @@
-// Generated on 12/13/2025, 06:15:02 (EST)
-// Total records: 1486
+// Generated on 12/13/2025, 06:30:01 (EST)
+// Total records: 1488
 
 export const games = [
+  {
+    "id": "1dd68b70-5191-4b4e-8045-6bf379d514d2",
+    "name": "Congregation game",
+    "creatorId": "115361726724032063073",
+    "creatorLastName": "Sozalo",
+    "createdAt": "12/13/2025, 06:28:59"
+  },
+  {
+    "id": "e743e849-0317-49ec-93b3-bbffb806e09f",
+    "name": "Entry",
+    "creatorId": "115361726724032063073",
+    "creatorLastName": "Sozalo",
+    "createdAt": "12/13/2025, 06:26:27"
+  },
   {
     "id": "590792b0-291e-4d43-a6a8-1139236c36a6",
     "name": "Game Face On",
