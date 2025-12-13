@@ -1,7 +1,21 @@
-// Generated on 12/12/2025, 23:45:01 (EST)
-// Total records: 1485
+// Generated on 12/13/2025, 24:00:01 (EST)
+// Total records: 1487
 
 export const games = [
+  {
+    "id": "1ac5a0dc-4c7c-4314-b968-f2f576aa2402",
+    "name": "Game 2",
+    "creatorId": "106759233818964253677",
+    "creatorLastName": "Strohm",
+    "createdAt": "12/12/2025, 23:54:23"
+  },
+  {
+    "id": "75993c8f-f1ef-4b54-9495-39e7e64cf9eb",
+    "name": "Game 1",
+    "creatorId": "106759233818964253677",
+    "creatorLastName": "Strohm",
+    "createdAt": "12/12/2025, 23:53:27"
+  },
   {
     "id": "78a53065-8d66-4d2d-9fa4-a534e4bb07c8",
     "name": "Black Mammoth 2026",
