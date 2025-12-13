@@ -1,7 +1,28 @@
-// Generated on 12/12/2025, 20:45:01 (EST)
-// Total records: 1475
+// Generated on 12/12/2025, 21:00:01 (EST)
+// Total records: 1478
 
 export const games = [
+  {
+    "id": "c9ad5607-3d68-485e-a8bc-2a7d8bfdef3a",
+    "name": "Game 3 - The Final",
+    "creatorId": "103685808013737152082",
+    "creatorLastName": "Anderson",
+    "createdAt": "12/12/2025, 20:57:10"
+  },
+  {
+    "id": "882fb7ef-6c28-455e-9d2b-4919698771a7",
+    "name": "2025 Handel's Prosper Holiday Party",
+    "creatorId": "109523234502447400765",
+    "creatorLastName": "Davis",
+    "createdAt": "12/12/2025, 20:52:28"
+  },
+  {
+    "id": "7a476c55-72c4-4a0b-92f0-d4e3a34fbd82",
+    "name": "Game 2",
+    "creatorId": "103685808013737152082",
+    "creatorLastName": "Anderson",
+    "createdAt": "12/12/2025, 20:48:04"
+  },
   {
     "id": "023d49b5-ffba-41a1-9099-ddf2beb380fb",
     "name": "Game Number UNO",
