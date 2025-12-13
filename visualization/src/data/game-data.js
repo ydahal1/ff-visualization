@@ -1,7 +1,14 @@
-// Generated on 12/13/2025, 12:45:01 (EST)
-// Total records: 1501
+// Generated on 12/13/2025, 13:00:01 (EST)
+// Total records: 1502
 
 export const games = [
+  {
+    "id": "d07d5658-4f3b-448c-b45f-933748d60e3e",
+    "name": "Random Trivia!",
+    "creatorId": "104838994960898895606",
+    "creatorLastName": "Miller",
+    "createdAt": "12/13/2025, 12:53:58"
+  },
   {
     "id": "bd1144e4-a682-4184-8c7a-f865b31e4fbe",
     "name": "Test",
