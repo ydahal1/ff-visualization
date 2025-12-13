@@ -1,7 +1,14 @@
-// Generated on 12/13/2025, 13:45:02 (EST)
-// Total records: 1504
+// Generated on 12/13/2025, 14:00:02 (EST)
+// Total records: 1505
 
 export const games = [
+  {
+    "id": "c73beaba-5706-4071-aa70-f435b2b3690c",
+    "name": "fun",
+    "creatorId": "111143093048805405028",
+    "creatorLastName": "jacquet",
+    "createdAt": "12/13/2025, 13:51:27"
+  },
   {
     "id": "7f4059bd-7377-4565-bf84-b8897325510a",
     "name": "Christmas Trivia",
