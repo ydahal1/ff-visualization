@@ -1,7 +1,21 @@
-// Generated on 12/12/2025, 22:30:02 (EST)
-// Total records: 1481
+// Generated on 12/12/2025, 22:45:02 (EST)
+// Total records: 1483
 
 export const games = [
+  {
+    "id": "ea27792b-310c-4cbc-9abe-288fdaadf6b2",
+    "name": "The gameeee",
+    "creatorId": "117972999917474447478",
+    "creatorLastName": "Orozco",
+    "createdAt": "12/12/2025, 22:35:13"
+  },
+  {
+    "id": "ba2adbc0-5151-40ad-a6ee-cf1f9b3822a8",
+    "name": "CHRISTMAS COOKIE PARTY 2",
+    "creatorId": "103195102111403174023",
+    "creatorLastName": "Cody",
+    "createdAt": "12/12/2025, 22:33:08"
+  },
   {
     "id": "54b40f10-209b-4a59-8742-fa553dd1e642",
     "name": "Game 2",
