@@ -1,7 +1,14 @@
-// Generated on 12/12/2025, 23:15:02 (EST)
-// Total records: 1484
+// Generated on 12/12/2025, 23:30:01 (EST)
+// Total records: 1485
 
 export const games = [
+  {
+    "id": "78a53065-8d66-4d2d-9fa4-a534e4bb07c8",
+    "name": "Black Mammoth 2026",
+    "creatorId": "108786480670224554016",
+    "creatorLastName": "Jones",
+    "createdAt": "12/12/2025, 23:26:52"
+  },
   {
     "id": "48dd6849-9f55-49a4-a869-3937d228589f",
     "name": "The fam lam",
