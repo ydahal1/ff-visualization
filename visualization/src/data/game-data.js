@@ -1,7 +1,28 @@
-// Generated on 12/13/2025, 24:15:01 (EST)
-// Total records: 1485
+// Generated on 12/13/2025, 24:30:02 (EST)
+// Total records: 1488
 
 export const games = [
+  {
+    "id": "590792b0-291e-4d43-a6a8-1139236c36a6",
+    "name": "Game Face On",
+    "creatorId": "106447918387508361457",
+    "creatorLastName": "Belarmino",
+    "createdAt": "12/13/2025, 24:20:12"
+  },
+  {
+    "id": "5facffdd-90ec-4366-9192-1ee7c9d82351",
+    "name": "On The Spot",
+    "creatorId": "106447918387508361457",
+    "creatorLastName": "Belarmino",
+    "createdAt": "12/13/2025, 24:18:41"
+  },
+  {
+    "id": "04c31fc4-e885-4f71-8d9a-28884604fc35",
+    "name": "Fast Money Round",
+    "creatorId": "106759233818964253677",
+    "creatorLastName": "Strohm",
+    "createdAt": "12/13/2025, 24:16:03"
+  },
   {
     "id": "1ac5a0dc-4c7c-4314-b968-f2f576aa2402",
     "name": "Game 2",
