@@ -1,7 +1,14 @@
-// Generated on 12/13/2025, 03:30:02 (EST)
-// Total records: 1489
+// Generated on 12/13/2025, 03:45:02 (EST)
+// Total records: 1490
 
 export const games = [
+  {
+    "id": "a910458b-347a-48d8-8031-a8206f5d5fe3",
+    "name": "Congregation game",
+    "creatorId": "115361726724032063073",
+    "creatorLastName": "Sozalo",
+    "createdAt": "12/13/2025, 03:32:00"
+  },
   {
     "id": "ccaacee9-ac38-4496-8424-588aed80a2ad",
     "name": "Congregationfeud",
