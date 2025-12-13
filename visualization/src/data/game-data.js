@@ -1,28 +1,7 @@
-// Generated on 12/13/2025, 04:30:02 (EST)
-// Total records: 1490
+// Generated on 12/13/2025, 04:45:01 (EST)
+// Total records: 1486
 
 export const games = [
-  {
-    "id": "a910458b-347a-48d8-8031-a8206f5d5fe3",
-    "name": "Congregation game",
-    "creatorId": "115361726724032063073",
-    "creatorLastName": "Sozalo",
-    "createdAt": "12/13/2025, 03:32:00"
-  },
-  {
-    "id": "ccaacee9-ac38-4496-8424-588aed80a2ad",
-    "name": "Congregationfeud",
-    "creatorId": "115361726724032063073",
-    "creatorLastName": "Sozalo",
-    "createdAt": "12/13/2025, 24:41:36"
-  },
-  {
-    "id": "11216744-d666-4ad5-9baa-fd4b09eb0c6d",
-    "name": "Congregation feud",
-    "creatorId": "115361726724032063073",
-    "creatorLastName": "Sozalo",
-    "createdAt": "12/13/2025, 24:34:54"
-  },
   {
     "id": "590792b0-291e-4d43-a6a8-1139236c36a6",
     "name": "Game Face On",
@@ -666,13 +645,6 @@ export const games = [
     "creatorId": "106369510024346232906",
     "creatorLastName": "Blaul",
     "createdAt": "12/12/2025, 01:25:47"
-  },
-  {
-    "id": "e4578e45-d3bd-4fcc-a493-45a43fc59c75",
-    "name": "Family Feud",
-    "creatorId": "115361726724032063073",
-    "creatorLastName": "Sozalo",
-    "createdAt": "12/12/2025, 24:32:04"
   },
   {
     "id": "0bd68150-0a02-40c3-9b1e-c62748ceb405",
