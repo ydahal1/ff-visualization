@@ -1,7 +1,12 @@
-// Generated on 12/13/2025, 10:30:00 (EST)
-// Total records: 1040
+// Generated on 12/13/2025, 10:45:00 (EST)
+// Total records: 1041
 
 export const users = [
+  {
+    "id": "101157926578977299233",
+    "lName": "Rothenberger",
+    "createdAt": "12/13/2025, 10:32:01"
+  },
   {
     "id": "106332589747106891273",
     "lName": "lappay",
