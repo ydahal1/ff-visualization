@@ -1,7 +1,14 @@
-// Generated on 12/12/2025, 23:00:02 (EST)
-// Total records: 1483
+// Generated on 12/12/2025, 23:15:02 (EST)
+// Total records: 1484
 
 export const games = [
+  {
+    "id": "48dd6849-9f55-49a4-a869-3937d228589f",
+    "name": "The fam lam",
+    "creatorId": "117972999917474447478",
+    "creatorLastName": "Orozco",
+    "createdAt": "12/12/2025, 23:13:13"
+  },
   {
     "id": "0f0af500-4da4-4689-952b-dcca4b7c3cb9",
     "name": "Senior Survivor 2025",
