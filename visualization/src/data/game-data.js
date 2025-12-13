@@ -1,7 +1,14 @@
-// Generated on 12/12/2025, 19:15:02 (EST)
-// Total records: 1472
+// Generated on 12/12/2025, 19:30:02 (EST)
+// Total records: 1473
 
 export const games = [
+  {
+    "id": "60d5a552-b24c-4af7-902e-5ba5b2c07ccb",
+    "name": "final round",
+    "creatorId": "105233712466401910401",
+    "creatorLastName": "Passi",
+    "createdAt": "12/12/2025, 19:16:31"
+  },
   {
     "id": "06d77c13-bd53-40e8-adb5-e3e68c4aba03",
     "name": "round 2",
