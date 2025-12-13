@@ -1,7 +1,14 @@
-// Generated on 12/13/2025, 13:30:02 (EST)
-// Total records: 1503
+// Generated on 12/13/2025, 13:45:02 (EST)
+// Total records: 1504
 
 export const games = [
+  {
+    "id": "7f4059bd-7377-4565-bf84-b8897325510a",
+    "name": "Christmas Trivia",
+    "creatorId": "104838994960898895606",
+    "creatorLastName": "Miller",
+    "createdAt": "12/13/2025, 13:42:16"
+  },
   {
     "id": "65250136-1267-4c50-8d29-8c42153d7e63",
     "name": "Holgado Feud",
