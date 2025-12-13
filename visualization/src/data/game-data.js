@@ -1,7 +1,14 @@
-// Generated on 12/13/2025, 09:00:02 (EST)
+// Generated on 12/13/2025, 09:15:02 (EST)
 // Total records: 1491
 
 export const games = [
+  {
+    "id": "7a387d97-2749-4799-8cc2-ced69f0a056d",
+    "name": "2025 Handel's Holiday Party",
+    "creatorId": "109523234502447400765",
+    "creatorLastName": "Davis",
+    "createdAt": "12/13/2025, 09:14:47"
+  },
   {
     "id": "cc2057d7-5fd3-420a-bd80-f948dfb9c871",
     "name": "Game",
@@ -127,13 +134,6 @@ export const games = [
     "creatorId": "103685808013737152082",
     "creatorLastName": "Anderson",
     "createdAt": "12/12/2025, 20:57:10"
-  },
-  {
-    "id": "882fb7ef-6c28-455e-9d2b-4919698771a7",
-    "name": "2025 Handel's Prosper Holiday Party",
-    "creatorId": "109523234502447400765",
-    "creatorLastName": "Davis",
-    "createdAt": "12/12/2025, 20:52:28"
   },
   {
     "id": "7a476c55-72c4-4a0b-92f0-d4e3a34fbd82",
