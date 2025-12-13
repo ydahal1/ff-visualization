@@ -1,7 +1,14 @@
-// Generated on 12/13/2025, 10:45:02 (EST)
-// Total records: 1494
+// Generated on 12/13/2025, 11:00:02 (EST)
+// Total records: 1493
 
 export const games = [
+  {
+    "id": "4041e978-ff26-4575-b825-d07e9b2b50b3",
+    "name": "Game 1",
+    "creatorId": "114610910940030507980",
+    "creatorLastName": "Morehouse",
+    "createdAt": "12/13/2025, 10:53:14"
+  },
   {
     "id": "b7a4ef0f-7759-4d70-9d21-be0685b1db28",
     "name": "Rothenberger Christmas",
@@ -2682,20 +2689,6 @@ export const games = [
     "creatorId": "113828917915742969381",
     "creatorLastName": "Fehr",
     "createdAt": "12/06/2025, 16:28:03"
-  },
-  {
-    "id": "2a588c7f-ced5-4799-8956-e1acbbe0cae3",
-    "name": "MLT Christmas Game 2",
-    "creatorId": "110770625344178905338",
-    "creatorLastName": "Peeke",
-    "createdAt": "12/06/2025, 16:23:58"
-  },
-  {
-    "id": "f22eed5c-a823-4e6a-a045-1d35a1f416d6",
-    "name": "MLT Christmas Game 1",
-    "creatorId": "110770625344178905338",
-    "creatorLastName": "Peeke",
-    "createdAt": "12/06/2025, 16:20:32"
   },
   {
     "id": "c62151c0-f044-4f0f-8538-692f9a0406f6",
