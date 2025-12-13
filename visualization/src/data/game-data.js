@@ -1,7 +1,14 @@
-// Generated on 12/13/2025, 15:00:01 (EST)
-// Total records: 1510
+// Generated on 12/13/2025, 15:15:01 (EST)
+// Total records: 1511
 
 export const games = [
+  {
+    "id": "ed7627d8-62c8-4e8a-ae10-51f15f53e4b8",
+    "name": "game 3",
+    "creatorId": "114610910940030507980",
+    "creatorLastName": "Morehouse",
+    "createdAt": "12/13/2025, 15:02:52"
+  },
   {
     "id": "a2165694-49fe-4254-8b4c-5bb64a975933",
     "name": "does this work",
