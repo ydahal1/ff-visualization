@@ -1,7 +1,14 @@
-// Generated on 12/13/2025, 07:30:01 (EST)
-// Total records: 1490
+// Generated on 12/13/2025, 07:45:02 (EST)
+// Total records: 1491
 
 export const games = [
+  {
+    "id": "cc2057d7-5fd3-420a-bd80-f948dfb9c871",
+    "name": "Game",
+    "creatorId": "115361726724032063073",
+    "creatorLastName": "Sozalo",
+    "createdAt": "12/13/2025, 07:37:28"
+  },
   {
     "id": "7a06032c-86c2-4fec-920b-35dae606efb8",
     "name": "Christmas Party",
