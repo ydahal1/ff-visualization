@@ -1,7 +1,14 @@
-// Generated on 12/13/2025, 13:15:02 (EST)
-// Total records: 1502
+// Generated on 12/13/2025, 13:30:02 (EST)
+// Total records: 1503
 
 export const games = [
+  {
+    "id": "65250136-1267-4c50-8d29-8c42153d7e63",
+    "name": "Holgado Feud",
+    "creatorId": "113558972193593295265",
+    "creatorLastName": "Holgado",
+    "createdAt": "12/13/2025, 13:28:34"
+  },
   {
     "id": "d07d5658-4f3b-448c-b45f-933748d60e3e",
     "name": "Random Trivia!",
