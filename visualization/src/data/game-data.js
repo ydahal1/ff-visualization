@@ -1,7 +1,14 @@
-// Generated on 12/14/2025, 14:45:01 (EST)
-// Total records: 1568
+// Generated on 12/14/2025, 15:00:02 (EST)
+// Total records: 1569
 
 export const games = [
+  {
+    "id": "627eca72-cce9-42a8-a73c-9e88b3ff3990",
+    "name": "Christmas Game Night - Game 1",
+    "creatorId": "101778217818171875390",
+    "creatorLastName": "Harris",
+    "createdAt": "12/14/2025, 14:58:21"
+  },
   {
     "id": "957f9fcf-eaa7-4d18-8a47-6e1900b0a2bb",
     "name": "Christmas Feud - Game 4",
