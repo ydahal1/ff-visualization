@@ -1,7 +1,21 @@
-// Generated on 12/13/2025, 19:30:02 (EST)
-// Total records: 1523
+// Generated on 12/13/2025, 19:45:01 (EST)
+// Total records: 1525
 
 export const games = [
+  {
+    "id": "24ffa7cf-bf90-441c-bd0e-8b8a1902956d",
+    "name": "test game",
+    "creatorId": "103824623154995293580",
+    "creatorLastName": "Sys",
+    "createdAt": "12/13/2025, 19:36:29"
+  },
+  {
+    "id": "1e6b02ef-4775-4b01-a529-c8f055dda7c0",
+    "name": "Test 2",
+    "creatorId": "108059463553787450838",
+    "creatorLastName": "Kroger",
+    "createdAt": "12/13/2025, 19:35:14"
+  },
   {
     "id": "577abb43-1e4a-4079-91fb-4f9cf6663418",
     "name": "game 2",
