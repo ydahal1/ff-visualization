@@ -1,13 +1,20 @@
-// Generated on 12/14/2025, 10:15:01 (EST)
-// Total records: 1558
+// Generated on 12/14/2025, 10:30:01 (EST)
+// Total records: 1559
 
 export const games = [
   {
-    "id": "4d2f985f-1b27-43d1-8779-143ca518f0bb",
-    "name": "test",
+    "id": "c31400f3-0978-4e24-b8c2-614e1b94c799",
+    "name": "Cold Weather Camping Game 2",
     "creatorId": "113377653458324303546",
     "creatorLastName": "Ross",
-    "createdAt": "12/14/2025, 09:48:35"
+    "createdAt": "12/14/2025, 10:29:07"
+  },
+  {
+    "id": "5ad38fe3-9d8c-4458-a563-978f72a7c487",
+    "name": "Cold Weather Camping Game 1",
+    "creatorId": "113377653458324303546",
+    "creatorLastName": "Ross",
+    "createdAt": "12/14/2025, 10:25:24"
   },
   {
     "id": "54126e3d-6b00-415a-8b84-539d7fbb672c",
