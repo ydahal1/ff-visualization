@@ -1,7 +1,21 @@
-// Generated on 12/14/2025, 24:00:02 (EST)
-// Total records: 1539
+// Generated on 12/14/2025, 24:15:02 (EST)
+// Total records: 1541
 
 export const games = [
+  {
+    "id": "76fa03ad-29b7-4d5f-9499-19140fa68b85",
+    "name": "11th Grade Game 2",
+    "creatorId": "109816603100708013365",
+    "creatorLastName": "Gonzales",
+    "createdAt": "12/14/2025, 24:10:20"
+  },
+  {
+    "id": "b562fbdf-2d91-4e91-b29f-d77c489caa9f",
+    "name": "11th Grade Game 1",
+    "creatorId": "109816603100708013365",
+    "creatorLastName": "Gonzales",
+    "createdAt": "12/14/2025, 24:08:24"
+  },
   {
     "id": "b7740cb1-5ad2-45aa-8bf9-c27b41491ed2",
     "name": "1",
