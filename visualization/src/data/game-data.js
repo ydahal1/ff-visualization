@@ -1,7 +1,21 @@
-// Generated on 12/14/2025, 14:00:01 (EST)
+// Generated on 12/14/2025, 14:15:03 (EST)
 // Total records: 1567
 
 export const games = [
+  {
+    "id": "89b254c3-898b-4309-ae6c-e513443863d4",
+    "name": "Radiant Christmas Party",
+    "creatorId": "107419577245396437998",
+    "creatorLastName": "Man",
+    "createdAt": "12/14/2025, 14:11:24"
+  },
+  {
+    "id": "860bd5d6-2959-4c6c-a7c0-9de39f639667",
+    "name": "Christmas Feud - Game 2",
+    "creatorId": "106369510024346232906",
+    "creatorLastName": "Blaul",
+    "createdAt": "12/14/2025, 14:01:39"
+  },
   {
     "id": "1c5ff421-547f-43df-ab9e-a9986316e4b5",
     "name": "Christmas",
@@ -15,13 +29,6 @@ export const games = [
     "creatorId": "111750935565881183722",
     "creatorLastName": "Smith",
     "createdAt": "12/14/2025, 13:51:59"
-  },
-  {
-    "id": "6b122c9e-20cc-4da3-bebc-0bee031870cd",
-    "name": "KGW Robakowo",
-    "creatorId": "100485807540396284886",
-    "creatorLastName": "Horodecka",
-    "createdAt": "12/14/2025, 13:45:09"
   },
   {
     "id": "4568e602-17e7-4ff1-bdcd-6b228eaf956c",
@@ -1723,13 +1730,6 @@ export const games = [
     "creatorId": "114213311952180880752",
     "creatorLastName": "Deals Shop",
     "createdAt": "12/11/2025, 01:10:15"
-  },
-  {
-    "id": "170d26bb-6ae8-47c0-9e8c-09de20d869ea",
-    "name": "Test Game",
-    "creatorId": "107419577245396437998",
-    "creatorLastName": "Man",
-    "createdAt": "12/10/2025, 23:21:44"
   },
   {
     "id": "90018004-3d8b-41ca-95c0-7aa5f37481a8",
