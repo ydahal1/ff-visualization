@@ -1,7 +1,14 @@
-// Generated on 12/14/2025, 13:15:02 (EST)
-// Total records: 1563
+// Generated on 12/14/2025, 13:30:01 (EST)
+// Total records: 1564
 
 export const games = [
+  {
+    "id": "ecdfd900-2c95-4528-a15a-bcac15062866",
+    "name": "Test 1",
+    "creatorId": "100173875523629755982",
+    "creatorLastName": "Car",
+    "createdAt": "12/14/2025, 13:27:46"
+  },
   {
     "id": "f4d34c5c-e75d-48c4-b562-1482ef6c6632",
     "name": "Students",
