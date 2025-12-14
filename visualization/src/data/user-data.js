@@ -1,7 +1,12 @@
-// Generated on 12/14/2025, 16:45:00 (EST)
-// Total records: 1079
+// Generated on 12/14/2025, 17:00:00 (EST)
+// Total records: 1080
 
 export const users = [
+  {
+    "id": "103421937713602353760",
+    "lName": "Hinojosa",
+    "createdAt": "12/14/2025, 16:50:00"
+  },
   {
     "id": "108977806849924214605",
     "lName": "Way",
