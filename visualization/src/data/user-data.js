@@ -1,7 +1,17 @@
-// Generated on 12/14/2025, 13:15:00 (EST)
-// Total records: 1071
+// Generated on 12/14/2025, 13:30:00 (EST)
+// Total records: 1073
 
 export const users = [
+  {
+    "id": "100173875523629755982",
+    "lName": "Car",
+    "createdAt": "12/14/2025, 13:25:41"
+  },
+  {
+    "id": "111750935565881183722",
+    "lName": "Smith",
+    "createdAt": "12/14/2025, 13:21:01"
+  },
   {
     "id": "100485807540396284886",
     "lName": "Horodecka",
