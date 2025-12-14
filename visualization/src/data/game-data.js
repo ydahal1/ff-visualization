@@ -1,5 +1,5 @@
-// Generated on 12/14/2025, 03:45:02 (EST)
-// Total records: 1546
+// Generated on 12/14/2025, 04:00:02 (EST)
+// Total records: 1545
 
 export const games = [
   {
@@ -7519,13 +7519,6 @@ export const games = [
     "creatorId": "104550447787235690394",
     "creatorLastName": "Lising",
     "createdAt": "11/24/2025, 03:55:15"
-  },
-  {
-    "id": "f7cd8ee9-db3e-4562-ad91-ee792fb1598b",
-    "name": "MEN VS WOMEN",
-    "creatorId": "104550447787235690394",
-    "creatorLastName": "Lising",
-    "createdAt": "11/24/2025, 03:46:32"
   },
   {
     "id": "c8a70c33-a490-4106-bead-8b79b2523430",
