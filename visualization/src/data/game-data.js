@@ -1,7 +1,14 @@
-// Generated on 12/13/2025, 23:00:01 (EST)
-// Total records: 1536
+// Generated on 12/13/2025, 23:15:02 (EST)
+// Total records: 1537
 
 export const games = [
+  {
+    "id": "f8095e73-d05d-4e2b-8cc9-5b88a20b3b13",
+    "name": "Game 3",
+    "creatorId": "105176125597894151625",
+    "creatorLastName": "LeFebvre",
+    "createdAt": "12/13/2025, 23:12:54"
+  },
   {
     "id": "a56cb696-896a-4c1c-b1a8-28332b1ef1d2",
     "name": "Elf Olympics",
