@@ -1,13 +1,27 @@
-// Generated on 12/14/2025, 01:30:02 (EST)
-// Total records: 1543
+// Generated on 12/14/2025, 01:45:02 (EST)
+// Total records: 1545
 
 export const games = [
   {
-    "id": "70d241ab-21be-4b08-9352-4292ba2de71f",
-    "name": "BIOZ Chanukah Family Feud",
+    "id": "06da6dc1-93a2-49e6-a951-7660f0418dec",
+    "name": "test",
     "creatorId": "117760078275103564621",
     "creatorLastName": "Beniflah",
-    "createdAt": "12/14/2025, 01:19:36"
+    "createdAt": "12/14/2025, 01:42:43"
+  },
+  {
+    "id": "7c6ef63a-79c2-402a-8dc4-48e32ec9fd24",
+    "name": "Feud 3",
+    "creatorId": "117217169988897582224",
+    "creatorLastName": "cota",
+    "createdAt": "12/14/2025, 01:39:24"
+  },
+  {
+    "id": "64cc32f2-cb0d-4e92-aa9e-f80f5207f8c4",
+    "name": "Feud 2",
+    "creatorId": "117217169988897582224",
+    "creatorLastName": "cota",
+    "createdAt": "12/14/2025, 01:32:39"
   },
   {
     "id": "f32fe605-295b-4694-89a1-eb546201803b",
