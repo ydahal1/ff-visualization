@@ -1,7 +1,14 @@
-// Generated on 12/14/2025, 01:15:01 (EST)
-// Total records: 1542
+// Generated on 12/14/2025, 01:30:02 (EST)
+// Total records: 1543
 
 export const games = [
+  {
+    "id": "70d241ab-21be-4b08-9352-4292ba2de71f",
+    "name": "BIOZ Chanukah Family Feud",
+    "creatorId": "117760078275103564621",
+    "creatorLastName": "Beniflah",
+    "createdAt": "12/14/2025, 01:19:36"
+  },
   {
     "id": "f32fe605-295b-4694-89a1-eb546201803b",
     "name": "Sleepover1",
