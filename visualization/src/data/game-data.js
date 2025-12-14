@@ -1,7 +1,21 @@
-// Generated on 12/13/2025, 23:15:02 (EST)
-// Total records: 1537
+// Generated on 12/13/2025, 23:30:02 (EST)
+// Total records: 1539
 
 export const games = [
+  {
+    "id": "b7740cb1-5ad2-45aa-8bf9-c27b41491ed2",
+    "name": "1",
+    "creatorId": "115361726724032063073",
+    "creatorLastName": "Sozalo",
+    "createdAt": "12/13/2025, 23:22:22"
+  },
+  {
+    "id": "0e5084e7-c330-4254-abe7-080f6ef4783e",
+    "name": "Family Feud",
+    "creatorId": "103894625949105735327",
+    "creatorLastName": "Chatfield",
+    "createdAt": "12/13/2025, 23:19:37"
+  },
   {
     "id": "f8095e73-d05d-4e2b-8cc9-5b88a20b3b13",
     "name": "Game 3",
