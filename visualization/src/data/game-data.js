@@ -1,7 +1,14 @@
-// Generated on 12/14/2025, 14:15:03 (EST)
-// Total records: 1567
+// Generated on 12/14/2025, 14:30:01 (EST)
+// Total records: 1568
 
 export const games = [
+  {
+    "id": "957f9fcf-eaa7-4d18-8a47-6e1900b0a2bb",
+    "name": "Christmas Feud - Game 4",
+    "creatorId": "106369510024346232906",
+    "creatorLastName": "Blaul",
+    "createdAt": "12/14/2025, 14:29:56"
+  },
   {
     "id": "89b254c3-898b-4309-ae6c-e513443863d4",
     "name": "Radiant Christmas Party",
