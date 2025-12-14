@@ -1,7 +1,14 @@
-// Generated on 12/13/2025, 22:30:02 (EST)
-// Total records: 1534
+// Generated on 12/13/2025, 22:45:02 (EST)
+// Total records: 1535
 
 export const games = [
+  {
+    "id": "ce44dc69-d8d2-40cc-8244-0cc1c55295ba",
+    "name": "CHRISTMAS PARTY ZION",
+    "creatorId": "107295843642694270379",
+    "creatorLastName": "Zion",
+    "createdAt": "12/13/2025, 22:33:06"
+  },
   {
     "id": "728f66d7-15a0-4e5d-95a2-0e0bce4e814c",
     "name": "Game 2",
