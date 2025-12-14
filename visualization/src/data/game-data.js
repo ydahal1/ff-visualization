@@ -1,7 +1,14 @@
-// Generated on 12/14/2025, 17:30:02 (EST)
-// Total records: 1576
+// Generated on 12/14/2025, 17:45:01 (EST)
+// Total records: 1577
 
 export const games = [
+  {
+    "id": "87477c1e-fc38-4745-8e64-0a26251859e4",
+    "name": "All About Yaya!",
+    "creatorId": "103421937713602353760",
+    "creatorLastName": "Hinojosa",
+    "createdAt": "12/14/2025, 17:33:49"
+  },
   {
     "id": "e9bf1e19-8fd8-4835-8cc7-16731df7871c",
     "name": "Oh Brother",
