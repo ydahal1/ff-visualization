@@ -1,7 +1,14 @@
-// Generated on 12/13/2025, 22:45:02 (EST)
-// Total records: 1535
+// Generated on 12/13/2025, 23:00:01 (EST)
+// Total records: 1536
 
 export const games = [
+  {
+    "id": "a56cb696-896a-4c1c-b1a8-28332b1ef1d2",
+    "name": "Elf Olympics",
+    "creatorId": "110959718067925885691",
+    "creatorLastName": "Graham",
+    "createdAt": "12/13/2025, 22:56:20"
+  },
   {
     "id": "ce44dc69-d8d2-40cc-8244-0cc1c55295ba",
     "name": "CHRISTMAS PARTY ZION",
