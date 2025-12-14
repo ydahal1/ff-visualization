@@ -1,7 +1,42 @@
-// Generated on 12/14/2025, 04:15:02 (EST)
-// Total records: 1545
+// Generated on 12/14/2025, 04:30:02 (EST)
+// Total records: 1550
 
 export const games = [
+  {
+    "id": "592e1dff-a855-4295-af4a-88ba675e7225",
+    "name": "Youth VS YAG",
+    "creatorId": "104550447787235690394",
+    "creatorLastName": "Lising",
+    "createdAt": "12/14/2025, 04:20:51"
+  },
+  {
+    "id": "47b58f09-4e33-4e56-b3bd-243ad1138e2d",
+    "name": "Men VS Women",
+    "creatorId": "104550447787235690394",
+    "creatorLastName": "Lising",
+    "createdAt": "12/14/2025, 04:19:43"
+  },
+  {
+    "id": "6587101e-30fc-4772-8d17-8b4c926d6136",
+    "name": "Game 3 - Cicit",
+    "creatorId": "108621676884758255915",
+    "creatorLastName": "halim",
+    "createdAt": "12/14/2025, 04:19:00"
+  },
+  {
+    "id": "93f4a1b4-6226-4898-bd05-a023a9d5f45f",
+    "name": "Game 2 - Menantu Popo",
+    "creatorId": "108621676884758255915",
+    "creatorLastName": "halim",
+    "createdAt": "12/14/2025, 04:17:44"
+  },
+  {
+    "id": "725a3547-6375-433f-8a39-4d6ff8cb149a",
+    "name": "Game 1 - Anak Popo",
+    "creatorId": "108621676884758255915",
+    "creatorLastName": "halim",
+    "createdAt": "12/14/2025, 04:15:30"
+  },
   {
     "id": "a97040f7-b5f1-44fc-9e8a-04d82fafe071",
     "name": "overtime",
