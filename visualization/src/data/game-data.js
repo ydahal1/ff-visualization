@@ -1,7 +1,14 @@
-// Generated on 12/15/2025, 04:30:01 (EST)
-// Total records: 1612
+// Generated on 12/15/2025, 04:45:02 (EST)
+// Total records: 1613
 
 export const games = [
+  {
+    "id": "1eaa36df-6dc8-4084-aebb-5a144744511d",
+    "name": "Markit Test",
+    "creatorId": "109612120469406027670",
+    "creatorLastName": "Aus",
+    "createdAt": "12/15/2025, 04:34:37"
+  },
   {
     "id": "0d9b9305-88df-4a26-93db-c3f5aacc77ec",
     "name": "Test",
