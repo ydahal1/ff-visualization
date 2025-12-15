@@ -1,7 +1,28 @@
-// Generated on 12/15/2025, 12:00:02 (EST)
-// Total records: 1632
+// Generated on 12/15/2025, 12:15:01 (EST)
+// Total records: 1635
 
 export const games = [
+  {
+    "id": "77b487a4-56c9-49d8-b8d3-bdaa004dd2d2",
+    "name": "Practice",
+    "creatorId": "101606672515225522098",
+    "creatorLastName": "White",
+    "createdAt": "12/15/2025, 12:08:48"
+  },
+  {
+    "id": "c7804ea1-6a57-4397-a104-5b2b18937570",
+    "name": "RENCAP GAME 2",
+    "creatorId": "116036129940070560410",
+    "creatorLastName": "Berendsohn",
+    "createdAt": "12/15/2025, 12:05:38"
+  },
+  {
+    "id": "71578173-5d4e-46b8-99d5-1802f9f3f4e5",
+    "name": "RENCAP GAME 1",
+    "creatorId": "116036129940070560410",
+    "creatorLastName": "Berendsohn",
+    "createdAt": "12/15/2025, 12:02:39"
+  },
   {
     "id": "0d6eefcc-6697-47c7-9117-9d2ed6eef472",
     "name": "Championship Round",
