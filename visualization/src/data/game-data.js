@@ -1,7 +1,21 @@
-// Generated on 12/15/2025, 04:45:02 (EST)
-// Total records: 1613
+// Generated on 12/15/2025, 05:00:01 (EST)
+// Total records: 1615
 
 export const games = [
+  {
+    "id": "60f586f8-bb15-455f-9bba-f5245b5cf0d8",
+    "name": "XMAS PARTY",
+    "creatorId": "111026955624082447827",
+    "creatorLastName": "Cabangan",
+    "createdAt": "12/15/2025, 04:56:50"
+  },
+  {
+    "id": "5925efa9-d1cb-46a2-9885-382ecd4e3157",
+    "name": "Test II",
+    "creatorId": "109612120469406027670",
+    "creatorLastName": "Aus",
+    "createdAt": "12/15/2025, 04:49:48"
+  },
   {
     "id": "1eaa36df-6dc8-4084-aebb-5a144744511d",
     "name": "Markit Test",
