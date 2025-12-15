@@ -1,7 +1,21 @@
-// Generated on 12/15/2025, 10:45:02 (EST)
-// Total records: 1626
+// Generated on 12/15/2025, 11:00:02 (EST)
+// Total records: 1628
 
 export const games = [
+  {
+    "id": "be2f4b98-0a68-4d58-a2c7-451f4e610b80",
+    "name": "FF",
+    "creatorId": "103123141543938021617",
+    "creatorLastName": "Marsh",
+    "createdAt": "12/15/2025, 10:59:53"
+  },
+  {
+    "id": "492b5a2b-6a1e-4126-be35-624e6d687bf2",
+    "name": "Party 1",
+    "creatorId": "112398310189556699430",
+    "creatorLastName": "Mulay",
+    "createdAt": "12/15/2025, 10:54:31"
+  },
   {
     "id": "34a99534-1ca7-405a-88a1-3de45fb9b30d",
     "name": "3rd Block",
