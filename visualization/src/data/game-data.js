@@ -1,7 +1,21 @@
-// Generated on 12/14/2025, 21:30:02 (EST)
-// Total records: 1595
+// Generated on 12/14/2025, 21:45:02 (EST)
+// Total records: 1597
 
 export const games = [
+  {
+    "id": "834abca0-0253-4552-8dc9-d0fd978eff2c",
+    "name": "Game 2!!!",
+    "creatorId": "102564084106844905710",
+    "creatorLastName": "Holloway",
+    "createdAt": "12/14/2025, 21:44:18"
+  },
+  {
+    "id": "31469524-eb51-46e4-bb5c-c53fbc1ce404",
+    "name": "Game 1!",
+    "creatorId": "102564084106844905710",
+    "creatorLastName": "Holloway",
+    "createdAt": "12/14/2025, 21:43:36"
+  },
   {
     "id": "af63f321-becc-4f6e-8977-caa3c43c7a02",
     "name": "TLE FEUD",
