@@ -1,7 +1,21 @@
-// Generated on 12/14/2025, 22:15:02 (EST)
-// Total records: 1602
+// Generated on 12/14/2025, 22:30:02 (EST)
+// Total records: 1604
 
 export const games = [
+  {
+    "id": "3473a03d-ab29-45ed-8bf3-6bcbd3d72d30",
+    "name": "Girls Night",
+    "creatorId": "113701342637208069669",
+    "creatorLastName": "Fairbourn",
+    "createdAt": "12/14/2025, 22:17:12"
+  },
+  {
+    "id": "723e7801-dc11-42a2-8da6-c6705395aaaf",
+    "name": "Girls Night Test",
+    "creatorId": "113701342637208069669",
+    "creatorLastName": "Fairbourn",
+    "createdAt": "12/14/2025, 22:17:12"
+  },
   {
     "id": "a37bf9cc-ab8f-4d56-81e7-111345c64a64",
     "name": "Tiebreaker Family Feud",
