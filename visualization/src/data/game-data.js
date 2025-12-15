@@ -1,7 +1,14 @@
-// Generated on 12/15/2025, 08:45:02 (EST)
-// Total records: 1619
+// Generated on 12/15/2025, 09:00:02 (EST)
+// Total records: 1620
 
 export const games = [
+  {
+    "id": "3cd829b6-4a5c-4c3c-bcea-b68c47b12b38",
+    "name": "Scopies Family Feud",
+    "creatorId": "109217299926481883339",
+    "creatorLastName": "Marsh",
+    "createdAt": "12/15/2025, 08:59:08"
+  },
   {
     "id": "481a2b55-5290-4e73-9206-5b86cd74d60e",
     "name": "1",
