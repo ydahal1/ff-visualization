@@ -1,7 +1,14 @@
-// Generated on 12/15/2025, 12:15:01 (EST)
-// Total records: 1635
+// Generated on 12/15/2025, 12:30:01 (EST)
+// Total records: 1636
 
 export const games = [
+  {
+    "id": "4c1d336b-7de0-4959-9f46-04be188d6f8d",
+    "name": "ELA Elements",
+    "creatorId": "101606672515225522098",
+    "creatorLastName": "White",
+    "createdAt": "12/15/2025, 12:21:35"
+  },
   {
     "id": "77b487a4-56c9-49d8-b8d3-bdaa004dd2d2",
     "name": "Practice",
