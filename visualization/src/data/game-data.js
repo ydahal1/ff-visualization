@@ -1,7 +1,14 @@
-// Generated on 12/14/2025, 23:15:01 (EST)
-// Total records: 1605
+// Generated on 12/14/2025, 23:30:02 (EST)
+// Total records: 1606
 
 export const games = [
+  {
+    "id": "5bc79f17-ebf7-4beb-9232-d9f715ffc0da",
+    "name": "TROLLS FEUD",
+    "creatorId": "101708136837818638723",
+    "creatorLastName": "Spilotras",
+    "createdAt": "12/14/2025, 23:27:57"
+  },
   {
     "id": "863baa69-b9c1-421d-adbb-a8007ba19375",
     "name": "Christmas",
