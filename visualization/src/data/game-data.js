@@ -1,7 +1,14 @@
-// Generated on 12/15/2025, 07:15:02 (EST)
-// Total records: 1617
+// Generated on 12/15/2025, 07:30:03 (EST)
+// Total records: 1618
 
 export const games = [
+  {
+    "id": "11d256b1-5560-4e0e-b9aa-09ad0b416606",
+    "name": "SUPERMART",
+    "creatorId": "105110114802480443310",
+    "creatorLastName": "Balbuena",
+    "createdAt": "12/15/2025, 07:17:42"
+  },
   {
     "id": "5a7bb686-8f26-483a-bdc3-45569b49a190",
     "name": "HA",
