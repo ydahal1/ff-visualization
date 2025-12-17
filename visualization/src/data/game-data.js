@@ -1,7 +1,28 @@
-// Generated on 12/17/2025, 16:45:02 (EST)
-// Total records: 1714
+// Generated on 12/17/2025, 17:00:02 (EST)
+// Total records: 1715
 
 export const games = [
+  {
+    "id": "4bc5142b-d73e-4ee2-9252-2262cb149afe",
+    "name": "Avid Feud",
+    "creatorId": "111301094356848405599",
+    "creatorLastName": "Kolt",
+    "createdAt": "12/17/2025, 16:59:11"
+  },
+  {
+    "id": "368db3a7-329d-4a6f-9035-4842f3e42c6a",
+    "name": "The Caring Society Quiz 2",
+    "creatorId": "101476900275862451899",
+    "creatorLastName": "Central Peel SS",
+    "createdAt": "12/17/2025, 16:52:17"
+  },
+  {
+    "id": "d585e20e-0df1-4033-a968-22f0e72cdb69",
+    "name": "avid fued!!!",
+    "creatorId": "111301094356848405599",
+    "creatorLastName": "Kolt",
+    "createdAt": "12/17/2025, 16:48:06"
+  },
   {
     "id": "222db20a-3284-4b7e-8a17-93538c95a4c9",
     "name": "The Caring Society Quiz 1",
@@ -29,13 +50,6 @@ export const games = [
     "creatorId": "100244382894590456422",
     "creatorLastName": "DeMeester",
     "createdAt": "12/17/2025, 15:38:57"
-  },
-  {
-    "id": "c4b1010d-3609-4815-a3bb-e2b3f3d911cf",
-    "name": "Caring",
-    "creatorId": "101476900275862451899",
-    "creatorLastName": "Central Peel SS",
-    "createdAt": "12/17/2025, 15:22:43"
   },
   {
     "id": "b0529475-3294-43a8-a37e-218d1d312461",
@@ -4180,13 +4194,6 @@ export const games = [
     "creatorId": "102282321919704002085",
     "creatorLastName": "Lynxa",
     "createdAt": "12/06/2025, 21:29:10"
-  },
-  {
-    "id": "e7faf9b7-4b9b-4a89-b055-6dd9b3176734",
-    "name": "Avid Fued",
-    "creatorId": "111301094356848405599",
-    "creatorLastName": "Kolt",
-    "createdAt": "12/06/2025, 21:22:03"
   },
   {
     "id": "becf2251-390a-4240-87f3-4fcbf9073915",
