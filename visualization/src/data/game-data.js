@@ -1,7 +1,21 @@
-// Generated on 12/16/2025, 21:00:02 (EST)
-// Total records: 1644
+// Generated on 12/16/2025, 21:15:02 (EST)
+// Total records: 1646
 
 export const games = [
+  {
+    "id": "b19ea367-6c52-4a72-ba3e-91e45a03d539",
+    "name": "Christmas Feud Round 1",
+    "creatorId": "114999691457776756743",
+    "creatorLastName": "Bethly",
+    "createdAt": "12/16/2025, 21:06:40"
+  },
+  {
+    "id": "5bf56e60-203f-4b4b-80e8-2a2f07d74825",
+    "name": "FINAL ROUND",
+    "creatorId": "110377159320098245451",
+    "creatorLastName": "Pennington",
+    "createdAt": "12/16/2025, 21:04:33"
+  },
   {
     "id": "cc49dece-d427-4632-9a9d-c8ba57cab418",
     "name": "family feud",
