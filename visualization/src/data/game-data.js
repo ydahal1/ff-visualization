@@ -1,7 +1,28 @@
-// Generated on 12/17/2025, 07:45:02 (EST)
-// Total records: 1659
+// Generated on 12/17/2025, 08:00:02 (EST)
+// Total records: 1658
 
 export const games = [
+  {
+    "id": "a088224a-662b-4c03-9ae9-851f34b1c855",
+    "name": "Test 2 Sting",
+    "creatorId": "109612120469406027670",
+    "creatorLastName": "Aus",
+    "createdAt": "12/17/2025, 07:59:43"
+  },
+  {
+    "id": "3340e36e-ddcd-4acd-b147-895396d6431d",
+    "name": "Round One",
+    "creatorId": "112398310189556699430",
+    "creatorLastName": "Mulay",
+    "createdAt": "12/17/2025, 07:57:58"
+  },
+  {
+    "id": "c83228ae-ece2-4b18-a6e2-e51ea08c5c16",
+    "name": "Game 1",
+    "creatorId": "110897367223449449452",
+    "creatorLastName": "Payne",
+    "createdAt": "12/17/2025, 07:48:21"
+  },
   {
     "id": "5d75d058-4d4e-4098-ba48-7b7c09719d4b",
     "name": "777",
@@ -206,32 +227,11 @@ export const games = [
     "createdAt": "12/15/2025, 11:46:03"
   },
   {
-    "id": "38b7f182-0167-4cde-bddf-82fb329019f0",
-    "name": "1",
-    "creatorId": "112398310189556699430",
-    "creatorLastName": "Mulay",
-    "createdAt": "12/15/2025, 11:05:05"
-  },
-  {
-    "id": "78bd4a12-b9b8-4d6f-a62e-f0321ce09b15",
-    "name": "first round",
-    "creatorId": "112398310189556699430",
-    "creatorLastName": "Mulay",
-    "createdAt": "12/15/2025, 11:03:45"
-  },
-  {
     "id": "be2f4b98-0a68-4d58-a2c7-451f4e610b80",
     "name": "FF",
     "creatorId": "103123141543938021617",
     "creatorLastName": "Marsh",
     "createdAt": "12/15/2025, 10:59:53"
-  },
-  {
-    "id": "492b5a2b-6a1e-4126-be35-624e6d687bf2",
-    "name": "Party 1",
-    "creatorId": "112398310189556699430",
-    "creatorLastName": "Mulay",
-    "createdAt": "12/15/2025, 10:54:31"
   },
   {
     "id": "34a99534-1ca7-405a-88a1-3de45fb9b30d",
@@ -246,13 +246,6 @@ export const games = [
     "creatorId": "106095687840060109331",
     "creatorLastName": "Caldwell",
     "createdAt": "12/15/2025, 10:11:52"
-  },
-  {
-    "id": "d08efd6f-04ca-42f7-89a4-549796428433",
-    "name": "Party",
-    "creatorId": "112398310189556699430",
-    "creatorLastName": "Mulay",
-    "createdAt": "12/15/2025, 10:06:42"
   },
   {
     "id": "f209187a-1da9-449a-8360-07adc9828451",
