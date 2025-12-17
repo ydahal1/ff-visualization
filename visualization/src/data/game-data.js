@@ -1,7 +1,14 @@
-// Generated on 12/17/2025, 08:30:01 (EST)
-// Total records: 1659
+// Generated on 12/17/2025, 08:45:02 (EST)
+// Total records: 1660
 
 export const games = [
+  {
+    "id": "7226028c-9c34-49fa-b989-1ad0771dfead",
+    "name": "Facilities Feud",
+    "creatorId": "108674121843155627051",
+    "creatorLastName": "L",
+    "createdAt": "12/17/2025, 08:35:03"
+  },
   {
     "id": "241478b9-9e2b-4234-86e6-04069b64e6b5",
     "name": "Ocean Compass Blue Economy 3",
