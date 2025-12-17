@@ -1,7 +1,35 @@
-// Generated on 12/17/2025, 02:15:02 (EST)
-// Total records: 1654
+// Generated on 12/17/2025, 02:30:02 (EST)
+// Total records: 1658
 
 export const games = [
+  {
+    "id": "b0228f34-9e99-45b1-8d14-d242a594e25b",
+    "name": "NY Team Round 3",
+    "creatorId": "109587949753943729390",
+    "creatorLastName": "Mitchell",
+    "createdAt": "12/17/2025, 02:27:06"
+  },
+  {
+    "id": "23c76c94-6523-4182-8166-2abb78cf90c8",
+    "name": "NY Team Round 2",
+    "creatorId": "109587949753943729390",
+    "creatorLastName": "Mitchell",
+    "createdAt": "12/17/2025, 02:24:16"
+  },
+  {
+    "id": "926b053b-d282-45c5-84e7-868012dbaf4c",
+    "name": "NY Team Round 1",
+    "creatorId": "109587949753943729390",
+    "creatorLastName": "Mitchell",
+    "createdAt": "12/17/2025, 02:23:25"
+  },
+  {
+    "id": "c737cdc1-b6c4-4d96-b123-4e3cd67ea9da",
+    "name": "lIT",
+    "creatorId": "104926745816274420538",
+    "creatorLastName": "Azody",
+    "createdAt": "12/17/2025, 02:16:06"
+  },
   {
     "id": "3d55d54f-f864-42c1-b633-d06a440fd102",
     "name": "game 7",
