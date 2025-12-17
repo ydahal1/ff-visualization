@@ -1,7 +1,14 @@
-// Generated on 12/17/2025, 18:30:02 (EST)
-// Total records: 1721
+// Generated on 12/17/2025, 18:45:02 (EST)
+// Total records: 1722
 
 export const games = [
+  {
+    "id": "dd1cf47c-9f34-4afa-bf02-39fd2d1cfc8b",
+    "name": "Bluetopia Feud",
+    "creatorId": "117025730047638763979",
+    "creatorLastName": "Rodriguez",
+    "createdAt": "12/17/2025, 18:33:31"
+  },
   {
     "id": "bbf40306-3089-4895-8b2f-94fc7a8a7a83",
     "name": "Drymedic Feud",
