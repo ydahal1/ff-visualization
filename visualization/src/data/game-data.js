@@ -1,13 +1,13 @@
-// Generated on 12/17/2025, 11:00:02 (EST)
+// Generated on 12/17/2025, 11:15:02 (EST)
 // Total records: 1677
 
 export const games = [
   {
-    "id": "1afdd355-5336-4b39-ae48-96e0e50ccd49",
-    "name": "Test",
-    "creatorId": "101564244417989856138",
-    "creatorLastName": "Sale",
-    "createdAt": "12/17/2025, 10:59:48"
+    "id": "61e70469-72de-4d1a-9089-3646880f8fe3",
+    "name": "January 9th 2026 meeting",
+    "creatorId": "117863627053721582395",
+    "creatorLastName": "Johnson",
+    "createdAt": "12/17/2025, 11:14:07"
   },
   {
     "id": "507aa028-16e1-41ef-a78a-ef08394845e9",
