@@ -1,5 +1,5 @@
-// Generated on 12/17/2025, 02:00:01 (EST)
-// Total records: 1655
+// Generated on 12/17/2025, 02:15:02 (EST)
+// Total records: 1654
 
 export const games = [
   {
@@ -8,13 +8,6 @@ export const games = [
     "creatorId": "105972556289124640687",
     "creatorLastName": "Miller",
     "createdAt": "12/17/2025, 01:40:49"
-  },
-  {
-    "id": "88a47168-8143-49ee-be7a-ad24db89be9c",
-    "name": "HEINEKEN NY",
-    "creatorId": "109587949753943729390",
-    "creatorLastName": "Mitchell",
-    "createdAt": "12/17/2025, 01:39:47"
   },
   {
     "id": "1bb29d2c-31cb-498e-88a7-f5cb9d2e84ee",
