@@ -1,7 +1,21 @@
-// Generated on 12/17/2025, 10:15:01 (EST)
-// Total records: 1674
+// Generated on 12/17/2025, 10:30:01 (EST)
+// Total records: 1675
 
 export const games = [
+  {
+    "id": "797e1b59-50e0-42e0-8621-98986cec1728",
+    "name": "MSD-OPC Feud!",
+    "creatorId": "101564244417989856138",
+    "creatorLastName": "Sale",
+    "createdAt": "12/17/2025, 10:28:39"
+  },
+  {
+    "id": "01b8c1d0-01c3-47c2-be0c-62a8245a416a",
+    "name": "MSD-OPC Feud",
+    "creatorId": "101564244417989856138",
+    "creatorLastName": "Sale",
+    "createdAt": "12/17/2025, 10:27:19"
+  },
   {
     "id": "e8d1a2f4-d4cb-4f41-832e-efacd26f5975",
     "name": "Game 2",
@@ -15,13 +29,6 @@ export const games = [
     "creatorId": "113696726079251388835",
     "creatorLastName": "Diouf",
     "createdAt": "12/17/2025, 10:13:07"
-  },
-  {
-    "id": "53f1602d-8464-4b96-b869-42df47ba0ef7",
-    "name": "MSD-OPC Feud",
-    "creatorId": "101564244417989856138",
-    "creatorLastName": "Sale",
-    "createdAt": "12/17/2025, 10:12:00"
   },
   {
     "id": "486bd558-f1f7-4180-9dd5-6ceeae5596e6",
