@@ -1,13 +1,13 @@
-// Generated on 12/16/2025, 22:30:01 (EST)
+// Generated on 12/16/2025, 22:45:01 (EST)
 // Total records: 1647
 
 export const games = [
   {
-    "id": "90d6ec53-b908-496b-b493-108fa01da0f3",
-    "name": "Game 1",
-    "creatorId": "110897367223449449452",
-    "creatorLastName": "Payne",
-    "createdAt": "12/16/2025, 21:57:17"
+    "id": "c64eb8ee-a99f-4d46-ae5d-c6142ee2ca47",
+    "name": "Game",
+    "creatorId": "110334986163880012324",
+    "creatorLastName": "J",
+    "createdAt": "12/16/2025, 22:42:31"
   },
   {
     "id": "b19ea367-6c52-4a72-ba3e-91e45a03d539",
