@@ -1,7 +1,14 @@
-// Generated on 12/17/2025, 08:15:01 (EST)
-// Total records: 1661
+// Generated on 12/17/2025, 08:30:01 (EST)
+// Total records: 1659
 
 export const games = [
+  {
+    "id": "241478b9-9e2b-4234-86e6-04069b64e6b5",
+    "name": "Ocean Compass Blue Economy 3",
+    "creatorId": "105032441829031337867",
+    "creatorLastName": "Moreno",
+    "createdAt": "12/17/2025, 08:28:30"
+  },
   {
     "id": "f8fc1398-5e9a-4fb9-8573-06c7a166b586",
     "name": "Family Christmas",
@@ -267,13 +274,6 @@ export const games = [
     "creatorId": "106095687840060109331",
     "creatorLastName": "Caldwell",
     "createdAt": "12/15/2025, 10:11:52"
-  },
-  {
-    "id": "f209187a-1da9-449a-8360-07adc9828451",
-    "name": "Ocean Compass Blue Economy 2",
-    "creatorId": "105032441829031337867",
-    "creatorLastName": "Moreno",
-    "createdAt": "12/15/2025, 10:04:34"
   },
   {
     "id": "22d83ac5-ca3e-4b8d-b726-2730a94802e8",
@@ -2264,13 +2264,6 @@ export const games = [
     "createdAt": "12/11/2025, 11:07:32"
   },
   {
-    "id": "6d053aa8-f54c-48ef-a4ef-ba961a776e3f",
-    "name": "Ocean Compass Blue Economy",
-    "creatorId": "105032441829031337867",
-    "creatorLastName": "Moreno",
-    "createdAt": "12/11/2025, 10:40:16"
-  },
-  {
     "id": "542b7d6f-0475-4a45-b815-74d3e1953196",
     "name": "Round 6",
     "creatorId": "113188817440659281444",
@@ -2857,13 +2850,6 @@ export const games = [
     "creatorId": "108674121843155627051",
     "creatorLastName": "L",
     "createdAt": "12/09/2025, 13:58:22"
-  },
-  {
-    "id": "e6b500e8-2409-4beb-a095-4f1d5a6bc5b9",
-    "name": "Christmas Round 3",
-    "creatorId": "108674121843155627051",
-    "creatorLastName": "L",
-    "createdAt": "12/09/2025, 13:55:30"
   },
   {
     "id": "0e545461-d043-4ba4-aff8-f9a93a575729",
