@@ -1,7 +1,14 @@
-// Generated on 12/16/2025, 22:45:01 (EST)
-// Total records: 1647
+// Generated on 12/16/2025, 23:00:01 (EST)
+// Total records: 1648
 
 export const games = [
+  {
+    "id": "713b120b-287c-4373-8284-375b2edc9f96",
+    "name": "Holiday Celebration",
+    "creatorId": "106169579284137860028",
+    "creatorLastName": "Palmeri",
+    "createdAt": "12/16/2025, 22:45:29"
+  },
   {
     "id": "c64eb8ee-a99f-4d46-ae5d-c6142ee2ca47",
     "name": "Game",
