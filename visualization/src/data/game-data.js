@@ -1,7 +1,28 @@
-// Generated on 12/17/2025, 09:00:03 (EST)
-// Total records: 1666
+// Generated on 12/17/2025, 09:15:02 (EST)
+// Total records: 1669
 
 export const games = [
+  {
+    "id": "355abd0a-36f4-487b-b2ff-4785dd19cb47",
+    "name": "WANADA Holiday Party 12",
+    "creatorId": "104249542126310816013",
+    "creatorLastName": "Holmes",
+    "createdAt": "12/17/2025, 09:12:18"
+  },
+  {
+    "id": "0c4621fd-8228-47ab-93be-dc2f6d0df3b9",
+    "name": "midterm practice",
+    "creatorId": "100791562029364602037",
+    "creatorLastName": "Meyerl",
+    "createdAt": "12/17/2025, 09:09:59"
+  },
+  {
+    "id": "6fdff355-499b-46dd-9c53-1af201ba094c",
+    "name": "WANADA Holiday Party 11",
+    "creatorId": "104249542126310816013",
+    "creatorLastName": "Holmes",
+    "createdAt": "12/17/2025, 09:05:33"
+  },
   {
     "id": "3509b88b-0ba4-4139-a2ce-cb5fa69fc8ca",
     "name": "WANADA Holiday Party 10",
