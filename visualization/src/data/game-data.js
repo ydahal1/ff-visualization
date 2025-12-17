@@ -1,7 +1,21 @@
-// Generated on 12/17/2025, 14:00:02 (EST)
-// Total records: 1692
+// Generated on 12/17/2025, 14:15:02 (EST)
+// Total records: 1694
 
 export const games = [
+  {
+    "id": "a5b17db7-fb6b-48ef-9a47-af6b45bc11c6",
+    "name": "aaa",
+    "creatorId": "105436942617795490838",
+    "creatorLastName": "Samotyj",
+    "createdAt": "12/17/2025, 14:10:04"
+  },
+  {
+    "id": "2fb0d742-9f2e-48b8-8831-2dc49e26862a",
+    "name": "Semi Final 2",
+    "creatorId": "112398310189556699430",
+    "creatorLastName": "Mulay",
+    "createdAt": "12/17/2025, 14:07:49"
+  },
   {
     "id": "3e1ae4de-3211-47d5-bf2a-7fe9cd16b01d",
     "name": "Semi Final 1",
