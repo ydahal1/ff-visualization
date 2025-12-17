@@ -1,7 +1,14 @@
-// Generated on 12/17/2025, 09:45:02 (EST)
-// Total records: 1671
+// Generated on 12/17/2025, 10:00:02 (EST)
+// Total records: 1672
 
 export const games = [
+  {
+    "id": "5ace1217-6c8f-4257-99f5-7c15d93ba123",
+    "name": "Christmas Part 2",
+    "creatorId": "118060541278060818456",
+    "creatorLastName": "Hill",
+    "createdAt": "12/17/2025, 09:52:52"
+  },
   {
     "id": "71be6be7-4c04-4206-af22-8028010b358e",
     "name": "Christmas Part 1",
