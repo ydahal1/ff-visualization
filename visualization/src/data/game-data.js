@@ -1,5 +1,5 @@
-// Generated on 12/17/2025, 12:45:01 (EST)
-// Total records: 1693
+// Generated on 12/17/2025, 13:00:02 (EST)
+// Total records: 1690
 
 export const games = [
   {
@@ -575,20 +575,6 @@ export const games = [
     "creatorId": "111026955624082447827",
     "creatorLastName": "Cabangan",
     "createdAt": "12/15/2025, 04:56:50"
-  },
-  {
-    "id": "5925efa9-d1cb-46a2-9885-382ecd4e3157",
-    "name": "Test II",
-    "creatorId": "109612120469406027670",
-    "creatorLastName": "Aus",
-    "createdAt": "12/15/2025, 04:49:48"
-  },
-  {
-    "id": "1eaa36df-6dc8-4084-aebb-5a144744511d",
-    "name": "Markit Test",
-    "creatorId": "109612120469406027670",
-    "creatorLastName": "Aus",
-    "createdAt": "12/15/2025, 04:34:37"
   },
   {
     "id": "0d9b9305-88df-4a26-93db-c3f5aacc77ec",
@@ -1569,13 +1555,6 @@ export const games = [
     "creatorId": "117972999917474447478",
     "creatorLastName": "Orozco",
     "createdAt": "12/12/2025, 23:13:13"
-  },
-  {
-    "id": "0f0af500-4da4-4689-952b-dcca4b7c3cb9",
-    "name": "Senior Survivor 2025",
-    "creatorId": "100244382894590456422",
-    "creatorLastName": "DeMeester",
-    "createdAt": "12/12/2025, 22:58:58"
   },
   {
     "id": "ea27792b-310c-4cbc-9abe-288fdaadf6b2",
