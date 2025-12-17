@@ -1,7 +1,14 @@
-// Generated on 12/17/2025, 16:00:01 (EST)
-// Total records: 1711
+// Generated on 12/17/2025, 16:15:02 (EST)
+// Total records: 1712
 
 export const games = [
+  {
+    "id": "40f0413c-3af3-44cc-a25b-74a832f28728",
+    "name": "Policies and procedures",
+    "creatorId": "110442949703173153025",
+    "creatorLastName": "Wilson",
+    "createdAt": "12/17/2025, 16:11:44"
+  },
   {
     "id": "9f393c13-b147-4a02-9f64-60f368236797",
     "name": "Warmup Game",
