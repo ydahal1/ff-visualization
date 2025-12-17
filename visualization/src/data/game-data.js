@@ -1,7 +1,42 @@
-// Generated on 12/17/2025, 13:45:02 (EST)
-// Total records: 1687
+// Generated on 12/17/2025, 14:00:02 (EST)
+// Total records: 1692
 
 export const games = [
+  {
+    "id": "3e1ae4de-3211-47d5-bf2a-7fe9cd16b01d",
+    "name": "Semi Final 1",
+    "creatorId": "112398310189556699430",
+    "creatorLastName": "Mulay",
+    "createdAt": "12/17/2025, 13:59:25"
+  },
+  {
+    "id": "d66c690f-e3bc-406d-9877-f472bb5577b9",
+    "name": "Round 4",
+    "creatorId": "112398310189556699430",
+    "creatorLastName": "Mulay",
+    "createdAt": "12/17/2025, 13:57:29"
+  },
+  {
+    "id": "9fd3c340-895f-4d2a-aac7-ab121028135a",
+    "name": "Round 3",
+    "creatorId": "112398310189556699430",
+    "creatorLastName": "Mulay",
+    "createdAt": "12/17/2025, 13:54:30"
+  },
+  {
+    "id": "07b02209-043e-475f-9040-3bb18154363a",
+    "name": "Round 2",
+    "creatorId": "112398310189556699430",
+    "creatorLastName": "Mulay",
+    "createdAt": "12/17/2025, 13:52:54"
+  },
+  {
+    "id": "ebeeb11d-b81d-40e9-93ea-83c4d5a35a79",
+    "name": "Round 1",
+    "creatorId": "112398310189556699430",
+    "creatorLastName": "Mulay",
+    "createdAt": "12/17/2025, 13:51:41"
+  },
   {
     "id": "ca75c1c1-ced8-453e-9608-22804383b055",
     "name": "Drymedic Test FF",
