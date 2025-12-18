@@ -1,14 +1,7 @@
-// Generated on 12/18/2025, 16:45:01 (EST)
-// Total records: 1810
+// Generated on 12/18/2025, 17:00:01 (EST)
+// Total records: 1809
 
 export const games = [
-  {
-    "id": "f8614103-fd7a-49a2-89eb-227962a71ced",
-    "name": "ssd",
-    "creatorId": "108687888178649940003",
-    "creatorLastName": "Włodarczyk",
-    "createdAt": "12/18/2025, 16:43:48"
-  },
   {
     "id": "a7a4bae9-1741-45d0-ae3d-ad00a8679a89",
     "name": "Peer Pressure",
