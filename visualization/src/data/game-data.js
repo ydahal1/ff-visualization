@@ -1,7 +1,21 @@
-// Generated on 12/18/2025, 05:30:02 (EST)
+// Generated on 12/18/2025, 05:45:02 (EST)
 // Total records: 1742
 
 export const games = [
+  {
+    "id": "1e810e5e-1e99-4519-910b-8424f63d2548",
+    "name": "ROOSIDE SÕDA FINAAL",
+    "creatorId": "100042035041654435562",
+    "creatorLastName": "Naar",
+    "createdAt": "12/18/2025, 05:36:31"
+  },
+  {
+    "id": "5a8138e5-d83f-4d71-81c6-87e985b577a6",
+    "name": "TEST - mäng 1",
+    "creatorId": "109612120469406027670",
+    "creatorLastName": "Aus",
+    "createdAt": "12/18/2025, 05:31:48"
+  },
   {
     "id": "1fcf4762-007c-4662-9aad-85bad74fbe0d",
     "name": "ROOSIDE SÕDA",
@@ -430,13 +444,6 @@ export const games = [
     "createdAt": "12/17/2025, 13:25:07"
   },
   {
-    "id": "7160c140-7004-49e2-ab30-afc16875ab21",
-    "name": "õhtune test",
-    "creatorId": "109612120469406027670",
-    "creatorLastName": "Aus",
-    "createdAt": "12/17/2025, 12:29:25"
-  },
-  {
     "id": "f0e1d08a-8983-4810-882f-81c1f1fbd289",
     "name": "Black Family Fued",
     "creatorId": "103535768054086317192",
@@ -666,13 +673,6 @@ export const games = [
     "creatorId": "107727292538625543917",
     "creatorLastName": "Alivand",
     "createdAt": "12/17/2025, 08:09:44"
-  },
-  {
-    "id": "a088224a-662b-4c03-9ae9-851f34b1c855",
-    "name": "Test 2 Sting",
-    "creatorId": "109612120469406027670",
-    "creatorLastName": "Aus",
-    "createdAt": "12/17/2025, 07:59:43"
   },
   {
     "id": "c83228ae-ece2-4b18-a6e2-e51ea08c5c16",
