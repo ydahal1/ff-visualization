@@ -1,7 +1,14 @@
-// Generated on 12/18/2025, 18:00:02 (EST)
-// Total records: 1813
+// Generated on 12/18/2025, 18:15:02 (EST)
+// Total records: 1814
 
 export const games = [
+  {
+    "id": "d44d38be-2298-4637-b6c7-7f826ae30e3c",
+    "name": "Game 4",
+    "creatorId": "112482957484623355335",
+    "creatorLastName": "Luzarraga",
+    "createdAt": "12/18/2025, 18:06:14"
+  },
   {
     "id": "7ed81305-449e-4434-a68a-64c1cfbf0554",
     "name": "Game 3",
