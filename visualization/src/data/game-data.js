@@ -1,5 +1,5 @@
-// Generated on 12/18/2025, 02:00:02 (EST)
-// Total records: 1739
+// Generated on 12/18/2025, 02:15:03 (EST)
+// Total records: 1737
 
 export const games = [
   {
@@ -15,13 +15,6 @@ export const games = [
     "creatorId": "101301479494933486165",
     "creatorLastName": "Gaming",
     "createdAt": "12/18/2025, 01:32:14"
-  },
-  {
-    "id": "0c94f8ad-1aeb-4130-80a1-263613656452",
-    "name": "Family Adverbs :)",
-    "creatorId": "115486213105260678815",
-    "creatorLastName": "LOO",
-    "createdAt": "12/18/2025, 01:20:44"
   },
   {
     "id": "d3eec2e5-e8f3-4584-a156-e1bc8874dbea",
@@ -2899,13 +2892,6 @@ export const games = [
     "creatorId": "106196808967040786938",
     "creatorLastName": "Whited",
     "createdAt": "12/11/2025, 05:54:15"
-  },
-  {
-    "id": "f1d78b39-02d9-4c70-b737-f65399547e1d",
-    "name": "OIIAI",
-    "creatorId": "115486213105260678815",
-    "creatorLastName": "LOO",
-    "createdAt": "12/11/2025, 05:27:25"
   },
   {
     "id": "3a9669f1-2363-4705-8959-9eec2cbbee88",
