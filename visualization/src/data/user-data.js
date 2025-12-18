@@ -1,7 +1,12 @@
-// Generated on 12/18/2025, 13:30:00 (EST)
-// Total records: 1190
+// Generated on 12/18/2025, 13:45:00 (EST)
+// Total records: 1191
 
 export const users = [
+  {
+    "id": "100977814712862412293",
+    "lName": "JORDAN BAKER",
+    "createdAt": "12/18/2025, 13:37:53"
+  },
   {
     "id": "108460958241088349872",
     "lName": "Formosa",
