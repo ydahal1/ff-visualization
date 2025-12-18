@@ -1,13 +1,20 @@
-// Generated on 12/18/2025, 13:45:02 (EST)
-// Total records: 1788
+// Generated on 12/18/2025, 14:00:01 (EST)
+// Total records: 1789
 
 export const games = [
   {
-    "id": "65d516ce-e12b-4360-8aa7-8d05a30f3fe0",
+    "id": "7c9f0551-c89b-472d-b96b-f9104699d106",
+    "name": "FINAL",
+    "creatorId": "109612120469406027670",
+    "creatorLastName": "Aus",
+    "createdAt": "12/18/2025, 13:56:31"
+  },
+  {
+    "id": "e4160791-9a13-4b7a-9ff1-3c7ebf8ed4b4",
     "name": "relc family fued",
     "creatorId": "100977814712862412293",
     "creatorLastName": "JORDAN BAKER",
-    "createdAt": "12/18/2025, 13:39:11"
+    "createdAt": "12/18/2025, 13:54:40"
   },
   {
     "id": "9b76ff4c-71ed-46a5-be1a-b02fe71285d5",
