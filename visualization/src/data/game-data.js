@@ -1,7 +1,21 @@
-// Generated on 12/17/2025, 22:15:02 (EST)
-// Total records: 1727
+// Generated on 12/17/2025, 22:30:02 (EST)
+// Total records: 1729
 
 export const games = [
+  {
+    "id": "71d315c5-00b6-4222-a893-af2a67ed96ce",
+    "name": "Hvf",
+    "creatorId": "111898224585681888922",
+    "creatorLastName": "Shintani",
+    "createdAt": "12/17/2025, 22:29:18"
+  },
+  {
+    "id": "84ad47e9-bac1-4baa-9350-9a33490129b2",
+    "name": "Test",
+    "creatorId": "111898224585681888922",
+    "creatorLastName": "Shintani",
+    "createdAt": "12/17/2025, 22:28:35"
+  },
   {
     "id": "6a715d66-f53d-4630-808e-9b2e0cba4926",
     "name": "Quiz attack",
