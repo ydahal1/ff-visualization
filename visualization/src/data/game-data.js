@@ -1,7 +1,14 @@
-// Generated on 12/18/2025, 08:00:02 (EST)
-// Total records: 1750
+// Generated on 12/18/2025, 08:15:02 (EST)
+// Total records: 1751
 
 export const games = [
+  {
+    "id": "a9fa2c72-d21d-4a0e-9919-8212e18be513",
+    "name": "LRCOE Family Feud Trial",
+    "creatorId": "113072504827495354795",
+    "creatorLastName": "Mulrooney",
+    "createdAt": "12/18/2025, 08:05:16"
+  },
   {
     "id": "320c5e0e-bdd9-41b9-b95e-cc7f6586cafb",
     "name": "Round 3",
