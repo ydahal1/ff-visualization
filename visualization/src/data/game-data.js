@@ -1,14 +1,7 @@
-// Generated on 12/18/2025, 09:15:02 (EST)
-// Total records: 1758
+// Generated on 12/18/2025, 09:30:02 (EST)
+// Total records: 1755
 
 export const games = [
-  {
-    "id": "38640578-4b69-40d0-85e9-e9ad8141275f",
-    "name": "2025 LRCOE Family Fued",
-    "creatorId": "113072504827495354795",
-    "creatorLastName": "Mulrooney",
-    "createdAt": "12/18/2025, 09:10:37"
-  },
   {
     "id": "50beff4e-1034-416a-ae1e-3bdbf72d4222",
     "name": "Test",
@@ -57,20 +50,6 @@ export const games = [
     "creatorId": "109612120469406027670",
     "creatorLastName": "Aus",
     "createdAt": "12/18/2025, 08:43:21"
-  },
-  {
-    "id": "81561e36-9c2f-4f3e-80a6-b7a34de31d45",
-    "name": "Holiday Family Feud",
-    "creatorId": "113072504827495354795",
-    "creatorLastName": "Mulrooney",
-    "createdAt": "12/18/2025, 08:16:36"
-  },
-  {
-    "id": "a9fa2c72-d21d-4a0e-9919-8212e18be513",
-    "name": "LRCOE Family Feud Trial",
-    "creatorId": "113072504827495354795",
-    "creatorLastName": "Mulrooney",
-    "createdAt": "12/18/2025, 08:05:16"
   },
   {
     "id": "320c5e0e-bdd9-41b9-b95e-cc7f6586cafb",
