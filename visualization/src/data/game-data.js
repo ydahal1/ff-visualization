@@ -1,5 +1,5 @@
-// Generated on 12/18/2025, 06:45:02 (EST)
-// Total records: 1746
+// Generated on 12/18/2025, 07:00:01 (EST)
+// Total records: 1744
 
 export const games = [
   {
@@ -15,20 +15,6 @@ export const games = [
     "creatorId": "106355001989076527052",
     "creatorLastName": "louise",
     "createdAt": "12/18/2025, 06:30:06"
-  },
-  {
-    "id": "a5b191ef-3716-41db-898d-1a40c04b4585",
-    "name": "Holiday Kickback Round 3",
-    "creatorId": "101455667044937640252",
-    "creatorLastName": "Bailey",
-    "createdAt": "12/18/2025, 06:15:40"
-  },
-  {
-    "id": "e7ebf714-3f73-4868-87ce-0977f07d7b8f",
-    "name": "Holiday Kickback Round 1",
-    "creatorId": "101455667044937640252",
-    "creatorLastName": "Bailey",
-    "createdAt": "12/18/2025, 06:13:50"
   },
   {
     "id": "1e810e5e-1e99-4519-910b-8424f63d2548",
