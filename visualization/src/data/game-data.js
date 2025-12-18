@@ -1,7 +1,14 @@
-// Generated on 12/17/2025, 23:00:01 (EST)
-// Total records: 1733
+// Generated on 12/17/2025, 23:15:01 (EST)
+// Total records: 1734
 
 export const games = [
+  {
+    "id": "a8e1be23-8794-4d5d-be58-6b0cf9709de6",
+    "name": "CHRISTMAS SHOWDOWN",
+    "creatorId": "105263592672188577443",
+    "creatorLastName": "Farago",
+    "createdAt": "12/17/2025, 23:14:43"
+  },
   {
     "id": "bd829f1c-47d5-46ef-a891-b41625fe2899",
     "name": "Chanukah Round 3",
