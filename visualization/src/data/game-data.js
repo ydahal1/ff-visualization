@@ -1,13 +1,13 @@
-// Generated on 12/18/2025, 01:45:02 (EST)
+// Generated on 12/18/2025, 02:00:02 (EST)
 // Total records: 1739
 
 export const games = [
   {
-    "id": "9799cde7-cd25-4412-b8f4-8f4a0a303be8",
-    "name": "Christmas game 1",
-    "creatorId": "100226075539630290195",
-    "creatorLastName": "Johnson",
-    "createdAt": "12/18/2025, 01:43:08"
+    "id": "d1d32d95-fe99-47f6-8be7-bfc03e994717",
+    "name": "Family Adverbs 2.0",
+    "creatorId": "115486213105260678815",
+    "creatorLastName": "LOO",
+    "createdAt": "12/18/2025, 01:59:12"
   },
   {
     "id": "68da5a66-d52b-43ca-8cc9-bfee748a1b69",
