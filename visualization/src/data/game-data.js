@@ -1,7 +1,14 @@
-// Generated on 12/18/2025, 12:30:02 (EST)
-// Total records: 1778
+// Generated on 12/18/2025, 12:45:02 (EST)
+// Total records: 1779
 
 export const games = [
+  {
+    "id": "13803cad-790f-428f-a79c-55e2f5d9c4b8",
+    "name": "Test",
+    "creatorId": "108102975756360710216",
+    "creatorLastName": "veitch",
+    "createdAt": "12/18/2025, 12:32:14"
+  },
   {
     "id": "fb8e8ad1-d48c-44e9-98a8-0b699e623799",
     "name": "Covius",
