@@ -1,7 +1,28 @@
-// Generated on 12/18/2025, 12:45:02 (EST)
-// Total records: 1779
+// Generated on 12/18/2025, 13:00:02 (EST)
+// Total records: 1782
 
 export const games = [
+  {
+    "id": "81f372b0-8b88-4317-93ff-6a9a82324742",
+    "name": "2025 AE Christmas Team Building",
+    "creatorId": "118013790545609225292",
+    "creatorLastName": "Calder",
+    "createdAt": "12/18/2025, 12:53:55"
+  },
+  {
+    "id": "a1b2271a-3ea7-45e4-aad3-c3d6bfc9f081",
+    "name": "Test",
+    "creatorId": "112398310189556699430",
+    "creatorLastName": "Mulay",
+    "createdAt": "12/18/2025, 12:51:07"
+  },
+  {
+    "id": "6b6c4b71-e50a-47cb-8523-8a552299ef47",
+    "name": "Christmas Family Feud 2025",
+    "creatorId": "102684312863973518626",
+    "creatorLastName": "Thompson",
+    "createdAt": "12/18/2025, 12:48:54"
+  },
   {
     "id": "13803cad-790f-428f-a79c-55e2f5d9c4b8",
     "name": "Test",
