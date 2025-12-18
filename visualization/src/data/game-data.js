@@ -1,7 +1,42 @@
-// Generated on 12/18/2025, 12:15:01 (EST)
-// Total records: 1773
+// Generated on 12/18/2025, 12:30:02 (EST)
+// Total records: 1778
 
 export const games = [
+  {
+    "id": "fb8e8ad1-d48c-44e9-98a8-0b699e623799",
+    "name": "Covius",
+    "creatorId": "112966576911617408858",
+    "creatorLastName": "Gillespie",
+    "createdAt": "12/18/2025, 12:28:21"
+  },
+  {
+    "id": "967a4836-b4e1-47b7-bb3c-63ad18d34c3b",
+    "name": "Game 3",
+    "creatorId": "110319190302523141146",
+    "creatorLastName": "Holmes",
+    "createdAt": "12/18/2025, 12:27:02"
+  },
+  {
+    "id": "1650907b-8add-4888-87bd-e4274cb4a12b",
+    "name": "CREW Game 2",
+    "creatorId": "110319190302523141146",
+    "creatorLastName": "Holmes",
+    "createdAt": "12/18/2025, 12:25:48"
+  },
+  {
+    "id": "1b6a851b-2386-417a-9db7-79edb2fd57c7",
+    "name": "CREW Game 1",
+    "creatorId": "110319190302523141146",
+    "creatorLastName": "Holmes",
+    "createdAt": "12/18/2025, 12:23:39"
+  },
+  {
+    "id": "c4efa66d-c009-4ec7-b04c-8a8230c62d30",
+    "name": "Recovery",
+    "creatorId": "111048295946079972923",
+    "creatorLastName": "O",
+    "createdAt": "12/18/2025, 12:20:38"
+  },
   {
     "id": "90630244-aa09-4456-a0af-81131f31e819",
     "name": "MMBB 2",
