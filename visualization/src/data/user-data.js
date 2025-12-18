@@ -1,7 +1,17 @@
-// Generated on 12/18/2025, 04:15:01 (EST)
-// Total records: 1169
+// Generated on 12/18/2025, 04:30:00 (EST)
+// Total records: 1171
 
 export const users = [
+  {
+    "id": "100042035041654435562",
+    "lName": "Naar",
+    "createdAt": "12/18/2025, 04:26:08"
+  },
+  {
+    "id": "107704157395263257850",
+    "lName": "Kits",
+    "createdAt": "12/18/2025, 04:24:13"
+  },
   {
     "id": "101301479494933486165",
     "lName": "Gaming",
