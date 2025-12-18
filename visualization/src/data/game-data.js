@@ -1,7 +1,21 @@
-// Generated on 12/18/2025, 06:00:01 (EST)
-// Total records: 1742
+// Generated on 12/18/2025, 06:15:01 (EST)
+// Total records: 1744
 
 export const games = [
+  {
+    "id": "8543f191-c4da-4c96-adfa-6081bdf42226",
+    "name": "Holiday Kickback Round 2",
+    "creatorId": "101455667044937640252",
+    "creatorLastName": "Bailey",
+    "createdAt": "12/18/2025, 06:14:42"
+  },
+  {
+    "id": "e7ebf714-3f73-4868-87ce-0977f07d7b8f",
+    "name": "Holiday Kickback Round 1",
+    "creatorId": "101455667044937640252",
+    "creatorLastName": "Bailey",
+    "createdAt": "12/18/2025, 06:13:50"
+  },
   {
     "id": "1e810e5e-1e99-4519-910b-8424f63d2548",
     "name": "ROOSIDE SÕDA FINAAL",
