@@ -1,7 +1,14 @@
-// Generated on 12/18/2025, 05:15:02 (EST)
-// Total records: 1741
+// Generated on 12/18/2025, 05:30:02 (EST)
+// Total records: 1742
 
 export const games = [
+  {
+    "id": "1fcf4762-007c-4662-9aad-85bad74fbe0d",
+    "name": "ROOSIDE SÕDA",
+    "creatorId": "100042035041654435562",
+    "creatorLastName": "Naar",
+    "createdAt": "12/18/2025, 05:25:37"
+  },
   {
     "id": "0ab53224-81cc-4539-867e-ab549b1708d7",
     "name": "ROOSIDE SÕDA-",
