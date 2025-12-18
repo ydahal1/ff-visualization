@@ -1,7 +1,17 @@
-// Generated on 12/18/2025, 13:00:00 (EST)
-// Total records: 1188
+// Generated on 12/18/2025, 13:15:00 (EST)
+// Total records: 1190
 
 export const users = [
+  {
+    "id": "108460958241088349872",
+    "lName": "Formosa",
+    "createdAt": "12/18/2025, 13:06:24"
+  },
+  {
+    "id": "107450801219376000678",
+    "lName": "Horta Téllez Girón",
+    "createdAt": "12/18/2025, 13:03:52"
+  },
   {
     "id": "112482957484623355335",
     "lName": "Luzarraga",
