@@ -1,7 +1,21 @@
-// Generated on 12/17/2025, 20:30:01 (EST)
-// Total records: 1726
+// Generated on 12/17/2025, 20:45:02 (EST)
+// Total records: 1725
 
 export const games = [
+  {
+    "id": "0cc1c98c-5381-4bcc-840d-c21b5e4b3eac",
+    "name": "ああ",
+    "creatorId": "101102639449320055790",
+    "creatorLastName": "齋藤",
+    "createdAt": "12/17/2025, 20:44:51"
+  },
+  {
+    "id": "0ce2dfac-3717-4f84-b8bf-ae5e124b5d60",
+    "name": "COC Feud",
+    "creatorId": "111761805110357003529",
+    "creatorLastName": "Jones",
+    "createdAt": "12/17/2025, 20:43:58"
+  },
   {
     "id": "4f715dd2-935d-43cc-ba89-0736f1ed5a8e",
     "name": "Pioneers and elders",
@@ -10,25 +24,11 @@ export const games = [
     "createdAt": "12/17/2025, 20:26:16"
   },
   {
-    "id": "7c5d1b12-84f3-4bc7-8156-793074cac24b",
-    "name": "AHN School of Nursing Holiday 2025!",
-    "creatorId": "113577540680901419677",
-    "creatorLastName": "Burke",
-    "createdAt": "12/17/2025, 20:18:00"
-  },
-  {
     "id": "0424230c-bbb4-4151-aa0e-087cfa19d4bb",
     "name": "Bluetopia Feud",
     "creatorId": "117025730047638763979",
     "creatorLastName": "Rodriguez",
     "createdAt": "12/17/2025, 20:11:26"
-  },
-  {
-    "id": "26c87f9d-9c74-4426-b0ad-5e0df6803f0b",
-    "name": "AHN School of Nursing Christmas 2025!",
-    "creatorId": "113577540680901419677",
-    "creatorLastName": "Burke",
-    "createdAt": "12/17/2025, 20:08:49"
   },
   {
     "id": "dbb68eb3-0e72-49cf-9918-493890fca946",
@@ -393,13 +393,6 @@ export const games = [
     "creatorId": "110897367223449449452",
     "creatorLastName": "Payne",
     "createdAt": "12/17/2025, 11:20:47"
-  },
-  {
-    "id": "bed7435d-3bda-4c08-8517-18e23aee64e6",
-    "name": "AHN School of Nursing",
-    "creatorId": "113577540680901419677",
-    "creatorLastName": "Burke",
-    "createdAt": "12/17/2025, 11:19:48"
   },
   {
     "id": "61e70469-72de-4d1a-9089-3646880f8fe3",
