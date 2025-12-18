@@ -1,7 +1,21 @@
-// Generated on 12/18/2025, 14:45:02 (EST)
-// Total records: 1793
+// Generated on 12/18/2025, 15:00:02 (EST)
+// Total records: 1795
 
 export const games = [
+  {
+    "id": "965a5e1f-fd9b-4d12-af3a-71b24de9f0c1",
+    "name": "Round 1",
+    "creatorId": "105123904289395187738",
+    "creatorLastName": "Hakeem",
+    "createdAt": "12/18/2025, 14:57:03"
+  },
+  {
+    "id": "cd9d6bb6-19b6-45ba-9e01-b450e3a0df45",
+    "name": "Dose of Knowledge Battle",
+    "creatorId": "115680552054650496948",
+    "creatorLastName": "Rivera",
+    "createdAt": "12/18/2025, 14:49:48"
+  },
   {
     "id": "ea3d17f8-bb64-426f-afb7-c6a881894d58",
     "name": "Product Team",
