@@ -1,7 +1,42 @@
-// Generated on 12/18/2025, 10:45:02 (EST)
-// Total records: 1761
+// Generated on 12/18/2025, 11:00:02 (EST)
+// Total records: 1766
 
 export const games = [
+  {
+    "id": "423385d5-096b-450e-b995-bfaba298876f",
+    "name": "Fast Money",
+    "creatorId": "111761805110357003529",
+    "creatorLastName": "Jones",
+    "createdAt": "12/18/2025, 10:56:15"
+  },
+  {
+    "id": "20e63c6e-01ec-4ea9-a992-abf51c771097",
+    "name": "COC Feud Round 3",
+    "creatorId": "111761805110357003529",
+    "creatorLastName": "Jones",
+    "createdAt": "12/18/2025, 10:55:21"
+  },
+  {
+    "id": "19eb9383-bf92-4597-b12d-ca7141c737a3",
+    "name": "COC Feud Round 2",
+    "creatorId": "111761805110357003529",
+    "creatorLastName": "Jones",
+    "createdAt": "12/18/2025, 10:54:41"
+  },
+  {
+    "id": "146e1689-7b1a-45dd-bc2d-4477fccb7fa4",
+    "name": "Game 1",
+    "creatorId": "110737473455346602677",
+    "creatorLastName": "Landriault",
+    "createdAt": "12/18/2025, 10:53:52"
+  },
+  {
+    "id": "23a2cb8a-0740-4fde-8284-275c35924056",
+    "name": "Game 5",
+    "creatorId": "113072504827495354795",
+    "creatorLastName": "Mulrooney",
+    "createdAt": "12/18/2025, 10:45:55"
+  },
   {
     "id": "2ce7b980-88e0-49a1-bb94-fd1bdc89da86",
     "name": "Game 4",
