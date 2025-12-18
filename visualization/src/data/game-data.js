@@ -1,7 +1,21 @@
-// Generated on 12/18/2025, 15:00:02 (EST)
-// Total records: 1795
+// Generated on 12/18/2025, 15:15:02 (EST)
+// Total records: 1797
 
 export const games = [
+  {
+    "id": "6c1b4443-fb97-4884-b45b-57b1f15c9da9",
+    "name": "Sales floor",
+    "creatorId": "105123904289395187738",
+    "creatorLastName": "Hakeem",
+    "createdAt": "12/18/2025, 15:11:27"
+  },
+  {
+    "id": "09961a58-a0a9-4e47-a0f3-4f1bf7fe7043",
+    "name": "teachers beef",
+    "creatorId": "113293207815266593106",
+    "creatorLastName": "Chavez",
+    "createdAt": "12/18/2025, 15:04:26"
+  },
   {
     "id": "965a5e1f-fd9b-4d12-af3a-71b24de9f0c1",
     "name": "Round 1",
