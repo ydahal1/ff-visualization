@@ -1,7 +1,21 @@
-// Generated on 12/17/2025, 23:15:01 (EST)
-// Total records: 1734
+// Generated on 12/17/2025, 23:30:02 (EST)
+// Total records: 1736
 
 export const games = [
+  {
+    "id": "d3eec2e5-e8f3-4584-a156-e1bc8874dbea",
+    "name": "CHRISTMAS SHOWDOWN!",
+    "creatorId": "105263592672188577443",
+    "creatorLastName": "Farago",
+    "createdAt": "12/17/2025, 23:17:46"
+  },
+  {
+    "id": "952eca12-f410-4d4d-bdfa-ef6b77e56be7",
+    "name": "Christmas family feud pt 1",
+    "creatorId": "106520335976791309980",
+    "creatorLastName": "Singleton",
+    "createdAt": "12/17/2025, 23:17:38"
+  },
   {
     "id": "a8e1be23-8794-4d5d-be58-6b0cf9709de6",
     "name": "CHRISTMAS SHOWDOWN",
