@@ -1,7 +1,42 @@
-// Generated on 12/17/2025, 22:45:02 (EST)
-// Total records: 1729
+// Generated on 12/17/2025, 23:00:01 (EST)
+// Total records: 1733
 
 export const games = [
+  {
+    "id": "bd829f1c-47d5-46ef-a891-b41625fe2899",
+    "name": "Chanukah Round 3",
+    "creatorId": "117760078275103564621",
+    "creatorLastName": "Beniflah",
+    "createdAt": "12/17/2025, 22:57:18"
+  },
+  {
+    "id": "ac67080d-4ddd-4470-83c2-5b88f844f0e6",
+    "name": "Video Production Feud",
+    "creatorId": "106618613068944334795",
+    "creatorLastName": "Knight",
+    "createdAt": "12/17/2025, 22:55:21"
+  },
+  {
+    "id": "9682765a-b302-4983-a324-4dc96c515000",
+    "name": "Holiday?",
+    "creatorId": "105972556289124640687",
+    "creatorLastName": "Miller",
+    "createdAt": "12/17/2025, 22:54:29"
+  },
+  {
+    "id": "4472258b-1122-459a-a9a0-8cdef202310e",
+    "name": "Chanukah Round 2",
+    "creatorId": "117760078275103564621",
+    "creatorLastName": "Beniflah",
+    "createdAt": "12/17/2025, 22:52:07"
+  },
+  {
+    "id": "365331a0-1505-46c1-8def-b52af3ce0b07",
+    "name": "Chanukah Round 1",
+    "creatorId": "117760078275103564621",
+    "creatorLastName": "Beniflah",
+    "createdAt": "12/17/2025, 22:50:35"
+  },
   {
     "id": "71d315c5-00b6-4222-a893-af2a67ed96ce",
     "name": "Hvf",
@@ -1338,13 +1373,6 @@ export const games = [
     "creatorId": "105176125597894151625",
     "creatorLastName": "LeFebvre",
     "createdAt": "12/14/2025, 02:43:41"
-  },
-  {
-    "id": "06da6dc1-93a2-49e6-a951-7660f0418dec",
-    "name": "test",
-    "creatorId": "117760078275103564621",
-    "creatorLastName": "Beniflah",
-    "createdAt": "12/14/2025, 01:42:43"
   },
   {
     "id": "7c6ef63a-79c2-402a-8dc4-48e32ec9fd24",
