@@ -1,14 +1,7 @@
-// Generated on 12/17/2025, 21:30:02 (EST)
-// Total records: 1728
+// Generated on 12/17/2025, 21:45:02 (EST)
+// Total records: 1727
 
 export const games = [
-  {
-    "id": "509338e6-958e-48ec-8f6a-64c72bbd4406",
-    "name": "test",
-    "creatorId": "116096930321968083412",
-    "creatorLastName": "Stewart",
-    "createdAt": "12/17/2025, 21:27:35"
-  },
   {
     "id": "6a715d66-f53d-4630-808e-9b2e0cba4926",
     "name": "Quiz attack",
