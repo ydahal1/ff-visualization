@@ -1,7 +1,14 @@
-// Generated on 12/18/2025, 15:30:02 (EST)
-// Total records: 1805
+// Generated on 12/18/2025, 15:45:02 (EST)
+// Total records: 1806
 
 export const games = [
+  {
+    "id": "ddfef842-a217-4e9e-86ee-af71e7792b97",
+    "name": "dealership holiday party",
+    "creatorId": "105123904289395187738",
+    "creatorLastName": "Hakeem",
+    "createdAt": "12/18/2025, 15:34:13"
+  },
   {
     "id": "430d4778-3225-4451-8711-9dfa357d4965",
     "name": "Dealership edition",
