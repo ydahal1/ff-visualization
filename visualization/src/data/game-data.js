@@ -1,7 +1,14 @@
-// Generated on 12/18/2025, 18:30:02 (EST)
+// Generated on 12/18/2025, 18:45:02 (EST)
 // Total records: 1815
 
 export const games = [
+  {
+    "id": "62105416-1de3-4957-8d9a-e4af6fc3c191",
+    "name": "trivia",
+    "creatorId": "104539531731238697020",
+    "creatorLastName": "Linton",
+    "createdAt": "12/18/2025, 18:42:22"
+  },
   {
     "id": "6e9c645c-9456-4773-bb64-a878366e239f",
     "name": "Game 5",
@@ -2633,13 +2640,6 @@ export const games = [
     "creatorId": "109801315170981733711",
     "creatorLastName": "Jenkins",
     "createdAt": "12/12/2025, 15:23:36"
-  },
-  {
-    "id": "79dd2f29-d6b9-4b8b-b389-2202f8681cb8",
-    "name": "Family Feud",
-    "creatorId": "103160089403322203214",
-    "creatorLastName": "McKay",
-    "createdAt": "12/12/2025, 15:11:51"
   },
   {
     "id": "7b6c5309-6b75-47e6-b644-87c6d8e95c5e",
