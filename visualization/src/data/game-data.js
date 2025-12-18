@@ -1,7 +1,14 @@
-// Generated on 12/17/2025, 21:00:02 (EST)
-// Total records: 1726
+// Generated on 12/17/2025, 21:15:02 (EST)
+// Total records: 1727
 
 export const games = [
+  {
+    "id": "6a715d66-f53d-4630-808e-9b2e0cba4926",
+    "name": "Quiz attack",
+    "creatorId": "100692574027163707389",
+    "creatorLastName": "OKADA",
+    "createdAt": "12/17/2025, 21:10:18"
+  },
   {
     "id": "ff9ff5bb-dda0-4bd3-8642-7c740e04412f",
     "name": "AHN School of Nursing Holiday 2025!",
