@@ -1,7 +1,14 @@
-// Generated on 12/19/2025, 02:00:01 (EST)
-// Total records: 1816
+// Generated on 12/19/2025, 02:15:02 (EST)
+// Total records: 1817
 
 export const games = [
+  {
+    "id": "c5bb8fef-fac3-4d2e-ab88-629f6c5b177d",
+    "name": "Friendsmas Feud 1",
+    "creatorId": "111073838065561487028",
+    "creatorLastName": "Johnson",
+    "createdAt": "12/19/2025, 02:08:35"
+  },
   {
     "id": "e1627525-96d0-4d4c-948f-595ead8f863d",
     "name": "Feud 101",
