@@ -1,7 +1,28 @@
-// Generated on 12/19/2025, 07:00:01 (EST)
-// Total records: 1821
+// Generated on 12/19/2025, 07:15:01 (EST)
+// Total records: 1824
 
 export const games = [
+  {
+    "id": "be15a56a-8b6e-4506-aef9-f64189dfb4e9",
+    "name": "GAME 2 - 3RD SURVEYS",
+    "creatorId": "106355001989076527052",
+    "creatorLastName": "louise",
+    "createdAt": "12/19/2025, 07:13:39"
+  },
+  {
+    "id": "283a8c2f-2327-4513-bfbe-0d3d7bc0dec3",
+    "name": "GAME 2 - 2ND SURVEYS",
+    "creatorId": "106355001989076527052",
+    "creatorLastName": "louise",
+    "createdAt": "12/19/2025, 07:12:14"
+  },
+  {
+    "id": "2d793cec-cb34-4213-ba8d-8b174399e51f",
+    "name": "GAME 2 - 1ST SURVEYS",
+    "creatorId": "106355001989076527052",
+    "creatorLastName": "louise",
+    "createdAt": "12/19/2025, 07:10:31"
+  },
   {
     "id": "3f0fabfd-eb1e-465a-a3a8-80220028db44",
     "name": "GAME 1 - 3RD SURVEYS",
