@@ -1,7 +1,14 @@
-// Generated on 12/18/2025, 19:45:01 (EST)
-// Total records: 1816
+// Generated on 12/18/2025, 20:00:01 (EST)
+// Total records: 1817
 
 export const games = [
+  {
+    "id": "ee1710a6-e27b-43b8-bbbc-0ca9232b35f2",
+    "name": "Happy",
+    "creatorId": "100247790868335788635",
+    "creatorLastName": "Ali",
+    "createdAt": "12/18/2025, 19:54:57"
+  },
   {
     "id": "cf2522a9-7f46-41da-b535-4149b3aea64e",
     "name": "Rita blooming 30th",
