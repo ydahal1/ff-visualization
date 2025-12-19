@@ -1,7 +1,42 @@
-// Generated on 12/19/2025, 17:30:02 (EST)
-// Total records: 1841
+// Generated on 12/19/2025, 17:45:02 (EST)
+// Total records: 1846
 
 export const games = [
+  {
+    "id": "39f2e886-5e63-4b63-aacf-8e63b23bae3b",
+    "name": "Saturday 8",
+    "creatorId": "101319012583799099050",
+    "creatorLastName": "Lambert",
+    "createdAt": "12/19/2025, 17:44:06"
+  },
+  {
+    "id": "2fad6314-6b20-4e2c-97f6-162ca355358b",
+    "name": "Saturday 7",
+    "creatorId": "101319012583799099050",
+    "creatorLastName": "Lambert",
+    "createdAt": "12/19/2025, 17:39:15"
+  },
+  {
+    "id": "f6c4640f-e064-49f7-825e-4eeee5ffefd4",
+    "name": "Saturday 6",
+    "creatorId": "101319012583799099050",
+    "creatorLastName": "Lambert",
+    "createdAt": "12/19/2025, 17:34:20"
+  },
+  {
+    "id": "fa2b9ee4-ad82-4025-b912-9a990f13e7d7",
+    "name": "Round Two",
+    "creatorId": "115144217598581892161",
+    "creatorLastName": "Garner",
+    "createdAt": "12/19/2025, 17:31:53"
+  },
+  {
+    "id": "2c7e4a4f-fcb3-4408-af8a-8ff747f6e2bf",
+    "name": "Round One",
+    "creatorId": "115144217598581892161",
+    "creatorLastName": "Garner",
+    "createdAt": "12/19/2025, 17:30:59"
+  },
   {
     "id": "6f06a069-50ad-44bb-a1e6-7a6af149e2f1",
     "name": "Christmas 1",
