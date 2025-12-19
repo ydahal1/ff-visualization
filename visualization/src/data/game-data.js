@@ -1,7 +1,14 @@
-// Generated on 12/19/2025, 10:45:01 (EST)
-// Total records: 1830
+// Generated on 12/19/2025, 11:00:02 (EST)
+// Total records: 1831
 
 export const games = [
+  {
+    "id": "f1f706d8-05e8-4251-9db0-1922fafd2d5a",
+    "name": "Fun Friday",
+    "creatorId": "111048295946079972923",
+    "creatorLastName": "O",
+    "createdAt": "12/19/2025, 10:54:52"
+  },
   {
     "id": "1d1ff95b-6985-41a2-9ce3-395ed775df0f",
     "name": "All Stars Christmas Party Family Feud",
