@@ -1,7 +1,14 @@
-// Generated on 12/19/2025, 13:45:02 (EST)
+// Generated on 12/19/2025, 14:00:02 (EST)
 // Total records: 1842
 
 export const games = [
+  {
+    "id": "40e6c665-bba8-4704-9de7-6d5f22d07303",
+    "name": "Game 1 for real",
+    "creatorId": "107105994569899413113",
+    "creatorLastName": "Everhardt",
+    "createdAt": "12/19/2025, 13:52:28"
+  },
   {
     "id": "1d30a1b3-20e9-420a-a9dd-29f321d15a8a",
     "name": "Family feud",
@@ -2850,13 +2857,6 @@ export const games = [
     "creatorId": "107105994569899413113",
     "creatorLastName": "Everhardt",
     "createdAt": "12/12/2025, 14:22:02"
-  },
-  {
-    "id": "c17166ba-2b5b-43c4-869e-02168492d6bf",
-    "name": "Christmas 1",
-    "creatorId": "107105994569899413113",
-    "creatorLastName": "Everhardt",
-    "createdAt": "12/12/2025, 14:18:46"
   },
   {
     "id": "d55ae50d-26d2-4dcb-b552-1e33f77548fb",
