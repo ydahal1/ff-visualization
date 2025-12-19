@@ -1,7 +1,14 @@
-// Generated on 12/18/2025, 21:15:02 (EST)
-// Total records: 1816
+// Generated on 12/18/2025, 21:30:02 (EST)
+// Total records: 1817
 
 export const games = [
+  {
+    "id": "d97a25c2-0da4-41e0-bbe6-9ff599e3fa28",
+    "name": "Test1",
+    "creatorId": "111898224585681888922",
+    "creatorLastName": "Shintani",
+    "createdAt": "12/18/2025, 21:21:24"
+  },
   {
     "id": "41ea7fd7-377a-4765-a696-4ef90a00d8fa",
     "name": "Bluetopia Feud",
