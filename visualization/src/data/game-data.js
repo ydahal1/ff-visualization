@@ -1,7 +1,14 @@
-// Generated on 12/18/2025, 22:00:02 (EST)
-// Total records: 1815
+// Generated on 12/18/2025, 22:15:02 (EST)
+// Total records: 1816
 
 export const games = [
+  {
+    "id": "e1627525-96d0-4d4c-948f-595ead8f863d",
+    "name": "Feud 101",
+    "creatorId": "104287511981792631998",
+    "creatorLastName": "Bennett",
+    "createdAt": "12/18/2025, 22:15:00"
+  },
   {
     "id": "53c69958-fff4-4ccd-81dc-4ea09020e603",
     "name": "Test",
