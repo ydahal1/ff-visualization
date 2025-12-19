@@ -1,7 +1,14 @@
-// Generated on 12/19/2025, 18:30:02 (EST)
-// Total records: 1851
+// Generated on 12/19/2025, 18:45:02 (EST)
+// Total records: 1852
 
 export const games = [
+  {
+    "id": "64627253-ad09-47af-a902-3e51a608fcb9",
+    "name": "Cweme Feud",
+    "creatorId": "100439346121581158344",
+    "creatorLastName": "Smith",
+    "createdAt": "12/19/2025, 18:43:10"
+  },
   {
     "id": "7cb82b02-4bae-433b-808f-60322598aade",
     "name": "Williston - Round 3",
