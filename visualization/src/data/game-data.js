@@ -1,7 +1,14 @@
-// Generated on 12/19/2025, 16:45:02 (EST)
-// Total records: 1840
+// Generated on 12/19/2025, 17:00:02 (EST)
+// Total records: 1839
 
 export const games = [
+  {
+    "id": "72067741-d75e-4b70-9e9c-774c13307830",
+    "name": "Game 2",
+    "creatorId": "101247337562322196656",
+    "creatorLastName": "Krievins",
+    "createdAt": "12/19/2025, 16:49:08"
+  },
   {
     "id": "6d1b8b3c-6892-4bcd-88de-0f872d25c068",
     "name": "Game 3",
@@ -2122,20 +2129,6 @@ export const games = [
     "creatorId": "106085796276665879768",
     "creatorLastName": "Leaman",
     "createdAt": "12/14/2025, 07:56:53"
-  },
-  {
-    "id": "8a0ee795-de67-42d8-baab-39ff037cfed9",
-    "name": "fff",
-    "creatorId": "101247337562322196656",
-    "creatorLastName": "Krievins",
-    "createdAt": "12/14/2025, 05:20:53"
-  },
-  {
-    "id": "73858493-a439-4df9-8d61-e4349c8b0cea",
-    "name": "tr",
-    "creatorId": "101247337562322196656",
-    "creatorLastName": "Krievins",
-    "createdAt": "12/14/2025, 05:17:22"
   },
   {
     "id": "1f38fb85-628f-41a1-8e58-7cd7ec2eca80",
