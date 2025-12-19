@@ -1,5 +1,5 @@
-// Generated on 12/19/2025, 14:30:02 (EST)
-// Total records: 1842
+// Generated on 12/19/2025, 14:45:02 (EST)
+// Total records: 1840
 
 export const games = [
   {
@@ -1863,13 +1863,6 @@ export const games = [
     "creatorId": "101282396016715011960",
     "creatorLastName": "TECH",
     "createdAt": "12/14/2025, 20:07:46"
-  },
-  {
-    "id": "b3ced1a2-dda1-4838-ad3b-89ae706b9cc3",
-    "name": "family einhornnnnnnnn",
-    "creatorId": "110530485963561727442",
-    "creatorLastName": "Grunfeld",
-    "createdAt": "12/14/2025, 19:52:29"
   },
   {
     "id": "459dfdfc-d54b-46e6-902b-21740fb3c116",
@@ -8212,13 +8205,6 @@ export const games = [
     "creatorId": "103279496813270281295",
     "creatorLastName": "Alva",
     "createdAt": "11/27/2025, 21:08:21"
-  },
-  {
-    "id": "49c8a319-2288-4096-8219-51ac7d0aa3e0",
-    "name": "Team us VS Team u",
-    "creatorId": "110530485963561727442",
-    "creatorLastName": "Grunfeld",
-    "createdAt": "11/27/2025, 21:07:01"
   },
   {
     "id": "ac3eabff-72c4-4cf4-a1c7-11a2c58b8842",
