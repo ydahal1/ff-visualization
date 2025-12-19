@@ -1,5 +1,5 @@
-// Generated on 12/19/2025, 03:30:02 (EST)
-// Total records: 1822
+// Generated on 12/19/2025, 03:45:02 (EST)
+// Total records: 1821
 
 export const games = [
   {
@@ -15,13 +15,6 @@ export const games = [
     "creatorId": "109818170237575962906",
     "creatorLastName": "Caruana",
     "createdAt": "12/19/2025, 03:22:24"
-  },
-  {
-    "id": "a52eb073-d3b6-4c9e-b4c3-5a4e156b7972",
-    "name": "2 runda",
-    "creatorId": "108687888178649940003",
-    "creatorLastName": "Włodarczyk",
-    "createdAt": "12/19/2025, 03:19:59"
   },
   {
     "id": "c806ddf1-5628-4877-82be-786e306b458e",
