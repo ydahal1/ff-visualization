@@ -1,7 +1,14 @@
-// Generated on 12/19/2025, 12:45:01 (EST)
+// Generated on 12/19/2025, 13:00:01 (EST)
 // Total records: 1841
 
 export const games = [
+  {
+    "id": "3434675a-5681-44ea-bc10-0821a80f6300",
+    "name": "Pharmacy Feud",
+    "creatorId": "115680552054650496948",
+    "creatorLastName": "Rivera",
+    "createdAt": "12/19/2025, 12:47:20"
+  },
   {
     "id": "aacbf839-b638-4b9c-a59b-bebeb16043ea",
     "name": "GAME 7",
@@ -393,13 +400,6 @@ export const games = [
     "creatorId": "105123904289395187738",
     "creatorLastName": "Hakeem",
     "createdAt": "12/18/2025, 14:57:03"
-  },
-  {
-    "id": "cd9d6bb6-19b6-45ba-9e01-b450e3a0df45",
-    "name": "Dose of Knowledge Battle",
-    "creatorId": "115680552054650496948",
-    "creatorLastName": "Rivera",
-    "createdAt": "12/18/2025, 14:49:48"
   },
   {
     "id": "ea3d17f8-bb64-426f-afb7-c6a881894d58",
