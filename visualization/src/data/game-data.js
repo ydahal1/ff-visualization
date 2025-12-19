@@ -1,7 +1,14 @@
-// Generated on 12/18/2025, 18:45:02 (EST)
-// Total records: 1815
+// Generated on 12/18/2025, 19:00:02 (EST)
+// Total records: 1816
 
 export const games = [
+  {
+    "id": "cf2522a9-7f46-41da-b535-4149b3aea64e",
+    "name": "Rita blooming 30th",
+    "creatorId": "112815796068525852720",
+    "creatorLastName": "Williams",
+    "createdAt": "12/18/2025, 18:59:42"
+  },
   {
     "id": "62105416-1de3-4957-8d9a-e4af6fc3c191",
     "name": "trivia",
