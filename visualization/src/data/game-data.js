@@ -1,7 +1,21 @@
-// Generated on 12/19/2025, 08:45:02 (EST)
-// Total records: 1824
+// Generated on 12/19/2025, 09:00:02 (EST)
+// Total records: 1826
 
 export const games = [
+  {
+    "id": "6d17f9aa-8531-4d32-9999-bb3bd7cc4b47",
+    "name": "Kokoroo",
+    "creatorId": "112836587384613448966",
+    "creatorLastName": "Zeha",
+    "createdAt": "12/19/2025, 08:53:24"
+  },
+  {
+    "id": "bd87054b-1735-4611-a435-a7c609ec186a",
+    "name": "Kokoro Family Feud",
+    "creatorId": "112836587384613448966",
+    "creatorLastName": "Zeha",
+    "createdAt": "12/19/2025, 08:49:01"
+  },
   {
     "id": "be15a56a-8b6e-4506-aef9-f64189dfb4e9",
     "name": "GAME 2 - 3RD SURVEYS",
