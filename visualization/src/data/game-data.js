@@ -1,7 +1,14 @@
-// Generated on 12/18/2025, 20:45:02 (EST)
-// Total records: 1815
+// Generated on 12/18/2025, 21:00:02 (EST)
+// Total records: 1816
 
 export const games = [
+  {
+    "id": "41ea7fd7-377a-4765-a696-4ef90a00d8fa",
+    "name": "Bluetopia Feud",
+    "creatorId": "117025730047638763979",
+    "creatorLastName": "Rodriguez",
+    "createdAt": "12/18/2025, 20:47:39"
+  },
   {
     "id": "cf2522a9-7f46-41da-b535-4149b3aea64e",
     "name": "Rita blooming 30th",
