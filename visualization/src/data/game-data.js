@@ -1,7 +1,14 @@
-// Generated on 12/19/2025, 14:00:02 (EST)
+// Generated on 12/19/2025, 14:15:02 (EST)
 // Total records: 1842
 
 export const games = [
+  {
+    "id": "6d1b8b3c-6892-4bcd-88de-0f872d25c068",
+    "name": "Game 3",
+    "creatorId": "107105994569899413113",
+    "creatorLastName": "Everhardt",
+    "createdAt": "12/19/2025, 14:05:25"
+  },
   {
     "id": "40e6c665-bba8-4704-9de7-6d5f22d07303",
     "name": "Game 1 for real",
@@ -2850,13 +2857,6 @@ export const games = [
     "creatorId": "105259579177451063261",
     "creatorLastName": "Burke",
     "createdAt": "12/12/2025, 14:40:47"
-  },
-  {
-    "id": "316e6950-953f-464d-a761-3d1a6b14e3cf",
-    "name": "Christmas 2",
-    "creatorId": "107105994569899413113",
-    "creatorLastName": "Everhardt",
-    "createdAt": "12/12/2025, 14:22:02"
   },
   {
     "id": "d55ae50d-26d2-4dcb-b552-1e33f77548fb",
