@@ -1,5 +1,5 @@
-// Generated on 12/20/2025, 13:30:02 (EST)
-// Total records: 1871
+// Generated on 12/20/2025, 13:45:02 (EST)
+// Total records: 1868
 
 export const games = [
   {
@@ -619,25 +619,11 @@ export const games = [
     "createdAt": "12/18/2025, 15:27:26"
   },
   {
-    "id": "885b42e0-675b-4ce3-8632-8dda8b345ed7",
-    "name": "Prasla Feud Final Round",
-    "creatorId": "111261603783354571639",
-    "creatorLastName": "Maneshia",
-    "createdAt": "12/18/2025, 15:26:19"
-  },
-  {
     "id": "c3f35153-4877-426e-b045-3dbbc935a721",
     "name": "Game 2",
     "creatorId": "100347475359392036479",
     "creatorLastName": "Castellanos",
     "createdAt": "12/18/2025, 15:26:14"
-  },
-  {
-    "id": "b95dba13-9be9-49f1-aa9a-d06e377e9d6f",
-    "name": "Prasla Feud Round 2",
-    "creatorId": "111261603783354571639",
-    "creatorLastName": "Maneshia",
-    "createdAt": "12/18/2025, 15:25:26"
   },
   {
     "id": "cd408ce8-bcb5-4ef2-8994-147b96f16834",
@@ -659,13 +645,6 @@ export const games = [
     "creatorId": "105123904289395187738",
     "creatorLastName": "Hakeem",
     "createdAt": "12/18/2025, 15:15:43"
-  },
-  {
-    "id": "c7a88cee-ff6b-44ec-9e31-bdbed0100acd",
-    "name": "Prasla Family Feud",
-    "creatorId": "111261603783354571639",
-    "creatorLastName": "Maneshia",
-    "createdAt": "12/18/2025, 15:15:23"
   },
   {
     "id": "6c1b4443-fb97-4884-b45b-57b1f15c9da9",
