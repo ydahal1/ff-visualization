@@ -1,7 +1,14 @@
-// Generated on 12/20/2025, 11:00:02 (EST)
-// Total records: 1864
+// Generated on 12/20/2025, 11:15:02 (EST)
+// Total records: 1865
 
 export const games = [
+  {
+    "id": "6ac3cd7a-2d02-431f-80e3-80db76213cad",
+    "name": "Game 1",
+    "creatorId": "100409867659991472632",
+    "creatorLastName": "Foster",
+    "createdAt": "12/20/2025, 11:09:44"
+  },
   {
     "id": "9fd19547-35c7-46f1-b52e-fec6e4d05fb8",
     "name": "Kiddos game",
