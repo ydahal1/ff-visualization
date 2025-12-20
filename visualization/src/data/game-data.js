@@ -1,7 +1,21 @@
-// Generated on 12/19/2025, 20:30:02 (EST)
-// Total records: 1853
+// Generated on 12/19/2025, 20:45:02 (EST)
+// Total records: 1855
 
 export const games = [
+  {
+    "id": "21938d9a-bed7-4b48-a39b-6fb06ea47ece",
+    "name": "100 Darqueanos dijeron 1.2",
+    "creatorId": "107450801219376000678",
+    "creatorLastName": "Horta Téllez Girón",
+    "createdAt": "12/19/2025, 20:40:35"
+  },
+  {
+    "id": "712b55a4-a5e1-45c6-9956-9876ea0c7e7d",
+    "name": "100 Darqueanos dijeron 1",
+    "creatorId": "107450801219376000678",
+    "creatorLastName": "Horta Téllez Girón",
+    "createdAt": "12/19/2025, 20:34:59"
+  },
   {
     "id": "be037852-3e46-4e72-963f-fd09b357d47c",
     "name": "Friday Night",
