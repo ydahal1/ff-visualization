@@ -1,7 +1,14 @@
-// Generated on 12/20/2025, 02:15:02 (EST)
-// Total records: 1861
+// Generated on 12/20/2025, 02:30:02 (EST)
+// Total records: 1862
 
 export const games = [
+  {
+    "id": "3b22c30f-52d2-4090-8f0e-12885cb68e46",
+    "name": "Game 3",
+    "creatorId": "115361726724032063073",
+    "creatorLastName": "Sozalo",
+    "createdAt": "12/20/2025, 02:22:51"
+  },
   {
     "id": "a8e2e650-4c3a-4154-a7d2-32b53c6dd6a5",
     "name": "Trial",
