@@ -1,7 +1,14 @@
-// Generated on 12/20/2025, 11:30:02 (EST)
-// Total records: 1865
+// Generated on 12/20/2025, 11:45:02 (EST)
+// Total records: 1866
 
 export const games = [
+  {
+    "id": "4c36fa14-ce8d-43db-b3aa-3470bb78d99b",
+    "name": "Slang and Social",
+    "creatorId": "100409867659991472632",
+    "creatorLastName": "Foster",
+    "createdAt": "12/20/2025, 11:39:05"
+  },
   {
     "id": "6ac3cd7a-2d02-431f-80e3-80db76213cad",
     "name": "Game 1",
