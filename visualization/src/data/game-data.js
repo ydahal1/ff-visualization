@@ -1,7 +1,14 @@
-// Generated on 12/20/2025, 18:00:01 (EST)
-// Total records: 1882
+// Generated on 12/20/2025, 18:15:02 (EST)
+// Total records: 1883
 
 export const games = [
+  {
+    "id": "43f0bbfa-0a76-462e-8bd5-f83983d2d5cc",
+    "name": "Faith",
+    "creatorId": "115473718329199875099",
+    "creatorLastName": "Lindsey",
+    "createdAt": "12/20/2025, 18:10:49"
+  },
   {
     "id": "f908135b-d88e-439f-ad1c-f6dc4406d241",
     "name": "Christmas Service Face Off",
