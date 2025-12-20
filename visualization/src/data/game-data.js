@@ -1,7 +1,21 @@
-// Generated on 12/20/2025, 01:30:02 (EST)
-// Total records: 1858
+// Generated on 12/20/2025, 01:45:02 (EST)
+// Total records: 1860
 
 export const games = [
+  {
+    "id": "1f7f834e-c6df-41ff-abdd-ed4ff53bbf7a",
+    "name": "Game 2",
+    "creatorId": "115361726724032063073",
+    "creatorLastName": "Sozalo",
+    "createdAt": "12/20/2025, 01:44:21"
+  },
+  {
+    "id": "de9c1467-3a13-4357-acc1-b932a94d1889",
+    "name": "Game 1",
+    "creatorId": "115361726724032063073",
+    "creatorLastName": "Sozalo",
+    "createdAt": "12/20/2025, 01:32:11"
+  },
   {
     "id": "373fa3b8-384f-4db1-9df1-f9da99e4044d",
     "name": "CHRISTMAS FAMILY FEUD",
