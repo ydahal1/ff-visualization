@@ -1,7 +1,14 @@
-// Generated on 12/19/2025, 22:15:02 (EST)
-// Total records: 1855
+// Generated on 12/19/2025, 22:30:02 (EST)
+// Total records: 1856
 
 export const games = [
+  {
+    "id": "e9d7c157-6aef-472c-9af7-82fb703f835c",
+    "name": "Christmas 2",
+    "creatorId": "111898224585681888922",
+    "creatorLastName": "Shintani",
+    "createdAt": "12/19/2025, 22:15:39"
+  },
   {
     "id": "21938d9a-bed7-4b48-a39b-6fb06ea47ece",
     "name": "100 Darqueanos dijeron 1.2",
