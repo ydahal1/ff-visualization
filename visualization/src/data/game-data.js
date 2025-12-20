@@ -1,7 +1,14 @@
-// Generated on 12/20/2025, 17:30:02 (EST)
-// Total records: 1880
+// Generated on 12/20/2025, 17:45:02 (EST)
+// Total records: 1881
 
 export const games = [
+  {
+    "id": "e7647101-e501-4d18-8dfb-c6f50a7f7e46",
+    "name": "dcd",
+    "creatorId": "116892304922548547097",
+    "creatorLastName": "Čerapaitė",
+    "createdAt": "12/20/2025, 17:34:53"
+  },
   {
     "id": "bd808f51-5631-4102-b893-d73a9519443e",
     "name": "testing",
