@@ -1,7 +1,14 @@
-// Generated on 12/20/2025, 02:30:02 (EST)
-// Total records: 1862
+// Generated on 12/20/2025, 02:45:01 (EST)
+// Total records: 1863
 
 export const games = [
+  {
+    "id": "95e59de1-7ffa-4514-8438-87c71883026d",
+    "name": "XMAS PARTY 2",
+    "creatorId": "111026955624082447827",
+    "creatorLastName": "Cabangan",
+    "createdAt": "12/20/2025, 02:37:51"
+  },
   {
     "id": "3b22c30f-52d2-4090-8f0e-12885cb68e46",
     "name": "Game 3",
