@@ -1,7 +1,14 @@
-// Generated on 12/20/2025, 08:15:02 (EST)
-// Total records: 1863
+// Generated on 12/20/2025, 08:30:02 (EST)
+// Total records: 1864
 
 export const games = [
+  {
+    "id": "9fd19547-35c7-46f1-b52e-fec6e4d05fb8",
+    "name": "Kiddos game",
+    "creatorId": "108621676884758255915",
+    "creatorLastName": "halim",
+    "createdAt": "12/20/2025, 08:28:47"
+  },
   {
     "id": "95e59de1-7ffa-4514-8438-87c71883026d",
     "name": "XMAS PARTY 2",
