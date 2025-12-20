@@ -1,13 +1,20 @@
-// Generated on 12/20/2025, 01:45:02 (EST)
-// Total records: 1860
+// Generated on 12/20/2025, 02:00:02 (EST)
+// Total records: 1861
 
 export const games = [
   {
-    "id": "1f7f834e-c6df-41ff-abdd-ed4ff53bbf7a",
+    "id": "a8e2e650-4c3a-4154-a7d2-32b53c6dd6a5",
+    "name": "Trial",
+    "creatorId": "117381556635154579080",
+    "creatorLastName": "Pidu",
+    "createdAt": "12/20/2025, 01:58:15"
+  },
+  {
+    "id": "72a6f70c-a430-448e-9045-3f3d1f251a3d",
     "name": "Game 2",
     "creatorId": "115361726724032063073",
     "creatorLastName": "Sozalo",
-    "createdAt": "12/20/2025, 01:44:21"
+    "createdAt": "12/20/2025, 01:46:15"
   },
   {
     "id": "de9c1467-3a13-4357-acc1-b932a94d1889",
