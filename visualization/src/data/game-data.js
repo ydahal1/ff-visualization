@@ -1,7 +1,21 @@
-// Generated on 12/20/2025, 01:00:03 (EST)
-// Total records: 1860
+// Generated on 12/20/2025, 01:15:02 (EST)
+// Total records: 1858
 
 export const games = [
+  {
+    "id": "373fa3b8-384f-4db1-9df1-f9da99e4044d",
+    "name": "CHRISTMAS FAMILY FEUD",
+    "creatorId": "108107197274210184248",
+    "creatorLastName": "Corpuz",
+    "createdAt": "12/20/2025, 01:11:16"
+  },
+  {
+    "id": "e6fa159c-1432-48fe-8506-68f837aaa615",
+    "name": "CHRISTMAS FEUD",
+    "creatorId": "108107197274210184248",
+    "creatorLastName": "Corpuz",
+    "createdAt": "12/20/2025, 01:10:24"
+  },
   {
     "id": "59f626ee-d715-46f4-b3b6-0b857e990660",
     "name": "Christmas Edition",
@@ -2362,13 +2376,6 @@ export const games = [
     "createdAt": "12/14/2025, 24:08:24"
   },
   {
-    "id": "b7740cb1-5ad2-45aa-8bf9-c27b41491ed2",
-    "name": "1",
-    "creatorId": "115361726724032063073",
-    "creatorLastName": "Sozalo",
-    "createdAt": "12/13/2025, 23:22:22"
-  },
-  {
     "id": "0e5084e7-c330-4254-abe7-080f6ef4783e",
     "name": "Family Feud",
     "creatorId": "103894625949105735327",
@@ -2733,13 +2740,6 @@ export const games = [
     "createdAt": "12/13/2025, 09:14:47"
   },
   {
-    "id": "cc2057d7-5fd3-420a-bd80-f948dfb9c871",
-    "name": "Game",
-    "creatorId": "115361726724032063073",
-    "creatorLastName": "Sozalo",
-    "createdAt": "12/13/2025, 07:37:28"
-  },
-  {
     "id": "7a06032c-86c2-4fec-920b-35dae606efb8",
     "name": "Christmas Party",
     "creatorId": "103357583955281920209",
@@ -2752,20 +2752,6 @@ export const games = [
     "creatorId": "107984976614315230433",
     "creatorLastName": "Jackson",
     "createdAt": "12/13/2025, 07:16:57"
-  },
-  {
-    "id": "1dd68b70-5191-4b4e-8045-6bf379d514d2",
-    "name": "Congregation game",
-    "creatorId": "115361726724032063073",
-    "creatorLastName": "Sozalo",
-    "createdAt": "12/13/2025, 06:28:59"
-  },
-  {
-    "id": "e743e849-0317-49ec-93b3-bbffb806e09f",
-    "name": "Entry",
-    "creatorId": "115361726724032063073",
-    "creatorLastName": "Sozalo",
-    "createdAt": "12/13/2025, 06:26:27"
   },
   {
     "id": "590792b0-291e-4d43-a6a8-1139236c36a6",
