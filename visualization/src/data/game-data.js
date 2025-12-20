@@ -1,7 +1,14 @@
-// Generated on 12/19/2025, 23:45:03 (EST)
-// Total records: 1857
+// Generated on 12/20/2025, 24:00:02 (EST)
+// Total records: 1858
 
 export const games = [
+  {
+    "id": "888cd7fd-16d7-46c9-83fa-5d9b16468ff9",
+    "name": "fe",
+    "creatorId": "102991668242645460459",
+    "creatorLastName": "Sabog",
+    "createdAt": "12/19/2025, 23:51:18"
+  },
   {
     "id": "dba4ceb4-03c4-4d39-820c-ba4104e233cf",
     "name": "SportsFlex",
