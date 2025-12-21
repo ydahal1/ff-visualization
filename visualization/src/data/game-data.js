@@ -1,7 +1,14 @@
-// Generated on 12/21/2025, 09:45:02 (EST)
-// Total records: 1921
+// Generated on 12/21/2025, 10:00:01 (EST)
+// Total records: 1922
 
 export const games = [
+  {
+    "id": "1e49232b-0b91-4702-b8a1-28e5c721ca55",
+    "name": "BQ Christmas Jeopardy #2",
+    "creatorId": "100379614844806627169",
+    "creatorLastName": "Dawit",
+    "createdAt": "12/21/2025, 09:56:42"
+  },
   {
     "id": "870f2113-ba98-4293-82c3-6d78369498b5",
     "name": "BQ Christmas Jeopardy #1",
