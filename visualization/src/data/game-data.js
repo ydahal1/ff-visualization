@@ -1,7 +1,14 @@
-// Generated on 12/21/2025, 08:00:02 (EST)
-// Total records: 1922
+// Generated on 12/21/2025, 08:15:02 (EST)
+// Total records: 1923
 
 export const games = [
+  {
+    "id": "31ce99e6-89e2-4276-a382-be9808a3ad5b",
+    "name": "Naujieji",
+    "creatorId": "116892304922548547097",
+    "creatorLastName": "Čerapaitė",
+    "createdAt": "12/21/2025, 08:09:06"
+  },
   {
     "id": "7b1ff5d9-f950-4e00-9579-224fef61f2ec",
     "name": "Blue VS Red",
