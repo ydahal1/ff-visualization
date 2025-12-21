@@ -1,7 +1,14 @@
-// Generated on 12/21/2025, 14:30:02 (EST)
-// Total records: 1939
+// Generated on 12/21/2025, 14:45:01 (EST)
+// Total records: 1940
 
 export const games = [
+  {
+    "id": "253b42f3-180a-4a97-bca7-86fd44e2dd68",
+    "name": "Final Game",
+    "creatorId": "115727805259758222576",
+    "creatorLastName": "Nason",
+    "createdAt": "12/21/2025, 14:34:19"
+  },
   {
     "id": "cf468b8b-f027-4a33-870d-bf1d961ef827",
     "name": "Nason family",
