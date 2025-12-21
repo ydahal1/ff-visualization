@@ -1,7 +1,14 @@
-// Generated on 12/21/2025, 10:00:01 (EST)
-// Total records: 1922
+// Generated on 12/21/2025, 10:15:02 (EST)
+// Total records: 1923
 
 export const games = [
+  {
+    "id": "44664417-f712-4c1f-9d17-27b59620146d",
+    "name": "Christmas Feud - Game 1",
+    "creatorId": "106369510024346232906",
+    "creatorLastName": "Blaul",
+    "createdAt": "12/21/2025, 10:05:41"
+  },
   {
     "id": "1e49232b-0b91-4702-b8a1-28e5c721ca55",
     "name": "BQ Christmas Jeopardy #2",
