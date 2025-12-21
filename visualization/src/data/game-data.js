@@ -1,7 +1,42 @@
-// Generated on 12/20/2025, 19:30:01 (EST)
-// Total records: 1887
+// Generated on 12/20/2025, 19:45:02 (EST)
+// Total records: 1892
 
 export const games = [
+  {
+    "id": "c90bedf3-8311-41fb-bf24-b88d35a48722",
+    "name": "Guys Face Off 2",
+    "creatorId": "116625968663009404345",
+    "creatorLastName": "Dukes",
+    "createdAt": "12/20/2025, 19:43:41"
+  },
+  {
+    "id": "611afcff-48e7-4cc4-9f31-6ab4c49138c5",
+    "name": "Set 1",
+    "creatorId": "107694301819458498173",
+    "creatorLastName": "Chu",
+    "createdAt": "12/20/2025, 19:43:38"
+  },
+  {
+    "id": "200a6332-41a4-488b-94cf-578ada95999c",
+    "name": "Guys Face Off 1",
+    "creatorId": "116625968663009404345",
+    "creatorLastName": "Dukes",
+    "createdAt": "12/20/2025, 19:40:50"
+  },
+  {
+    "id": "136bb5fe-866d-462e-a092-91570efea5b0",
+    "name": "Holiday day Fun",
+    "creatorId": "100909982075441742270",
+    "creatorLastName": "Herion",
+    "createdAt": "12/20/2025, 19:34:10"
+  },
+  {
+    "id": "c934719d-6a9e-4059-a6f0-59a7e16b24dd",
+    "name": "Prasla Family Feud",
+    "creatorId": "111261603783354571639",
+    "creatorLastName": "Maneshia",
+    "createdAt": "12/20/2025, 19:30:36"
+  },
   {
     "id": "a62b4ee7-0822-47b1-aa70-4f786bbe3435",
     "name": "ROUND 1 XMAS",
