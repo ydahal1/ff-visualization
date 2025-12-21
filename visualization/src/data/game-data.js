@@ -1,7 +1,14 @@
-// Generated on 12/21/2025, 13:30:01 (EST)
-// Total records: 1934
+// Generated on 12/21/2025, 13:45:02 (EST)
+// Total records: 1935
 
 export const games = [
+  {
+    "id": "bfdd4b82-b2d8-4f5a-a569-8d3015c06c64",
+    "name": "Semi Finals 2",
+    "creatorId": "100379614844806627169",
+    "creatorLastName": "Dawit",
+    "createdAt": "12/21/2025, 13:44:24"
+  },
   {
     "id": "21f57156-ce7c-4449-b924-fe067f7f7d45",
     "name": "Semi Finals",
