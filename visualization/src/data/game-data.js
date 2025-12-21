@@ -1,7 +1,21 @@
-// Generated on 12/20/2025, 19:45:02 (EST)
-// Total records: 1892
+// Generated on 12/20/2025, 20:00:02 (EST)
+// Total records: 1894
 
 export const games = [
+  {
+    "id": "e9e4bb39-c1d0-48e8-964c-ee7b32cf5964",
+    "name": "Company Feud",
+    "creatorId": "115281175492860447251",
+    "creatorLastName": "Ellar-Gil",
+    "createdAt": "12/20/2025, 19:53:36"
+  },
+  {
+    "id": "ced909c9-5f51-4a31-95c8-2a0a73e747ca",
+    "name": "Game 1",
+    "creatorId": "107818683060212445319",
+    "creatorLastName": "Loyal",
+    "createdAt": "12/20/2025, 19:50:42"
+  },
   {
     "id": "c90bedf3-8311-41fb-bf24-b88d35a48722",
     "name": "Guys Face Off 2",
