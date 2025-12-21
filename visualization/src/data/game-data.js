@@ -1,7 +1,14 @@
-// Generated on 12/21/2025, 13:45:02 (EST)
-// Total records: 1935
+// Generated on 12/21/2025, 14:00:02 (EST)
+// Total records: 1936
 
 export const games = [
+  {
+    "id": "b2867962-badf-47f2-b290-f0153083045e",
+    "name": "Family Feud (xmas edition)",
+    "creatorId": "109730250495808082296",
+    "creatorLastName": "Ceballos",
+    "createdAt": "12/21/2025, 13:45:24"
+  },
   {
     "id": "bfdd4b82-b2d8-4f5a-a569-8d3015c06c64",
     "name": "Semi Finals 2",
