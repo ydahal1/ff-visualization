@@ -1,5 +1,5 @@
-// Generated on 12/21/2025, 09:15:02 (EST)
-// Total records: 1923
+// Generated on 12/21/2025, 09:30:02 (EST)
+// Total records: 1920
 
 export const games = [
   {
@@ -2635,25 +2635,11 @@ export const games = [
     "createdAt": "12/14/2025, 14:58:21"
   },
   {
-    "id": "957f9fcf-eaa7-4d18-8a47-6e1900b0a2bb",
-    "name": "Christmas Feud - Game 4",
-    "creatorId": "106369510024346232906",
-    "creatorLastName": "Blaul",
-    "createdAt": "12/14/2025, 14:29:56"
-  },
-  {
     "id": "89b254c3-898b-4309-ae6c-e513443863d4",
     "name": "Radiant Christmas Party",
     "creatorId": "107419577245396437998",
     "creatorLastName": "Man",
     "createdAt": "12/14/2025, 14:11:24"
-  },
-  {
-    "id": "860bd5d6-2959-4c6c-a7c0-9de39f639667",
-    "name": "Christmas Feud - Game 2",
-    "creatorId": "106369510024346232906",
-    "creatorLastName": "Blaul",
-    "createdAt": "12/14/2025, 14:01:39"
   },
   {
     "id": "1c5ff421-547f-43df-ab9e-a9986316e4b5",
@@ -3795,13 +3781,6 @@ export const games = [
     "creatorId": "112254512470890694505",
     "creatorLastName": "Gruszczyk",
     "createdAt": "12/12/2025, 01:49:16"
-  },
-  {
-    "id": "ad0ee633-2ccf-4c21-8be8-c1a237c87908",
-    "name": "Christmas Feud - Game 1",
-    "creatorId": "106369510024346232906",
-    "creatorLastName": "Blaul",
-    "createdAt": "12/12/2025, 01:25:47"
   },
   {
     "id": "0bd68150-0a02-40c3-9b1e-c62748ceb405",
