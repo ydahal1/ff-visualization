@@ -1,7 +1,14 @@
-// Generated on 12/21/2025, 15:00:02 (EST)
-// Total records: 1940
+// Generated on 12/21/2025, 15:15:01 (EST)
+// Total records: 1941
 
 export const games = [
+  {
+    "id": "be7e77e8-a60c-4518-bbca-f4e46cdc5aae",
+    "name": "sdffsdf",
+    "creatorId": "101098743448677369208",
+    "creatorLastName": "Vasiliauskas",
+    "createdAt": "12/21/2025, 15:01:16"
+  },
   {
     "id": "253b42f3-180a-4a97-bca7-86fd44e2dd68",
     "name": "Final Game",
