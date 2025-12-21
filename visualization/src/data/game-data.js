@@ -1,55 +1,27 @@
-// Generated on 12/21/2025, 05:45:02 (EST)
-// Total records: 1924
+// Generated on 12/21/2025, 06:00:01 (EST)
+// Total records: 1920
 
 export const games = [
+  {
+    "id": "aac422f8-79f4-421d-a283-c2d6a5ecfd30",
+    "name": "Obli Family Feud (HARD)",
+    "creatorId": "101652036433029990590",
+    "creatorLastName": "Dog",
+    "createdAt": "12/21/2025, 05:51:35"
+  },
+  {
+    "id": "2aab5258-6c5d-4f29-84d6-5bd9149cd1a3",
+    "name": "Obli Family Feud (Easy & Medium)",
+    "creatorId": "101652036433029990590",
+    "creatorLastName": "Dog",
+    "createdAt": "12/21/2025, 05:50:49"
+  },
   {
     "id": "bda4507e-d597-4315-9279-fb8a3dfa385e",
     "name": "LEADER BOARD ROUND",
     "creatorId": "101652036433029990590",
     "creatorLastName": "Dog",
     "createdAt": "12/21/2025, 05:36:46"
-  },
-  {
-    "id": "a7350089-d80f-4dc3-8a56-e5396572d4e8",
-    "name": "HARD 3",
-    "creatorId": "101652036433029990590",
-    "creatorLastName": "Dog",
-    "createdAt": "12/21/2025, 05:29:16"
-  },
-  {
-    "id": "cdaca764-4e46-4548-845a-d87640dc2c5a",
-    "name": "HARD 2",
-    "creatorId": "101652036433029990590",
-    "creatorLastName": "Dog",
-    "createdAt": "12/21/2025, 05:28:19"
-  },
-  {
-    "id": "dc3e9849-c9e6-4e14-b7ed-7cb34df2c63b",
-    "name": "HARD ROUND 1",
-    "creatorId": "101652036433029990590",
-    "creatorLastName": "Dog",
-    "createdAt": "12/21/2025, 05:27:30"
-  },
-  {
-    "id": "f729427d-7ba6-40b4-b41b-4193c315e921",
-    "name": "Obli Family Feud 3",
-    "creatorId": "101652036433029990590",
-    "creatorLastName": "Dog",
-    "createdAt": "12/21/2025, 05:20:27"
-  },
-  {
-    "id": "3d931a18-b8a0-4e43-a7fb-8c4656b91b92",
-    "name": "Obli Family Feud 2",
-    "creatorId": "101652036433029990590",
-    "creatorLastName": "Dog",
-    "createdAt": "12/21/2025, 05:19:14"
-  },
-  {
-    "id": "33af66c6-c4a0-464b-8922-ac936802d6d9",
-    "name": "Obli Family Feud",
-    "creatorId": "101652036433029990590",
-    "creatorLastName": "Dog",
-    "createdAt": "12/21/2025, 05:16:55"
   },
   {
     "id": "debb8a5c-c84f-4ab7-a0b4-554076586283",
