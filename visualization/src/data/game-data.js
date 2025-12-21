@@ -1,7 +1,14 @@
-// Generated on 12/21/2025, 24:00:02 (EST)
-// Total records: 1914
+// Generated on 12/21/2025, 24:15:02 (EST)
+// Total records: 1915
 
 export const games = [
+  {
+    "id": "d1c35c90-3b9c-4210-8d22-f67853aaee00",
+    "name": "game 1",
+    "creatorId": "113923616960329622841",
+    "creatorLastName": "Mendez",
+    "createdAt": "12/21/2025, 24:12:41"
+  },
   {
     "id": "57a2fc39-3680-42e1-9982-8d7122564ee3",
     "name": "Chanukah Round 3",
