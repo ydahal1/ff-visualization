@@ -1,7 +1,14 @@
-// Generated on 12/20/2025, 21:00:01 (EST)
-// Total records: 1898
+// Generated on 12/20/2025, 21:15:01 (EST)
+// Total records: 1899
 
 export const games = [
+  {
+    "id": "107364fb-ffbd-4e57-80d5-5950c1813097",
+    "name": "Fast Money",
+    "creatorId": "116625968663009404345",
+    "creatorLastName": "Dukes",
+    "createdAt": "12/20/2025, 21:09:42"
+  },
   {
     "id": "85b1b96c-b9c9-4813-beb2-568406b07c14",
     "name": "Family fued 3",
