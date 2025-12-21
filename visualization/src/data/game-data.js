@@ -1,7 +1,21 @@
-// Generated on 12/21/2025, 12:45:02 (EST)
-// Total records: 1931
+// Generated on 12/21/2025, 13:00:02 (EST)
+// Total records: 1933
 
 export const games = [
+  {
+    "id": "7177f717-c5bd-447f-80a9-2eaead0ac6ca",
+    "name": "Game 3",
+    "creatorId": "100379614844806627169",
+    "creatorLastName": "Dawit",
+    "createdAt": "12/21/2025, 12:56:02"
+  },
+  {
+    "id": "d00af4f6-ac15-47cd-9061-3299e21cf9e4",
+    "name": "Christmas Games",
+    "creatorId": "114449939236897277170",
+    "creatorLastName": "de Guzman",
+    "createdAt": "12/21/2025, 12:45:13"
+  },
   {
     "id": "8fb21e14-1281-4ac5-b9f6-faf533bfde02",
     "name": "Round 5",
