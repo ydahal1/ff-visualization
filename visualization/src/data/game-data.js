@@ -1,7 +1,28 @@
-// Generated on 12/20/2025, 20:45:02 (EST)
-// Total records: 1895
+// Generated on 12/20/2025, 21:00:01 (EST)
+// Total records: 1898
 
 export const games = [
+  {
+    "id": "85b1b96c-b9c9-4813-beb2-568406b07c14",
+    "name": "Family fued 3",
+    "creatorId": "110530485963561727442",
+    "creatorLastName": "Grunfeld",
+    "createdAt": "12/20/2025, 20:54:20"
+  },
+  {
+    "id": "5a718ecd-7cc3-4b11-8ccc-d8ed383d889c",
+    "name": "Family Fued 2",
+    "creatorId": "110530485963561727442",
+    "creatorLastName": "Grunfeld",
+    "createdAt": "12/20/2025, 20:49:16"
+  },
+  {
+    "id": "e2d359ae-425d-4936-b2fe-e00a60689e30",
+    "name": "Family Fued 1",
+    "creatorId": "110530485963561727442",
+    "creatorLastName": "Grunfeld",
+    "createdAt": "12/20/2025, 20:47:46"
+  },
   {
     "id": "7c133ebd-9888-435a-b10a-6a201248ec05",
     "name": "Final Round",
