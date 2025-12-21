@@ -1,7 +1,21 @@
-// Generated on 12/21/2025, 14:00:02 (EST)
-// Total records: 1936
+// Generated on 12/21/2025, 14:15:02 (EST)
+// Total records: 1938
 
 export const games = [
+  {
+    "id": "782e02e1-af2a-41d8-8860-2b30c681b490",
+    "name": "Xmas edition",
+    "creatorId": "109730250495808082296",
+    "creatorLastName": "Ceballos",
+    "createdAt": "12/21/2025, 14:14:25"
+  },
+  {
+    "id": "2166f80c-e8b0-4bf9-92a2-33ad70b0fea3",
+    "name": "Finals",
+    "creatorId": "100379614844806627169",
+    "creatorLastName": "Dawit",
+    "createdAt": "12/21/2025, 14:03:59"
+  },
   {
     "id": "b2867962-badf-47f2-b290-f0153083045e",
     "name": "Family Feud (xmas edition)",
