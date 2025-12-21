@@ -1,7 +1,21 @@
-// Generated on 12/21/2025, 13:15:02 (EST)
-// Total records: 1933
+// Generated on 12/21/2025, 13:30:01 (EST)
+// Total records: 1934
 
 export const games = [
+  {
+    "id": "21f57156-ce7c-4449-b924-fe067f7f7d45",
+    "name": "Semi Finals",
+    "creatorId": "100379614844806627169",
+    "creatorLastName": "Dawit",
+    "createdAt": "12/21/2025, 13:23:48"
+  },
+  {
+    "id": "6fc1d202-a159-4540-a3f8-d93b69864a0b",
+    "name": "Nason family 1",
+    "creatorId": "115727805259758222576",
+    "creatorLastName": "Nason",
+    "createdAt": "12/21/2025, 13:16:19"
+  },
   {
     "id": "7177f717-c5bd-447f-80a9-2eaead0ac6ca",
     "name": "Game 3",
@@ -533,13 +547,6 @@ export const games = [
     "creatorId": "101778217818171875390",
     "creatorLastName": "Harris",
     "createdAt": "12/20/2025, 12:14:31"
-  },
-  {
-    "id": "4fda5ea4-b519-4639-829d-7b26828f232a",
-    "name": "Nason family",
-    "creatorId": "115727805259758222576",
-    "creatorLastName": "Nason",
-    "createdAt": "12/20/2025, 12:01:22"
   },
   {
     "id": "e5ef8181-e009-4554-9e48-70b393a055d9",
