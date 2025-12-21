@@ -1,7 +1,21 @@
-// Generated on 12/20/2025, 22:15:01 (EST)
-// Total records: 1903
+// Generated on 12/20/2025, 22:30:02 (EST)
+// Total records: 1905
 
 export const games = [
+  {
+    "id": "737a1de0-d5e7-443d-8ede-def2c0723373",
+    "name": "Lexys special",
+    "creatorId": "111822956299458962628",
+    "creatorLastName": "Richards",
+    "createdAt": "12/20/2025, 22:25:04"
+  },
+  {
+    "id": "36da298f-8d13-400d-ad5a-05742baa7078",
+    "name": "Game2",
+    "creatorId": "116096930321968083412",
+    "creatorLastName": "Stewart",
+    "createdAt": "12/20/2025, 22:16:48"
+  },
   {
     "id": "d503cbe0-373d-40e3-bf91-fada4e5895b3",
     "name": "For audience",
