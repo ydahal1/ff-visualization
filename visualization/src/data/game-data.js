@@ -1,7 +1,14 @@
-// Generated on 12/21/2025, 07:45:02 (EST)
-// Total records: 1921
+// Generated on 12/21/2025, 08:00:02 (EST)
+// Total records: 1922
 
 export const games = [
+  {
+    "id": "7b1ff5d9-f950-4e00-9579-224fef61f2ec",
+    "name": "Blue VS Red",
+    "creatorId": "107590772739724587806",
+    "creatorLastName": "tiglao",
+    "createdAt": "12/21/2025, 07:52:23"
+  },
   {
     "id": "04b995c0-ca64-476e-b1e3-8b256860306f",
     "name": "BAHO NI GUIN",
