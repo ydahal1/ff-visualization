@@ -1,7 +1,21 @@
-// Generated on 12/21/2025, 21:30:02 (EST)
-// Total records: 1974
+// Generated on 12/21/2025, 21:45:02 (EST)
+// Total records: 1976
 
 export const games = [
+  {
+    "id": "a76c8f0a-eadd-49c3-a65a-9403a1a0e321",
+    "name": "Family Fued",
+    "creatorId": "116625968663009404345",
+    "creatorLastName": "Dukes",
+    "createdAt": "12/21/2025, 21:41:23"
+  },
+  {
+    "id": "71c0be46-ff89-43c1-8064-cf4b2eddaefb",
+    "name": "SURIANO 1",
+    "creatorId": "118423766932702038019",
+    "creatorLastName": "Suriano",
+    "createdAt": "12/21/2025, 21:41:15"
+  },
   {
     "id": "3cbda4dc-f880-472d-a8b0-a4bbd3bcc0e3",
     "name": "TAYLOR-KIAZOLU FAMILY FEUD",
