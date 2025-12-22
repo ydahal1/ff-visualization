@@ -1,7 +1,14 @@
-// Generated on 12/22/2025, 18:00:03 (EST)
-// Total records: 2023
+// Generated on 12/22/2025, 18:15:02 (EST)
+// Total records: 2024
 
 export const games = [
+  {
+    "id": "6c9a18fc-5ac5-4817-b4fa-2e38c6aaa4eb",
+    "name": "xmas game",
+    "creatorId": "106077007795699945657",
+    "creatorLastName": "Yaromich",
+    "createdAt": "12/22/2025, 18:13:36"
+  },
   {
     "id": "6464f6ed-3f93-404a-84c0-752001e4e5ad",
     "name": "El grinch",
