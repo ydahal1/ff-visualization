@@ -1,7 +1,14 @@
-// Generated on 12/21/2025, 19:00:02 (EST)
-// Total records: 1948
+// Generated on 12/21/2025, 19:15:02 (EST)
+// Total records: 1949
 
 export const games = [
+  {
+    "id": "63a1a618-b208-414c-aca6-144aaa59736f",
+    "name": "Company Fued",
+    "creatorId": "102975845832086287456",
+    "creatorLastName": "Aliparo",
+    "createdAt": "12/21/2025, 19:07:02"
+  },
   {
     "id": "b3ca4cc7-574b-459f-af8f-9922966695c6",
     "name": "Xmas edition pt 2",
