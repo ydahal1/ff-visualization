@@ -1,7 +1,21 @@
-// Generated on 12/22/2025, 12:45:02 (EST)
-// Total records: 2007
+// Generated on 12/22/2025, 13:00:02 (EST)
+// Total records: 2009
 
 export const games = [
+  {
+    "id": "d8915d6c-a4c2-4c88-8ae5-49a87876b869",
+    "name": "Christmas EVE",
+    "creatorId": "105230532361052392035",
+    "creatorLastName": "Hagans",
+    "createdAt": "12/22/2025, 12:56:37"
+  },
+  {
+    "id": "d06f3ffc-cf18-467e-a2b2-cf5fb816d3d7",
+    "name": "Juegos Navidenos 2025",
+    "creatorId": "106046070510423714696",
+    "creatorLastName": "Camargo G",
+    "createdAt": "12/22/2025, 12:50:45"
+  },
   {
     "id": "f975d68b-6b41-463d-b43e-0188a64c9cb1",
     "name": "game name",
