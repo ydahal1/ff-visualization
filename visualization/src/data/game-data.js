@@ -1,7 +1,14 @@
-// Generated on 12/21/2025, 22:30:02 (EST)
-// Total records: 1979
+// Generated on 12/21/2025, 22:45:02 (EST)
+// Total records: 1980
 
 export const games = [
+  {
+    "id": "e1f32246-bda2-4c13-9657-a97f7626a785",
+    "name": "Year-End Party and Team Building",
+    "creatorId": "114510935752210217797",
+    "creatorLastName": "Panoso",
+    "createdAt": "12/21/2025, 22:30:31"
+  },
   {
     "id": "f836ebdb-6f30-49ea-8112-ef50a7f33f98",
     "name": "Christmas Bash Game 2",
