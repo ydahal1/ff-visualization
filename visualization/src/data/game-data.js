@@ -1,7 +1,21 @@
-// Generated on 12/22/2025, 12:00:02 (EST)
-// Total records: 2001
+// Generated on 12/22/2025, 12:15:01 (EST)
+// Total records: 2003
 
 export const games = [
+  {
+    "id": "a703c79a-247b-4e03-ac17-3d6dc6f86619",
+    "name": "Christmas Game 1",
+    "creatorId": "106107956162003397522",
+    "creatorLastName": "Taylor",
+    "createdAt": "12/22/2025, 12:09:45"
+  },
+  {
+    "id": "d943a873-7898-48ce-b742-0957f5aad024",
+    "name": "Because Black People Feud",
+    "creatorId": "112950893146666766597",
+    "creatorLastName": "Ellis",
+    "createdAt": "12/22/2025, 12:00:22"
+  },
   {
     "id": "07b6c8d5-4117-4aaa-916c-008caffa0351",
     "name": "Christmas",
