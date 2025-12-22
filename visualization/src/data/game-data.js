@@ -1,14 +1,7 @@
-// Generated on 12/22/2025, 04:00:02 (EST)
-// Total records: 1985
+// Generated on 12/22/2025, 04:15:02 (EST)
+// Total records: 1984
 
 export const games = [
-  {
-    "id": "1d284da2-c358-4643-bd36-ea411d9aa6fa",
-    "name": "Test Game",
-    "creatorId": "112029330998430535811",
-    "creatorLastName": "Ramos-Escobar",
-    "createdAt": "12/22/2025, 03:59:14"
-  },
   {
     "id": "50777c01-b773-43fe-86d9-235f8bad5944",
     "name": "tkb",
