@@ -1,7 +1,14 @@
-// Generated on 12/22/2025, 02:15:01 (EST)
+// Generated on 12/22/2025, 02:30:02 (EST)
 // Total records: 1981
 
 export const games = [
+  {
+    "id": "2501402e-7d1f-4bae-9b40-2cee1562d7eb",
+    "name": "TROLLSFUED",
+    "creatorId": "101708136837818638723",
+    "creatorLastName": "Spilotras",
+    "createdAt": "12/22/2025, 02:21:12"
+  },
   {
     "id": "d90184bf-60eb-4375-bd7d-518cc53d983d",
     "name": "test",
@@ -2808,13 +2815,6 @@ export const games = [
     "creatorId": "113428679535865115633",
     "creatorLastName": "Komen",
     "createdAt": "12/15/2025, 24:05:50"
-  },
-  {
-    "id": "5bc79f17-ebf7-4beb-9232-d9f715ffc0da",
-    "name": "TROLLS FEUD",
-    "creatorId": "101708136837818638723",
-    "creatorLastName": "Spilotras",
-    "createdAt": "12/14/2025, 23:27:57"
   },
   {
     "id": "863baa69-b9c1-421d-adbb-a8007ba19375",
