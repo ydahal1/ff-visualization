@@ -1,7 +1,21 @@
-// Generated on 12/21/2025, 20:30:01 (EST)
-// Total records: 1970
+// Generated on 12/21/2025, 20:45:01 (EST)
+// Total records: 1972
 
 export const games = [
+  {
+    "id": "2881fd0f-3eda-412f-9b88-be2bb2e382ce",
+    "name": "Allos feud",
+    "creatorId": "106960420652989872510",
+    "creatorLastName": "Allos",
+    "createdAt": "12/21/2025, 20:40:53"
+  },
+  {
+    "id": "2fef5191-e611-467c-9cf5-6f2e4293676b",
+    "name": "Allos Christmas",
+    "creatorId": "106960420652989872510",
+    "creatorLastName": "Allos",
+    "createdAt": "12/21/2025, 20:33:14"
+  },
   {
     "id": "87acf255-dda5-4bd4-a17d-15c75d83395a",
     "name": "Demo Game",
