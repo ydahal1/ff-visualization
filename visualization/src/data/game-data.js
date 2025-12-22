@@ -1,7 +1,14 @@
-// Generated on 12/21/2025, 21:00:02 (EST)
-// Total records: 1972
+// Generated on 12/21/2025, 21:15:03 (EST)
+// Total records: 1973
 
 export const games = [
+  {
+    "id": "b5e911ff-1abc-49fd-bda1-e9574a37a2b1",
+    "name": "GAME 1",
+    "creatorId": "107921595856369228109",
+    "creatorLastName": "george",
+    "createdAt": "12/21/2025, 21:03:55"
+  },
   {
     "id": "2881fd0f-3eda-412f-9b88-be2bb2e382ce",
     "name": "Allos feud",
