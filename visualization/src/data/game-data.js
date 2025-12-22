@@ -1,13 +1,20 @@
-// Generated on 12/21/2025, 22:00:02 (EST)
+// Generated on 12/21/2025, 22:15:02 (EST)
 // Total records: 1977
 
 export const games = [
   {
-    "id": "6679376b-37c9-4006-8380-58f43a92e592",
-    "name": "SURIANO 1",
-    "creatorId": "118423766932702038019",
-    "creatorLastName": "Suriano",
-    "createdAt": "12/21/2025, 21:59:44"
+    "id": "11db08db-e0f8-4b0d-bf15-a4108a6f64e8",
+    "name": "Christmas Bash Game 1",
+    "creatorId": "107973911451345107719",
+    "creatorLastName": "Flowers",
+    "createdAt": "12/21/2025, 22:14:05"
+  },
+  {
+    "id": "797c5463-5a45-4c7e-a8fc-845f51f71202",
+    "name": "TAYLOR-KIAZOLU FAMILY FEUD3",
+    "creatorId": "106107956162003397522",
+    "creatorLastName": "Taylor",
+    "createdAt": "12/21/2025, 22:06:57"
   },
   {
     "id": "d6ba50a6-913b-4e8d-9712-7a34e8550be1",
@@ -5328,13 +5335,6 @@ export const games = [
     "creatorId": "112645673725464523385",
     "creatorLastName": "Wentland",
     "createdAt": "12/08/2025, 21:49:13"
-  },
-  {
-    "id": "021ccb03-2a77-4b17-b297-31e139917dce",
-    "name": "XMAS PARTY",
-    "creatorId": "114510935752210217797",
-    "creatorLastName": "Panoso",
-    "createdAt": "12/08/2025, 21:44:23"
   },
   {
     "id": "1bec0c44-79bf-42b5-bfed-d94bed21a77a",
