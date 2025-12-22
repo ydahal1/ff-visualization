@@ -1,7 +1,28 @@
-// Generated on 12/22/2025, 15:00:02 (EST)
-// Total records: 2015
+// Generated on 12/22/2025, 15:15:02 (EST)
+// Total records: 2018
 
 export const games = [
+  {
+    "id": "d7f25ede-ec8a-409c-bb05-4d315ea41c39",
+    "name": "FAST MONEY",
+    "creatorId": "105230532361052392035",
+    "creatorLastName": "Hagans",
+    "createdAt": "12/22/2025, 15:06:25"
+  },
+  {
+    "id": "a8d12499-2bd9-45f6-9865-bc3c00aa042f",
+    "name": "HOLIDAY 2",
+    "creatorId": "104705083702604552572",
+    "creatorLastName": "Edwards",
+    "createdAt": "12/22/2025, 15:05:32"
+  },
+  {
+    "id": "fa9e1426-d9e9-4aa4-9416-c236c47f1473",
+    "name": "HOLIDAY 1",
+    "creatorId": "104705083702604552572",
+    "creatorLastName": "Edwards",
+    "createdAt": "12/22/2025, 15:04:16"
+  },
   {
     "id": "e5994f9d-91c5-47fc-b592-7141d46417ea",
     "name": "Round 3",
