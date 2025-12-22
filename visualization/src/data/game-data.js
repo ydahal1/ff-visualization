@@ -1,7 +1,14 @@
-// Generated on 12/21/2025, 20:15:02 (EST)
-// Total records: 1969
+// Generated on 12/21/2025, 20:30:01 (EST)
+// Total records: 1970
 
 export const games = [
+  {
+    "id": "87acf255-dda5-4bd4-a17d-15c75d83395a",
+    "name": "Demo Game",
+    "creatorId": "106369510024346232906",
+    "creatorLastName": "Blaul",
+    "createdAt": "12/21/2025, 20:23:26"
+  },
   {
     "id": "9fe5cefc-574e-4e48-b31d-0307b877d43d",
     "name": "Christmas Family feud 20",
