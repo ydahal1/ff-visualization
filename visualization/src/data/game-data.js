@@ -1,7 +1,21 @@
-// Generated on 12/22/2025, 02:30:02 (EST)
-// Total records: 1981
+// Generated on 12/22/2025, 02:45:02 (EST)
+// Total records: 1983
 
 export const games = [
+  {
+    "id": "30230087-31e1-43d9-8f7a-9058d09da939",
+    "name": "TROLLSFUED 3",
+    "creatorId": "101708136837818638723",
+    "creatorLastName": "Spilotras",
+    "createdAt": "12/22/2025, 02:43:41"
+  },
+  {
+    "id": "1ae5c4a7-3c2d-4854-a8ce-52112f706c1c",
+    "name": "TROLLSFUED 2",
+    "creatorId": "101708136837818638723",
+    "creatorLastName": "Spilotras",
+    "createdAt": "12/22/2025, 02:33:07"
+  },
   {
     "id": "2501402e-7d1f-4bae-9b40-2cee1562d7eb",
     "name": "TROLLSFUED",
