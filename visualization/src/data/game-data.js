@@ -1,7 +1,14 @@
-// Generated on 12/22/2025, 12:30:02 (EST)
-// Total records: 2006
+// Generated on 12/22/2025, 12:45:02 (EST)
+// Total records: 2007
 
 export const games = [
+  {
+    "id": "f975d68b-6b41-463d-b43e-0188a64c9cb1",
+    "name": "game name",
+    "creatorId": "100437419389548397948",
+    "creatorLastName": "Lemmi",
+    "createdAt": "12/22/2025, 12:35:45"
+  },
   {
     "id": "9b1c7e42-d8ba-4c15-abdb-10b26d57462a",
     "name": "Round 2",
