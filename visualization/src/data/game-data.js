@@ -1,7 +1,14 @@
-// Generated on 12/22/2025, 13:15:02 (EST)
-// Total records: 2009
+// Generated on 12/22/2025, 13:30:02 (EST)
+// Total records: 2010
 
 export const games = [
+  {
+    "id": "8e36f170-fb35-4907-bdd2-6d2122b3fdcc",
+    "name": "Christmas 2026",
+    "creatorId": "115671752733101397561",
+    "creatorLastName": "Clanton",
+    "createdAt": "12/22/2025, 13:19:45"
+  },
   {
     "id": "d8915d6c-a4c2-4c88-8ae5-49a87876b869",
     "name": "Christmas EVE",
