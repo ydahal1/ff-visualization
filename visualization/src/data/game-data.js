@@ -1,7 +1,14 @@
-// Generated on 12/22/2025, 16:15:02 (EST)
-// Total records: 2018
+// Generated on 12/22/2025, 16:30:03 (EST)
+// Total records: 2019
 
 export const games = [
+  {
+    "id": "2a4c5a5b-aab6-41f8-904e-0910b6eed54d",
+    "name": "TEST",
+    "creatorId": "113603564530284836651",
+    "creatorLastName": "Scheduler",
+    "createdAt": "12/22/2025, 16:17:10"
+  },
   {
     "id": "d7f25ede-ec8a-409c-bb05-4d315ea41c39",
     "name": "FAST MONEY",
