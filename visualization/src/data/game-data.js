@@ -1,13 +1,13 @@
-// Generated on 12/22/2025, 09:00:03 (EST)
+// Generated on 12/22/2025, 09:15:03 (EST)
 // Total records: 1992
 
 export const games = [
   {
-    "id": "27999f69-b124-43d7-86c4-04c067081ddf",
-    "name": "Masalar Yarışıyor",
+    "id": "fb52c3a3-c115-4bfa-ba98-4b4c130f1ce6",
+    "name": "deneme",
     "creatorId": "111046221958504967394",
     "creatorLastName": "test",
-    "createdAt": "12/22/2025, 08:47:59"
+    "createdAt": "12/22/2025, 09:02:13"
   },
   {
     "id": "4a16a5f5-6a1d-4045-9bbf-c614b1a9db9f",
