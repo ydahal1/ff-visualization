@@ -1,7 +1,21 @@
-// Generated on 12/22/2025, 05:30:01 (EST)
-// Total records: 1989
+// Generated on 12/22/2025, 05:45:01 (EST)
+// Total records: 1991
 
 export const games = [
+  {
+    "id": "4a16a5f5-6a1d-4045-9bbf-c614b1a9db9f",
+    "name": "JACKPOT ROUND FINAL",
+    "creatorId": "114510935752210217797",
+    "creatorLastName": "Panoso",
+    "createdAt": "12/22/2025, 05:39:02"
+  },
+  {
+    "id": "267f45b7-a600-42ea-aa88-24f8a226ac95",
+    "name": "JACKPOT ROUND",
+    "creatorId": "114510935752210217797",
+    "creatorLastName": "Panoso",
+    "createdAt": "12/22/2025, 05:35:10"
+  },
   {
     "id": "1a3b2f3e-4629-4acd-83d0-98fcf9c5827a",
     "name": "FINAL ROUND",
