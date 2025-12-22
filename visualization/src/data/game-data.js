@@ -1,7 +1,56 @@
-// Generated on 12/21/2025, 19:45:02 (EST)
-// Total records: 1962
+// Generated on 12/21/2025, 20:00:03 (EST)
+// Total records: 1969
 
 export const games = [
+  {
+    "id": "9fe5cefc-574e-4e48-b31d-0307b877d43d",
+    "name": "Christmas Family feud 20",
+    "creatorId": "102303594104484868394",
+    "creatorLastName": "Valiente",
+    "createdAt": "12/21/2025, 19:54:41"
+  },
+  {
+    "id": "c7cca377-35e1-4e74-90ca-e0747fa956c7",
+    "name": "Christmas Family feud 19",
+    "creatorId": "102303594104484868394",
+    "creatorLastName": "Valiente",
+    "createdAt": "12/21/2025, 19:53:50"
+  },
+  {
+    "id": "fb6366b9-5ccc-429e-a4a4-20df3ea17ec8",
+    "name": "Christmas 2025",
+    "creatorId": "112790735602076746823",
+    "creatorLastName": "Morstad",
+    "createdAt": "12/21/2025, 19:53:18"
+  },
+  {
+    "id": "0825af12-2566-42db-8ef6-78c3e8a440ee",
+    "name": "Christmas Family feud 18",
+    "creatorId": "102303594104484868394",
+    "creatorLastName": "Valiente",
+    "createdAt": "12/21/2025, 19:51:52"
+  },
+  {
+    "id": "b431b1a1-721d-4af7-beb7-a5a9647981a9",
+    "name": "Christmas Family feud 17",
+    "creatorId": "102303594104484868394",
+    "creatorLastName": "Valiente",
+    "createdAt": "12/21/2025, 19:50:34"
+  },
+  {
+    "id": "3a11e330-ff21-417f-ba6d-5b095c80ff42",
+    "name": "Christmas Family feud 16",
+    "creatorId": "102303594104484868394",
+    "creatorLastName": "Valiente",
+    "createdAt": "12/21/2025, 19:48:45"
+  },
+  {
+    "id": "ae24f69a-2b2e-4a6e-a05d-0a16cbef7647",
+    "name": "Christmas Family feud 15",
+    "creatorId": "102303594104484868394",
+    "creatorLastName": "Valiente",
+    "createdAt": "12/21/2025, 19:45:11"
+  },
   {
     "id": "aee789f4-7a32-4f1c-882e-b8e86a31d05e",
     "name": "Christmas Family feud 14",
