@@ -1,7 +1,14 @@
-// Generated on 12/23/2025, 18:15:02 (EST)
-// Total records: 2109
+// Generated on 12/23/2025, 18:30:03 (EST)
+// Total records: 2110
 
 export const games = [
+  {
+    "id": "39d14c6f-1455-4480-b8c8-50b9826f8133",
+    "name": "Knight Xmas",
+    "creatorId": "112156223776136072861",
+    "creatorLastName": "Wessel",
+    "createdAt": "12/23/2025, 18:27:17"
+  },
   {
     "id": "95567a21-1c4a-4e3b-8772-18b709f8ad0d",
     "name": "christmas",
