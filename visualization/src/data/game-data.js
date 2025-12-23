@@ -1,7 +1,35 @@
-// Generated on 12/22/2025, 22:30:01 (EST)
-// Total records: 2038
+// Generated on 12/22/2025, 22:45:01 (EST)
+// Total records: 2042
 
 export const games = [
+  {
+    "id": "2e63a82c-ed2c-419a-8bd6-a15aeaa20d37",
+    "name": "Holiday Feud #3",
+    "creatorId": "110139217547388406497",
+    "creatorLastName": "sarsfield",
+    "createdAt": "12/22/2025, 22:36:17"
+  },
+  {
+    "id": "5b75f65a-c1fd-4e7e-b943-7d6b3923e02b",
+    "name": "Garrett2",
+    "creatorId": "114933908473977573226",
+    "creatorLastName": "Varner",
+    "createdAt": "12/22/2025, 22:35:46"
+  },
+  {
+    "id": "01baeeac-a1af-4c70-a02e-d3157789745f",
+    "name": "Holiday Feud #2",
+    "creatorId": "110139217547388406497",
+    "creatorLastName": "sarsfield",
+    "createdAt": "12/22/2025, 22:35:28"
+  },
+  {
+    "id": "ff9bb522-1921-4c84-a443-afc7dd9b8cbc",
+    "name": "Holiday Feud #1",
+    "creatorId": "110139217547388406497",
+    "creatorLastName": "sarsfield",
+    "createdAt": "12/22/2025, 22:33:58"
+  },
   {
     "id": "b25a0381-ddd0-4697-853d-2f64f45bc118",
     "name": "1",
