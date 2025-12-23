@@ -1,7 +1,14 @@
-// Generated on 12/23/2025, 24:15:02 (EST)
-// Total records: 2050
+// Generated on 12/23/2025, 24:30:02 (EST)
+// Total records: 2051
 
 export const games = [
+  {
+    "id": "c408894d-5132-49a9-b434-13295309c478",
+    "name": "2025 XMAS",
+    "creatorId": "112481839888495185693",
+    "creatorLastName": "Varona Gonzalez",
+    "createdAt": "12/23/2025, 24:24:01"
+  },
   {
     "id": "66609278-5238-4610-942f-4562f9a8483e",
     "name": "test",
