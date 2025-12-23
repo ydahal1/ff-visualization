@@ -1,7 +1,21 @@
-// Generated on 12/22/2025, 21:00:01 (EST)
-// Total records: 2033
+// Generated on 12/22/2025, 21:15:02 (EST)
+// Total records: 2035
 
 export const games = [
+  {
+    "id": "217a65df-cb08-439b-9bdc-117e021a60ee",
+    "name": "Family Family Feud Pt. 0.5",
+    "creatorId": "110546000413608780912",
+    "creatorLastName": "Schoenike",
+    "createdAt": "12/22/2025, 21:06:12"
+  },
+  {
+    "id": "accfd646-c71a-4dcd-93af-fb15d8217c73",
+    "name": "Family Family Feud Pt. 1",
+    "creatorId": "110546000413608780912",
+    "creatorLastName": "Schoenike",
+    "createdAt": "12/22/2025, 21:03:53"
+  },
   {
     "id": "7c009f13-e5f4-403c-9d4f-7ac2cb1b6f08",
     "name": "Christmas Eve Game!",
