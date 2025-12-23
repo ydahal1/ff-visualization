@@ -1,7 +1,14 @@
-// Generated on 12/23/2025, 18:30:03 (EST)
+// Generated on 12/23/2025, 18:45:02 (EST)
 // Total records: 2110
 
 export const games = [
+  {
+    "id": "eda773d3-9abe-4a7b-863c-b628524894c0",
+    "name": "Holiday Party",
+    "creatorId": "114698734539070536925",
+    "creatorLastName": "Fleming",
+    "createdAt": "12/23/2025, 18:41:16"
+  },
   {
     "id": "39d14c6f-1455-4480-b8c8-50b9826f8133",
     "name": "Knight Xmas",
@@ -463,13 +470,6 @@ export const games = [
     "creatorId": "112481839888495185693",
     "creatorLastName": "Varona Gonzalez",
     "createdAt": "12/23/2025, 24:24:01"
-  },
-  {
-    "id": "66609278-5238-4610-942f-4562f9a8483e",
-    "name": "test",
-    "creatorId": "114698734539070536925",
-    "creatorLastName": "Fleming",
-    "createdAt": "12/22/2025, 23:38:20"
   },
   {
     "id": "63ed5b62-eadd-4701-a359-ed019834c772",
