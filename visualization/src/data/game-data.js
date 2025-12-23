@@ -1,7 +1,21 @@
-// Generated on 12/23/2025, 16:45:02 (EST)
-// Total records: 2098
+// Generated on 12/23/2025, 17:00:03 (EST)
+// Total records: 2100
 
 export const games = [
+  {
+    "id": "45e49ded-853e-4ecf-9fb2-6644d57694b3",
+    "name": "New Games (Holiday)?",
+    "creatorId": "105972556289124640687",
+    "creatorLastName": "Miller",
+    "createdAt": "12/23/2025, 16:55:48"
+  },
+  {
+    "id": "bcc3b414-bd9e-44c3-9cf0-cf2ac3dacdb8",
+    "name": "Christmas Eve Game 1",
+    "creatorId": "108737246969314686023",
+    "creatorLastName": "Missaghian",
+    "createdAt": "12/23/2025, 16:48:46"
+  },
   {
     "id": "dee3195b-14c5-4947-9cd1-af7b7b9aeb5a",
     "name": "test",
