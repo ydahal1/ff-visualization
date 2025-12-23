@@ -1,7 +1,21 @@
-// Generated on 12/22/2025, 23:15:01 (EST)
-// Total records: 2047
+// Generated on 12/22/2025, 23:30:02 (EST)
+// Total records: 2049
 
 export const games = [
+  {
+    "id": "63ed5b62-eadd-4701-a359-ed019834c772",
+    "name": "Young & Energetic",
+    "creatorId": "117104581736582207488",
+    "creatorLastName": "Lenton",
+    "createdAt": "12/22/2025, 23:23:22"
+  },
+  {
+    "id": "8b1d42ac-1e77-4419-9475-f41d8c0fa4c4",
+    "name": "Old & Wise",
+    "creatorId": "117104581736582207488",
+    "creatorLastName": "Lenton",
+    "createdAt": "12/22/2025, 23:18:45"
+  },
   {
     "id": "2b83561f-74bc-4225-84e2-9c905eb51ae2",
     "name": "6",
