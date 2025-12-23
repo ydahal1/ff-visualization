@@ -1,7 +1,12 @@
-// Generated on 12/23/2025, 05:00:00 (EST)
-// Total records: 1322
+// Generated on 12/23/2025, 05:15:00 (EST)
+// Total records: 1323
 
 export const users = [
+  {
+    "id": "103145219706212378434",
+    "lName": "Legaspi",
+    "createdAt": "12/23/2025, 05:09:55"
+  },
   {
     "id": "110064824067726190042",
     "lName": "MEYSULAO",
