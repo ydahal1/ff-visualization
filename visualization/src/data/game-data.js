@@ -1,7 +1,21 @@
-// Generated on 12/23/2025, 17:00:03 (EST)
-// Total records: 2100
+// Generated on 12/23/2025, 17:15:02 (EST)
+// Total records: 2102
 
 export const games = [
+  {
+    "id": "e8fdb932-1653-419e-be96-dc519502aab9",
+    "name": "Christmas Game",
+    "creatorId": "115957297818861190791",
+    "creatorLastName": "Dees",
+    "createdAt": "12/23/2025, 17:11:25"
+  },
+  {
+    "id": "082ba414-b28b-447d-a898-c96cb829689e",
+    "name": "Christmas Fun",
+    "creatorId": "103474767387950908857",
+    "creatorLastName": "Patterson",
+    "createdAt": "12/23/2025, 17:09:58"
+  },
   {
     "id": "45e49ded-853e-4ecf-9fb2-6644d57694b3",
     "name": "New Games (Holiday)?",
