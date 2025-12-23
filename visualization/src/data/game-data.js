@@ -1,7 +1,14 @@
-// Generated on 12/23/2025, 15:30:01 (EST)
-// Total records: 2083
+// Generated on 12/23/2025, 15:45:03 (EST)
+// Total records: 2084
 
 export const games = [
+  {
+    "id": "cf912205-6cf1-404e-a80e-b277d06f1c36",
+    "name": "Game 1",
+    "creatorId": "103657120874124366892",
+    "creatorLastName": "Williams",
+    "createdAt": "12/23/2025, 15:32:12"
+  },
   {
     "id": "ceef0d7c-bda0-4e72-aa96-82ccce13212c",
     "name": "Warm Up",
