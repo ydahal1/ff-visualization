@@ -1,7 +1,22 @@
-// Generated on 12/22/2025, 22:15:00 (EST)
-// Total records: 1311
+// Generated on 12/22/2025, 22:30:00 (EST)
+// Total records: 1314
 
 export const users = [
+  {
+    "id": "114933908473977573226",
+    "lName": "Varner",
+    "createdAt": "12/22/2025, 22:24:42"
+  },
+  {
+    "id": "115659436214609717626",
+    "lName": "64DS",
+    "createdAt": "12/22/2025, 22:23:41"
+  },
+  {
+    "id": "112394269950598734031",
+    "lName": "Luna",
+    "createdAt": "12/22/2025, 22:23:27"
+  },
   {
     "id": "116312373967365123149",
     "lName": "Zignego",
