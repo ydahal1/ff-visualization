@@ -1,20 +1,20 @@
-// Generated on 12/23/2025, 04:45:02 (EST)
+// Generated on 12/23/2025, 05:00:02 (EST)
 // Total records: 2053
 
 export const games = [
+  {
+    "id": "50f641eb-fd47-426d-862e-0a9aa02a91a0",
+    "name": "Ffued",
+    "creatorId": "110064824067726190042",
+    "creatorLastName": "MEYSULAO",
+    "createdAt": "12/23/2025, 04:51:17"
+  },
   {
     "id": "8bae9ab4-ec25-4702-8f5b-84d503c91f09",
     "name": "Extra Game",
     "creatorId": "107973911451345107719",
     "creatorLastName": "Flowers",
     "createdAt": "12/23/2025, 04:28:13"
-  },
-  {
-    "id": "a6e21554-c639-485f-bdcb-15c5dab6efe9",
-    "name": "aaa",
-    "creatorId": "110064824067726190042",
-    "creatorLastName": "MEYSULAO",
-    "createdAt": "12/23/2025, 04:26:32"
   },
   {
     "id": "515052a2-0715-4c17-a5f7-88e6f85c258c",
