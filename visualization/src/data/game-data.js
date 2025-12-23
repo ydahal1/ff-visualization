@@ -1,7 +1,14 @@
-// Generated on 12/23/2025, 13:45:02 (EST)
-// Total records: 2074
+// Generated on 12/23/2025, 14:00:02 (EST)
+// Total records: 2075
 
 export const games = [
+  {
+    "id": "12276fb3-2096-486e-8fd6-6085953f4533",
+    "name": "Christmas Eve Eve",
+    "creatorId": "113113246640769323625",
+    "creatorLastName": "Votipka",
+    "createdAt": "12/23/2025, 13:59:28"
+  },
   {
     "id": "e8b67197-990f-4b68-92eb-98eb2c406bae",
     "name": "Christmas Family Feud 2",
