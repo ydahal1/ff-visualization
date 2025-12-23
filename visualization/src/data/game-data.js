@@ -1,7 +1,35 @@
-// Generated on 12/23/2025, 05:15:02 (EST)
-// Total records: 2054
+// Generated on 12/23/2025, 05:30:01 (EST)
+// Total records: 2058
 
 export const games = [
+  {
+    "id": "4366d5cc-fe91-4d8b-87cf-dfd39c678782",
+    "name": "Pokémon Feud Game 4 (crossover questions)",
+    "creatorId": "117978620760213708130",
+    "creatorLastName": "Lester",
+    "createdAt": "12/23/2025, 05:19:49"
+  },
+  {
+    "id": "27d243a7-1b42-40f1-bb66-b6bce2361f9a",
+    "name": "Pokémon Feud Game 3",
+    "creatorId": "117978620760213708130",
+    "creatorLastName": "Lester",
+    "createdAt": "12/23/2025, 05:18:30"
+  },
+  {
+    "id": "20c5854a-2a7f-4061-9a5a-b86c36ac1d29",
+    "name": "Pokémon Feud Game 2",
+    "creatorId": "117978620760213708130",
+    "creatorLastName": "Lester",
+    "createdAt": "12/23/2025, 05:17:13"
+  },
+  {
+    "id": "a40ed663-d9e2-445d-bd34-fe8e5c3794cb",
+    "name": "Pokémon Feud Game 1",
+    "creatorId": "117978620760213708130",
+    "creatorLastName": "Lester",
+    "createdAt": "12/23/2025, 05:15:34"
+  },
   {
     "id": "f47b2808-348a-469f-b444-47a325a47872",
     "name": "Family Feud",
