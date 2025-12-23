@@ -1,7 +1,14 @@
-// Generated on 12/23/2025, 09:00:02 (EST)
-// Total records: 2061
+// Generated on 12/23/2025, 09:15:02 (EST)
+// Total records: 2062
 
 export const games = [
+  {
+    "id": "b747b8c5-9b4a-4a60-9e39-0454c28ef331",
+    "name": "Bible feud",
+    "creatorId": "117152464602925967619",
+    "creatorLastName": "Lundberg",
+    "createdAt": "12/23/2025, 09:11:19"
+  },
   {
     "id": "388a2f33-32df-4b06-8873-293893808d4e",
     "name": "FAMILY FEUD (DOMINGO VERSION) 1",
