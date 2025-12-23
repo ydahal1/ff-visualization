@@ -1,7 +1,14 @@
-// Generated on 12/23/2025, 07:00:02 (EST)
-// Total records: 2057
+// Generated on 12/23/2025, 07:15:02 (EST)
+// Total records: 2058
 
 export const games = [
+  {
+    "id": "500c7311-41e5-48ad-b0be-31b7bc39d52f",
+    "name": "FAMILY FEUD (DOMINGO VERSION)",
+    "creatorId": "114646021320910959612",
+    "creatorLastName": "Domingo",
+    "createdAt": "12/23/2025, 07:00:28"
+  },
   {
     "id": "4366d5cc-fe91-4d8b-87cf-dfd39c678782",
     "name": "Pokémon Feud Game 4 (crossover questions)",
