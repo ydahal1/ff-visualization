@@ -1,7 +1,14 @@
-// Generated on 12/23/2025, 15:00:02 (EST)
-// Total records: 2079
+// Generated on 12/23/2025, 15:15:02 (EST)
+// Total records: 2078
 
 export const games = [
+  {
+    "id": "8358efe1-abd9-49fa-8e64-e9265519d34d",
+    "name": "Klart bibel spel",
+    "creatorId": "117152464602925967619",
+    "creatorLastName": "Lundberg",
+    "createdAt": "12/23/2025, 15:08:58"
+  },
   {
     "id": "f8a2942f-3169-4e2f-8359-4b2c3be4d895",
     "name": "Keeping it Amilli Gift Exchange 4",
@@ -3447,25 +3454,11 @@ export const games = [
     "createdAt": "12/15/2025, 08:59:08"
   },
   {
-    "id": "481a2b55-5290-4e73-9206-5b86cd74d60e",
-    "name": "1",
-    "creatorId": "101210139763618447601",
-    "creatorLastName": "Aifesehi",
-    "createdAt": "12/15/2025, 07:35:47"
-  },
-  {
     "id": "11d256b1-5560-4e0e-b9aa-09ad0b416606",
     "name": "SUPERMART",
     "creatorId": "105110114802480443310",
     "creatorLastName": "Balbuena",
     "createdAt": "12/15/2025, 07:17:42"
-  },
-  {
-    "id": "5a7bb686-8f26-483a-bdc3-45569b49a190",
-    "name": "HA",
-    "creatorId": "101210139763618447601",
-    "creatorLastName": "Aifesehi",
-    "createdAt": "12/15/2025, 06:28:16"
   },
   {
     "id": "644f2155-a0a1-46db-93e8-9d1696c65294",
