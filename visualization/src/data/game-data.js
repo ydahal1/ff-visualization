@@ -1,7 +1,14 @@
-// Generated on 12/22/2025, 20:45:01 (EST)
-// Total records: 2032
+// Generated on 12/22/2025, 21:00:01 (EST)
+// Total records: 2033
 
 export const games = [
+  {
+    "id": "7c009f13-e5f4-403c-9d4f-7ac2cb1b6f08",
+    "name": "Christmas Eve Game!",
+    "creatorId": "116312373967365123149",
+    "creatorLastName": "Zignego",
+    "createdAt": "12/22/2025, 20:48:07"
+  },
   {
     "id": "3459e8e3-4703-45df-96e6-0768e748c991",
     "name": "Sample",
