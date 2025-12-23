@@ -1,7 +1,14 @@
-// Generated on 12/23/2025, 12:45:02 (EST)
-// Total records: 2071
+// Generated on 12/23/2025, 13:00:01 (EST)
+// Total records: 2072
 
 export const games = [
+  {
+    "id": "950ecfea-ba3f-42d3-8234-449849308672",
+    "name": "fam fued club",
+    "creatorId": "117139052438958656654",
+    "creatorLastName": "Hollander",
+    "createdAt": "12/23/2025, 12:59:39"
+  },
   {
     "id": "473ff949-5ce9-4e40-8059-dd00225d42c5",
     "name": "Xmas Eve",
