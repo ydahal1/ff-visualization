@@ -1,7 +1,14 @@
-// Generated on 12/23/2025, 09:45:02 (EST)
-// Total records: 2063
+// Generated on 12/23/2025, 10:00:02 (EST)
+// Total records: 2064
 
 export const games = [
+  {
+    "id": "5224ecbd-46d2-43bb-9b63-d2bcac11c7ee",
+    "name": "FAMILY FEUD (FINALS)",
+    "creatorId": "114646021320910959612",
+    "creatorLastName": "Domingo",
+    "createdAt": "12/23/2025, 09:56:43"
+  },
   {
     "id": "a3638ea8-15e5-49bb-b53a-d4962bb91eeb",
     "name": "FAMILY FEUD (DOMINGO VERSION) 2",
