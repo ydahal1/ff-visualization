@@ -1,7 +1,14 @@
-// Generated on 12/24/2025, 06:45:02 (EST)
-// Total records: 2151
+// Generated on 12/24/2025, 07:00:01 (EST)
+// Total records: 2152
 
 export const games = [
+  {
+    "id": "73f710e8-a96c-44cc-a2e9-ccfcc3d1bf20",
+    "name": "Shooter",
+    "creatorId": "108843888020291082772",
+    "creatorLastName": "Lifshitz",
+    "createdAt": "12/24/2025, 06:47:04"
+  },
   {
     "id": "a2373958-e6ed-4a7f-aced-61a396ac7d8f",
     "name": "Juego de Navidad",
