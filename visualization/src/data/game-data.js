@@ -1,7 +1,14 @@
-// Generated on 12/24/2025, 02:00:02 (EST)
-// Total records: 2146
+// Generated on 12/24/2025, 02:15:02 (EST)
+// Total records: 2147
 
 export const games = [
+  {
+    "id": "766fe82a-1ff7-4dcb-bbba-480757dbf2ff",
+    "name": "Family Feud",
+    "creatorId": "115925134747190715998",
+    "creatorLastName": "Javier",
+    "createdAt": "12/24/2025, 02:05:44"
+  },
   {
     "id": "2523af8a-ba68-4350-8d3b-24067989db7c",
     "name": "Christmas",
