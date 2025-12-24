@@ -1,5 +1,5 @@
-// Generated on 12/24/2025, 01:45:02 (EST)
-// Total records: 2147
+// Generated on 12/24/2025, 02:00:02 (EST)
+// Total records: 2146
 
 export const games = [
   {
@@ -4068,13 +4068,6 @@ export const games = [
     "creatorId": "101654934605370674673",
     "creatorLastName": "Eyas",
     "createdAt": "12/14/2025, 21:05:44"
-  },
-  {
-    "id": "fd78c750-4e03-42b7-95c8-dbdbf4a6c108",
-    "name": "OneIT Feud",
-    "creatorId": "115925134747190715998",
-    "creatorLastName": "Javier",
-    "createdAt": "12/14/2025, 20:57:25"
   },
   {
     "id": "bc180f1a-24fe-4e74-add3-9979c152091c",
