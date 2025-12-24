@@ -1,13 +1,20 @@
-// Generated on 12/23/2025, 19:00:01 (EST)
-// Total records: 2112
+// Generated on 12/23/2025, 19:15:03 (EST)
+// Total records: 2113
 
 export const games = [
   {
-    "id": "2ea333af-d0ec-406b-9b18-7c691d18e87b",
-    "name": "Christmas Eve Eve Game 1",
+    "id": "f4e85e01-93fc-4313-8238-af881a5e0bf3",
+    "name": "Christmas Eve Eve Game 2",
     "creatorId": "103225937920358564707",
     "creatorLastName": "Thier",
-    "createdAt": "12/23/2025, 18:58:38"
+    "createdAt": "12/23/2025, 19:12:06"
+  },
+  {
+    "id": "5d6b5d9a-92b9-463c-96c0-77d23319f8ba",
+    "name": "Christmas Eve Eve Fued Game 1",
+    "creatorId": "103225937920358564707",
+    "creatorLastName": "Thier",
+    "createdAt": "12/23/2025, 19:09:45"
   },
   {
     "id": "16f10228-ab7d-4c1f-a959-876b02a42644",
