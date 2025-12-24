@@ -1,7 +1,14 @@
-// Generated on 12/24/2025, 08:00:02 (EST)
-// Total records: 2152
+// Generated on 12/24/2025, 08:15:01 (EST)
+// Total records: 2153
 
 export const games = [
+  {
+    "id": "13387856-f487-4024-bca8-79b598f19b25",
+    "name": "RedCollege",
+    "creatorId": "116779178248524094135",
+    "creatorLastName": "Sandoval",
+    "createdAt": "12/24/2025, 08:14:12"
+  },
   {
     "id": "73f710e8-a96c-44cc-a2e9-ccfcc3d1bf20",
     "name": "Shooter",
