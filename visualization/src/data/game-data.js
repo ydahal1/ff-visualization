@@ -1,7 +1,14 @@
-// Generated on 12/23/2025, 20:15:02 (EST)
-// Total records: 2120
+// Generated on 12/23/2025, 20:30:05 (EST)
+// Total records: 2121
 
 export const games = [
+  {
+    "id": "22cf35e9-ed9f-416e-aa56-0e4ea8c49f68",
+    "name": "Family Feud",
+    "creatorId": "109885456077178661896",
+    "creatorLastName": "Vasquez",
+    "createdAt": "12/23/2025, 20:15:26"
+  },
   {
     "id": "2894eef1-7bab-4887-9d63-959c5b3f2c05",
     "name": "James Baxter",
