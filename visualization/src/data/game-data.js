@@ -1,7 +1,35 @@
-// Generated on 12/24/2025, 09:15:02 (EST)
-// Total records: 2173
+// Generated on 12/24/2025, 09:30:02 (EST)
+// Total records: 2176
 
 export const games = [
+  {
+    "id": "edc2221d-9414-45c0-bebd-3b58bdbc00e5",
+    "name": "Game 20",
+    "creatorId": "101210139763618447601",
+    "creatorLastName": "Aifesehi",
+    "createdAt": "12/24/2025, 09:29:53"
+  },
+  {
+    "id": "4b52a0c2-547e-4034-9b32-2803ff54b347",
+    "name": "Game 19",
+    "creatorId": "101210139763618447601",
+    "creatorLastName": "Aifesehi",
+    "createdAt": "12/24/2025, 09:27:48"
+  },
+  {
+    "id": "ad3d838d-81c1-4383-81f9-91e09f598a5b",
+    "name": "Quiz NHL",
+    "creatorId": "109174811122968795787",
+    "creatorLastName": "Labrecque-Paquette",
+    "createdAt": "12/24/2025, 09:21:24"
+  },
+  {
+    "id": "b40bd4ef-f0ec-4370-94ec-b1d35bc0fb53",
+    "name": "Game 18",
+    "creatorId": "101210139763618447601",
+    "creatorLastName": "Aifesehi",
+    "createdAt": "12/24/2025, 09:17:56"
+  },
   {
     "id": "e4efe33d-6618-4c97-b3fc-56fc287f0341",
     "name": "Game 17",
@@ -141,13 +169,6 @@ export const games = [
     "creatorId": "101210139763618447601",
     "creatorLastName": "Aifesehi",
     "createdAt": "12/24/2025, 08:17:45"
-  },
-  {
-    "id": "13387856-f487-4024-bca8-79b598f19b25",
-    "name": "RedCollege",
-    "creatorId": "116779178248524094135",
-    "creatorLastName": "Sandoval",
-    "createdAt": "12/24/2025, 08:14:12"
   },
   {
     "id": "73f710e8-a96c-44cc-a2e9-ccfcc3d1bf20",
