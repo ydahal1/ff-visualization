@@ -1,7 +1,14 @@
-// Generated on 12/24/2025, 04:30:02 (EST)
-// Total records: 2149
+// Generated on 12/24/2025, 04:45:02 (EST)
+// Total records: 2150
 
 export const games = [
+  {
+    "id": "d9a77cf7-437d-4109-8f4f-27a2b7eb2235",
+    "name": "Menos de 100 Zuritas Dijeron (Prueba)",
+    "creatorId": "110313894133991205340",
+    "creatorLastName": "López Zurita",
+    "createdAt": "12/24/2025, 04:33:20"
+  },
   {
     "id": "039c18ff-0d81-42f7-abc5-5b0446832b04",
     "name": "Tesst 1",
