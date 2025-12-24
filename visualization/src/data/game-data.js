@@ -1,7 +1,21 @@
-// Generated on 12/23/2025, 18:45:02 (EST)
-// Total records: 2110
+// Generated on 12/23/2025, 19:00:01 (EST)
+// Total records: 2112
 
 export const games = [
+  {
+    "id": "2ea333af-d0ec-406b-9b18-7c691d18e87b",
+    "name": "Christmas Eve Eve Game 1",
+    "creatorId": "103225937920358564707",
+    "creatorLastName": "Thier",
+    "createdAt": "12/23/2025, 18:58:38"
+  },
+  {
+    "id": "16f10228-ab7d-4c1f-a959-876b02a42644",
+    "name": "Holiday Party1",
+    "creatorId": "114698734539070536925",
+    "creatorLastName": "Fleming",
+    "createdAt": "12/23/2025, 18:58:04"
+  },
   {
     "id": "eda773d3-9abe-4a7b-863c-b628524894c0",
     "name": "Holiday Party",
