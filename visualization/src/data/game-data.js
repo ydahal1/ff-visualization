@@ -1,7 +1,14 @@
-// Generated on 12/24/2025, 24:15:03 (EST)
-// Total records: 2141
+// Generated on 12/24/2025, 24:30:02 (EST)
+// Total records: 2142
 
 export const games = [
+  {
+    "id": "5930f349-9c72-4459-a2dc-adec20491b92",
+    "name": "practice",
+    "creatorId": "108493076981861391486",
+    "creatorLastName": "Meza",
+    "createdAt": "12/24/2025, 24:21:06"
+  },
   {
     "id": "125c1bc2-8c0d-495c-b17d-a382d0c98c44",
     "name": "Christmas 2025 Game 1",
