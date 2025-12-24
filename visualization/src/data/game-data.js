@@ -1,7 +1,56 @@
-// Generated on 12/24/2025, 09:00:02 (EST)
-// Total records: 2166
+// Generated on 12/24/2025, 09:15:02 (EST)
+// Total records: 2173
 
 export const games = [
+  {
+    "id": "e4efe33d-6618-4c97-b3fc-56fc287f0341",
+    "name": "Game 17",
+    "creatorId": "101210139763618447601",
+    "creatorLastName": "Aifesehi",
+    "createdAt": "12/24/2025, 09:14:55"
+  },
+  {
+    "id": "32a8447a-3511-481e-88d0-1d65ad101af7",
+    "name": "Que dice RedCollege",
+    "creatorId": "116779178248524094135",
+    "creatorLastName": "Sandoval",
+    "createdAt": "12/24/2025, 09:14:27"
+  },
+  {
+    "id": "fafa51c9-5716-4c17-9bbc-70d25201e71b",
+    "name": "Game 16",
+    "creatorId": "101210139763618447601",
+    "creatorLastName": "Aifesehi",
+    "createdAt": "12/24/2025, 09:12:33"
+  },
+  {
+    "id": "e53b14a0-47c2-4a11-9634-36a55f4c604f",
+    "name": "Game 15",
+    "creatorId": "101210139763618447601",
+    "creatorLastName": "Aifesehi",
+    "createdAt": "12/24/2025, 09:10:08"
+  },
+  {
+    "id": "f808b1b6-e967-4b23-945b-694df369b040",
+    "name": "Game 14",
+    "creatorId": "101210139763618447601",
+    "creatorLastName": "Aifesehi",
+    "createdAt": "12/24/2025, 09:07:48"
+  },
+  {
+    "id": "43423212-f9d3-45fd-bc30-756f574a2da0",
+    "name": "Game 13",
+    "creatorId": "101210139763618447601",
+    "creatorLastName": "Aifesehi",
+    "createdAt": "12/24/2025, 09:05:44"
+  },
+  {
+    "id": "f6e460a7-355f-4aa5-a7ee-a4f671b91d38",
+    "name": "Game 12",
+    "creatorId": "101210139763618447601",
+    "creatorLastName": "Aifesehi",
+    "createdAt": "12/24/2025, 09:03:32"
+  },
   {
     "id": "a3a3cfaf-7e25-42b7-8d48-d1c1f272ed46",
     "name": "Game 11",
