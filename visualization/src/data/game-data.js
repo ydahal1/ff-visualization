@@ -1,7 +1,28 @@
-// Generated on 12/23/2025, 19:45:01 (EST)
-// Total records: 2115
+// Generated on 12/23/2025, 20:00:02 (EST)
+// Total records: 2118
 
 export const games = [
+  {
+    "id": "27dfd77d-edeb-4003-8023-d3b1dfa6aed7",
+    "name": "trial",
+    "creatorId": "108509750935559945634",
+    "creatorLastName": "Munch",
+    "createdAt": "12/23/2025, 19:55:22"
+  },
+  {
+    "id": "640cdb78-cdde-4596-b0cc-2417d948e180",
+    "name": "Rebels Without a Claus vs Yule Be Sorry",
+    "creatorId": "105384383117386697149",
+    "creatorLastName": "Rosario",
+    "createdAt": "12/23/2025, 19:53:03"
+  },
+  {
+    "id": "dc303572-2c1a-4fc5-bd94-bf3ccd3357dc",
+    "name": "Naughty List Nominees vs Santa's Little Helpers",
+    "creatorId": "105384383117386697149",
+    "creatorLastName": "Rosario",
+    "createdAt": "12/23/2025, 19:49:09"
+  },
   {
     "id": "e9d882a4-b62a-4bf9-9591-276c87b68912",
     "name": "Test",
