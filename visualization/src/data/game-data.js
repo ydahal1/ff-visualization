@@ -1,7 +1,21 @@
-// Generated on 12/24/2025, 10:15:01 (EST)
-// Total records: 2188
+// Generated on 12/24/2025, 10:30:01 (EST)
+// Total records: 2189
 
 export const games = [
+  {
+    "id": "81b0e1ef-913d-499c-b04f-9271f936f500",
+    "name": "Christmas Eve Round 2",
+    "creatorId": "104598001800721322854",
+    "creatorLastName": "Richins",
+    "createdAt": "12/24/2025, 10:18:49"
+  },
+  {
+    "id": "33ccec18-7400-4000-9ece-0ccd67a17e6f",
+    "name": "Christmas Eve Round 1",
+    "creatorId": "104598001800721322854",
+    "creatorLastName": "Richins",
+    "createdAt": "12/24/2025, 10:17:39"
+  },
   {
     "id": "a0926742-ea08-4cbc-b1f1-96c6a9fb42e5",
     "name": "Game 30",
@@ -764,13 +778,6 @@ export const games = [
     "creatorId": "113603564530284836651",
     "creatorLastName": "Scheduler",
     "createdAt": "12/23/2025, 15:45:43"
-  },
-  {
-    "id": "cf912205-6cf1-404e-a80e-b277d06f1c36",
-    "name": "Game 1",
-    "creatorId": "103657120874124366892",
-    "creatorLastName": "Williams",
-    "createdAt": "12/23/2025, 15:32:12"
   },
   {
     "id": "ceef0d7c-bda0-4e72-aa96-82ccce13212c",
