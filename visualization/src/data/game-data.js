@@ -1,7 +1,56 @@
-// Generated on 12/24/2025, 08:15:01 (EST)
-// Total records: 2153
+// Generated on 12/24/2025, 08:30:03 (EST)
+// Total records: 2160
 
 export const games = [
+  {
+    "id": "ebef12cd-6ba9-4814-991f-8d2457676215",
+    "name": "Game 6",
+    "creatorId": "101210139763618447601",
+    "creatorLastName": "Aifesehi",
+    "createdAt": "12/24/2025, 08:27:32"
+  },
+  {
+    "id": "a18fbedb-1caf-48b5-a91b-352ecbf608d1",
+    "name": "General 1",
+    "creatorId": "116861485882572142143",
+    "creatorLastName": "Stephens",
+    "createdAt": "12/24/2025, 08:27:07"
+  },
+  {
+    "id": "50123496-f2e9-4431-9842-50e10f34623e",
+    "name": "Game 5",
+    "creatorId": "101210139763618447601",
+    "creatorLastName": "Aifesehi",
+    "createdAt": "12/24/2025, 08:25:48"
+  },
+  {
+    "id": "634bff87-e607-4aa3-83d8-f21e536ba069",
+    "name": "Game 4",
+    "creatorId": "101210139763618447601",
+    "creatorLastName": "Aifesehi",
+    "createdAt": "12/24/2025, 08:22:19"
+  },
+  {
+    "id": "d54a3eeb-eb21-4072-9326-8fb010ae89d4",
+    "name": "Game 3",
+    "creatorId": "101210139763618447601",
+    "creatorLastName": "Aifesehi",
+    "createdAt": "12/24/2025, 08:21:22"
+  },
+  {
+    "id": "016ea1b0-7d08-42d5-9118-d598a08118b6",
+    "name": "Game 2",
+    "creatorId": "101210139763618447601",
+    "creatorLastName": "Aifesehi",
+    "createdAt": "12/24/2025, 08:20:18"
+  },
+  {
+    "id": "6c6faaf4-7cd7-4f52-ba53-ef431218b030",
+    "name": "Game 1",
+    "creatorId": "101210139763618447601",
+    "creatorLastName": "Aifesehi",
+    "createdAt": "12/24/2025, 08:17:45"
+  },
   {
     "id": "13387856-f487-4024-bca8-79b598f19b25",
     "name": "RedCollege",
