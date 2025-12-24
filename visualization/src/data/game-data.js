@@ -1,7 +1,14 @@
-// Generated on 12/23/2025, 23:45:02 (EST)
-// Total records: 2140
+// Generated on 12/24/2025, 24:00:01 (EST)
+// Total records: 2141
 
 export const games = [
+  {
+    "id": "705d6745-35f3-4fc7-a532-5f848446a95f",
+    "name": "Christmas 2025",
+    "creatorId": "100087684349796461654",
+    "creatorLastName": "Kollmann",
+    "createdAt": "12/23/2025, 23:51:31"
+  },
   {
     "id": "64924acd-190d-4cd3-8874-4855cb361744",
     "name": "christmas feud",
