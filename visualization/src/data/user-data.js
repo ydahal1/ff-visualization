@@ -1,7 +1,17 @@
-// Generated on 12/23/2025, 19:15:01 (EST)
-// Total records: 1348
+// Generated on 12/23/2025, 19:30:01 (EST)
+// Total records: 1350
 
 export const users = [
+  {
+    "id": "100469072967077889280",
+    "lName": "game king",
+    "createdAt": "12/23/2025, 19:27:42"
+  },
+  {
+    "id": "102783571888682625570",
+    "lName": "Kuehl",
+    "createdAt": "12/23/2025, 19:26:09"
+  },
   {
     "id": "104440315157596308746",
     "lName": "Weiler",
