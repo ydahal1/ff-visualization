@@ -1,7 +1,21 @@
-// Generated on 12/23/2025, 22:00:02 (EST)
-// Total records: 2132
+// Generated on 12/23/2025, 22:15:02 (EST)
+// Total records: 2134
 
 export const games = [
+  {
+    "id": "c3e4486f-fd0a-4eb1-b674-a3cd3c5f6a07",
+    "name": "Christmas Eve Friendly Fued #3",
+    "creatorId": "103225937920358564707",
+    "creatorLastName": "Thier",
+    "createdAt": "12/23/2025, 22:11:16"
+  },
+  {
+    "id": "2ad03c16-f249-47cf-b3fc-68d1961f7bb6",
+    "name": "Brown",
+    "creatorId": "113368029246758750264",
+    "creatorLastName": "Brown",
+    "createdAt": "12/23/2025, 22:01:58"
+  },
   {
     "id": "955a412d-7d55-4ea4-962b-db2f093807f5",
     "name": "Carandang Family Feud",
