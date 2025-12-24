@@ -1,7 +1,42 @@
-// Generated on 12/24/2025, 16:00:02 (EST)
-// Total records: 2226
+// Generated on 12/24/2025, 16:15:02 (EST)
+// Total records: 2228
 
 export const games = [
+  {
+    "id": "ed34a597-a385-4534-9974-ce5762215bd1",
+    "name": "Christmas 3",
+    "creatorId": "111898224585681888922",
+    "creatorLastName": "Shintani",
+    "createdAt": "12/24/2025, 16:10:50"
+  },
+  {
+    "id": "3b044f6e-a324-429a-841b-849f81d218b4",
+    "name": "Christmas Eve Family Feud!",
+    "creatorId": "112333595871005192053",
+    "creatorLastName": "Dodds",
+    "createdAt": "12/24/2025, 16:10:17"
+  },
+  {
+    "id": "fef9e80b-b5af-4a76-9e69-cb82cbee8807",
+    "name": "Christmas Feud - Game 3",
+    "creatorId": "106369510024346232906",
+    "creatorLastName": "Blaul",
+    "createdAt": "12/24/2025, 16:05:50"
+  },
+  {
+    "id": "e60b876b-86ad-47c3-bf70-143175a8ea8d",
+    "name": "Kids Game",
+    "creatorId": "115727805259758222576",
+    "creatorLastName": "Nason",
+    "createdAt": "12/24/2025, 16:01:58"
+  },
+  {
+    "id": "1c65536b-2e77-4c72-a7b4-fbd0f5682b1b",
+    "name": "Jeg vil gerne dø",
+    "creatorId": "108704098988757447931",
+    "creatorLastName": "Dinc",
+    "createdAt": "12/24/2025, 16:00:58"
+  },
   {
     "id": "7cabf1ac-5897-4133-ac6e-03e2a030c9b9",
     "name": "Final Game",
@@ -15,13 +50,6 @@ export const games = [
     "creatorId": "105865315550139653589",
     "creatorLastName": "Greim",
     "createdAt": "12/24/2025, 15:59:33"
-  },
-  {
-    "id": "de7b6cbb-4fa9-4c2a-bb10-d1eb6dd14e17",
-    "name": "Christmas Eve Family Feud",
-    "creatorId": "112333595871005192053",
-    "creatorLastName": "Dodds",
-    "createdAt": "12/24/2025, 15:52:33"
   },
   {
     "id": "6878a67c-9ab5-4945-90c0-63728d8e53ef",
@@ -302,13 +330,6 @@ export const games = [
     "creatorId": "117613027657628074253",
     "creatorLastName": "Kuehl",
     "createdAt": "12/24/2025, 11:33:15"
-  },
-  {
-    "id": "d67a56f6-e5fa-474a-a161-309e7e093a96",
-    "name": "Test run",
-    "creatorId": "112333595871005192053",
-    "creatorLastName": "Dodds",
-    "createdAt": "12/24/2025, 11:18:06"
   },
   {
     "id": "fb5ebeae-cdcf-492d-aa9b-1ac0f1bbd19a",
@@ -792,13 +813,6 @@ export const games = [
     "creatorId": "106571601571889979445",
     "creatorLastName": "Walker",
     "createdAt": "12/23/2025, 20:51:00"
-  },
-  {
-    "id": "4133d70f-ceb5-4bb9-8328-4998250d1621",
-    "name": "Game 1",
-    "creatorId": "112333595871005192053",
-    "creatorLastName": "Dodds",
-    "createdAt": "12/23/2025, 20:42:26"
   },
   {
     "id": "c1f9216d-36bf-4b5b-98a8-dd2308748ebe",
