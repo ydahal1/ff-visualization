@@ -1,13 +1,13 @@
-// Generated on 12/24/2025, 24:00:01 (EST)
+// Generated on 12/24/2025, 24:15:03 (EST)
 // Total records: 2141
 
 export const games = [
   {
-    "id": "705d6745-35f3-4fc7-a532-5f848446a95f",
-    "name": "Christmas 2025",
+    "id": "125c1bc2-8c0d-495c-b17d-a382d0c98c44",
+    "name": "Christmas 2025 Game 1",
     "creatorId": "100087684349796461654",
     "creatorLastName": "Kollmann",
-    "createdAt": "12/23/2025, 23:51:31"
+    "createdAt": "12/24/2025, 24:12:43"
   },
   {
     "id": "64924acd-190d-4cd3-8874-4855cb361744",
