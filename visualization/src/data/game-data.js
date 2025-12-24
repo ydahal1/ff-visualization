@@ -1,7 +1,35 @@
-// Generated on 12/24/2025, 08:45:02 (EST)
-// Total records: 2162
+// Generated on 12/24/2025, 09:00:02 (EST)
+// Total records: 2166
 
 export const games = [
+  {
+    "id": "a3a3cfaf-7e25-42b7-8d48-d1c1f272ed46",
+    "name": "Game 11",
+    "creatorId": "101210139763618447601",
+    "creatorLastName": "Aifesehi",
+    "createdAt": "12/24/2025, 09:00:00"
+  },
+  {
+    "id": "720e7589-236b-4922-b179-91c5726fc90d",
+    "name": "Game 1",
+    "creatorId": "104525675654477459856",
+    "creatorLastName": "Parson",
+    "createdAt": "12/24/2025, 08:59:30"
+  },
+  {
+    "id": "cb85cf71-3128-4c34-a4b9-d4bfb1ef2e9e",
+    "name": "Game 10",
+    "creatorId": "101210139763618447601",
+    "creatorLastName": "Aifesehi",
+    "createdAt": "12/24/2025, 08:56:54"
+  },
+  {
+    "id": "bb8d6e9d-84be-4747-897d-3c40307d68b7",
+    "name": "Game 9",
+    "creatorId": "101210139763618447601",
+    "creatorLastName": "Aifesehi",
+    "createdAt": "12/24/2025, 08:52:10"
+  },
   {
     "id": "3a407d15-ce40-40ee-8e17-b2288589dd8e",
     "name": "Game 8",
