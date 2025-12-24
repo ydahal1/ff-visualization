@@ -1,7 +1,35 @@
-// Generated on 12/24/2025, 14:45:02 (EST)
-// Total records: 2214
+// Generated on 12/24/2025, 15:00:02 (EST)
+// Total records: 2218
 
 export const games = [
+  {
+    "id": "b3279049-ef0c-4b01-b081-37be0db79070",
+    "name": "Psykotisk Juleaften",
+    "creatorId": "108704098988757447931",
+    "creatorLastName": "Dinc",
+    "createdAt": "12/24/2025, 14:59:05"
+  },
+  {
+    "id": "74b6f45e-40ef-475c-ba9e-e82f96ae81e3",
+    "name": "Game 3",
+    "creatorId": "108737246969314686023",
+    "creatorLastName": "Missaghian",
+    "createdAt": "12/24/2025, 14:48:33"
+  },
+  {
+    "id": "f2eb0d9b-7b40-4641-9b4b-2ff83cdcb0b3",
+    "name": "Christmas 2025",
+    "creatorId": "112661018576658163558",
+    "creatorLastName": "Neville",
+    "createdAt": "12/24/2025, 14:47:18"
+  },
+  {
+    "id": "9a723c7d-b04c-4478-b798-87a653a15a18",
+    "name": "2025 Christmas",
+    "creatorId": "101178533860071212160",
+    "creatorLastName": "Carney",
+    "createdAt": "12/24/2025, 14:46:24"
+  },
   {
     "id": "b489ec71-64ee-455b-8515-48af03f747c5",
     "name": "Josh & Rebecca's Holiday Family Feud",
