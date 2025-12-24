@@ -1,7 +1,14 @@
-// Generated on 12/24/2025, 05:15:02 (EST)
-// Total records: 2150
+// Generated on 12/24/2025, 05:30:02 (EST)
+// Total records: 2151
 
 export const games = [
+  {
+    "id": "a2373958-e6ed-4a7f-aced-61a396ac7d8f",
+    "name": "Juego de Navidad",
+    "creatorId": "112029330998430535811",
+    "creatorLastName": "Ramos-Escobar",
+    "createdAt": "12/24/2025, 05:20:51"
+  },
   {
     "id": "d9a77cf7-437d-4109-8f4f-27a2b7eb2235",
     "name": "Menos de 100 Zuritas Dijeron (Prueba)",
