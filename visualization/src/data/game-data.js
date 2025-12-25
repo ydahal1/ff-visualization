@@ -1,7 +1,14 @@
-// Generated on 12/24/2025, 23:00:03 (EST)
-// Total records: 2310
+// Generated on 12/24/2025, 23:15:02 (EST)
+// Total records: 2311
 
 export const games = [
+  {
+    "id": "d433b843-3a03-4d15-a7a9-ba879433b786",
+    "name": "Family Feud with Charles 2",
+    "creatorId": "117096727258746424547",
+    "creatorLastName": "Policarpio",
+    "createdAt": "12/24/2025, 23:08:20"
+  },
   {
     "id": "5fb60c3d-a7d8-4773-8d0c-75c0958cf957",
     "name": "Nery",
