@@ -1,7 +1,14 @@
-// Generated on 12/25/2025, 03:30:02 (EST)
-// Total records: 2341
+// Generated on 12/25/2025, 03:45:02 (EST)
+// Total records: 2342
 
 export const games = [
+  {
+    "id": "dd5d3afa-92dc-4c28-9c8b-c6a81023af15",
+    "name": "Preguntas rápidas",
+    "creatorId": "110313894133991205340",
+    "creatorLastName": "López Zurita",
+    "createdAt": "12/25/2025, 03:40:24"
+  },
   {
     "id": "70161b93-89d1-4f10-b8c2-b7ceb6a3a1ec",
     "name": "Badi",
