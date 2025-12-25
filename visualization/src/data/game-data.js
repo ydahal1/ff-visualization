@@ -1,7 +1,21 @@
-// Generated on 12/25/2025, 14:45:02 (EST)
-// Total records: 2370
+// Generated on 12/25/2025, 15:00:02 (EST)
+// Total records: 2372
 
 export const games = [
+  {
+    "id": "19509a07-88df-4e86-a212-1ec232a8978d",
+    "name": "Christmas Game 5",
+    "creatorId": "106107956162003397522",
+    "creatorLastName": "Taylor",
+    "createdAt": "12/25/2025, 14:54:39"
+  },
+  {
+    "id": "0813b046-03a4-4d75-994b-801e6a2b1c16",
+    "name": "Christmas Part 2",
+    "creatorId": "105992941680689863601",
+    "creatorLastName": "Greim",
+    "createdAt": "12/25/2025, 14:54:08"
+  },
   {
     "id": "4ee644e6-9c3a-487f-8e06-28cfa2e7109b",
     "name": "Christmas Game 4",
