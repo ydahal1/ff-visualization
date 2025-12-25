@@ -1,7 +1,42 @@
-// Generated on 12/25/2025, 12:15:02 (EST)
-// Total records: 2350
+// Generated on 12/25/2025, 12:30:01 (EST)
+// Total records: 2355
 
 export const games = [
+  {
+    "id": "7fbb0ab4-146c-4405-9866-e18b61e93e3d",
+    "name": "Game Test",
+    "creatorId": "113864188718457611042",
+    "creatorLastName": "Shaw",
+    "createdAt": "12/25/2025, 12:28:33"
+  },
+  {
+    "id": "9320e5aa-897b-4f95-a091-4deebf4af47c",
+    "name": "g2",
+    "creatorId": "114708722099940583011",
+    "creatorLastName": "H",
+    "createdAt": "12/25/2025, 12:27:42"
+  },
+  {
+    "id": "8ea05c7b-5dd4-4904-8948-c4693e1e1868",
+    "name": "Game 2",
+    "creatorId": "100465279183819592781",
+    "creatorLastName": "Maldonado",
+    "createdAt": "12/25/2025, 12:26:47"
+  },
+  {
+    "id": "27353482-3379-460b-b84b-e3686bf0cc51",
+    "name": "Game 1",
+    "creatorId": "100465279183819592781",
+    "creatorLastName": "Maldonado",
+    "createdAt": "12/25/2025, 12:23:26"
+  },
+  {
+    "id": "1ebcc86b-41f0-4cfa-bfb5-3549e561f870",
+    "name": "Christmas Feud",
+    "creatorId": "114708722099940583011",
+    "creatorLastName": "H",
+    "createdAt": "12/25/2025, 12:15:05"
+  },
   {
     "id": "4418b660-4868-4cf1-9448-ea4274017e28",
     "name": "Test",
