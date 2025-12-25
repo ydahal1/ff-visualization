@@ -1,5 +1,5 @@
-// Generated on 12/25/2025, 16:30:02 (EST)
-// Total records: 2390
+// Generated on 12/25/2025, 16:45:02 (EST)
+// Total records: 2384
 
 export const games = [
   {
@@ -1095,20 +1095,6 @@ export const games = [
     "createdAt": "12/24/2025, 17:34:58"
   },
   {
-    "id": "e39fbf41-5463-4fc7-bbda-c85d43dac160",
-    "name": "Family Feud (Trial)",
-    "creatorId": "116560401832868417037",
-    "creatorLastName": "Corbett",
-    "createdAt": "12/24/2025, 17:34:16"
-  },
-  {
-    "id": "7cde0f20-8bf9-4583-8671-50cc25a829b6",
-    "name": "PAMILY PEWED (5)",
-    "creatorId": "116560401832868417037",
-    "creatorLastName": "Corbett",
-    "createdAt": "12/24/2025, 17:33:33"
-  },
-  {
     "id": "565d668a-77d0-4ac4-91b2-001c46150ce6",
     "name": "Saturday 9",
     "creatorId": "101319012583799099050",
@@ -1123,39 +1109,11 @@ export const games = [
     "createdAt": "12/24/2025, 17:30:46"
   },
   {
-    "id": "3ec31c46-0914-4868-bdcd-d5ca526d876f",
-    "name": "PAMILY PEWED (4)",
-    "creatorId": "116560401832868417037",
-    "creatorLastName": "Corbett",
-    "createdAt": "12/24/2025, 17:26:41"
-  },
-  {
     "id": "42a01094-cde2-434f-88b3-480a6eff85fa",
     "name": "Christmas 4",
     "creatorId": "115701045608508077040",
     "creatorLastName": "Kreator",
     "createdAt": "12/24/2025, 17:26:07"
-  },
-  {
-    "id": "434b4c48-7c34-46fb-92f6-747141b17ec1",
-    "name": "PAMILY PEWED (1)",
-    "creatorId": "116560401832868417037",
-    "creatorLastName": "Corbett",
-    "createdAt": "12/24/2025, 17:25:15"
-  },
-  {
-    "id": "633e324c-f632-48b1-b6f6-8bf8909351a6",
-    "name": "PAMILY PEWED (3)",
-    "creatorId": "116560401832868417037",
-    "creatorLastName": "Corbett",
-    "createdAt": "12/24/2025, 17:24:21"
-  },
-  {
-    "id": "6b4b621c-b948-4621-9517-f90cd23b3b6a",
-    "name": "PAMILY PEWED (2)",
-    "creatorId": "116560401832868417037",
-    "creatorLastName": "Corbett",
-    "createdAt": "12/24/2025, 17:22:34"
   },
   {
     "id": "64f9cceb-f9b8-43b2-8fe7-a587252b3766",
