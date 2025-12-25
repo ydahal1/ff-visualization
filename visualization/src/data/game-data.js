@@ -1,5 +1,5 @@
-// Generated on 12/25/2025, 12:00:02 (EST)
-// Total records: 2352
+// Generated on 12/25/2025, 12:15:02 (EST)
+// Total records: 2350
 
 export const games = [
   {
@@ -7346,13 +7346,6 @@ export const games = [
     "createdAt": "12/10/2025, 21:10:36"
   },
   {
-    "id": "497e0b1d-ac5a-4f50-9f17-595482f4ecdf",
-    "name": "Gva",
-    "creatorId": "100465279183819592781",
-    "creatorLastName": "Maldonado",
-    "createdAt": "12/10/2025, 20:59:05"
-  },
-  {
     "id": "c00131d8-1f00-405c-84a8-d4017e9bb016",
     "name": "House Feud Round 2",
     "creatorId": "108449997644486560906",
@@ -7372,13 +7365,6 @@ export const games = [
     "creatorId": "100905421364695330177",
     "creatorLastName": "Baron",
     "createdAt": "12/10/2025, 20:35:05"
-  },
-  {
-    "id": "829fcc49-3f7e-41cf-8d03-e8284e02569d",
-    "name": "GVM",
-    "creatorId": "100465279183819592781",
-    "creatorLastName": "Maldonado",
-    "createdAt": "12/10/2025, 20:31:46"
   },
   {
     "id": "a6280b6a-6562-4c8e-8718-3b6b93623a65",
