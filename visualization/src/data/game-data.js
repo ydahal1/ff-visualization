@@ -1,7 +1,35 @@
-// Generated on 12/24/2025, 22:15:02 (EST)
-// Total records: 2300
+// Generated on 12/24/2025, 22:30:02 (EST)
+// Total records: 2304
 
 export const games = [
+  {
+    "id": "0d429db4-60a0-4f9e-a163-7fa5822cfc61",
+    "name": "Family Trivia",
+    "creatorId": "107290371333886734357",
+    "creatorLastName": "Newell",
+    "createdAt": "12/24/2025, 22:29:57"
+  },
+  {
+    "id": "11d5674d-3371-405d-8b5d-b65b017f2dff",
+    "name": "Christmas Family Fortune",
+    "creatorId": "101044171878981579069",
+    "creatorLastName": "S",
+    "createdAt": "12/24/2025, 22:28:06"
+  },
+  {
+    "id": "f55f2c2e-87f1-473f-927f-7b2aa66b88f5",
+    "name": "Test",
+    "creatorId": "110346916844562104881",
+    "creatorLastName": "Leung",
+    "createdAt": "12/24/2025, 22:25:40"
+  },
+  {
+    "id": "f001b3a6-629d-43a3-8b98-5ea756e83547",
+    "name": "fast money 3",
+    "creatorId": "116430957384471674352",
+    "creatorLastName": "Earley",
+    "createdAt": "12/24/2025, 22:25:13"
+  },
   {
     "id": "8c7d3fb2-8bed-4ac9-befb-9cbee808e1da",
     "name": "chrystal",
