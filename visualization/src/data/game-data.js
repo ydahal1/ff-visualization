@@ -1,7 +1,21 @@
-// Generated on 12/25/2025, 10:30:02 (EST)
-// Total records: 2352
+// Generated on 12/25/2025, 10:45:02 (EST)
+// Total records: 2349
 
 export const games = [
+  {
+    "id": "19ebd34c-a243-4aa7-b972-4498d2dd8f0b",
+    "name": "Championship",
+    "creatorId": "103657120874124366892",
+    "creatorLastName": "Williams",
+    "createdAt": "12/25/2025, 10:42:18"
+  },
+  {
+    "id": "e89107dc-a128-4c62-8d71-c7ed79fa9202",
+    "name": "Game 1",
+    "creatorId": "103657120874124366892",
+    "creatorLastName": "Williams",
+    "createdAt": "12/25/2025, 10:37:27"
+  },
   {
     "id": "46fcaa2b-a5ce-4721-bb5a-b80084ffa387",
     "name": "dasda",
@@ -605,13 +619,6 @@ export const games = [
     "createdAt": "12/24/2025, 19:44:12"
   },
   {
-    "id": "a9699992-b463-4154-ba83-64e4c0f1ef8a",
-    "name": "Boys vs girl",
-    "creatorId": "103657120874124366892",
-    "creatorLastName": "Williams",
-    "createdAt": "12/24/2025, 19:33:30"
-  },
-  {
     "id": "90d9a0b7-e2d6-447e-98af-d00d4ae4efeb",
     "name": "Merry Jesus day",
     "creatorId": "117011329112008562215",
@@ -626,13 +633,6 @@ export const games = [
     "createdAt": "12/24/2025, 19:23:35"
   },
   {
-    "id": "96603ae2-8d74-42d0-b940-9d8169bb1283",
-    "name": "Championship",
-    "creatorId": "103657120874124366892",
-    "creatorLastName": "Williams",
-    "createdAt": "12/24/2025, 19:20:47"
-  },
-  {
     "id": "c5267e48-4b6e-471d-990d-0f97b04f2233",
     "name": "100 ruiz/kokes dijeron final",
     "creatorId": "112646175706349777512",
@@ -645,13 +645,6 @@ export const games = [
     "creatorId": "112646175706349777512",
     "creatorLastName": "Kokesova",
     "createdAt": "12/24/2025, 19:06:42"
-  },
-  {
-    "id": "9a6ec81d-f25b-4a8a-bade-3fdee397d0a2",
-    "name": "Game 3",
-    "creatorId": "103657120874124366892",
-    "creatorLastName": "Williams",
-    "createdAt": "12/24/2025, 19:04:29"
   },
   {
     "id": "b56d708f-be30-4d9e-970f-b986f5c49cca",
@@ -675,13 +668,6 @@ export const games = [
     "createdAt": "12/24/2025, 18:54:37"
   },
   {
-    "id": "33dd919c-48f5-4566-ae0c-e59ee5a25a0e",
-    "name": "Game 2",
-    "creatorId": "103657120874124366892",
-    "creatorLastName": "Williams",
-    "createdAt": "12/24/2025, 18:49:21"
-  },
-  {
     "id": "938ff640-c19d-42df-8fb6-e9a0546c9a8e",
     "name": "XMAS EVE 2025",
     "creatorId": "100532143204788686604",
@@ -694,13 +680,6 @@ export const games = [
     "creatorId": "110040165699213900126",
     "creatorLastName": "Pilotin",
     "createdAt": "12/24/2025, 18:31:08"
-  },
-  {
-    "id": "8970db4f-c8f4-4c1a-9eb6-0d55516a2f86",
-    "name": "Game 1 (Play In)",
-    "creatorId": "103657120874124366892",
-    "creatorLastName": "Williams",
-    "createdAt": "12/24/2025, 18:27:39"
   },
   {
     "id": "6b017d31-967d-4026-b5ed-4c296f1eb43e",
