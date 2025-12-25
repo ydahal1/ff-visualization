@@ -1,7 +1,12 @@
-// Generated on 12/25/2025, 08:30:01 (EST)
-// Total records: 1447
+// Generated on 12/25/2025, 08:45:01 (EST)
+// Total records: 1448
 
 export const users = [
+  {
+    "id": "114010000158219724350",
+    "lName": "Redondo",
+    "createdAt": "12/25/2025, 08:40:30"
+  },
   {
     "id": "102284129909179653538",
     "lName": "Depoy",
