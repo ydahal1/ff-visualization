@@ -1,7 +1,21 @@
-// Generated on 12/25/2025, 01:45:03 (EST)
-// Total records: 2328
+// Generated on 12/25/2025, 02:00:02 (EST)
+// Total records: 2330
 
 export const games = [
+  {
+    "id": "76680fb3-125b-4bf8-8b46-1b85fa88306d",
+    "name": "Sudan fude",
+    "creatorId": "105895500743554993403",
+    "creatorLastName": "Badi",
+    "createdAt": "12/25/2025, 01:53:16"
+  },
+  {
+    "id": "f15a11b2-9eb4-4e70-b904-ada201997201",
+    "name": "Game One",
+    "creatorId": "113869787222917531911",
+    "creatorLastName": "Ch.",
+    "createdAt": "12/25/2025, 01:47:02"
+  },
   {
     "id": "c675e032-ca4e-4844-bf14-9a852f649609",
     "name": "ayyyyyoooooo",
