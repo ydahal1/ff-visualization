@@ -1,7 +1,14 @@
-// Generated on 12/25/2025, 24:15:01 (EST)
-// Total records: 2322
+// Generated on 12/25/2025, 24:30:02 (EST)
+// Total records: 2323
 
 export const games = [
+  {
+    "id": "97693f0a-fba0-44a0-b557-5a5fa5891724",
+    "name": "Heights",
+    "creatorId": "108295678721959434713",
+    "creatorLastName": "Mijovic",
+    "createdAt": "12/25/2025, 24:21:25"
+  },
   {
     "id": "ed4f40e1-6845-4292-8ac1-55817e59f119",
     "name": "NExt",
