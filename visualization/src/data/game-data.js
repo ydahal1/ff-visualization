@@ -1,7 +1,14 @@
-// Generated on 12/25/2025, 24:00:02 (EST)
-// Total records: 2321
+// Generated on 12/25/2025, 24:15:01 (EST)
+// Total records: 2322
 
 export const games = [
+  {
+    "id": "ed4f40e1-6845-4292-8ac1-55817e59f119",
+    "name": "NExt",
+    "creatorId": "108493076981861391486",
+    "creatorLastName": "Meza",
+    "createdAt": "12/25/2025, 24:12:12"
+  },
   {
     "id": "4790f745-9244-4387-be7a-a3d2083834c4",
     "name": "Yari",
