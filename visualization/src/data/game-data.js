@@ -1,7 +1,35 @@
-// Generated on 12/25/2025, 02:15:02 (EST)
-// Total records: 2331
+// Generated on 12/25/2025, 02:30:02 (EST)
+// Total records: 2335
 
 export const games = [
+  {
+    "id": "d6b3fbf2-8b74-4292-8e42-d0648041fabd",
+    "name": "Menos de 100 Zuritas Dijeron 1",
+    "creatorId": "110313894133991205340",
+    "creatorLastName": "López Zurita",
+    "createdAt": "12/25/2025, 02:28:53"
+  },
+  {
+    "id": "77eb25da-3c30-4d41-b144-5695d492720d",
+    "name": "family feud (malaysia edisi",
+    "creatorId": "113977330607581259209",
+    "creatorLastName": "mimi",
+    "createdAt": "12/25/2025, 02:27:27"
+  },
+  {
+    "id": "c979c013-d2e6-48b9-ad08-37b0086fe102",
+    "name": "christmas",
+    "creatorId": "103421937713602353760",
+    "creatorLastName": "Hinojosa",
+    "createdAt": "12/25/2025, 02:19:41"
+  },
+  {
+    "id": "0fe530b0-b9c6-48e9-aa17-20f1eea7818a",
+    "name": "MEDINA FAMILY FEUD",
+    "creatorId": "104589924580668680013",
+    "creatorLastName": "Medina",
+    "createdAt": "12/25/2025, 02:18:26"
+  },
   {
     "id": "739053f9-75de-4932-9b14-41d6e9ae039a",
     "name": "Blue VS Red",
