@@ -1,13 +1,13 @@
-// Generated on 12/25/2025, 04:15:02 (EST)
-// Total records: 2344
+// Generated on 12/25/2025, 04:30:02 (EST)
+// Total records: 2343
 
 export const games = [
   {
-    "id": "f5bc55af-4f6e-4a1e-930f-5d89afe2716d",
-    "name": "Red VS Green",
+    "id": "28815d5a-3375-465d-97b6-23ba3d0ebac5",
+    "name": "RED VS GREEN",
     "creatorId": "107590772739724587806",
     "creatorLastName": "tiglao",
-    "createdAt": "12/25/2025, 04:10:50"
+    "createdAt": "12/25/2025, 04:28:17"
   },
   {
     "id": "d9b9dbfd-214c-469c-bd56-c87a877acae9",
@@ -92,13 +92,6 @@ export const games = [
     "creatorId": "104589924580668680013",
     "creatorLastName": "Medina",
     "createdAt": "12/25/2025, 02:18:26"
-  },
-  {
-    "id": "739053f9-75de-4932-9b14-41d6e9ae039a",
-    "name": "Blue VS Red",
-    "creatorId": "107590772739724587806",
-    "creatorLastName": "tiglao",
-    "createdAt": "12/25/2025, 02:07:43"
   },
   {
     "id": "48a52b6c-df76-4988-9751-1ddddcf913fd",
