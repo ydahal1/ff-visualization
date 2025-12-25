@@ -1,7 +1,14 @@
-// Generated on 12/25/2025, 03:15:02 (EST)
-// Total records: 2340
+// Generated on 12/25/2025, 03:30:02 (EST)
+// Total records: 2341
 
 export const games = [
+  {
+    "id": "70161b93-89d1-4f10-b8c2-b7ceb6a3a1ec",
+    "name": "Badi",
+    "creatorId": "105895500743554993403",
+    "creatorLastName": "Badi",
+    "createdAt": "12/25/2025, 03:22:50"
+  },
   {
     "id": "522eb495-0a36-48e9-bb74-219dcbdf4538",
     "name": "family feud yang saya terlupa yeyeyeyyey",
