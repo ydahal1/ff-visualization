@@ -1,7 +1,21 @@
-// Generated on 12/25/2025, 10:00:02 (EST)
-// Total records: 2349
+// Generated on 12/25/2025, 10:15:01 (EST)
+// Total records: 2351
 
 export const games = [
+  {
+    "id": "c056ac54-0c04-4c13-beb0-d49774b31a4d",
+    "name": "Bible games",
+    "creatorId": "113968522607852649180",
+    "creatorLastName": "Jardiniano",
+    "createdAt": "12/25/2025, 10:11:50"
+  },
+  {
+    "id": "5e540921-dd40-47d3-af81-76c1c59ec251",
+    "name": "Bible feud",
+    "creatorId": "113968522607852649180",
+    "creatorLastName": "Jardiniano",
+    "createdAt": "12/25/2025, 10:10:44"
+  },
   {
     "id": "aeea95f2-7122-460d-a4a8-a27c848ace66",
     "name": "AA",
