@@ -1,7 +1,14 @@
-// Generated on 12/25/2025, 24:45:02 (EST)
+// Generated on 12/25/2025, 01:00:02 (EST)
 // Total records: 2326
 
 export const games = [
+  {
+    "id": "ed8fd644-23a7-4beb-856a-b911945d4e1e",
+    "name": "Christmas Edition",
+    "creatorId": "115388134932016090219",
+    "creatorLastName": "Antonio",
+    "createdAt": "12/25/2025, 24:52:09"
+  },
   {
     "id": "9c22ce38-ad3c-4b32-8e5d-3a9b8fdf4ab8",
     "name": "Parent/Child Game questions",
@@ -22,13 +29,6 @@ export const games = [
     "creatorId": "112936771847705007740",
     "creatorLastName": "Barker",
     "createdAt": "12/25/2025, 24:40:16"
-  },
-  {
-    "id": "26413d8f-9d12-4af9-8e7f-2bed58e2e48a",
-    "name": "Heights (Holiday Themed)",
-    "creatorId": "108295678721959434713",
-    "creatorLastName": "Mijovic",
-    "createdAt": "12/25/2025, 24:40:05"
   },
   {
     "id": "ed4f40e1-6845-4292-8ac1-55817e59f119",
