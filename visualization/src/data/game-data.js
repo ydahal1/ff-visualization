@@ -1,7 +1,35 @@
-// Generated on 12/25/2025, 02:30:02 (EST)
-// Total records: 2335
+// Generated on 12/25/2025, 02:45:02 (EST)
+// Total records: 2339
 
 export const games = [
+  {
+    "id": "f0d9e241-f63e-4e5b-bf68-9f0a360bcb90",
+    "name": "Game Two",
+    "creatorId": "113869787222917531911",
+    "creatorLastName": "Ch.",
+    "createdAt": "12/25/2025, 02:35:55"
+  },
+  {
+    "id": "8598be79-ec1e-4148-ac48-9410df51ab1c",
+    "name": "Menos de 100 Zuritas Dijeron 4",
+    "creatorId": "110313894133991205340",
+    "creatorLastName": "López Zurita",
+    "createdAt": "12/25/2025, 02:32:25"
+  },
+  {
+    "id": "6bb897a7-8e25-4732-a692-6330494e0180",
+    "name": "Menos de 100 Zuritas Dijeron 3",
+    "creatorId": "110313894133991205340",
+    "creatorLastName": "López Zurita",
+    "createdAt": "12/25/2025, 02:31:26"
+  },
+  {
+    "id": "3772f8ba-4ffc-491e-9f7b-07a3f00bf9a8",
+    "name": "Menos de 100 Zuritas Dijeron 2",
+    "creatorId": "110313894133991205340",
+    "creatorLastName": "López Zurita",
+    "createdAt": "12/25/2025, 02:30:23"
+  },
   {
     "id": "d6b3fbf2-8b74-4292-8e42-d0648041fabd",
     "name": "Menos de 100 Zuritas Dijeron 1",
