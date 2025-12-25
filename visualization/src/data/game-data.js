@@ -1,7 +1,35 @@
-// Generated on 12/24/2025, 23:15:02 (EST)
-// Total records: 2311
+// Generated on 12/24/2025, 23:30:02 (EST)
+// Total records: 2315
 
 export const games = [
+  {
+    "id": "a5850c88-911e-4d59-ae5d-596f3130d30d",
+    "name": "Christmas 2",
+    "creatorId": "115095021543005587599",
+    "creatorLastName": "Nowicki",
+    "createdAt": "12/24/2025, 23:24:04"
+  },
+  {
+    "id": "730379cc-6481-4181-9919-93171892fa59",
+    "name": "Christmas 1",
+    "creatorId": "115095021543005587599",
+    "creatorLastName": "Nowicki",
+    "createdAt": "12/24/2025, 23:22:46"
+  },
+  {
+    "id": "fd92ec5f-a847-4da2-9f24-4acc1b986785",
+    "name": "Ama",
+    "creatorId": "103243254469223854403",
+    "creatorLastName": "Larios",
+    "createdAt": "12/24/2025, 23:17:18"
+  },
+  {
+    "id": "6c0d7cc9-db96-4474-901d-0fa5f3aa05dc",
+    "name": "First Round",
+    "creatorId": "108493076981861391486",
+    "creatorLastName": "Meza",
+    "createdAt": "12/24/2025, 23:16:20"
+  },
   {
     "id": "d433b843-3a03-4d15-a7a9-ba879433b786",
     "name": "Family Feud with Charles 2",
