@@ -1,7 +1,14 @@
-// Generated on 12/25/2025, 03:00:02 (EST)
+// Generated on 12/25/2025, 03:15:02 (EST)
 // Total records: 2340
 
 export const games = [
+  {
+    "id": "522eb495-0a36-48e9-bb74-219dcbdf4538",
+    "name": "family feud yang saya terlupa yeyeyeyyey",
+    "creatorId": "113977330607581259209",
+    "creatorLastName": "mimi",
+    "createdAt": "12/25/2025, 03:04:17"
+  },
   {
     "id": "b5cd8ad9-9160-4ccf-9aa4-6fe4862e93a6",
     "name": "FAMILY FUEDS",
@@ -43,13 +50,6 @@ export const games = [
     "creatorId": "110313894133991205340",
     "creatorLastName": "López Zurita",
     "createdAt": "12/25/2025, 02:28:53"
-  },
-  {
-    "id": "77eb25da-3c30-4d41-b144-5695d492720d",
-    "name": "family feud (malaysia edisi",
-    "creatorId": "113977330607581259209",
-    "creatorLastName": "mimi",
-    "createdAt": "12/25/2025, 02:27:27"
   },
   {
     "id": "c979c013-d2e6-48b9-ad08-37b0086fe102",
