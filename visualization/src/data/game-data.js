@@ -1,7 +1,42 @@
-// Generated on 12/25/2025, 18:00:02 (EST)
-// Total records: 2397
+// Generated on 12/25/2025, 18:15:03 (EST)
+// Total records: 2402
 
 export const games = [
+  {
+    "id": "3e992130-3d49-4e0f-a3b8-abe52521e729",
+    "name": "Quien6",
+    "creatorId": "103243254469223854403",
+    "creatorLastName": "Larios",
+    "createdAt": "12/25/2025, 18:12:48"
+  },
+  {
+    "id": "ea5ba5d0-9e18-4e45-91f6-a67f54a8f8fc",
+    "name": "Quien 1",
+    "creatorId": "103243254469223854403",
+    "creatorLastName": "Larios",
+    "createdAt": "12/25/2025, 18:10:07"
+  },
+  {
+    "id": "d2a67473-5ca6-46f2-bb9b-eb9234962498",
+    "name": "Quien 4",
+    "creatorId": "103243254469223854403",
+    "creatorLastName": "Larios",
+    "createdAt": "12/25/2025, 18:07:30"
+  },
+  {
+    "id": "c2a96978-c978-4b46-b63f-c6ad15987c4e",
+    "name": "Quien 3",
+    "creatorId": "103243254469223854403",
+    "creatorLastName": "Larios",
+    "createdAt": "12/25/2025, 18:04:09"
+  },
+  {
+    "id": "31e2d5c5-f321-49ac-9c41-b8ea1f4b5ac3",
+    "name": "Quien 2",
+    "creatorId": "103243254469223854403",
+    "creatorLastName": "Larios",
+    "createdAt": "12/25/2025, 18:02:49"
+  },
   {
     "id": "547f4061-edb9-4786-89d5-90dcc2d07979",
     "name": "TIE BREAKER",
