@@ -1,7 +1,14 @@
-// Generated on 12/25/2025, 10:45:02 (EST)
-// Total records: 2349
+// Generated on 12/25/2025, 11:00:02 (EST)
+// Total records: 2350
 
 export const games = [
+  {
+    "id": "8c212bb3-7eed-41f2-9e36-49777c2b6083",
+    "name": "good",
+    "creatorId": "113968522607852649180",
+    "creatorLastName": "Jardiniano",
+    "createdAt": "12/25/2025, 10:54:47"
+  },
   {
     "id": "19ebd34c-a243-4aa7-b972-4498d2dd8f0b",
     "name": "Championship",
