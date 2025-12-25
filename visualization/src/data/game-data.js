@@ -1,7 +1,35 @@
-// Generated on 12/25/2025, 15:00:02 (EST)
-// Total records: 2372
+// Generated on 12/25/2025, 15:15:02 (EST)
+// Total records: 2376
 
 export const games = [
+  {
+    "id": "146cb75e-76ec-45c9-8b97-b7d1d2a04713",
+    "name": "Christmas 2",
+    "creatorId": "109518331258550090929",
+    "creatorLastName": "H.",
+    "createdAt": "12/25/2025, 15:13:11"
+  },
+  {
+    "id": "51c0846c-537b-4531-b7eb-34328c695adf",
+    "name": "Sturdivant Family Feud",
+    "creatorId": "107043968206905017367",
+    "creatorLastName": "sturdivant",
+    "createdAt": "12/25/2025, 15:02:28"
+  },
+  {
+    "id": "e67e2b8b-4091-4d86-94f8-8133a79a8d9b",
+    "name": "Christmas Game",
+    "creatorId": "110122399153158584040",
+    "creatorLastName": "Bundage",
+    "createdAt": "12/25/2025, 15:01:41"
+  },
+  {
+    "id": "99b9cd41-db66-40bd-81bc-ddf54800def3",
+    "name": "Christmas Game 6",
+    "creatorId": "106107956162003397522",
+    "creatorLastName": "Taylor",
+    "createdAt": "12/25/2025, 15:00:44"
+  },
   {
     "id": "19509a07-88df-4e86-a212-1ec232a8978d",
     "name": "Christmas Game 5",
