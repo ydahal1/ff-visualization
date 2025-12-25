@@ -1,7 +1,21 @@
-// Generated on 12/24/2025, 21:15:02 (EST)
-// Total records: 2291
+// Generated on 12/24/2025, 21:30:02 (EST)
+// Total records: 2293
 
 export const games = [
+  {
+    "id": "8ead4ffb-cfbb-40bf-9886-312b1584a171",
+    "name": "chris fast money",
+    "creatorId": "116430957384471674352",
+    "creatorLastName": "Earley",
+    "createdAt": "12/24/2025, 21:20:23"
+  },
+  {
+    "id": "1c17063c-4528-435a-8ad9-f9f28b7fc733",
+    "name": "Thier Fam Fued",
+    "creatorId": "103225937920358564707",
+    "creatorLastName": "Thier",
+    "createdAt": "12/24/2025, 21:20:11"
+  },
   {
     "id": "939b65bd-5c84-41d2-8d9e-fec3182eec42",
     "name": "family",
