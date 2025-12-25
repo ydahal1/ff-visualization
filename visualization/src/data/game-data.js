@@ -1,7 +1,28 @@
-// Generated on 12/24/2025, 19:15:01 (EST)
-// Total records: 2265
+// Generated on 12/24/2025, 19:30:02 (EST)
+// Total records: 2268
 
 export const games = [
+  {
+    "id": "90d9a0b7-e2d6-447e-98af-d00d4ae4efeb",
+    "name": "Merry Jesus day",
+    "creatorId": "117011329112008562215",
+    "creatorLastName": "Lucero",
+    "createdAt": "12/24/2025, 19:27:20"
+  },
+  {
+    "id": "c24f8dba-0f6a-402c-903d-4e7117d3ce83",
+    "name": "2025 Christmas",
+    "creatorId": "101178533860071212160",
+    "creatorLastName": "Carney",
+    "createdAt": "12/24/2025, 19:23:35"
+  },
+  {
+    "id": "96603ae2-8d74-42d0-b940-9d8169bb1283",
+    "name": "Championship",
+    "creatorId": "103657120874124366892",
+    "creatorLastName": "Williams",
+    "createdAt": "12/24/2025, 19:20:47"
+  },
   {
     "id": "c5267e48-4b6e-471d-990d-0f97b04f2233",
     "name": "100 ruiz/kokes dijeron final",
