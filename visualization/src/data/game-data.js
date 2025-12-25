@@ -1,7 +1,21 @@
-// Generated on 12/25/2025, 04:00:02 (EST)
-// Total records: 2342
+// Generated on 12/25/2025, 04:15:02 (EST)
+// Total records: 2344
 
 export const games = [
+  {
+    "id": "f5bc55af-4f6e-4a1e-930f-5d89afe2716d",
+    "name": "Red VS Green",
+    "creatorId": "107590772739724587806",
+    "creatorLastName": "tiglao",
+    "createdAt": "12/25/2025, 04:10:50"
+  },
+  {
+    "id": "d9b9dbfd-214c-469c-bd56-c87a877acae9",
+    "name": "Family Christmas Challenge 2025",
+    "creatorId": "107586862461934417416",
+    "creatorLastName": "Maniglio",
+    "createdAt": "12/25/2025, 04:10:33"
+  },
   {
     "id": "dd5d3afa-92dc-4c28-9c8b-c6a81023af15",
     "name": "Preguntas rápidas",
