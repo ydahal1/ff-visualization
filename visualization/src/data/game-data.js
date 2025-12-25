@@ -1,7 +1,21 @@
-// Generated on 12/25/2025, 01:00:02 (EST)
-// Total records: 2326
+// Generated on 12/25/2025, 01:15:02 (EST)
+// Total records: 2328
 
 export const games = [
+  {
+    "id": "de346d9b-93ac-41b8-b662-215192b72892",
+    "name": "Christmas 2",
+    "creatorId": "100406564057635598817",
+    "creatorLastName": "Farias",
+    "createdAt": "12/25/2025, 01:00:42"
+  },
+  {
+    "id": "02e86701-61eb-4807-960b-2b6e72965b70",
+    "name": "Heights v3",
+    "creatorId": "108295678721959434713",
+    "creatorLastName": "Mijovic",
+    "createdAt": "12/25/2025, 01:00:20"
+  },
   {
     "id": "ed8fd644-23a7-4beb-856a-b911945d4e1e",
     "name": "Christmas Edition",
