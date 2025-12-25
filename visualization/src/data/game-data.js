@@ -1,7 +1,14 @@
-// Generated on 12/25/2025, 05:00:02 (EST)
+// Generated on 12/25/2025, 05:15:02 (EST)
 // Total records: 2345
 
 export const games = [
+  {
+    "id": "0d7fb344-6355-424b-8d43-52c52372b01d",
+    "name": "Christmas",
+    "creatorId": "101960196842752853733",
+    "creatorLastName": "Vanderelst",
+    "createdAt": "12/25/2025, 05:01:50"
+  },
   {
     "id": "75144b9c-e292-4512-bb3a-3d0c1917b280",
     "name": "Hafner Family Feud 2",
@@ -15,13 +22,6 @@ export const games = [
     "creatorId": "101960196842752853733",
     "creatorLastName": "Vanderelst",
     "createdAt": "12/25/2025, 04:48:22"
-  },
-  {
-    "id": "28815d5a-3375-465d-97b6-23ba3d0ebac5",
-    "name": "RED VS GREEN",
-    "creatorId": "107590772739724587806",
-    "creatorLastName": "tiglao",
-    "createdAt": "12/25/2025, 04:28:17"
   },
   {
     "id": "d9b9dbfd-214c-469c-bd56-c87a877acae9",
