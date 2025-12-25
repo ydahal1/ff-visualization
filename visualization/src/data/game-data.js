@@ -1,13 +1,13 @@
-// Generated on 12/25/2025, 07:00:03 (EST)
+// Generated on 12/25/2025, 07:30:03 (EST)
 // Total records: 2348
 
 export const games = [
   {
-    "id": "14a180ad-5b71-4fce-ac56-ee7d747029a9",
-    "name": "GREEN VS WHITE",
+    "id": "4757c7b8-cf06-43db-813c-704a3501c766",
+    "name": "WHITE VS BLACK",
     "creatorId": "107590772739724587806",
     "creatorLastName": "tiglao",
-    "createdAt": "12/25/2025, 06:48:12"
+    "createdAt": "12/25/2025, 07:14:33"
   },
   {
     "id": "15351a64-f924-4c57-b91a-2ff053a43a45",
