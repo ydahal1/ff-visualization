@@ -1,7 +1,21 @@
-// Generated on 12/25/2025, 02:00:02 (EST)
-// Total records: 2330
+// Generated on 12/25/2025, 02:15:02 (EST)
+// Total records: 2331
 
 export const games = [
+  {
+    "id": "739053f9-75de-4932-9b14-41d6e9ae039a",
+    "name": "Blue VS Red",
+    "creatorId": "107590772739724587806",
+    "creatorLastName": "tiglao",
+    "createdAt": "12/25/2025, 02:07:43"
+  },
+  {
+    "id": "48a52b6c-df76-4988-9751-1ddddcf913fd",
+    "name": "Christmas Edition",
+    "creatorId": "115388134932016090219",
+    "creatorLastName": "Antonio",
+    "createdAt": "12/25/2025, 02:05:19"
+  },
   {
     "id": "76680fb3-125b-4bf8-8b46-1b85fa88306d",
     "name": "Sudan fude",
@@ -2990,13 +3004,6 @@ export const games = [
     "creatorId": "116892304922548547097",
     "creatorLastName": "Čerapaitė",
     "createdAt": "12/21/2025, 08:09:06"
-  },
-  {
-    "id": "7b1ff5d9-f950-4e00-9579-224fef61f2ec",
-    "name": "Blue VS Red",
-    "creatorId": "107590772739724587806",
-    "creatorLastName": "tiglao",
-    "createdAt": "12/21/2025, 07:52:23"
   },
   {
     "id": "04b995c0-ca64-476e-b1e3-8b256860306f",
