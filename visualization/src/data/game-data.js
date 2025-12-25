@@ -1,14 +1,7 @@
-// Generated on 12/25/2025, 05:45:02 (EST)
-// Total records: 2347
+// Generated on 12/25/2025, 06:00:02 (EST)
+// Total records: 2346
 
 export const games = [
-  {
-    "id": "de438a82-5be5-4c36-8d44-1786096eb50c",
-    "name": "BLUE VS WHITE",
-    "creatorId": "107590772739724587806",
-    "creatorLastName": "tiglao",
-    "createdAt": "12/25/2025, 05:35:48"
-  },
   {
     "id": "47fdffdc-995e-4d1b-8665-135a33bb0d0d",
     "name": "Part 3",
