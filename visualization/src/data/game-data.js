@@ -1,13 +1,13 @@
-// Generated on 12/25/2025, 06:30:02 (EST)
+// Generated on 12/25/2025, 06:45:02 (EST)
 // Total records: 2347
 
 export const games = [
   {
-    "id": "d3412fc0-297b-435e-92a8-5550585fd11e",
-    "name": "BLACK VS YELLOW",
-    "creatorId": "107590772739724587806",
-    "creatorLastName": "tiglao",
-    "createdAt": "12/25/2025, 06:06:09"
+    "id": "15351a64-f924-4c57-b91a-2ff053a43a45",
+    "name": "Part 4",
+    "creatorId": "104589924580668680013",
+    "creatorLastName": "Medina",
+    "createdAt": "12/25/2025, 06:38:13"
   },
   {
     "id": "47fdffdc-995e-4d1b-8665-135a33bb0d0d",
