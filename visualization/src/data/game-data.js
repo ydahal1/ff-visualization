@@ -1,7 +1,42 @@
-// Generated on 12/24/2025, 22:30:02 (EST)
-// Total records: 2304
+// Generated on 12/24/2025, 22:45:02 (EST)
+// Total records: 2309
 
 export const games = [
+  {
+    "id": "c2902557-ccb8-48a0-9fde-2fce53c121dc",
+    "name": "Family Feud with Charles",
+    "creatorId": "117096727258746424547",
+    "creatorLastName": "Policarpio",
+    "createdAt": "12/24/2025, 22:38:01"
+  },
+  {
+    "id": "d9fd742e-0bc1-4bfa-a4ef-d69039f549f9",
+    "name": "christmas",
+    "creatorId": "116626398408285882677",
+    "creatorLastName": "Alfonso",
+    "createdAt": "12/24/2025, 22:36:40"
+  },
+  {
+    "id": "b382f3c9-5ebc-4d20-b53a-3c31760ac6ea",
+    "name": "christ",
+    "creatorId": "116430957384471674352",
+    "creatorLastName": "Earley",
+    "createdAt": "12/24/2025, 22:35:11"
+  },
+  {
+    "id": "df7b6927-3a68-442d-a06a-18c03193fbbf",
+    "name": "Family Trivia 2",
+    "creatorId": "107290371333886734357",
+    "creatorLastName": "Newell",
+    "createdAt": "12/24/2025, 22:34:41"
+  },
+  {
+    "id": "27d3d6b4-238f-4a27-a29c-f840b757b66e",
+    "name": "Pablo",
+    "creatorId": "103243254469223854403",
+    "creatorLastName": "Larios",
+    "createdAt": "12/24/2025, 22:32:49"
+  },
   {
     "id": "0d429db4-60a0-4f9e-a163-7fa5822cfc61",
     "name": "Family Trivia",
