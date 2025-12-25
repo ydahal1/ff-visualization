@@ -1,7 +1,28 @@
-// Generated on 12/24/2025, 23:45:02 (EST)
-// Total records: 2318
+// Generated on 12/25/2025, 24:00:02 (EST)
+// Total records: 2321
 
 export const games = [
+  {
+    "id": "4790f745-9244-4387-be7a-a3d2083834c4",
+    "name": "Yari",
+    "creatorId": "103243254469223854403",
+    "creatorLastName": "Larios",
+    "createdAt": "12/24/2025, 23:58:24"
+  },
+  {
+    "id": "affa8f16-2b57-4a86-9dd3-305f45053ae7",
+    "name": "Round 3",
+    "creatorId": "108493076981861391486",
+    "creatorLastName": "Meza",
+    "createdAt": "12/24/2025, 23:53:54"
+  },
+  {
+    "id": "a5e74a48-6a4f-48fe-b044-5e335e34e009",
+    "name": "Chiry",
+    "creatorId": "103243254469223854403",
+    "creatorLastName": "Larios",
+    "createdAt": "12/24/2025, 23:51:30"
+  },
   {
     "id": "62eed82f-9e39-43e2-8a95-c446dd5b1019",
     "name": "Beli",
