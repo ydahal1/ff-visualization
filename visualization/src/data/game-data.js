@@ -1,7 +1,14 @@
-// Generated on 12/25/2025, 22:00:02 (EST)
-// Total records: 2433
+// Generated on 12/25/2025, 22:15:02 (EST)
+// Total records: 2434
 
 export const games = [
+  {
+    "id": "41dc57c6-bb77-4ff0-b565-e796b62d0291",
+    "name": "Christmas Family Feud",
+    "creatorId": "110430377434487190505",
+    "creatorLastName": "Armstrong",
+    "createdAt": "12/25/2025, 22:14:34"
+  },
   {
     "id": "c61b5f29-0c92-49c3-aa37-fc27bf81fced",
     "name": "simon holiday games",
