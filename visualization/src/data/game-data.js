@@ -1,7 +1,14 @@
-// Generated on 12/26/2025, 11:00:02 (EST)
-// Total records: 2451
+// Generated on 12/26/2025, 11:15:01 (EST)
+// Total records: 2452
 
 export const games = [
+  {
+    "id": "b805ad05-2e35-4048-9736-e573b10a2c02",
+    "name": "December 31 2025",
+    "creatorId": "106027508718178647777",
+    "creatorLastName": "Lewis",
+    "createdAt": "12/26/2025, 11:08:14"
+  },
   {
     "id": "848a2f1e-2735-4256-8097-2fce235e2c19",
     "name": "All Ages",
