@@ -1,7 +1,21 @@
-// Generated on 12/26/2025, 24:00:02 (EST)
-// Total records: 2442
+// Generated on 12/26/2025, 24:15:02 (EST)
+// Total records: 2444
 
 export const games = [
+  {
+    "id": "215ce40a-7f36-4435-b101-f7553e6c332e",
+    "name": "Sample Game",
+    "creatorId": "115281175492860447251",
+    "creatorLastName": "Ellar-Gil",
+    "createdAt": "12/26/2025, 24:10:24"
+  },
+  {
+    "id": "9e08b325-3c01-4d4c-b317-2ddb0d7d66fe",
+    "name": "Fam 2",
+    "creatorId": "109816603100708013365",
+    "creatorLastName": "Gonzales",
+    "createdAt": "12/26/2025, 24:02:13"
+  },
   {
     "id": "579776ff-b8a8-4e14-abf2-fc5945f1548f",
     "name": "HELL YEAH",
