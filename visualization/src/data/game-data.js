@@ -1,7 +1,21 @@
-// Generated on 12/26/2025, 17:00:03 (EST)
-// Total records: 2459
+// Generated on 12/26/2025, 17:15:03 (EST)
+// Total records: 2461
 
 export const games = [
+  {
+    "id": "63dcdfc7-cb7f-48b4-b7f3-6aa590dfbad5",
+    "name": "Nivel 2",
+    "creatorId": "104324181231353398940",
+    "creatorLastName": "Lopez-Morfin",
+    "createdAt": "12/26/2025, 17:14:15"
+  },
+  {
+    "id": "e32f5586-423b-45ae-a054-04e68f95f154",
+    "name": "Family Feud",
+    "creatorId": "111922903237820741170",
+    "creatorLastName": "Kit",
+    "createdAt": "12/26/2025, 17:01:56"
+  },
   {
     "id": "71e91cf5-e8ff-4f79-b86e-de1fc9e324dd",
     "name": "Nivel 1",
