@@ -1,7 +1,28 @@
-// Generated on 12/25/2025, 23:15:02 (EST)
-// Total records: 2439
+// Generated on 12/25/2025, 23:30:02 (EST)
+// Total records: 2442
 
 export const games = [
+  {
+    "id": "d3171887-daca-47a7-a4d3-15aa6dbc1f5e",
+    "name": "FAM fued 2",
+    "creatorId": "109265334250407768926",
+    "creatorLastName": "Ali",
+    "createdAt": "12/25/2025, 23:25:18"
+  },
+  {
+    "id": "9c146318-0786-488d-8449-60aacf2a7655",
+    "name": "fmg'wrjgn rve",
+    "creatorId": "113677376457108660601",
+    "creatorLastName": "Minnich",
+    "createdAt": "12/25/2025, 23:23:16"
+  },
+  {
+    "id": "4e7dbb1d-fdcf-4def-a323-27d0be307682",
+    "name": "Fam",
+    "creatorId": "109816603100708013365",
+    "creatorLastName": "Gonzales",
+    "createdAt": "12/25/2025, 23:22:04"
+  },
   {
     "id": "82a7b365-1abf-4ff4-9859-a45ad62af6ea",
     "name": "yes boy",
