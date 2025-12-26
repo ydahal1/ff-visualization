@@ -1,7 +1,14 @@
-// Generated on 12/26/2025, 16:45:02 (EST)
-// Total records: 2458
+// Generated on 12/26/2025, 17:00:03 (EST)
+// Total records: 2459
 
 export const games = [
+  {
+    "id": "71e91cf5-e8ff-4f79-b86e-de1fc9e324dd",
+    "name": "Nivel 1",
+    "creatorId": "104324181231353398940",
+    "creatorLastName": "Lopez-Morfin",
+    "createdAt": "12/26/2025, 16:52:09"
+  },
   {
     "id": "3ced1b8b-1c4b-4afa-af79-2520201fbbc7",
     "name": "pioneers",
