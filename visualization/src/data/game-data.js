@@ -1,5 +1,5 @@
-// Generated on 12/26/2025, 07:30:02 (EST)
-// Total records: 2446
+// Generated on 12/26/2025, 07:45:03 (EST)
+// Total records: 2445
 
 export const games = [
   {
@@ -771,13 +771,6 @@ export const games = [
     "creatorId": "103657120874124366892",
     "creatorLastName": "Williams",
     "createdAt": "12/25/2025, 10:37:27"
-  },
-  {
-    "id": "46fcaa2b-a5ce-4721-bb5a-b80084ffa387",
-    "name": "dasda",
-    "creatorId": "114010000158219724350",
-    "creatorLastName": "Redondo",
-    "createdAt": "12/25/2025, 10:22:20"
   },
   {
     "id": "c056ac54-0c04-4c13-beb0-d49774b31a4d",
