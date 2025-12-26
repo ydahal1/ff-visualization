@@ -1,7 +1,14 @@
-// Generated on 12/25/2025, 21:15:02 (EST)
-// Total records: 2431
+// Generated on 12/25/2025, 21:30:03 (EST)
+// Total records: 2432
 
 export const games = [
+  {
+    "id": "b31e4169-b93e-4fdd-8ec5-fd7f8bf160d2",
+    "name": "Company Feud 1",
+    "creatorId": "115281175492860447251",
+    "creatorLastName": "Ellar-Gil",
+    "createdAt": "12/25/2025, 21:20:10"
+  },
   {
     "id": "be2413db-54b9-4c9b-89d1-23355194c001",
     "name": "Final Round",
