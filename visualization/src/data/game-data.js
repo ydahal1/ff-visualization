@@ -1,7 +1,14 @@
-// Generated on 12/25/2025, 19:15:02 (EST)
-// Total records: 2411
+// Generated on 12/25/2025, 19:30:02 (EST)
+// Total records: 2412
 
 export const games = [
+  {
+    "id": "7df9ff91-1ffa-4ded-996c-d22c2da42c3e",
+    "name": "Su family fued",
+    "creatorId": "117611368205067258198",
+    "creatorLastName": "Su",
+    "createdAt": "12/25/2025, 19:28:01"
+  },
   {
     "id": "3b2def33-c0cf-44a9-8542-20c4c3a327ef",
     "name": "mylittlepony",
