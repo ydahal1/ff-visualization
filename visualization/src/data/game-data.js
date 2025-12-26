@@ -1,7 +1,14 @@
-// Generated on 12/26/2025, 15:15:01 (EST)
-// Total records: 2458
+// Generated on 12/26/2025, 15:30:02 (EST)
+// Total records: 2459
 
 export const games = [
+  {
+    "id": "31a6a3f7-cc30-4b9e-990a-df4d7e01d65f",
+    "name": "vdstg",
+    "creatorId": "111939314855352728559",
+    "creatorLastName": "Sarová",
+    "createdAt": "12/26/2025, 15:27:26"
+  },
   {
     "id": "2de9ab4a-91ff-4f90-aac6-b021d944469d",
     "name": "Test",
