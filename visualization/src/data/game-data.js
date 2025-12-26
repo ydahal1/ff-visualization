@@ -1,14 +1,7 @@
-// Generated on 12/26/2025, 06:30:02 (EST)
-// Total records: 2447
+// Generated on 12/26/2025, 06:45:03 (EST)
+// Total records: 2446
 
 export const games = [
-  {
-    "id": "75cd3fee-e026-40e1-a80e-20463459fb84",
-    "name": "Family Feud",
-    "creatorId": "103145219706212378434",
-    "creatorLastName": "Legaspi",
-    "createdAt": "12/26/2025, 06:29:01"
-  },
   {
     "id": "c80d5aa8-b2fe-4098-8d54-8e5a337ea3b3",
     "name": "Familyy",
