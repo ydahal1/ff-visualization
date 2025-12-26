@@ -1,13 +1,13 @@
-// Generated on 12/26/2025, 15:30:02 (EST)
-// Total records: 2459
+// Generated on 12/26/2025, 15:45:02 (EST)
+// Total records: 2458
 
 export const games = [
   {
-    "id": "31a6a3f7-cc30-4b9e-990a-df4d7e01d65f",
-    "name": "vdstg",
-    "creatorId": "111939314855352728559",
-    "creatorLastName": "Sarová",
-    "createdAt": "12/26/2025, 15:27:26"
+    "id": "3ced1b8b-1c4b-4afa-af79-2520201fbbc7",
+    "name": "pioneers",
+    "creatorId": "104023425420449127506",
+    "creatorLastName": "Atek",
+    "createdAt": "12/26/2025, 15:42:48"
   },
   {
     "id": "2de9ab4a-91ff-4f90-aac6-b021d944469d",
@@ -5454,13 +5454,6 @@ export const games = [
     "creatorId": "111761805110357003529",
     "creatorLastName": "Jones",
     "createdAt": "12/17/2025, 20:43:58"
-  },
-  {
-    "id": "4f715dd2-935d-43cc-ba89-0736f1ed5a8e",
-    "name": "Pioneers and elders",
-    "creatorId": "104023425420449127506",
-    "creatorLastName": "Atek",
-    "createdAt": "12/17/2025, 20:26:16"
   },
   {
     "id": "dbb68eb3-0e72-49cf-9918-493890fca946",
