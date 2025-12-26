@@ -1,7 +1,14 @@
-// Generated on 12/26/2025, 10:00:02 (EST)
-// Total records: 2450
+// Generated on 12/26/2025, 10:15:02 (EST)
+// Total records: 2451
 
 export const games = [
+  {
+    "id": "848a2f1e-2735-4256-8097-2fce235e2c19",
+    "name": "All Ages",
+    "creatorId": "114010000158219724350",
+    "creatorLastName": "Redondo",
+    "createdAt": "12/26/2025, 10:12:13"
+  },
   {
     "id": "7525d9b5-c129-4aa2-b876-e46ab68e6c23",
     "name": "Tatay's Game",
