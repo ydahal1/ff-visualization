@@ -1,7 +1,14 @@
-// Generated on 12/27/2025, 01:15:02 (EST)
-// Total records: 2485
+// Generated on 12/27/2025, 01:30:02 (EST)
+// Total records: 2484
 
 export const games = [
+  {
+    "id": "49e4c87a-5293-4277-8e1a-f6922fbd6ed4",
+    "name": "Family feud",
+    "creatorId": "110162445332263471954",
+    "creatorLastName": "Carrola",
+    "createdAt": "12/27/2025, 01:23:48"
+  },
   {
     "id": "8c937c05-b07f-4f75-bef2-652e46a50da8",
     "name": "Teabar",
@@ -43,20 +50,6 @@ export const games = [
     "creatorId": "100624130529502900987",
     "creatorLastName": "Kolb",
     "createdAt": "12/26/2025, 22:10:31"
-  },
-  {
-    "id": "7dc5d057-4999-4c5c-b42c-122cbaeeb6ab",
-    "name": "Feud",
-    "creatorId": "110602297785232947570",
-    "creatorLastName": "Carrola",
-    "createdAt": "12/26/2025, 21:57:50"
-  },
-  {
-    "id": "95f3be55-60a0-4ac2-a29d-76b13c9f820b",
-    "name": "Fast money",
-    "creatorId": "110602297785232947570",
-    "creatorLastName": "Carrola",
-    "createdAt": "12/26/2025, 21:55:43"
   },
   {
     "id": "a8711420-e9ec-4b3f-a112-543e2bbcb308",
