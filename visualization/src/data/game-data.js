@@ -1,7 +1,14 @@
-// Generated on 12/27/2025, 10:15:02 (EST)
+// Generated on 12/27/2025, 10:30:02 (EST)
 // Total records: 2491
 
 export const games = [
+  {
+    "id": "10d0fd43-14ae-4daa-81fa-2602519a117b",
+    "name": "round 0ne",
+    "creatorId": "103422234058182962468",
+    "creatorLastName": "Muwia",
+    "createdAt": "12/27/2025, 10:27:20"
+  },
   {
     "id": "d0ca3113-c028-470f-b77a-47183358dddf",
     "name": "Year End Fellowship",
@@ -9297,13 +9304,6 @@ export const games = [
     "creatorId": "110346916844562104881",
     "creatorLastName": "Leung",
     "createdAt": "12/07/2025, 20:40:59"
-  },
-  {
-    "id": "ae269505-9b26-4e4c-bcc0-1d0771bdd6f4",
-    "name": "Sample Game",
-    "creatorId": "116410805928764423288",
-    "creatorLastName": "Cushing",
-    "createdAt": "12/07/2025, 20:23:02"
   },
   {
     "id": "7eb9beaa-0e34-4344-99c8-5800350cb059",
