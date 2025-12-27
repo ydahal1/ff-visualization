@@ -1,7 +1,28 @@
-// Generated on 12/26/2025, 23:00:03 (EST)
-// Total records: 2481
+// Generated on 12/26/2025, 23:15:03 (EST)
+// Total records: 2484
 
 export const games = [
+  {
+    "id": "45f4c01d-730c-4177-9571-1b9375383ba8",
+    "name": "Christmas Party Game 3",
+    "creatorId": "107065703321156841714",
+    "creatorLastName": "belzile",
+    "createdAt": "12/26/2025, 23:10:07"
+  },
+  {
+    "id": "043c4a77-f8e5-48fe-a97a-b1dfc7fb2473",
+    "name": "Christmas Party Game 2",
+    "creatorId": "107065703321156841714",
+    "creatorLastName": "belzile",
+    "createdAt": "12/26/2025, 23:06:13"
+  },
+  {
+    "id": "6a822123-05f9-4392-8c66-013201a9359a",
+    "name": "Christmas Party Game 1",
+    "creatorId": "107065703321156841714",
+    "creatorLastName": "belzile",
+    "createdAt": "12/26/2025, 23:04:07"
+  },
   {
     "id": "136419bc-abf9-4d33-a5b2-915d22e4ea85",
     "name": "Round 3",
