@@ -1,7 +1,14 @@
-// Generated on 12/27/2025, 01:30:02 (EST)
-// Total records: 2484
+// Generated on 12/27/2025, 01:45:02 (EST)
+// Total records: 2485
 
 export const games = [
+  {
+    "id": "2e856db3-0500-4609-aa22-2e5675aa89e9",
+    "name": "Fast momey",
+    "creatorId": "110162445332263471954",
+    "creatorLastName": "Carrola",
+    "createdAt": "12/27/2025, 01:41:27"
+  },
   {
     "id": "49e4c87a-5293-4277-8e1a-f6922fbd6ed4",
     "name": "Family feud",
