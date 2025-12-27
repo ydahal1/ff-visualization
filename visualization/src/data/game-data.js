@@ -1,7 +1,14 @@
-// Generated on 12/27/2025, 15:00:03 (EST)
-// Total records: 2499
+// Generated on 12/27/2025, 15:15:02 (EST)
+// Total records: 2500
 
 export const games = [
+  {
+    "id": "9ad74406-f259-4a56-8dc5-acd53000b70d",
+    "name": "fast money",
+    "creatorId": "102353714784891507836",
+    "creatorLastName": "Simon",
+    "createdAt": "12/27/2025, 15:10:54"
+  },
   {
     "id": "761fcb8b-d97d-40e3-aca4-5d4af9318958",
     "name": "Family Game",
