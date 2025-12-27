@@ -1,7 +1,21 @@
-// Generated on 12/27/2025, 13:45:03 (EST)
-// Total records: 2494
+// Generated on 12/27/2025, 14:00:02 (EST)
+// Total records: 2496
 
 export const games = [
+  {
+    "id": "bf3dde1c-7f04-4334-98a5-d9bb76a20134",
+    "name": "Elf",
+    "creatorId": "102353714784891507836",
+    "creatorLastName": "Simon",
+    "createdAt": "12/27/2025, 13:48:54"
+  },
+  {
+    "id": "19c6cdba-d794-4b38-a6e2-416318bcdc3f",
+    "name": "Clan Rom Challenge",
+    "creatorId": "107586862461934417416",
+    "creatorLastName": "Maniglio",
+    "createdAt": "12/27/2025, 13:47:28"
+  },
   {
     "id": "d1e14214-c979-4efa-8e63-bde682080b0d",
     "name": "Christmas Family Feud",
