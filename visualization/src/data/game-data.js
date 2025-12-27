@@ -1,7 +1,14 @@
-// Generated on 12/27/2025, 24:00:02 (EST)
-// Total records: 2483
+// Generated on 12/27/2025, 24:15:02 (EST)
+// Total records: 2484
 
 export const games = [
+  {
+    "id": "e0403aa6-7752-42e1-975c-4211ac56452b",
+    "name": "Holthaus Family Feud",
+    "creatorId": "113709664299673207904",
+    "creatorLastName": "Holthaus",
+    "createdAt": "12/27/2025, 24:03:17"
+  },
   {
     "id": "45f4c01d-730c-4177-9571-1b9375383ba8",
     "name": "Christmas Party Game 3",
