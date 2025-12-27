@@ -1,7 +1,21 @@
-// Generated on 12/26/2025, 21:45:02 (EST)
-// Total records: 2478
+// Generated on 12/26/2025, 22:00:02 (EST)
+// Total records: 2480
 
 export const games = [
+  {
+    "id": "7dc5d057-4999-4c5c-b42c-122cbaeeb6ab",
+    "name": "Feud",
+    "creatorId": "110602297785232947570",
+    "creatorLastName": "Carrola",
+    "createdAt": "12/26/2025, 21:57:50"
+  },
+  {
+    "id": "95f3be55-60a0-4ac2-a29d-76b13c9f820b",
+    "name": "Fast money",
+    "creatorId": "110602297785232947570",
+    "creatorLastName": "Carrola",
+    "createdAt": "12/26/2025, 21:55:43"
+  },
   {
     "id": "a8711420-e9ec-4b3f-a112-543e2bbcb308",
     "name": "Fab live",
