@@ -1,5 +1,5 @@
-// Generated on 12/26/2025, 23:15:03 (EST)
-// Total records: 2484
+// Generated on 12/26/2025, 23:30:01 (EST)
+// Total records: 2483
 
 export const games = [
   {
@@ -232,13 +232,6 @@ export const games = [
     "creatorId": "117629787183743624559",
     "creatorLastName": "Telson",
     "createdAt": "12/26/2025, 12:12:23"
-  },
-  {
-    "id": "ec12d32a-0387-4ec1-b480-db6e06b3cb97",
-    "name": "gj",
-    "creatorId": "103422234058182962468",
-    "creatorLastName": "Muwia",
-    "createdAt": "12/26/2025, 11:19:26"
   },
   {
     "id": "b805ad05-2e35-4048-9736-e573b10a2c02",
