@@ -1,5 +1,5 @@
-// Generated on 12/27/2025, 15:15:02 (EST)
-// Total records: 2500
+// Generated on 12/27/2025, 15:30:02 (EST)
+// Total records: 2498
 
 export const games = [
   {
@@ -24,13 +24,6 @@ export const games = [
     "createdAt": "12/27/2025, 14:10:02"
   },
   {
-    "id": "57299c3d-924a-4cd6-8e1e-f18753c03afb",
-    "name": "Test",
-    "creatorId": "110430377434487190505",
-    "creatorLastName": "Armstrong",
-    "createdAt": "12/27/2025, 14:06:01"
-  },
-  {
     "id": "bf3dde1c-7f04-4334-98a5-d9bb76a20134",
     "name": "Elf",
     "creatorId": "102353714784891507836",
@@ -43,13 +36,6 @@ export const games = [
     "creatorId": "107586862461934417416",
     "creatorLastName": "Maniglio",
     "createdAt": "12/27/2025, 13:47:28"
-  },
-  {
-    "id": "d1e14214-c979-4efa-8e63-bde682080b0d",
-    "name": "Christmas Family Feud",
-    "creatorId": "110430377434487190505",
-    "creatorLastName": "Armstrong",
-    "createdAt": "12/27/2025, 13:44:44"
   },
   {
     "id": "fa4a3785-d1be-4f49-914a-c035a9cf5937",
