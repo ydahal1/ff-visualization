@@ -1,7 +1,14 @@
-// Generated on 12/27/2025, 23:15:02 (EST)
-// Total records: 2538
+// Generated on 12/27/2025, 23:30:02 (EST)
+// Total records: 2539
 
 export const games = [
+  {
+    "id": "bbf2a835-cb18-4cce-9d79-4b2b5805c272",
+    "name": "yay yay",
+    "creatorId": "100451312986462923293",
+    "creatorLastName": "Yang",
+    "createdAt": "12/27/2025, 23:18:50"
+  },
   {
     "id": "5d56fd2a-f8ac-4281-895c-367f71e0166f",
     "name": "الجوله السادسه",
