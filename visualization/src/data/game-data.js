@@ -1,7 +1,14 @@
-// Generated on 12/27/2025, 20:00:02 (EST)
-// Total records: 2520
+// Generated on 12/27/2025, 20:15:02 (EST)
+// Total records: 2521
 
 export const games = [
+  {
+    "id": "9b946eb8-d340-4865-b386-1d7decf8292b",
+    "name": "JESUS SUCKS",
+    "creatorId": "113988925722724507318",
+    "creatorLastName": "Walker",
+    "createdAt": "12/27/2025, 20:00:03"
+  },
   {
     "id": "f6f69433-7aed-4c08-8b62-f9899c61c966",
     "name": "moua",
