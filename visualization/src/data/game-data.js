@@ -1,7 +1,21 @@
-// Generated on 12/28/2025, 04:30:02 (EST)
-// Total records: 2544
+// Generated on 12/28/2025, 04:45:02 (EST)
+// Total records: 2545
 
 export const games = [
+  {
+    "id": "b50a36e5-dc2f-44db-85a7-d7f727efe886",
+    "name": "FINAL",
+    "creatorId": "103422234058182962468",
+    "creatorLastName": "Muwia",
+    "createdAt": "12/28/2025, 04:41:42"
+  },
+  {
+    "id": "cdfa6a66-3057-45a1-950c-f09f8d6a40db",
+    "name": "الجوله السادسه",
+    "creatorId": "103422234058182962468",
+    "creatorLastName": "Muwia",
+    "createdAt": "12/28/2025, 04:39:36"
+  },
   {
     "id": "b7b2f29c-5b8f-424b-a03d-370fa92e813e",
     "name": "SEM2",
@@ -43,13 +57,6 @@ export const games = [
     "creatorId": "100451312986462923293",
     "creatorLastName": "Yang",
     "createdAt": "12/27/2025, 23:18:50"
-  },
-  {
-    "id": "5d56fd2a-f8ac-4281-895c-367f71e0166f",
-    "name": "الجوله السادسه",
-    "creatorId": "103422234058182962468",
-    "creatorLastName": "Muwia",
-    "createdAt": "12/27/2025, 23:06:50"
   },
   {
     "id": "2be132fd-8b0e-458b-9677-6980f989a5ed",
