@@ -1,7 +1,14 @@
-// Generated on 12/28/2025, 08:00:02 (EST)
-// Total records: 2550
+// Generated on 12/28/2025, 08:15:02 (EST)
+// Total records: 2551
 
 export const games = [
+  {
+    "id": "89018db8-0e45-4c00-844c-d7f50286e8ee",
+    "name": "NYTÅR 2025!!!",
+    "creatorId": "117750670007036830010",
+    "creatorLastName": "Mejlvang",
+    "createdAt": "12/28/2025, 08:12:31"
+  },
   {
     "id": "25756989-06a4-46f0-b5a9-de2325b6cece",
     "name": "F2",
