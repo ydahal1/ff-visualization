@@ -1,7 +1,21 @@
-// Generated on 12/28/2025, 06:30:02 (EST)
-// Total records: 2547
+// Generated on 12/28/2025, 06:45:02 (EST)
+// Total records: 2549
 
 export const games = [
+  {
+    "id": "3f7d66bf-2c63-4937-8b2b-620ca87c3830",
+    "name": "F1",
+    "creatorId": "103422234058182962468",
+    "creatorLastName": "Muwia",
+    "createdAt": "12/28/2025, 06:32:27"
+  },
+  {
+    "id": "e81dda54-f91a-4e3b-99f6-f6e3b5e3264d",
+    "name": "Nytår 2025",
+    "creatorId": "117750670007036830010",
+    "creatorLastName": "Mejlvang",
+    "createdAt": "12/28/2025, 06:30:48"
+  },
   {
     "id": "29c0a844-d400-4b48-81af-9b10bb5f18aa",
     "name": "Aasta uus on ukse ees",
