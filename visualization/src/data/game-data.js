@@ -1,7 +1,14 @@
-// Generated on 12/28/2025, 05:15:02 (EST)
-// Total records: 2545
+// Generated on 12/28/2025, 05:30:03 (EST)
+// Total records: 2546
 
 export const games = [
+  {
+    "id": "cceef3ff-c3b0-4cb0-8238-a6bb2eae21d6",
+    "name": "Nytår",
+    "creatorId": "117750670007036830010",
+    "creatorLastName": "Mejlvang",
+    "createdAt": "12/28/2025, 05:19:16"
+  },
   {
     "id": "b50a36e5-dc2f-44db-85a7-d7f727efe886",
     "name": "FINAL",
