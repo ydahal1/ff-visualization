@@ -1,7 +1,21 @@
-// Generated on 12/28/2025, 17:00:02 (EST)
-// Total records: 2560
+// Generated on 12/28/2025, 17:15:02 (EST)
+// Total records: 2562
 
 export const games = [
+  {
+    "id": "9a727fbb-2ba6-4872-b025-aac955eb0c40",
+    "name": "Christmas Party 2",
+    "creatorId": "110683577380846857632",
+    "creatorLastName": "Flores",
+    "createdAt": "12/28/2025, 17:01:33"
+  },
+  {
+    "id": "4760df1b-7c58-4a6f-8409-9fc738b616b9",
+    "name": "The best Family Feud",
+    "creatorId": "101680291371402675655",
+    "creatorLastName": "Wesselmann",
+    "createdAt": "12/28/2025, 17:00:49"
+  },
   {
     "id": "59515153-c660-4d25-8510-87fadb8f5257",
     "name": "Christmas Party 1",
