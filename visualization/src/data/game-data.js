@@ -1,7 +1,14 @@
-// Generated on 12/28/2025, 13:45:03 (EST)
-// Total records: 2556
+// Generated on 12/28/2025, 14:00:03 (EST)
+// Total records: 2557
 
 export const games = [
+  {
+    "id": "61a30fc4-b26a-4d93-8c00-d29ba89c87f6",
+    "name": "AASA",
+    "creatorId": "104581977172067963759",
+    "creatorLastName": "Demir",
+    "createdAt": "12/28/2025, 13:56:41"
+  },
   {
     "id": "a258a9a8-d591-4a87-b100-33379dd0d684",
     "name": "Brandon - 28122025",
