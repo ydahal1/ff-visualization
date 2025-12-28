@@ -1,7 +1,21 @@
-// Generated on 12/28/2025, 04:15:02 (EST)
-// Total records: 2542
+// Generated on 12/28/2025, 04:30:02 (EST)
+// Total records: 2544
 
 export const games = [
+  {
+    "id": "b7b2f29c-5b8f-424b-a03d-370fa92e813e",
+    "name": "SEM2",
+    "creatorId": "103422234058182962468",
+    "creatorLastName": "Muwia",
+    "createdAt": "12/28/2025, 04:28:44"
+  },
+  {
+    "id": "7c2ae377-bc23-4a2a-bfb1-a3ad74dab8b2",
+    "name": "SEMI",
+    "creatorId": "103422234058182962468",
+    "creatorLastName": "Muwia",
+    "createdAt": "12/28/2025, 04:23:36"
+  },
   {
     "id": "d544c34d-05c3-4983-ad8e-3b18303983ec",
     "name": "our first game",
