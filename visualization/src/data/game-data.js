@@ -1,14 +1,7 @@
-// Generated on 12/28/2025, 09:00:08 (EST)
-// Total records: 2553
+// Generated on 12/28/2025, 09:15:02 (EST)
+// Total records: 2552
 
 export const games = [
-  {
-    "id": "e7c7c8eb-06e5-46b3-a291-a5295d91698f",
-    "name": "test",
-    "creatorId": "104498885477806858849",
-    "creatorLastName": "Al Shawwa",
-    "createdAt": "12/28/2025, 08:57:27"
-  },
   {
     "id": "4b5a7ae3-b2a3-4e19-8c75-35206599e240",
     "name": "Kids vs Parents",
