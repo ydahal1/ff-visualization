@@ -1,7 +1,14 @@
-// Generated on 12/28/2025, 01:45:03 (EST)
-// Total records: 2541
+// Generated on 12/28/2025, 02:00:03 (EST)
+// Total records: 2542
 
 export const games = [
+  {
+    "id": "d544c34d-05c3-4983-ad8e-3b18303983ec",
+    "name": "our first game",
+    "creatorId": "106338414397087429752",
+    "creatorLastName": "phill",
+    "createdAt": "12/28/2025, 01:59:26"
+  },
   {
     "id": "35eef11b-58c2-437f-bab5-c76c19af0e3d",
     "name": "Year End Fellowship 2",
