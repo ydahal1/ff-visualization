@@ -1,7 +1,14 @@
-// Generated on 12/28/2025, 23:00:02 (EST)
-// Total records: 2581
+// Generated on 12/28/2025, 23:15:02 (EST)
+// Total records: 2582
 
 export const games = [
+  {
+    "id": "f6fd3e1c-88a1-4eb0-a9c7-e27487ed403c",
+    "name": "Church Face-Off",
+    "creatorId": "117042401915599189009",
+    "creatorLastName": "Kamau",
+    "createdAt": "12/28/2025, 23:05:38"
+  },
   {
     "id": "886a3f10-8e90-42dc-9038-709d300e002c",
     "name": "New Ship",
