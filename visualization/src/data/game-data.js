@@ -1,7 +1,14 @@
-// Generated on 12/28/2025, 21:00:02 (EST)
-// Total records: 2575
+// Generated on 12/28/2025, 21:15:03 (EST)
+// Total records: 2576
 
 export const games = [
+  {
+    "id": "c02ac1a9-34cd-45ac-85ec-aa7e68486e58",
+    "name": "Sports Feud1",
+    "creatorId": "109265387806352746097",
+    "creatorLastName": "Cilek",
+    "createdAt": "12/28/2025, 21:14:00"
+  },
   {
     "id": "9ed1f303-11e0-4275-9bbc-e8a438a5f30d",
     "name": "Championship",
