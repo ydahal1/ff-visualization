@@ -1,7 +1,14 @@
-// Generated on 12/28/2025, 20:30:03 (EST)
-// Total records: 2572
+// Generated on 12/28/2025, 20:45:02 (EST)
+// Total records: 2573
 
 export const games = [
+  {
+    "id": "74230235-b83a-4183-9a94-82eaa4976faa",
+    "name": "Quiz NHL 1",
+    "creatorId": "109174811122968795787",
+    "creatorLastName": "Labrecque-Paquette",
+    "createdAt": "12/28/2025, 20:36:30"
+  },
   {
     "id": "94254f5f-8127-4577-b7d8-cfd19a86219a",
     "name": "Christmas Final Round",
