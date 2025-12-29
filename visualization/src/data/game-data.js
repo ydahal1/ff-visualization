@@ -1,7 +1,35 @@
-// Generated on 12/28/2025, 20:45:02 (EST)
-// Total records: 2573
+// Generated on 12/28/2025, 21:00:02 (EST)
+// Total records: 2575
 
 export const games = [
+  {
+    "id": "9ed1f303-11e0-4275-9bbc-e8a438a5f30d",
+    "name": "Championship",
+    "creatorId": "116418858472619011067",
+    "creatorLastName": "Magee",
+    "createdAt": "12/28/2025, 20:57:45"
+  },
+  {
+    "id": "fee5a1b8-e052-44f1-b5c3-3cf0ee300d7f",
+    "name": "Round 1.3",
+    "creatorId": "116418858472619011067",
+    "creatorLastName": "Magee",
+    "createdAt": "12/28/2025, 20:53:29"
+  },
+  {
+    "id": "fc9cfced-3753-415d-8f34-e92b45cd5933",
+    "name": "Round 1.2",
+    "creatorId": "116418858472619011067",
+    "creatorLastName": "Magee",
+    "createdAt": "12/28/2025, 20:51:27"
+  },
+  {
+    "id": "a3aa9e78-9b5a-4e83-8892-32288141c339",
+    "name": "Round 1.1",
+    "creatorId": "116418858472619011067",
+    "creatorLastName": "Magee",
+    "createdAt": "12/28/2025, 20:49:42"
+  },
   {
     "id": "74230235-b83a-4183-9a94-82eaa4976faa",
     "name": "Quiz NHL 1",
@@ -38,13 +66,6 @@ export const games = [
     "createdAt": "12/28/2025, 19:21:34"
   },
   {
-    "id": "067fd4be-ad00-489b-97ca-f41ca0cebd22",
-    "name": "test",
-    "creatorId": "116418858472619011067",
-    "creatorLastName": "Magee",
-    "createdAt": "12/28/2025, 18:50:37"
-  },
-  {
     "id": "6b581566-86ee-4357-81e0-5f29e6510dcf",
     "name": "BIBLE GAME 3",
     "creatorId": "112315948092675176423",
@@ -78,13 +99,6 @@ export const games = [
     "creatorId": "111907232759387391786",
     "creatorLastName": "ᴀ",
     "createdAt": "12/28/2025, 17:38:06"
-  },
-  {
-    "id": "f86d71d6-c54a-4c16-b748-fd73586d16a4",
-    "name": "Family Questions",
-    "creatorId": "116418858472619011067",
-    "creatorLastName": "Magee",
-    "createdAt": "12/28/2025, 17:21:15"
   },
   {
     "id": "9a727fbb-2ba6-4872-b025-aac955eb0c40",
