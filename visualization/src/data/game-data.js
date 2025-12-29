@@ -1,7 +1,14 @@
-// Generated on 12/28/2025, 19:30:02 (EST)
-// Total records: 2569
+// Generated on 12/28/2025, 19:45:02 (EST)
+// Total records: 2570
 
 export const games = [
+  {
+    "id": "bd6daa35-236e-4a37-a69b-ca35fd6793cb",
+    "name": "COC NYE 2025",
+    "creatorId": "116118518964098116118",
+    "creatorLastName": "Nicole",
+    "createdAt": "12/28/2025, 19:41:28"
+  },
   {
     "id": "6c76ca69-a0c2-406a-a38c-e9d41b6e1f23",
     "name": "Christmas Round 2",
