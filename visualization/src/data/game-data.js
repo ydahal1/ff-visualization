@@ -1,7 +1,21 @@
-// Generated on 12/29/2025, 13:30:02 (EST)
-// Total records: 2587
+// Generated on 12/29/2025, 13:45:02 (EST)
+// Total records: 2589
 
 export const games = [
+  {
+    "id": "44004e8b-cdb4-4fe0-bf14-110038c62426",
+    "name": "SRE PREP III",
+    "creatorId": "113423960315136554349",
+    "creatorLastName": "Santos",
+    "createdAt": "12/29/2025, 13:41:03"
+  },
+  {
+    "id": "eedd1177-03e6-4647-a613-19c506353681",
+    "name": "SRE PREP II",
+    "creatorId": "113423960315136554349",
+    "creatorLastName": "Santos",
+    "createdAt": "12/29/2025, 13:40:09"
+  },
   {
     "id": "326389a7-af81-4adc-ae5f-6ccaca1d1a79",
     "name": "SRE PREP",
