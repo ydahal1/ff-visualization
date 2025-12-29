@@ -1,7 +1,14 @@
-// Generated on 12/28/2025, 20:15:03 (EST)
-// Total records: 2571
+// Generated on 12/28/2025, 20:30:03 (EST)
+// Total records: 2572
 
 export const games = [
+  {
+    "id": "94254f5f-8127-4577-b7d8-cfd19a86219a",
+    "name": "Christmas Final Round",
+    "creatorId": "115811351341735550063",
+    "creatorLastName": "Buentipo",
+    "createdAt": "12/28/2025, 20:20:24"
+  },
   {
     "id": "2caebd5e-ceaa-4729-a414-05732a825a2b",
     "name": "Christmas Round 1",
