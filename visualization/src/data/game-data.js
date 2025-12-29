@@ -1,7 +1,14 @@
-// Generated on 12/29/2025, 09:15:02 (EST)
-// Total records: 2586
+// Generated on 12/29/2025, 09:30:02 (EST)
+// Total records: 2587
 
 export const games = [
+  {
+    "id": "326389a7-af81-4adc-ae5f-6ccaca1d1a79",
+    "name": "SRE PREP",
+    "creatorId": "113423960315136554349",
+    "creatorLastName": "Santos",
+    "createdAt": "12/29/2025, 09:15:09"
+  },
   {
     "id": "333ed7c5-a08c-40fe-8eec-2051b91e2249",
     "name": "FAMILY  YEAR-END MINI TEAM BUILDING",
