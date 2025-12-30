@@ -1,7 +1,14 @@
-// Generated on 12/30/2025, 12:45:03 (EST)
-// Total records: 2616
+// Generated on 12/30/2025, 13:00:03 (EST)
+// Total records: 2617
 
 export const games = [
+  {
+    "id": "1ccaed8a-5feb-43c2-9be0-66b05dfbc7fb",
+    "name": "gioco 4",
+    "creatorId": "116344012617068294812",
+    "creatorLastName": "Righele",
+    "createdAt": "12/30/2025, 12:54:15"
+  },
   {
     "id": "43f8f55f-0f40-4313-83af-3d1cb3e7b16e",
     "name": "gioco 3",
