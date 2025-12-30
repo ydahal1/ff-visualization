@@ -1,7 +1,14 @@
-// Generated on 12/30/2025, 14:45:01 (EST)
-// Total records: 2619
+// Generated on 12/30/2025, 15:00:02 (EST)
+// Total records: 2620
 
 export const games = [
+  {
+    "id": "ec3d5b93-c04b-4397-9d55-9f766e956704",
+    "name": "New years",
+    "creatorId": "116926389654291300050",
+    "creatorLastName": "Pressley",
+    "createdAt": "12/30/2025, 14:47:52"
+  },
   {
     "id": "762f5d27-e36f-4e60-8ebd-bfe6af3aee56",
     "name": "Health and Wellness(1)",
