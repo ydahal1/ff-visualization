@@ -1,7 +1,14 @@
-// Generated on 12/29/2025, 22:30:02 (EST)
-// Total records: 2598
+// Generated on 12/29/2025, 22:45:02 (EST)
+// Total records: 2599
 
 export const games = [
+  {
+    "id": "80a1c5db-d7ff-44ec-8d69-bce5463c14b0",
+    "name": "Yuh",
+    "creatorId": "114520107125626029109",
+    "creatorLastName": "Nickerson",
+    "createdAt": "12/29/2025, 22:36:28"
+  },
   {
     "id": "e17ca1e7-5328-48f4-aa0c-f9773f688f59",
     "name": "New Years Family Feud",
