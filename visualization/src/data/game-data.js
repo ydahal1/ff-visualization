@@ -1,14 +1,7 @@
-// Generated on 12/30/2025, 06:45:02 (EST)
-// Total records: 2606
+// Generated on 12/30/2025, 07:00:02 (EST)
+// Total records: 2605
 
 export const games = [
-  {
-    "id": "7121b1d1-6312-4633-8de6-aced8d82c09e",
-    "name": "Uusaasta mäng",
-    "creatorId": "110034275482573946470",
-    "creatorLastName": "Rägastik",
-    "createdAt": "12/30/2025, 06:35:33"
-  },
   {
     "id": "d4df3a61-9369-458b-a584-b777f6b93da3",
     "name": "spinner",
