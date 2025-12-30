@@ -1,7 +1,14 @@
-// Generated on 12/30/2025, 04:00:02 (EST)
-// Total records: 2604
+// Generated on 12/30/2025, 04:15:02 (EST)
+// Total records: 2605
 
 export const games = [
+  {
+    "id": "d4df3a61-9369-458b-a584-b777f6b93da3",
+    "name": "spinner",
+    "creatorId": "117482046642626709444",
+    "creatorLastName": "Kosemets",
+    "createdAt": "12/30/2025, 04:06:36"
+  },
   {
     "id": "c3886a62-5a7b-41f9-addf-870bcdb32847",
     "name": "Family Fued",
