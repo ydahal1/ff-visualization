@@ -1,7 +1,28 @@
-// Generated on 12/30/2025, 18:30:03 (EST)
-// Total records: 2627
+// Generated on 12/30/2025, 18:45:02 (EST)
+// Total records: 2630
 
 export const games = [
+  {
+    "id": "41e197d8-eba1-47a0-bef8-1a8ad9328bba",
+    "name": "Step Study",
+    "creatorId": "116223441765014154402",
+    "creatorLastName": "Robillard",
+    "createdAt": "12/30/2025, 18:38:12"
+  },
+  {
+    "id": "ab50b39c-5b8d-4dea-a3a3-8961891151a6",
+    "name": "Game 1",
+    "creatorId": "117808292034975146324",
+    "creatorLastName": "Pereira",
+    "createdAt": "12/30/2025, 18:35:14"
+  },
+  {
+    "id": "c9aef720-728d-49a0-ba4d-7b24dc790a1f",
+    "name": "Test",
+    "creatorId": "113250460816702142489",
+    "creatorLastName": "Nangia",
+    "createdAt": "12/30/2025, 18:33:04"
+  },
   {
     "id": "ff10e19f-d8d1-4314-b008-6d1c3b53d2ec",
     "name": "Game 2",
