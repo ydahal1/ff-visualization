@@ -1,7 +1,12 @@
-// Generated on 12/31/2025, 08:30:00 (EST)
-// Total records: 1598
+// Generated on 12/31/2025, 08:45:00 (EST)
+// Total records: 1599
 
 export const users = [
+  {
+    "id": "110087890004595383882",
+    "lName": "Sambile Galang",
+    "createdAt": "12/31/2025, 08:35:49"
+  },
   {
     "id": "103144692749173600746",
     "lName": "Santos",
