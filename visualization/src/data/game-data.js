@@ -1,7 +1,14 @@
-// Generated on 12/30/2025, 20:45:02 (EST)
-// Total records: 2639
+// Generated on 12/30/2025, 21:00:03 (EST)
+// Total records: 2640
 
 export const games = [
+  {
+    "id": "60ccd573-b47a-4026-af82-d1976a90c4b4",
+    "name": "Gott nytt år",
+    "creatorId": "105388796206561724161",
+    "creatorLastName": "Aso",
+    "createdAt": "12/30/2025, 20:59:54"
+  },
   {
     "id": "2870897a-70b6-4549-af26-523f59daa0ba",
     "name": "ROUND 2",
