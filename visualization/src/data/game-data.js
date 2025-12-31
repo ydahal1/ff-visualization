@@ -1,14 +1,7 @@
-// Generated on 12/30/2025, 22:00:02 (EST)
-// Total records: 2644
+// Generated on 12/30/2025, 22:15:02 (EST)
+// Total records: 2642
 
 export const games = [
-  {
-    "id": "c8391307-d7a3-430b-80d3-715fb05db374",
-    "name": "BOISLEY FAMILY FUED 2",
-    "creatorId": "107075198363124341249",
-    "creatorLastName": "Boisley",
-    "createdAt": "12/30/2025, 21:58:14"
-  },
   {
     "id": "2890733a-5d1d-469e-b527-690fb9af6977",
     "name": "BOISLEY FAMILY FUED",
@@ -22,13 +15,6 @@ export const games = [
     "creatorId": "102823303873622769213",
     "creatorLastName": "Parker",
     "createdAt": "12/30/2025, 21:15:39"
-  },
-  {
-    "id": "6c2a76b7-ef39-464d-b941-d14819272a41",
-    "name": "boisley",
-    "creatorId": "107075198363124341249",
-    "creatorLastName": "Boisley",
-    "createdAt": "12/30/2025, 21:09:24"
   },
   {
     "id": "1a4bb254-71f0-4f23-afd5-025fe7f5a7e7",
