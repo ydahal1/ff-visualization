@@ -1,7 +1,35 @@
-// Generated on 12/31/2025, 14:00:02 (EST)
-// Total records: 2675
+// Generated on 12/31/2025, 14:15:02 (EST)
+// Total records: 2678
 
 export const games = [
+  {
+    "id": "c4df2a4e-5828-429e-a3f6-d6c9628ddb06",
+    "name": "Aastavahetus",
+    "creatorId": "110034275482573946470",
+    "creatorLastName": "Rägastik",
+    "createdAt": "12/31/2025, 14:13:04"
+  },
+  {
+    "id": "dd5df7f9-a5c6-4612-9e65-861069ef7541",
+    "name": "GO GAME NIGHT 6",
+    "creatorId": "111939314855352728559",
+    "creatorLastName": "Sarová",
+    "createdAt": "12/31/2025, 14:08:26"
+  },
+  {
+    "id": "df1054a3-dfa4-435f-bc94-fe78e9b7022f",
+    "name": "NYE Round 2",
+    "creatorId": "100659478759555341358",
+    "creatorLastName": "Chisholm",
+    "createdAt": "12/31/2025, 14:04:10"
+  },
+  {
+    "id": "ef83956d-ab73-4450-90f5-ca5c633584a1",
+    "name": "NYE Round 1",
+    "creatorId": "100659478759555341358",
+    "creatorLastName": "Chisholm",
+    "createdAt": "12/31/2025, 14:02:43"
+  },
   {
     "id": "4242071e-2d28-4d27-ab3c-e8495310a86d",
     "name": "FF 3",
@@ -15,13 +43,6 @@ export const games = [
     "creatorId": "101237729199708438506",
     "creatorLastName": "Holowaty",
     "createdAt": "12/31/2025, 13:50:19"
-  },
-  {
-    "id": "87883386-533b-451a-91a7-76945ecba993",
-    "name": "NYE Olympics",
-    "creatorId": "100659478759555341358",
-    "creatorLastName": "Chisholm",
-    "createdAt": "12/31/2025, 13:48:16"
   },
   {
     "id": "2c8c6a5e-ef28-4e19-9a4f-a01344755270",
