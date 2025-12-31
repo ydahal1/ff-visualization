@@ -1,5 +1,5 @@
-// Generated on 12/31/2025, 08:45:02 (EST)
-// Total records: 2654
+// Generated on 12/31/2025, 09:00:02 (EST)
+// Total records: 2653
 
 export const games = [
   {
@@ -8,13 +8,6 @@ export const games = [
     "creatorId": "110087890004595383882",
     "creatorLastName": "Sambile Galang",
     "createdAt": "12/31/2025, 08:39:16"
-  },
-  {
-    "id": "b98d7176-fc03-4962-aef5-65e5d011c66c",
-    "name": "NYE 2026",
-    "creatorId": "103144692749173600746",
-    "creatorLastName": "Santos",
-    "createdAt": "12/31/2025, 08:33:23"
   },
   {
     "id": "ae2d2eb3-c84d-4a57-ae6a-c57de06d3ce8",
