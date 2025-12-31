@@ -1,7 +1,14 @@
-// Generated on 12/31/2025, 16:45:02 (EST)
-// Total records: 2691
+// Generated on 12/31/2025, 17:00:02 (EST)
+// Total records: 2692
 
 export const games = [
+  {
+    "id": "f6d468cb-bd20-4fc7-add5-8512b57486a5",
+    "name": "CM January Social!",
+    "creatorId": "102735644169842506914",
+    "creatorLastName": "Benson",
+    "createdAt": "12/31/2025, 16:58:40"
+  },
   {
     "id": "8c772313-73ee-4dae-ae14-b6dfb16ed8b1",
     "name": "100 Temoayenses Dijieron",
