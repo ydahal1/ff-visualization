@@ -1,13 +1,13 @@
-// Generated on 12/31/2025, 09:00:02 (EST)
-// Total records: 2653
+// Generated on 12/31/2025, 09:15:02 (EST)
+// Total records: 2652
 
 export const games = [
   {
-    "id": "b67838b5-90bb-4ed3-9dd4-852911ba1671",
+    "id": "97d9379d-7570-4725-9146-0d46a59008dc",
     "name": "NYE",
     "creatorId": "110087890004595383882",
     "creatorLastName": "Sambile Galang",
-    "createdAt": "12/31/2025, 08:39:16"
+    "createdAt": "12/31/2025, 09:06:24"
   },
   {
     "id": "ae2d2eb3-c84d-4a57-ae6a-c57de06d3ce8",
@@ -99,13 +99,6 @@ export const games = [
     "creatorId": "102823303873622769213",
     "creatorLastName": "Parker",
     "createdAt": "12/30/2025, 21:15:39"
-  },
-  {
-    "id": "1a4bb254-71f0-4f23-afd5-025fe7f5a7e7",
-    "name": "dsf",
-    "creatorId": "105388796206561724161",
-    "creatorLastName": "Aso",
-    "createdAt": "12/30/2025, 21:07:51"
   },
   {
     "id": "2870897a-70b6-4549-af26-523f59daa0ba",
