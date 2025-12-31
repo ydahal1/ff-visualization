@@ -1,13 +1,27 @@
-// Generated on 12/31/2025, 09:45:02 (EST)
-// Total records: 2654
+// Generated on 12/31/2025, 10:00:03 (EST)
+// Total records: 2656
 
 export const games = [
   {
-    "id": "490bb89c-260f-4b8a-8067-781d8f09b61c",
-    "name": "Nytår 25/26!!!!",
+    "id": "032cfdc7-b04e-49d0-a8fb-ea3c1b2ba28a",
+    "name": "NYE 2026",
+    "creatorId": "103144692749173600746",
+    "creatorLastName": "Santos",
+    "createdAt": "12/31/2025, 09:58:37"
+  },
+  {
+    "id": "3c5f1b49-31e9-43ed-941a-b4cd0fd3b0a8",
+    "name": "عائلتي تربح",
+    "creatorId": "105388796206561724161",
+    "creatorLastName": "Aso",
+    "createdAt": "12/31/2025, 09:49:12"
+  },
+  {
+    "id": "c878cca3-67fe-460c-940e-e5f6378325c8",
+    "name": "NYTÅR 25/26!!!",
     "creatorId": "117750670007036830010",
     "creatorLastName": "Mejlvang",
-    "createdAt": "12/31/2025, 09:44:38"
+    "createdAt": "12/31/2025, 09:46:44"
   },
   {
     "id": "8d504ee3-a85a-48fe-9633-130815a3cf61",
