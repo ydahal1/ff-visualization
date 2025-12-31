@@ -1,7 +1,21 @@
-// Generated on 12/31/2025, 09:30:02 (EST)
-// Total records: 2652
+// Generated on 12/31/2025, 09:45:02 (EST)
+// Total records: 2654
 
 export const games = [
+  {
+    "id": "490bb89c-260f-4b8a-8067-781d8f09b61c",
+    "name": "Nytår 25/26!!!!",
+    "creatorId": "117750670007036830010",
+    "creatorLastName": "Mejlvang",
+    "createdAt": "12/31/2025, 09:44:38"
+  },
+  {
+    "id": "8d504ee3-a85a-48fe-9633-130815a3cf61",
+    "name": "Nytår!!!!!!!!!!!!!!!!!",
+    "creatorId": "117750670007036830010",
+    "creatorLastName": "Mejlvang",
+    "createdAt": "12/31/2025, 09:42:01"
+  },
   {
     "id": "97d9379d-7570-4725-9146-0d46a59008dc",
     "name": "NYE",
