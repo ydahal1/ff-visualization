@@ -1,13 +1,20 @@
-// Generated on 12/30/2025, 21:00:03 (EST)
-// Total records: 2640
+// Generated on 12/30/2025, 21:15:02 (EST)
+// Total records: 2641
 
 export const games = [
   {
-    "id": "60ccd573-b47a-4026-af82-d1976a90c4b4",
-    "name": "Gott nytt år",
+    "id": "6c2a76b7-ef39-464d-b941-d14819272a41",
+    "name": "boisley",
+    "creatorId": "107075198363124341249",
+    "creatorLastName": "Boisley",
+    "createdAt": "12/30/2025, 21:09:24"
+  },
+  {
+    "id": "1a4bb254-71f0-4f23-afd5-025fe7f5a7e7",
+    "name": "dsf",
     "creatorId": "105388796206561724161",
     "creatorLastName": "Aso",
-    "createdAt": "12/30/2025, 20:59:54"
+    "createdAt": "12/30/2025, 21:07:51"
   },
   {
     "id": "2870897a-70b6-4549-af26-523f59daa0ba",
