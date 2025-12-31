@@ -1,7 +1,12 @@
-// Generated on 12/31/2025, 17:15:01 (EST)
-// Total records: 1613
+// Generated on 12/31/2025, 17:30:00 (EST)
+// Total records: 1614
 
 export const users = [
+  {
+    "id": "104743893581086960232",
+    "lName": "LaForest",
+    "createdAt": "12/31/2025, 17:21:56"
+  },
   {
     "id": "105502866915733476292",
     "lName": "Reategui",
