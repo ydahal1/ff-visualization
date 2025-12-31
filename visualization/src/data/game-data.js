@@ -1,7 +1,14 @@
-// Generated on 12/31/2025, 18:30:02 (EST)
+// Generated on 12/31/2025, 18:45:02 (EST)
 // Total records: 2699
 
 export const games = [
+  {
+    "id": "dc686e89-455f-4c0c-8bd8-b92429b388d7",
+    "name": "New year",
+    "creatorId": "118181488845157359539",
+    "creatorLastName": "Devunuri",
+    "createdAt": "12/31/2025, 18:41:09"
+  },
   {
     "id": "99c86328-7d12-413d-9555-1cccbaf122f8",
     "name": "Dino Gang",
@@ -15,13 +22,6 @@ export const games = [
     "creatorId": "100168197996867547526",
     "creatorLastName": "Jaramillo",
     "createdAt": "12/31/2025, 17:59:56"
-  },
-  {
-    "id": "28374957-bf9e-44c1-bf6c-142e84edb92e",
-    "name": "Test",
-    "creatorId": "109443271404986927568",
-    "creatorLastName": "Westlund",
-    "createdAt": "12/31/2025, 17:50:20"
   },
   {
     "id": "5c88fd1c-6996-4b42-9989-ac63c776593a",
