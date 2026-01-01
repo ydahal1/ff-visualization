@@ -1,7 +1,21 @@
-// Generated on 12/31/2025, 23:45:02 (EST)
-// Total records: 2703
+// Generated on 01/01/2026, 24:00:02 (EST)
+// Total records: 2705
 
 export const games = [
+  {
+    "id": "6d673c3b-4d32-42af-ab39-8cb0241219b8",
+    "name": "Game 3",
+    "creatorId": "109443271404986927568",
+    "creatorLastName": "Westlund",
+    "createdAt": "12/31/2025, 23:59:54"
+  },
+  {
+    "id": "44371f0f-e247-40be-bb9c-661eac1eeec9",
+    "name": "Nivel 6",
+    "creatorId": "104324181231353398940",
+    "creatorLastName": "Lopez-Morfin",
+    "createdAt": "12/31/2025, 23:56:20"
+  },
   {
     "id": "50319d26-7b22-45f7-8cbd-9c6f04e91c84",
     "name": "family fueud",
