@@ -1,7 +1,21 @@
-// Generated on 01/01/2026, 04:30:03 (EST)
-// Total records: 2716
+// Generated on 01/01/2026, 04:45:03 (EST)
+// Total records: 2718
 
 export const games = [
+  {
+    "id": "241c58ec-b32f-48fc-83a4-d38c22f57be1",
+    "name": "Новый год",
+    "creatorId": "100284273466651766291",
+    "creatorLastName": "Майзлин",
+    "createdAt": "01/01/2026, 04:44:43"
+  },
+  {
+    "id": "38d1793b-220b-4997-b58f-741cf56411c8",
+    "name": "Trst",
+    "creatorId": "100284273466651766291",
+    "creatorLastName": "Майзлин",
+    "createdAt": "01/01/2026, 04:31:10"
+  },
   {
     "id": "7c11d62e-b12d-4715-adf3-a5a51fc7a548",
     "name": "FAMILY REUNION",
