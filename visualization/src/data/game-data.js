@@ -1,7 +1,21 @@
-// Generated on 01/01/2026, 07:45:02 (EST)
-// Total records: 2718
+// Generated on 01/01/2026, 08:00:03 (EST)
+// Total records: 2720
 
 export const games = [
+  {
+    "id": "77598d4b-1948-4a73-9de3-fbb68cbe7d7e",
+    "name": "ROUND TWO",
+    "creatorId": "109748751209975760403",
+    "creatorLastName": "Sinamban",
+    "createdAt": "01/01/2026, 07:51:09"
+  },
+  {
+    "id": "1f79b5c2-95d5-4016-83af-1a0d7a8d528e",
+    "name": "ROUND ONE",
+    "creatorId": "109748751209975760403",
+    "creatorLastName": "Sinamban",
+    "createdAt": "01/01/2026, 07:50:14"
+  },
   {
     "id": "241c58ec-b32f-48fc-83a4-d38c22f57be1",
     "name": "Новый год",
