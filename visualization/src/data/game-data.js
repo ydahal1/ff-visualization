@@ -1,7 +1,14 @@
-// Generated on 01/01/2026, 24:45:02 (EST)
-// Total records: 2706
+// Generated on 01/01/2026, 01:00:02 (EST)
+// Total records: 2707
 
 export const games = [
+  {
+    "id": "6c0f94eb-4c56-4590-9886-a7e95a58c1bc",
+    "name": "Game 1",
+    "creatorId": "101445154973886930225",
+    "creatorLastName": "Fortune",
+    "createdAt": "01/01/2026, 24:53:29"
+  },
   {
     "id": "35dc75c3-d0d4-4db8-b98c-3e2056080270",
     "name": "Nivel 7",
