@@ -1,7 +1,14 @@
-// Generated on 01/01/2026, 24:30:03 (EST)
-// Total records: 2705
+// Generated on 01/01/2026, 24:45:02 (EST)
+// Total records: 2706
 
 export const games = [
+  {
+    "id": "35dc75c3-d0d4-4db8-b98c-3e2056080270",
+    "name": "Nivel 7",
+    "creatorId": "104324181231353398940",
+    "creatorLastName": "Lopez-Morfin",
+    "createdAt": "01/01/2026, 24:35:44"
+  },
   {
     "id": "6d673c3b-4d32-42af-ab39-8cb0241219b8",
     "name": "Game 3",
