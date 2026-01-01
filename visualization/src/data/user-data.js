@@ -1,7 +1,17 @@
-// Generated on 01/01/2026, 24:45:01 (EST)
-// Total records: 1623
+// Generated on 01/01/2026, 01:00:01 (EST)
+// Total records: 1625
 
 export const users = [
+  {
+    "id": "117966092142821323467",
+    "lName": "Nino",
+    "createdAt": "01/01/2026, 24:57:44"
+  },
+  {
+    "id": "101445154973886930225",
+    "lName": "Fortune",
+    "createdAt": "01/01/2026, 24:53:17"
+  },
   {
     "id": "117637237385838511242",
     "lName": "vibe rator",
