@@ -1,7 +1,14 @@
-// Generated on 12/31/2025, 23:00:02 (EST)
-// Total records: 2699
+// Generated on 12/31/2025, 23:15:03 (EST)
+// Total records: 2700
 
 export const games = [
+  {
+    "id": "bc123dd4-c0fe-4f45-a182-299bb0d66d8c",
+    "name": "Game 1",
+    "creatorId": "109443271404986927568",
+    "creatorLastName": "Westlund",
+    "createdAt": "12/31/2025, 23:06:46"
+  },
   {
     "id": "9a7842c0-3204-447e-aec8-197c09c7fbad",
     "name": "Kristina Adams",
