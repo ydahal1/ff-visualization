@@ -1,7 +1,21 @@
-// Generated on 01/02/2026, 11:15:02 (EST)
-// Total records: 2738
+// Generated on 01/02/2026, 11:30:02 (EST)
+// Total records: 2740
 
 export const games = [
+  {
+    "id": "e467ddf1-2933-47a4-81ee-35c726ff571f",
+    "name": "CFA",
+    "creatorId": "109627912472898967437",
+    "creatorLastName": "Beechwood",
+    "createdAt": "01/02/2026, 11:24:45"
+  },
+  {
+    "id": "f9890671-faf6-41f4-85c2-eff68c35ef12",
+    "name": "CFA",
+    "creatorId": "107105715086331497185",
+    "creatorLastName": "Navarrete",
+    "createdAt": "01/02/2026, 11:22:55"
+  },
   {
     "id": "77068c82-26c2-49fc-9525-4e217da180ef",
     "name": "Am intrebat 100 de romani4",
