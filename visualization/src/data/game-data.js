@@ -1,7 +1,28 @@
-// Generated on 01/02/2026, 18:00:03 (EST)
-// Total records: 2752
+// Generated on 01/02/2026, 18:15:03 (EST)
+// Total records: 2755
 
 export const games = [
+  {
+    "id": "31f05776-7919-43ec-9c46-eda2a886d51f",
+    "name": "Jan 2 - Game",
+    "creatorId": "101986352090805007693",
+    "creatorLastName": "Moss",
+    "createdAt": "01/02/2026, 18:14:21"
+  },
+  {
+    "id": "7c3c13aa-37c4-4784-9813-cd2eb84a33c6",
+    "name": "Jan_Game 1",
+    "creatorId": "107694604491501407607",
+    "creatorLastName": "Tripathi",
+    "createdAt": "01/02/2026, 18:06:58"
+  },
+  {
+    "id": "92da06dd-9ed2-4526-9e77-ae9d24909d1d",
+    "name": "Family Feud",
+    "creatorId": "111042563648226308665",
+    "creatorLastName": "Whiters",
+    "createdAt": "01/02/2026, 18:06:52"
+  },
   {
     "id": "aeb01d77-9fef-45f5-9527-b7f8a9273abe",
     "name": "support",
