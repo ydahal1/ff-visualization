@@ -1,7 +1,14 @@
-// Generated on 01/02/2026, 18:30:03 (EST)
-// Total records: 2756
+// Generated on 01/02/2026, 18:45:02 (EST)
+// Total records: 2757
 
 export const games = [
+  {
+    "id": "694cb1a2-a5ba-4e41-b567-b46f3ed6a96e",
+    "name": "Jan 2",
+    "creatorId": "101986352090805007693",
+    "creatorLastName": "Moss",
+    "createdAt": "01/02/2026, 18:38:34"
+  },
   {
     "id": "9e0179d6-70ea-4be0-bba0-542a729020d0",
     "name": "w",
