@@ -1,7 +1,21 @@
-// Generated on 01/02/2026, 10:15:03 (EST)
-// Total records: 2734
+// Generated on 01/02/2026, 10:30:02 (EST)
+// Total records: 2736
 
 export const games = [
+  {
+    "id": "bc2a1286-635d-4f6b-a2cf-f2b25cfce349",
+    "name": "Am intrebat 100 de romani2",
+    "creatorId": "116431608631151337891",
+    "creatorLastName": "Tinca",
+    "createdAt": "01/02/2026, 10:25:51"
+  },
+  {
+    "id": "009f4fbd-f117-4282-820e-e1f1bb3cc6a2",
+    "name": "Am intrebat 100 de romani",
+    "creatorId": "116431608631151337891",
+    "creatorLastName": "Tinca",
+    "createdAt": "01/02/2026, 10:15:48"
+  },
   {
     "id": "dc5799d3-4cb7-4e2c-a379-7ad2fd1afa3f",
     "name": "Test Game 2",
