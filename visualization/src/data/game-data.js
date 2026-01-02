@@ -1,7 +1,21 @@
-// Generated on 01/02/2026, 14:00:02 (EST)
-// Total records: 2747
+// Generated on 01/02/2026, 14:15:02 (EST)
+// Total records: 2749
 
 export const games = [
+  {
+    "id": "f056a2f5-668c-43a7-9d2f-8dd7b30575c2",
+    "name": "The Game Night 3",
+    "creatorId": "108975885760539345842",
+    "creatorLastName": "Tanskey",
+    "createdAt": "01/02/2026, 14:08:17"
+  },
+  {
+    "id": "f85c5fda-a008-4dbf-83e4-55f4e7d8cd5a",
+    "name": "The Game Night 2",
+    "creatorId": "108975885760539345842",
+    "creatorLastName": "Tanskey",
+    "createdAt": "01/02/2026, 14:03:14"
+  },
   {
     "id": "5ca6e054-0c79-4dd2-a410-6eef123a342f",
     "name": "The Game Night",
