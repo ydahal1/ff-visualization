@@ -1,7 +1,14 @@
-// Generated on 01/02/2026, 10:30:02 (EST)
-// Total records: 2736
+// Generated on 01/02/2026, 10:45:02 (EST)
+// Total records: 2737
 
 export const games = [
+  {
+    "id": "a376e425-ea3a-49a7-8e26-9fd47f6924d7",
+    "name": "Am intrebat 100 de romani3",
+    "creatorId": "116431608631151337891",
+    "creatorLastName": "Tinca",
+    "createdAt": "01/02/2026, 10:39:19"
+  },
   {
     "id": "bc2a1286-635d-4f6b-a2cf-f2b25cfce349",
     "name": "Am intrebat 100 de romani2",
