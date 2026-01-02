@@ -1,7 +1,14 @@
-// Generated on 01/02/2026, 13:45:02 (EST)
-// Total records: 2746
+// Generated on 01/02/2026, 14:00:02 (EST)
+// Total records: 2747
 
 export const games = [
+  {
+    "id": "5ca6e054-0c79-4dd2-a410-6eef123a342f",
+    "name": "The Game Night",
+    "creatorId": "108975885760539345842",
+    "creatorLastName": "Tanskey",
+    "createdAt": "01/02/2026, 13:58:53"
+  },
   {
     "id": "846cc71d-72f9-41cf-b828-866f21ff5856",
     "name": "Round 3",
