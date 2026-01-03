@@ -1,7 +1,14 @@
-// Generated on 01/03/2026, 01:30:02 (EST)
-// Total records: 2762
+// Generated on 01/03/2026, 01:45:02 (EST)
+// Total records: 2763
 
 export const games = [
+  {
+    "id": "6517815e-ac1e-421b-bd23-3d159a5b54f6",
+    "name": "Friendly Feud 2",
+    "creatorId": "109947950064177222216",
+    "creatorLastName": "B",
+    "createdAt": "01/03/2026, 01:32:12"
+  },
   {
     "id": "1e8e7ce3-5132-4b70-a867-279ab9cd58ab",
     "name": "test",
