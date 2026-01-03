@@ -1,7 +1,12 @@
-// Generated on 01/03/2026, 09:15:00 (EST)
-// Total records: 1654
+// Generated on 01/03/2026, 09:30:00 (EST)
+// Total records: 1655
 
 export const users = [
+  {
+    "id": "109570039391439536431",
+    "lName": "Lümat",
+    "createdAt": "01/03/2026, 09:21:25"
+  },
   {
     "id": "100394206457674892128",
     "lName": "Campbell-Dayman",
