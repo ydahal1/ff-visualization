@@ -1,7 +1,21 @@
-// Generated on 01/03/2026, 10:45:02 (EST)
-// Total records: 2775
+// Generated on 01/03/2026, 11:00:02 (EST)
+// Total records: 2777
 
 export const games = [
+  {
+    "id": "57e92a44-1808-4d09-b5eb-80aee85ac976",
+    "name": "SPIN2",
+    "creatorId": "109570039391439536431",
+    "creatorLastName": "Lümat",
+    "createdAt": "01/03/2026, 10:52:50"
+  },
+  {
+    "id": "ad5bd126-13f0-456b-b047-44d2827b3395",
+    "name": "SPIN 1",
+    "creatorId": "109570039391439536431",
+    "creatorLastName": "Lümat",
+    "createdAt": "01/03/2026, 10:50:37"
+  },
   {
     "id": "b7f41cac-84df-47de-9a01-65cfb6a24dc8",
     "name": "Paduwaanami",
