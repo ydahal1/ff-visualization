@@ -1,7 +1,28 @@
-// Generated on 01/03/2026, 11:00:02 (EST)
-// Total records: 2777
+// Generated on 01/03/2026, 11:15:02 (EST)
+// Total records: 2780
 
 export const games = [
+  {
+    "id": "67e0ae18-97f6-4daf-a59f-75c63fa7bd2a",
+    "name": "SPIN4",
+    "creatorId": "109570039391439536431",
+    "creatorLastName": "Lümat",
+    "createdAt": "01/03/2026, 11:11:44"
+  },
+  {
+    "id": "a58eccc1-6c3b-4f89-8c3a-b4e958868451",
+    "name": "Test1",
+    "creatorId": "109155652993517223659",
+    "creatorLastName": "Hashim",
+    "createdAt": "01/03/2026, 11:07:56"
+  },
+  {
+    "id": "fae10c01-ca63-4fdf-b55a-7578640b2d8f",
+    "name": "SPIN3",
+    "creatorId": "109570039391439536431",
+    "creatorLastName": "Lümat",
+    "createdAt": "01/03/2026, 11:01:33"
+  },
   {
     "id": "57e92a44-1808-4d09-b5eb-80aee85ac976",
     "name": "SPIN2",
