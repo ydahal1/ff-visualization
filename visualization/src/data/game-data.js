@@ -1,7 +1,14 @@
-// Generated on 01/03/2026, 14:00:02 (EST)
+// Generated on 01/03/2026, 14:15:02 (EST)
 // Total records: 2781
 
 export const games = [
+  {
+    "id": "aef76198-cab5-4c69-a4bb-c18d9f392dfd",
+    "name": "Friendly Feud 1",
+    "creatorId": "109947950064177222216",
+    "creatorLastName": "B",
+    "createdAt": "01/03/2026, 14:14:44"
+  },
   {
     "id": "451e094c-1679-4af2-a3a6-177037160ce8",
     "name": "Dave Family Fued Round 2",
@@ -148,13 +155,6 @@ export const games = [
     "creatorId": "109888093420901543162",
     "creatorLastName": "OReilly",
     "createdAt": "01/03/2026, 05:12:58"
-  },
-  {
-    "id": "6517815e-ac1e-421b-bd23-3d159a5b54f6",
-    "name": "Friendly Feud 2",
-    "creatorId": "109947950064177222216",
-    "creatorLastName": "B",
-    "createdAt": "01/03/2026, 01:32:12"
   },
   {
     "id": "1e8e7ce3-5132-4b70-a867-279ab9cd58ab",
