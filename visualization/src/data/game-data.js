@@ -1,5 +1,5 @@
-// Generated on 01/03/2026, 13:30:02 (EST)
-// Total records: 2780
+// Generated on 01/03/2026, 13:45:02 (EST)
+// Total records: 2779
 
 export const games = [
   {
@@ -225,13 +225,6 @@ export const games = [
     "creatorId": "108724671237200474859",
     "creatorLastName": "Williams",
     "createdAt": "01/02/2026, 15:11:12"
-  },
-  {
-    "id": "d754bdde-0dbd-40c6-839f-55282142965e",
-    "name": "Dave Family Fued",
-    "creatorId": "101595944413303743195",
-    "creatorLastName": "Merz",
-    "createdAt": "01/02/2026, 14:38:22"
   },
   {
     "id": "f056a2f5-668c-43a7-9d2f-8dd7b30575c2",
