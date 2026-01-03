@@ -1,7 +1,28 @@
-// Generated on 01/03/2026, 14:15:02 (EST)
-// Total records: 2781
+// Generated on 01/03/2026, 14:30:03 (EST)
+// Total records: 2782
 
 export const games = [
+  {
+    "id": "d380b210-69f0-46e5-9a83-0ca2f2c40594",
+    "name": "Normal",
+    "creatorId": "116859832907249598397",
+    "creatorLastName": "Schluth",
+    "createdAt": "01/03/2026, 14:27:02"
+  },
+  {
+    "id": "4481ec55-c66b-4e1a-8343-b678754049b1",
+    "name": "Fast Money",
+    "creatorId": "116859832907249598397",
+    "creatorLastName": "Schluth",
+    "createdAt": "01/03/2026, 14:26:36"
+  },
+  {
+    "id": "35e223bd-74c3-4406-b8cd-14a69f063438",
+    "name": "Friendly Feud 2",
+    "creatorId": "109947950064177222216",
+    "creatorLastName": "B",
+    "createdAt": "01/03/2026, 14:15:21"
+  },
   {
     "id": "aef76198-cab5-4c69-a4bb-c18d9f392dfd",
     "name": "Friendly Feud 1",
@@ -176,20 +197,6 @@ export const games = [
     "creatorId": "107896949504485883444",
     "creatorLastName": "Jenet",
     "createdAt": "01/02/2026, 20:59:42"
-  },
-  {
-    "id": "28624e73-c005-493d-9509-45330c626317",
-    "name": "(TEST 1) Al-pah-tah LODGE LAUGHDOWN",
-    "creatorId": "116859832907249598397",
-    "creatorLastName": "Schluth",
-    "createdAt": "01/02/2026, 19:37:24"
-  },
-  {
-    "id": "e1a6f224-7682-42b0-8d01-9df61e725652",
-    "name": "Lodge Laughdown",
-    "creatorId": "116859832907249598397",
-    "creatorLastName": "Schluth",
-    "createdAt": "01/02/2026, 18:59:56"
   },
   {
     "id": "694cb1a2-a5ba-4e41-b567-b46f3ed6a96e",
