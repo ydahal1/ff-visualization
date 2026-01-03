@@ -1,7 +1,21 @@
-// Generated on 01/03/2026, 14:45:02 (EST)
-// Total records: 2782
+// Generated on 01/03/2026, 15:00:02 (EST)
+// Total records: 2783
 
 export const games = [
+  {
+    "id": "78c04f9e-16a9-4e0c-a854-9814768cf9b6",
+    "name": "church 2",
+    "creatorId": "117042401915599189009",
+    "creatorLastName": "Kamau",
+    "createdAt": "01/03/2026, 14:57:20"
+  },
+  {
+    "id": "97461c16-58c5-4c91-ba49-96398fe5648e",
+    "name": "church",
+    "creatorId": "117042401915599189009",
+    "creatorLastName": "Kamau",
+    "createdAt": "01/03/2026, 14:49:41"
+  },
   {
     "id": "d380b210-69f0-46e5-9a83-0ca2f2c40594",
     "name": "Normal",
@@ -1478,13 +1492,6 @@ export const games = [
     "creatorId": "104324181231353398940",
     "creatorLastName": "Lopez-Morfin",
     "createdAt": "12/29/2025, 24:12:40"
-  },
-  {
-    "id": "f6fd3e1c-88a1-4eb0-a9c7-e27487ed403c",
-    "name": "Church Face-Off",
-    "creatorId": "117042401915599189009",
-    "creatorLastName": "Kamau",
-    "createdAt": "12/28/2025, 23:05:38"
   },
   {
     "id": "886a3f10-8e90-42dc-9038-709d300e002c",
