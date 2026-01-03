@@ -1,7 +1,14 @@
-// Generated on 01/02/2026, 21:45:02 (EST)
-// Total records: 2760
+// Generated on 01/02/2026, 22:00:02 (EST)
+// Total records: 2761
 
 export const games = [
+  {
+    "id": "d197c081-180a-473f-abb0-3c9d20768d93",
+    "name": "family feud",
+    "creatorId": "112829795233455641783",
+    "creatorLastName": "Sohi",
+    "createdAt": "01/02/2026, 21:47:25"
+  },
   {
     "id": "1b01c4a1-b104-4a72-ae06-f4bb03fa5a2f",
     "name": "Mock Feud",
