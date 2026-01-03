@@ -1,7 +1,14 @@
-// Generated on 01/02/2026, 20:45:02 (EST)
-// Total records: 2759
+// Generated on 01/02/2026, 21:00:03 (EST)
+// Total records: 2760
 
 export const games = [
+  {
+    "id": "1b01c4a1-b104-4a72-ae06-f4bb03fa5a2f",
+    "name": "Mock Feud",
+    "creatorId": "107896949504485883444",
+    "creatorLastName": "Jenet",
+    "createdAt": "01/02/2026, 20:59:42"
+  },
   {
     "id": "28624e73-c005-493d-9509-45330c626317",
     "name": "(TEST 1) Al-pah-tah LODGE LAUGHDOWN",
