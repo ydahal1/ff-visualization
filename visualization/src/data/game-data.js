@@ -1,7 +1,14 @@
-// Generated on 01/03/2026, 09:00:02 (EST)
-// Total records: 2773
+// Generated on 01/03/2026, 09:15:02 (EST)
+// Total records: 2774
 
 export const games = [
+  {
+    "id": "1efdb26b-8e52-4029-b858-4b2204ef27b7",
+    "name": "Test",
+    "creatorId": "100394206457674892128",
+    "creatorLastName": "Campbell-Dayman",
+    "createdAt": "01/03/2026, 09:00:42"
+  },
   {
     "id": "c00209f3-dd0c-4d3f-948d-9d0ddf91500a",
     "name": "Game 10",
