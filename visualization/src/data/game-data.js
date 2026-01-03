@@ -1,7 +1,14 @@
-// Generated on 01/03/2026, 10:15:02 (EST)
-// Total records: 2774
+// Generated on 01/03/2026, 10:30:02 (EST)
+// Total records: 2775
 
 export const games = [
+  {
+    "id": "b7f41cac-84df-47de-9a01-65cfb6a24dc8",
+    "name": "Paduwaanami",
+    "creatorId": "116950381006337985069",
+    "creatorLastName": "litz",
+    "createdAt": "01/03/2026, 10:16:36"
+  },
   {
     "id": "1efdb26b-8e52-4029-b858-4b2204ef27b7",
     "name": "Test",
