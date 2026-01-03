@@ -1,7 +1,14 @@
-// Generated on 01/02/2026, 18:45:02 (EST)
-// Total records: 2757
+// Generated on 01/02/2026, 19:00:02 (EST)
+// Total records: 2758
 
 export const games = [
+  {
+    "id": "e1a6f224-7682-42b0-8d01-9df61e725652",
+    "name": "Lodge Laughdown",
+    "creatorId": "116859832907249598397",
+    "creatorLastName": "Schluth",
+    "createdAt": "01/02/2026, 18:59:56"
+  },
   {
     "id": "694cb1a2-a5ba-4e41-b567-b46f3ed6a96e",
     "name": "Jan 2",
