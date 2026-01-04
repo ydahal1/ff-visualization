@@ -1,7 +1,21 @@
-// Generated on 01/03/2026, 20:00:02 (EST)
-// Total records: 2788
+// Generated on 01/03/2026, 20:15:03 (EST)
+// Total records: 2790
 
 export const games = [
+  {
+    "id": "e6c658e3-b0da-476a-97de-135ecfe26957",
+    "name": "Daniel Pt. 3",
+    "creatorId": "105859498347649589348",
+    "creatorLastName": "Lane",
+    "createdAt": "01/03/2026, 20:08:12"
+  },
+  {
+    "id": "7e261dec-a0be-4442-8a6b-34be192381ff",
+    "name": "Daniel Pt. 2",
+    "creatorId": "105859498347649589348",
+    "creatorLastName": "Lane",
+    "createdAt": "01/03/2026, 20:03:24"
+  },
   {
     "id": "ec413081-55e9-4567-83c2-00956ab3350e",
     "name": "Daniel Pt. 1",
