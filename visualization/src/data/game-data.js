@@ -1,7 +1,14 @@
-// Generated on 01/03/2026, 19:45:02 (EST)
-// Total records: 2787
+// Generated on 01/03/2026, 20:00:02 (EST)
+// Total records: 2788
 
 export const games = [
+  {
+    "id": "ec413081-55e9-4567-83c2-00956ab3350e",
+    "name": "Daniel Pt. 1",
+    "creatorId": "105859498347649589348",
+    "creatorLastName": "Lane",
+    "createdAt": "01/03/2026, 19:54:32"
+  },
   {
     "id": "24da7227-edbc-49a5-9c4d-3f9e46f3c34e",
     "name": "Game 3",
