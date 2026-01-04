@@ -1,7 +1,14 @@
-// Generated on 01/04/2026, 15:00:02 (EST)
-// Total records: 2793
+// Generated on 01/04/2026, 15:15:02 (EST)
+// Total records: 2794
 
 export const games = [
+  {
+    "id": "1bafa5b9-4406-425b-ad10-1228c9efd66f",
+    "name": "family feud dispatch edition",
+    "creatorId": "104923314707336873223",
+    "creatorLastName": "Colvard",
+    "createdAt": "01/04/2026, 15:03:29"
+  },
   {
     "id": "1f2f18d9-776f-4a40-9426-4ebf9f4cc98c",
     "name": "Us",
