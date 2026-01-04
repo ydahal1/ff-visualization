@@ -1,7 +1,14 @@
-// Generated on 01/04/2026, 18:15:02 (EST)
-// Total records: 2796
+// Generated on 01/04/2026, 18:30:02 (EST)
+// Total records: 2797
 
 export const games = [
+  {
+    "id": "3f6d985c-de48-4e11-b997-738c0b0c0043",
+    "name": "Beechwood vs Avon",
+    "creatorId": "109627912472898967437",
+    "creatorLastName": "Beechwood",
+    "createdAt": "01/04/2026, 18:29:47"
+  },
   {
     "id": "bce19acd-97d0-4369-8777-d28ef2bf1819",
     "name": "100 VIAJEROS DIJERON",
