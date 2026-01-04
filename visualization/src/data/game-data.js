@@ -1,7 +1,14 @@
-// Generated on 01/04/2026, 16:00:03 (EST)
-// Total records: 2795
+// Generated on 01/04/2026, 16:15:02 (EST)
+// Total records: 2796
 
 export const games = [
+  {
+    "id": "bce19acd-97d0-4369-8777-d28ef2bf1819",
+    "name": "100 VIAJEROS DIJERON",
+    "creatorId": "117824603071715517035",
+    "creatorLastName": "coronel",
+    "createdAt": "01/04/2026, 16:11:56"
+  },
   {
     "id": "433056b0-5252-40bb-830b-268c94310455",
     "name": "Game",
