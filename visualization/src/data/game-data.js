@@ -1,7 +1,28 @@
-// Generated on 01/05/2026, 09:45:02 (EST)
-// Total records: 2803
+// Generated on 01/05/2026, 10:00:02 (EST)
+// Total records: 2806
 
 export const games = [
+  {
+    "id": "8578ae42-9152-4a47-9396-d63aad7a5b52",
+    "name": "Neujahrsgala",
+    "creatorId": "106419961220793342385",
+    "creatorLastName": "Frimmel",
+    "createdAt": "01/05/2026, 09:56:45"
+  },
+  {
+    "id": "430134ab-da9d-48a8-86d0-cda758d0393b",
+    "name": "bob",
+    "creatorId": "111265298519880525409",
+    "creatorLastName": "JAY",
+    "createdAt": "01/05/2026, 09:53:18"
+  },
+  {
+    "id": "f61b9279-aeeb-4f0a-b4eb-8ccb2de89e42",
+    "name": "CS Tech Fun",
+    "creatorId": "117736909568166953446",
+    "creatorLastName": "Brock",
+    "createdAt": "01/05/2026, 09:47:45"
+  },
   {
     "id": "311f1634-480f-4d58-a8cd-53b405b7548a",
     "name": "Test",
