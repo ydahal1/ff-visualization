@@ -1,14 +1,7 @@
-// Generated on 01/05/2026, 16:45:03 (EST)
-// Total records: 2810
+// Generated on 01/05/2026, 17:00:03 (EST)
+// Total records: 2809
 
 export const games = [
-  {
-    "id": "702290f7-c751-45b4-987e-53fef214ed77",
-    "name": "Round Test",
-    "creatorId": "116271761174667459580",
-    "creatorLastName": "Donato",
-    "createdAt": "01/05/2026, 16:25:33"
-  },
   {
     "id": "6fff2544-a5fb-455d-8338-554528ef98b8",
     "name": "Test",
