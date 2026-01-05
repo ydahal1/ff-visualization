@@ -1,7 +1,14 @@
-// Generated on 01/05/2026, 12:00:02 (EST)
+// Generated on 01/05/2026, 12:15:03 (EST)
 // Total records: 2807
 
 export const games = [
+  {
+    "id": "7153bcec-7b53-4f73-bfca-8d94f8ad5196",
+    "name": "L&C Shutdown days round one",
+    "creatorId": "100246298055175757401",
+    "creatorLastName": "Schultz",
+    "createdAt": "01/05/2026, 12:06:47"
+  },
   {
     "id": "10413eb2-29f5-4c0e-abc6-525cf5385b96",
     "name": "Practice Family Feud (shutdown days)",
@@ -13721,13 +13728,6 @@ export const games = [
     "creatorId": "102469154762710792094",
     "creatorLastName": "Jensen",
     "createdAt": "12/02/2025, 18:11:54"
-  },
-  {
-    "id": "76f5afd2-58c0-47af-836b-87d6e4868c25",
-    "name": "test",
-    "creatorId": "100246298055175757401",
-    "creatorLastName": "Schultz",
-    "createdAt": "12/02/2025, 16:43:18"
   },
   {
     "id": "a35ed5bd-eac9-4b0b-ad78-e5ed55e4c45a",
