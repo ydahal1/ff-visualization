@@ -1,7 +1,14 @@
-// Generated on 01/05/2026, 15:45:02 (EST)
-// Total records: 2809
+// Generated on 01/05/2026, 16:00:02 (EST)
+// Total records: 2810
 
 export const games = [
+  {
+    "id": "6fff2544-a5fb-455d-8338-554528ef98b8",
+    "name": "Test",
+    "creatorId": "113865214345147587764",
+    "creatorLastName": "Stukenholtz",
+    "createdAt": "01/05/2026, 15:48:56"
+  },
   {
     "id": "08ca258f-175b-432d-9edc-794b0e141a2d",
     "name": "GO GAME NIGHT 5",
