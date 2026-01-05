@@ -1,7 +1,14 @@
-// Generated on 01/05/2026, 18:30:02 (EST)
-// Total records: 2819
+// Generated on 01/05/2026, 18:45:02 (EST)
+// Total records: 2820
 
 export const games = [
+  {
+    "id": "e4f83787-9b3a-4aad-9f1f-97b67998e36c",
+    "name": "CICS",
+    "creatorId": "111939765359405560574",
+    "creatorLastName": "Wences",
+    "createdAt": "01/05/2026, 18:39:49"
+  },
   {
     "id": "e50449e1-ee03-4249-b444-058e975662d5",
     "name": "100 VIAJEROS DIJERON ult",
