@@ -1,5 +1,5 @@
-// Generated on 01/05/2026, 13:00:02 (EST)
-// Total records: 2808
+// Generated on 01/05/2026, 13:15:02 (EST)
+// Total records: 2807
 
 export const games = [
   {
@@ -43,13 +43,6 @@ export const games = [
     "creatorId": "117736909568166953446",
     "creatorLastName": "Brock",
     "createdAt": "01/05/2026, 09:47:45"
-  },
-  {
-    "id": "311f1634-480f-4d58-a8cd-53b405b7548a",
-    "name": "Test",
-    "creatorId": "108724671237200474859",
-    "creatorLastName": "Williams",
-    "createdAt": "01/05/2026, 07:40:03"
   },
   {
     "id": "a9230880-e3f0-4d87-9d52-e9a714946103",
