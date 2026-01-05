@@ -1,7 +1,14 @@
-// Generated on 01/05/2026, 24:45:02 (EST)
-// Total records: 2802
+// Generated on 01/05/2026, 01:00:02 (EST)
+// Total records: 2803
 
 export const games = [
+  {
+    "id": "a9230880-e3f0-4d87-9d52-e9a714946103",
+    "name": "lolo",
+    "creatorId": "113313747921353610644",
+    "creatorLastName": "Hogeland",
+    "createdAt": "01/05/2026, 24:54:32"
+  },
   {
     "id": "61168bef-3b32-42f4-a356-eec0a43b5fef",
     "name": "bored",
