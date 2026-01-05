@@ -1,7 +1,12 @@
-// Generated on 01/05/2026, 12:45:00 (EST)
-// Total records: 1673
+// Generated on 01/05/2026, 13:00:00 (EST)
+// Total records: 1674
 
 export const users = [
+  {
+    "id": "113934202810176572660",
+    "lName": "Impressions",
+    "createdAt": "01/05/2026, 12:54:05"
+  },
   {
     "id": "115655565606726195220",
     "lName": "Mayfield SS",
