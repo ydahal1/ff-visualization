@@ -1,7 +1,14 @@
-// Generated on 01/05/2026, 18:00:03 (EST)
+// Generated on 01/05/2026, 18:15:03 (EST)
 // Total records: 2819
 
 export const games = [
+  {
+    "id": "04bcadbb-6f1c-46e6-a9f7-3ad340beb0bf",
+    "name": "100 VIAJEROS DIJERONN",
+    "creatorId": "117824603071715517035",
+    "creatorLastName": "coronel",
+    "createdAt": "01/05/2026, 18:12:55"
+  },
   {
     "id": "d438d8de-a64b-4f21-8ec7-e837ba619bcb",
     "name": "100 VIAJEROS DIJERON ult",
@@ -15,13 +22,6 @@ export const games = [
     "creatorId": "117824603071715517035",
     "creatorLastName": "coronel",
     "createdAt": "01/05/2026, 17:58:38"
-  },
-  {
-    "id": "97533bdb-10b5-44f4-a9c7-08e1ad0b30c0",
-    "name": "100 VIAJEROS DIJERON 5",
-    "creatorId": "117824603071715517035",
-    "creatorLastName": "coronel",
-    "createdAt": "01/05/2026, 17:56:44"
   },
   {
     "id": "409fb9e1-86af-417c-bdc9-09b0337fcf1c",
