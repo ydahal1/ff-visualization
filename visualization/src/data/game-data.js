@@ -1,7 +1,14 @@
-// Generated on 01/05/2026, 11:45:02 (EST)
-// Total records: 2806
+// Generated on 01/05/2026, 12:00:02 (EST)
+// Total records: 2807
 
 export const games = [
+  {
+    "id": "10413eb2-29f5-4c0e-abc6-525cf5385b96",
+    "name": "Practice Family Feud (shutdown days)",
+    "creatorId": "100246298055175757401",
+    "creatorLastName": "Schultz",
+    "createdAt": "01/05/2026, 11:54:50"
+  },
   {
     "id": "8578ae42-9152-4a47-9396-d63aad7a5b52",
     "name": "Neujahrsgala",
