@@ -1,7 +1,14 @@
-// Generated on 01/06/2026, 09:45:03 (EST)
-// Total records: 2827
+// Generated on 01/06/2026, 10:00:03 (EST)
+// Total records: 2828
 
 export const games = [
+  {
+    "id": "9ea23a4f-736a-4c94-bdea-eee063df3c27",
+    "name": "family fued",
+    "creatorId": "118004409674442516668",
+    "creatorLastName": "Recreation",
+    "createdAt": "01/06/2026, 09:51:44"
+  },
   {
     "id": "82822c1c-39f9-4335-ab46-817590c1873d",
     "name": "rome",
