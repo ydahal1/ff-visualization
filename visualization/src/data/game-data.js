@@ -1,7 +1,14 @@
-// Generated on 01/06/2026, 18:00:02 (EST)
-// Total records: 2832
+// Generated on 01/06/2026, 18:15:03 (EST)
+// Total records: 2833
 
 export const games = [
+  {
+    "id": "25be0484-a732-4b15-a312-c7a5306b736e",
+    "name": "White Plume Kickoff Meeting",
+    "creatorId": "110448891292732223917",
+    "creatorLastName": "Menendez",
+    "createdAt": "01/06/2026, 18:10:41"
+  },
   {
     "id": "5c710bff-0787-4655-b208-ab535e3ec131",
     "name": "Bilişim",
