@@ -1,7 +1,14 @@
-// Generated on 01/05/2026, 19:30:03 (EST)
-// Total records: 2821
+// Generated on 01/05/2026, 19:45:03 (EST)
+// Total records: 2822
 
 export const games = [
+  {
+    "id": "4f8e5cb9-0b8e-4de9-80e4-ed3018f58a3c",
+    "name": "Resident Assistant Feud",
+    "creatorId": "113918470169932753014",
+    "creatorLastName": "OG",
+    "createdAt": "01/05/2026, 19:33:37"
+  },
   {
     "id": "d61e9420-9bea-447c-aa43-dcc445aea758",
     "name": "round 1",
