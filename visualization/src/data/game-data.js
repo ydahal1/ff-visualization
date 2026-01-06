@@ -1,5 +1,5 @@
-// Generated on 01/06/2026, 13:45:02 (EST)
-// Total records: 2833
+// Generated on 01/06/2026, 14:00:02 (EST)
+// Total records: 2830
 
 export const games = [
   {
@@ -24,20 +24,6 @@ export const games = [
     "createdAt": "01/06/2026, 11:43:33"
   },
   {
-    "id": "49783a50-0f18-4de8-ba64-5fb61f56d971",
-    "name": "SS",
-    "creatorId": "111265298519880525409",
-    "creatorLastName": "JAY",
-    "createdAt": "01/06/2026, 11:41:31"
-  },
-  {
-    "id": "da6d2799-af4e-483c-aef5-a003b1b3b147",
-    "name": "ANNA",
-    "creatorId": "111265298519880525409",
-    "creatorLastName": "JAY",
-    "createdAt": "01/06/2026, 11:31:21"
-  },
-  {
     "id": "41612e7d-54e0-4072-a5cd-24a869e1a495",
     "name": "L&C Shutdown days round three",
     "creatorId": "100246298055175757401",
@@ -50,13 +36,6 @@ export const games = [
     "creatorId": "118004409674442516668",
     "creatorLastName": "Recreation",
     "createdAt": "01/06/2026, 09:51:44"
-  },
-  {
-    "id": "39a14385-373e-411b-bdea-3f76e7f5751d",
-    "name": "THE PIOLT EPISODE",
-    "creatorId": "111265298519880525409",
-    "creatorLastName": "JAY",
-    "createdAt": "01/06/2026, 09:10:21"
   },
   {
     "id": "b5b0b4a8-e09a-40d7-b0a0-8dc0ab19a194",
