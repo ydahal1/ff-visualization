@@ -1,7 +1,14 @@
-// Generated on 01/06/2026, 18:30:02 (EST)
-// Total records: 2833
+// Generated on 01/06/2026, 18:45:02 (EST)
+// Total records: 2834
 
 export const games = [
+  {
+    "id": "5fd32784-15dd-40be-89af-3b1fa7224d3c",
+    "name": "Sustainable Development Goals",
+    "creatorId": "102193108578954927535",
+    "creatorLastName": "Jaldo",
+    "createdAt": "01/06/2026, 18:44:48"
+  },
   {
     "id": "25be0484-a732-4b15-a312-c7a5306b736e",
     "name": "White Plume Kickoff Meeting",
