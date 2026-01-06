@@ -1,7 +1,14 @@
-// Generated on 01/06/2026, 08:30:02 (EST)
-// Total records: 2824
+// Generated on 01/06/2026, 08:45:02 (EST)
+// Total records: 2825
 
 export const games = [
+  {
+    "id": "85ba17a3-c89b-43a6-b8e6-237f3c998c36",
+    "name": "family feud",
+    "creatorId": "103067237667252660778",
+    "creatorLastName": "capuz",
+    "createdAt": "01/06/2026, 08:30:18"
+  },
   {
     "id": "b3fca3bb-bb4f-48f4-be44-8e7336534054",
     "name": "PIOLT EPISODE",
