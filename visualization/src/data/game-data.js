@@ -1,7 +1,14 @@
-// Generated on 01/05/2026, 21:30:02 (EST)
-// Total records: 2822
+// Generated on 01/05/2026, 21:45:02 (EST)
+// Total records: 2823
 
 export const games = [
+  {
+    "id": "e7289f60-a3f8-41ab-9ec7-1e29ec141c24",
+    "name": "White Elephant",
+    "creatorId": "101032721979244677745",
+    "creatorLastName": "Daley",
+    "createdAt": "01/05/2026, 21:34:35"
+  },
   {
     "id": "4f8e5cb9-0b8e-4de9-80e4-ed3018f58a3c",
     "name": "Resident Assistant Feud",
