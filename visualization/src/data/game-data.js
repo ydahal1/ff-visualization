@@ -1,7 +1,14 @@
-// Generated on 01/07/2026, 01:15:02 (EST)
-// Total records: 2843
+// Generated on 01/07/2026, 01:30:03 (EST)
+// Total records: 2844
 
 export const games = [
+  {
+    "id": "a5370771-0278-4c4f-a910-4731e0a8f8c7",
+    "name": "#1",
+    "creatorId": "114417662414529335428",
+    "creatorLastName": "drinkwater",
+    "createdAt": "01/07/2026, 01:27:21"
+  },
   {
     "id": "42c153d2-42c5-4c73-b6ec-534077b8cc0e",
     "name": "AP Final Review part 2",
