@@ -1,7 +1,14 @@
-// Generated on 01/06/2026, 23:45:02 (EST)
-// Total records: 2840
+// Generated on 01/07/2026, 24:00:02 (EST)
+// Total records: 2841
 
 export const games = [
+  {
+    "id": "06fc252c-29f0-4503-8a37-039f71e2a380",
+    "name": "Team Meeting",
+    "creatorId": "108106147850130961947",
+    "creatorLastName": "Wagner",
+    "createdAt": "01/06/2026, 23:48:41"
+  },
   {
     "id": "a1bd42da-9dc0-416a-b152-ed53eca46fd9",
     "name": "OA Pharmily Feud Minigame",
