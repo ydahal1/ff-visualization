@@ -1,5 +1,5 @@
-// Generated on 01/07/2026, 10:00:02 (EST)
-// Total records: 2858
+// Generated on 01/07/2026, 10:15:03 (EST)
+// Total records: 2857
 
 export const games = [
   {
@@ -8611,13 +8611,6 @@ export const games = [
     "creatorId": "110897367223449449452",
     "creatorLastName": "Payne",
     "createdAt": "12/17/2025, 11:20:47"
-  },
-  {
-    "id": "61e70469-72de-4d1a-9089-3646880f8fe3",
-    "name": "January 9th 2026 meeting",
-    "creatorId": "117863627053721582395",
-    "creatorLastName": "Johnson",
-    "createdAt": "12/17/2025, 11:14:07"
   },
   {
     "id": "507aa028-16e1-41ef-a78a-ef08394845e9",
