@@ -1,7 +1,14 @@
-// Generated on 01/06/2026, 22:30:02 (EST)
+// Generated on 01/06/2026, 22:45:02 (EST)
 // Total records: 2840
 
 export const games = [
+  {
+    "id": "a1bd42da-9dc0-416a-b152-ed53eca46fd9",
+    "name": "OA Pharmily Feud Minigame",
+    "creatorId": "101441118873702203703",
+    "creatorLastName": "Petrich",
+    "createdAt": "01/06/2026, 22:31:55"
+  },
   {
     "id": "6ca37cde-00b7-40e3-bd21-f962628f0635",
     "name": "COD Feud",
@@ -22,13 +29,6 @@ export const games = [
     "creatorId": "106525640515174227209",
     "creatorLastName": "Hoffman",
     "createdAt": "01/06/2026, 21:26:29"
-  },
-  {
-    "id": "15f3c1f6-c981-44ad-9ff6-e7fa423e5270",
-    "name": "Pharmily Feud round 1",
-    "creatorId": "101441118873702203703",
-    "creatorLastName": "Petrich",
-    "createdAt": "01/06/2026, 21:02:08"
   },
   {
     "id": "50e7ecca-dea5-49ad-ad0d-d9137c2da6e8",
