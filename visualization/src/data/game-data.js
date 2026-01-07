@@ -1,7 +1,56 @@
-// Generated on 01/07/2026, 11:15:02 (EST)
-// Total records: 2861
+// Generated on 01/07/2026, 11:30:02 (EST)
+// Total records: 2867
 
 export const games = [
+  {
+    "id": "4176f61a-760e-4ead-9fd4-774e57434c4c",
+    "name": "Tie Breaker #2",
+    "creatorId": "118403157827640160615",
+    "creatorLastName": "Sharp",
+    "createdAt": "01/07/2026, 11:24:59"
+  },
+  {
+    "id": "d6759f20-c0e4-4255-9baf-90c82be040e2",
+    "name": "Tie Breaker",
+    "creatorId": "118403157827640160615",
+    "creatorLastName": "Sharp",
+    "createdAt": "01/07/2026, 11:22:35"
+  },
+  {
+    "id": "8912f9fb-51e9-4da1-bb23-461b41864a79",
+    "name": "Final Game",
+    "creatorId": "118403157827640160615",
+    "creatorLastName": "Sharp",
+    "createdAt": "01/07/2026, 11:20:46"
+  },
+  {
+    "id": "9edd72ed-36e2-4051-983d-b6894434060d",
+    "name": "Game 4 - Education Day",
+    "creatorId": "118403157827640160615",
+    "creatorLastName": "Sharp",
+    "createdAt": "01/07/2026, 11:18:48"
+  },
+  {
+    "id": "412a05d8-f9b9-498f-8c2f-e63d97d88025",
+    "name": "Game 3 - Education Day",
+    "creatorId": "118403157827640160615",
+    "creatorLastName": "Sharp",
+    "createdAt": "01/07/2026, 11:17:49"
+  },
+  {
+    "id": "5a437aaa-93a4-4e1a-9979-d41fda19d5e0",
+    "name": "Game 1 - Education Day",
+    "creatorId": "118403157827640160615",
+    "creatorLastName": "Sharp",
+    "createdAt": "01/07/2026, 11:16:25"
+  },
+  {
+    "id": "b28a54b7-6f98-4876-8605-fa97389b0891",
+    "name": "Game 2 - Education Day",
+    "creatorId": "118403157827640160615",
+    "creatorLastName": "Sharp",
+    "createdAt": "01/07/2026, 11:15:09"
+  },
   {
     "id": "bc391ff2-3ad7-4df9-97a3-0442ff8f643b",
     "name": "family fued",
@@ -7855,13 +7904,6 @@ export const games = [
     "creatorId": "102684312863973518626",
     "creatorLastName": "Thompson",
     "createdAt": "12/18/2025, 14:13:32"
-  },
-  {
-    "id": "3acb06d3-b00b-455d-a30e-c3076aacb98a",
-    "name": "Game 1 - Education Day",
-    "creatorId": "118403157827640160615",
-    "creatorLastName": "Sharp",
-    "createdAt": "12/18/2025, 14:11:55"
   },
   {
     "id": "5730319a-385f-4d76-8360-7027385fd115",
