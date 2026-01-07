@@ -1,7 +1,21 @@
-// Generated on 01/07/2026, 10:45:03 (EST)
-// Total records: 2858
+// Generated on 01/07/2026, 11:00:03 (EST)
+// Total records: 2860
 
 export const games = [
+  {
+    "id": "06eb6f38-7cdd-489b-8699-e63b32764acf",
+    "name": "Game 2",
+    "creatorId": "117863627053721582395",
+    "creatorLastName": "Johnson",
+    "createdAt": "01/07/2026, 10:49:30"
+  },
+  {
+    "id": "0939dbe6-cf2b-48cb-a18a-a69d62c994bb",
+    "name": "Game 1",
+    "creatorId": "117863627053721582395",
+    "creatorLastName": "Johnson",
+    "createdAt": "01/07/2026, 10:48:54"
+  },
   {
     "id": "15a6999e-6446-4fa6-97bf-e26d2470d642",
     "name": "ServSafe",
