@@ -1,7 +1,14 @@
-// Generated on 01/07/2026, 10:15:03 (EST)
-// Total records: 2857
+// Generated on 01/07/2026, 10:30:02 (EST)
+// Total records: 2858
 
 export const games = [
+  {
+    "id": "15a6999e-6446-4fa6-97bf-e26d2470d642",
+    "name": "ServSafe",
+    "creatorId": "115610253302816496962",
+    "creatorLastName": "Martinez",
+    "createdAt": "01/07/2026, 10:19:13"
+  },
   {
     "id": "f26e3841-2113-4570-8a70-b7d79623013c",
     "name": "Xxx",
