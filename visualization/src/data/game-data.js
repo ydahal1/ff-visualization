@@ -1,7 +1,14 @@
-// Generated on 01/07/2026, 08:15:02 (EST)
-// Total records: 2851
+// Generated on 01/07/2026, 08:30:02 (EST)
+// Total records: 2852
 
 export const games = [
+  {
+    "id": "6783eae8-b5a8-4b44-baae-0197a5ce22af",
+    "name": "Fellowship",
+    "creatorId": "116182579530070784665",
+    "creatorLastName": "Garalde",
+    "createdAt": "01/07/2026, 08:22:15"
+  },
   {
     "id": "072cca29-3d4e-4719-bf51-eb9e1a7fb0a9",
     "name": "D",
