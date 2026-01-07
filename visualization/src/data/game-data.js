@@ -1,7 +1,21 @@
-// Generated on 01/07/2026, 15:30:02 (EST)
-// Total records: 2877
+// Generated on 01/07/2026, 15:45:02 (EST)
+// Total records: 2879
 
 export const games = [
+  {
+    "id": "5b89022e-71f7-4212-8f9f-a6ac8a526414",
+    "name": "Group Therapy",
+    "creatorId": "118274235898411955133",
+    "creatorLastName": "Grosso",
+    "createdAt": "01/07/2026, 15:44:22"
+  },
+  {
+    "id": "6baf416b-e654-4ac6-9bea-1575f5b6fc2c",
+    "name": "1",
+    "creatorId": "100799353984770944639",
+    "creatorLastName": "Aiken",
+    "createdAt": "01/07/2026, 15:37:34"
+  },
   {
     "id": "3013c8cc-2b21-460f-afbf-6ed793cfab66",
     "name": "Mock Sesh",
