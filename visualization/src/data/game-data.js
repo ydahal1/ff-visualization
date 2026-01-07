@@ -1,7 +1,21 @@
-// Generated on 01/07/2026, 07:00:02 (EST)
-// Total records: 2848
+// Generated on 01/07/2026, 07:15:02 (EST)
+// Total records: 2850
 
 export const games = [
+  {
+    "id": "b4c2d8ee-f29a-419d-877e-82afb5ef742b",
+    "name": "Rhetoraux Feud!",
+    "creatorId": "113488568097853665842",
+    "creatorLastName": "Sophiaa",
+    "createdAt": "01/07/2026, 07:13:56"
+  },
+  {
+    "id": "6c438229-07f7-4d5d-a05b-d5b5be74641c",
+    "name": "Classtime Feud",
+    "creatorId": "114303325596863797794",
+    "creatorLastName": "wilson",
+    "createdAt": "01/07/2026, 07:09:00"
+  },
   {
     "id": "b4cdb1d7-5d3e-4e90-afb9-03d2416d33e9",
     "name": "TEST RUN",
