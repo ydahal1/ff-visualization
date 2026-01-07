@@ -1,7 +1,14 @@
-// Generated on 01/07/2026, 15:00:03 (EST)
-// Total records: 2876
+// Generated on 01/07/2026, 15:15:03 (EST)
+// Total records: 2877
 
 export const games = [
+  {
+    "id": "3013c8cc-2b21-460f-afbf-6ed793cfab66",
+    "name": "Mock Sesh",
+    "creatorId": "116045935879457377307",
+    "creatorLastName": "Parham",
+    "createdAt": "01/07/2026, 15:10:24"
+  },
   {
     "id": "b2fcc749-270e-40cc-9ed0-af0afb9a7fe4",
     "name": "sixth",
