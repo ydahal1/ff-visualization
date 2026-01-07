@@ -1,7 +1,14 @@
-// Generated on 01/07/2026, 11:00:03 (EST)
-// Total records: 2860
+// Generated on 01/07/2026, 11:15:02 (EST)
+// Total records: 2861
 
 export const games = [
+  {
+    "id": "bc391ff2-3ad7-4df9-97a3-0442ff8f643b",
+    "name": "family fued",
+    "creatorId": "102455929590775666326",
+    "creatorLastName": "Perez-Garcia",
+    "createdAt": "01/07/2026, 11:03:15"
+  },
   {
     "id": "06eb6f38-7cdd-489b-8699-e63b32764acf",
     "name": "Game 2",
