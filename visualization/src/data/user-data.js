@@ -1,7 +1,12 @@
-// Generated on 01/07/2026, 01:15:01 (EST)
-// Total records: 1697
+// Generated on 01/07/2026, 01:30:01 (EST)
+// Total records: 1698
 
 export const users = [
+  {
+    "id": "114417662414529335428",
+    "lName": "drinkwater",
+    "createdAt": "01/07/2026, 01:24:17"
+  },
   {
     "id": "116696150153713359492",
     "lName": "Jones",
