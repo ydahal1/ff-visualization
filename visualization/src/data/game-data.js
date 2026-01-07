@@ -1,7 +1,21 @@
-// Generated on 01/07/2026, 09:15:02 (EST)
-// Total records: 2852
+// Generated on 01/07/2026, 09:30:03 (EST)
+// Total records: 2854
 
 export const games = [
+  {
+    "id": "e905da52-17f4-42a6-97ab-73b1b7b92750",
+    "name": "Jsjshs",
+    "creatorId": "116182579530070784665",
+    "creatorLastName": "Garalde",
+    "createdAt": "01/07/2026, 09:23:53"
+  },
+  {
+    "id": "8ba9576d-9404-4616-8127-9fe5169cb1cd",
+    "name": "Jsjsh",
+    "creatorId": "116182579530070784665",
+    "creatorLastName": "Garalde",
+    "createdAt": "01/07/2026, 09:17:27"
+  },
   {
     "id": "6783eae8-b5a8-4b44-baae-0197a5ce22af",
     "name": "Fellowship",
