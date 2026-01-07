@@ -1,7 +1,14 @@
-// Generated on 01/07/2026, 07:15:02 (EST)
+// Generated on 01/07/2026, 07:30:02 (EST)
 // Total records: 2850
 
 export const games = [
+  {
+    "id": "e61c642d-fb48-4b72-8dae-4067ce624433",
+    "name": "WHAT",
+    "creatorId": "111265298519880525409",
+    "creatorLastName": "JAY",
+    "createdAt": "01/07/2026, 07:25:01"
+  },
   {
     "id": "b4c2d8ee-f29a-419d-877e-82afb5ef742b",
     "name": "Rhetoraux Feud!",
@@ -15,13 +22,6 @@ export const games = [
     "creatorId": "114303325596863797794",
     "creatorLastName": "wilson",
     "createdAt": "01/07/2026, 07:09:00"
-  },
-  {
-    "id": "b4cdb1d7-5d3e-4e90-afb9-03d2416d33e9",
-    "name": "TEST RUN",
-    "creatorId": "111265298519880525409",
-    "creatorLastName": "JAY",
-    "createdAt": "01/07/2026, 06:49:34"
   },
   {
     "id": "e38dadef-0aa9-493d-a74c-ed2fb4e13641",
