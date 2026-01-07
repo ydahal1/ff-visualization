@@ -1,7 +1,14 @@
-// Generated on 01/06/2026, 18:45:02 (EST)
-// Total records: 2834
+// Generated on 01/06/2026, 19:00:02 (EST)
+// Total records: 2835
 
 export const games = [
+  {
+    "id": "29eb0847-e91a-442e-8ec7-bb763a73420e",
+    "name": "SDGs",
+    "creatorId": "102193108578954927535",
+    "creatorLastName": "Jaldo",
+    "createdAt": "01/06/2026, 18:45:22"
+  },
   {
     "id": "5fd32784-15dd-40be-89af-3b1fa7224d3c",
     "name": "Sustainable Development Goals",
