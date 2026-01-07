@@ -1,7 +1,14 @@
-// Generated on 01/06/2026, 21:45:03 (EST)
-// Total records: 2839
+// Generated on 01/06/2026, 22:00:03 (EST)
+// Total records: 2840
 
 export const games = [
+  {
+    "id": "6ca37cde-00b7-40e3-bd21-f962628f0635",
+    "name": "COD Feud",
+    "creatorId": "109486931210703502413",
+    "creatorLastName": "Martin",
+    "createdAt": "01/06/2026, 21:50:40"
+  },
   {
     "id": "f7130f10-f139-4a76-bbd6-2cd27568338b",
     "name": "JAY",
