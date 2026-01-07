@@ -1,13 +1,13 @@
-// Generated on 01/07/2026, 01:30:03 (EST)
+// Generated on 01/07/2026, 01:45:03 (EST)
 // Total records: 2844
 
 export const games = [
   {
-    "id": "a5370771-0278-4c4f-a910-4731e0a8f8c7",
-    "name": "#1",
+    "id": "ace33228-de84-4cbc-ba0d-cb0e705ad188",
+    "name": "CLUB GAME",
     "creatorId": "114417662414529335428",
     "creatorLastName": "drinkwater",
-    "createdAt": "01/07/2026, 01:27:21"
+    "createdAt": "01/07/2026, 01:37:07"
   },
   {
     "id": "42c153d2-42c5-4c73-b6ec-534077b8cc0e",
