@@ -1,7 +1,14 @@
-// Generated on 01/07/2026, 22:45:03 (EST)
-// Total records: 2888
+// Generated on 01/07/2026, 23:00:03 (EST)
+// Total records: 2889
 
 export const games = [
+  {
+    "id": "cbd9e429-be90-4b9d-8662-0e351c25c8f4",
+    "name": "Clash of the Colleagues",
+    "creatorId": "114092011902800447282",
+    "creatorLastName": "Rivers",
+    "createdAt": "01/07/2026, 22:56:47"
+  },
   {
     "id": "23f71206-d6d5-4a52-9be9-86b559fe92e0",
     "name": "Bday Party",
