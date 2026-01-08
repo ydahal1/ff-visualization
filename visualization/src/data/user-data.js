@@ -1,7 +1,12 @@
-// Generated on 01/08/2026, 10:30:00 (EST)
-// Total records: 1723
+// Generated on 01/08/2026, 10:45:00 (EST)
+// Total records: 1724
 
 export const users = [
+  {
+    "id": "116284243485429993783",
+    "lName": "TRAPET",
+    "createdAt": "01/08/2026, 10:39:29"
+  },
   {
     "id": "105112633082737744706",
     "lName": "Stonebrook",
