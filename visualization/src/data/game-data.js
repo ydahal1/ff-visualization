@@ -1,7 +1,14 @@
-// Generated on 01/08/2026, 01:45:02 (EST)
-// Total records: 2892
+// Generated on 01/08/2026, 02:00:02 (EST)
+// Total records: 2893
 
 export const games = [
+  {
+    "id": "6d026207-4111-4ae3-bb09-8d26d71cf778",
+    "name": "RHETORAUX",
+    "creatorId": "106323472931730814882",
+    "creatorLastName": "ri",
+    "createdAt": "01/08/2026, 01:49:57"
+  },
   {
     "id": "eb5c8fa4-5ad9-4463-b3ab-c3bdd080c94d",
     "name": "valentines day",
