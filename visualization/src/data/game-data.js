@@ -1,14 +1,7 @@
-// Generated on 01/08/2026, 08:00:03 (EST)
-// Total records: 2894
+// Generated on 01/08/2026, 08:15:03 (EST)
+// Total records: 2893
 
 export const games = [
-  {
-    "id": "61cedc6c-bc3e-4f3e-9209-95701b0a6e25",
-    "name": "PIOLT EPISODE",
-    "creatorId": "111265298519880525409",
-    "creatorLastName": "JAY",
-    "createdAt": "01/08/2026, 07:41:03"
-  },
   {
     "id": "44111211-5d2b-45ea-ba1d-958f753c061d",
     "name": "Gala",
