@@ -1,7 +1,14 @@
-// Generated on 01/08/2026, 07:00:02 (EST)
+// Generated on 01/08/2026, 07:15:02 (EST)
 // Total records: 2893
 
 export const games = [
+  {
+    "id": "44111211-5d2b-45ea-ba1d-958f753c061d",
+    "name": "Gala",
+    "creatorId": "106419961220793342385",
+    "creatorLastName": "Frimmel",
+    "createdAt": "01/08/2026, 07:12:03"
+  },
   {
     "id": "6d026207-4111-4ae3-bb09-8d26d71cf778",
     "name": "RHETORAUX",
@@ -666,13 +673,6 @@ export const games = [
     "creatorId": "100246298055175757401",
     "creatorLastName": "Schultz",
     "createdAt": "01/05/2026, 11:54:50"
-  },
-  {
-    "id": "8578ae42-9152-4a47-9396-d63aad7a5b52",
-    "name": "Neujahrsgala",
-    "creatorId": "106419961220793342385",
-    "creatorLastName": "Frimmel",
-    "createdAt": "01/05/2026, 09:56:45"
   },
   {
     "id": "f61b9279-aeeb-4f0a-b4eb-8ccb2de89e42",
