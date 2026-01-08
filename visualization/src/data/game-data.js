@@ -1,14 +1,7 @@
-// Generated on 01/08/2026, 18:00:03 (EST)
-// Total records: 2904
+// Generated on 01/08/2026, 18:15:02 (EST)
+// Total records: 2903
 
 export const games = [
-  {
-    "id": "4edc007f-bc0c-4810-b21c-67b6d0960bb0",
-    "name": "First Round",
-    "creatorId": "117028220549363453764",
-    "creatorLastName": "Maltais",
-    "createdAt": "01/08/2026, 17:02:58"
-  },
   {
     "id": "09cb4fab-49e0-4e91-ac15-7d8ef0f83913",
     "name": "game1",
