@@ -1,7 +1,14 @@
-// Generated on 01/08/2026, 11:00:05 (EST)
-// Total records: 2896
+// Generated on 01/08/2026, 11:15:03 (EST)
+// Total records: 2897
 
 export const games = [
+  {
+    "id": "be7fb4d7-5f10-4fa1-be52-4027a8769d63",
+    "name": "Soup Group Lunch",
+    "creatorId": "100892751365843861113",
+    "creatorLastName": "Phillips",
+    "createdAt": "01/08/2026, 11:12:55"
+  },
   {
     "id": "41a96fc4-e07e-4b56-8fd4-b7ee0c41810e",
     "name": "TRBA EN OR",
