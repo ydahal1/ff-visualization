@@ -1,7 +1,21 @@
-// Generated on 01/08/2026, 18:30:02 (EST)
-// Total records: 2904
+// Generated on 01/08/2026, 18:45:02 (EST)
+// Total records: 2906
 
 export const games = [
+  {
+    "id": "3470bb46-7ef4-4c54-950e-746fac02e20e",
+    "name": "Generation Showdown: The 60s Editio",
+    "creatorId": "117698813441606043135",
+    "creatorLastName": "Shoop",
+    "createdAt": "01/08/2026, 18:32:07"
+  },
+  {
+    "id": "470cb9e9-2991-4a51-bbef-725b6005cc2e",
+    "name": "Shoop",
+    "creatorId": "117698813441606043135",
+    "creatorLastName": "Shoop",
+    "createdAt": "01/08/2026, 18:32:07"
+  },
   {
     "id": "9699f0a8-ca90-4d0e-928b-0b17897bcdc0",
     "name": "Generation Showdown: The 60s Edition",
