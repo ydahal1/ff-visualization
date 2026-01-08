@@ -1,7 +1,21 @@
-// Generated on 01/07/2026, 22:30:03 (EST)
-// Total records: 2886
+// Generated on 01/07/2026, 22:45:03 (EST)
+// Total records: 2888
 
 export const games = [
+  {
+    "id": "23f71206-d6d5-4a52-9be9-86b559fe92e0",
+    "name": "Bday Party",
+    "creatorId": "107807587073070600819",
+    "creatorLastName": "Senthilkumar",
+    "createdAt": "01/07/2026, 22:40:23"
+  },
+  {
+    "id": "46334e98-2f73-4a2a-8344-324a5de15767",
+    "name": "Family Feud",
+    "creatorId": "106415029255816398589",
+    "creatorLastName": "Gajula",
+    "createdAt": "01/07/2026, 22:39:26"
+  },
   {
     "id": "a963e076-19aa-4a5f-91a3-7ba6aad43fb7",
     "name": "Hood Feud 7",
