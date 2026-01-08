@@ -1,7 +1,14 @@
-// Generated on 01/08/2026, 14:00:02 (EST)
-// Total records: 2898
+// Generated on 01/08/2026, 14:15:03 (EST)
+// Total records: 2899
 
 export const games = [
+  {
+    "id": "c4ce3666-84ae-46c9-98cc-dfbf94ccd169",
+    "name": "EJEMPLO",
+    "creatorId": "117281497858946447244",
+    "creatorLastName": "Hernández Bautista",
+    "createdAt": "01/08/2026, 14:14:11"
+  },
   {
     "id": "3e48d508-753e-4210-a6e1-8e775466f797",
     "name": "Round 1",
