@@ -1,13 +1,13 @@
-// Generated on 01/08/2026, 08:45:03 (EST)
-// Total records: 2896
+// Generated on 01/08/2026, 09:00:02 (EST)
+// Total records: 2895
 
 export const games = [
   {
-    "id": "6ae3116f-f11c-4f46-b686-57ff6315d30a",
-    "name": "PIOLT EPISODE",
+    "id": "233c6cfd-3beb-4a3b-a522-31dbc800ebe2",
+    "name": "what",
     "creatorId": "111265298519880525409",
     "creatorLastName": "JAY",
-    "createdAt": "01/08/2026, 08:27:07"
+    "createdAt": "01/08/2026, 08:58:55"
   },
   {
     "id": "78a39901-e4b1-4f3f-877a-0b01372b07a0",
@@ -15,13 +15,6 @@ export const games = [
     "creatorId": "111065924776271183173",
     "creatorLastName": "Stanczykiewicz",
     "createdAt": "01/08/2026, 08:22:43"
-  },
-  {
-    "id": "97db999b-4436-46de-972a-4cb3cad4b7ba",
-    "name": "d",
-    "creatorId": "111265298519880525409",
-    "creatorLastName": "JAY",
-    "createdAt": "01/08/2026, 08:17:20"
   },
   {
     "id": "44111211-5d2b-45ea-ba1d-958f753c061d",
