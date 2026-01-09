@@ -1,7 +1,14 @@
-// Generated on 01/08/2026, 20:45:02 (EST)
-// Total records: 2909
+// Generated on 01/08/2026, 21:00:03 (EST)
+// Total records: 2910
 
 export const games = [
+  {
+    "id": "a1d4a24c-6d9c-4ef4-90eb-8e675359949f",
+    "name": "Collections Feud:Team Edition",
+    "creatorId": "112735832709049746982",
+    "creatorLastName": "Edmonthe",
+    "createdAt": "01/08/2026, 20:57:47"
+  },
   {
     "id": "b8c2ff93-3022-4941-850c-d0749129b685",
     "name": "Collections Feud: Team Edition",
