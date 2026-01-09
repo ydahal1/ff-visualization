@@ -1,7 +1,14 @@
-// Generated on 01/09/2026, 13:15:03 (EST)
-// Total records: 2928
+// Generated on 01/09/2026, 13:30:03 (EST)
+// Total records: 2925
 
 export const games = [
+  {
+    "id": "cf96c28a-5aa9-4cfd-8d0c-2717ed7fcb81",
+    "name": "team 1",
+    "creatorId": "100918285200871160853",
+    "creatorLastName": "Clifton",
+    "createdAt": "01/09/2026, 13:16:46"
+  },
   {
     "id": "1842ae3c-6549-4675-b7ec-4a018c6ea8bf",
     "name": "Game4-",
@@ -24,13 +31,6 @@ export const games = [
     "createdAt": "01/09/2026, 12:20:13"
   },
   {
-    "id": "ea28794d-83a0-4691-9b85-d075a0f13c3b",
-    "name": "ssss",
-    "creatorId": "100918285200871160853",
-    "creatorLastName": "Clifton",
-    "createdAt": "01/09/2026, 12:06:44"
-  },
-  {
     "id": "c20cacf9-398d-4f6b-9d4f-f17ac8f4b882",
     "name": "Game2-",
     "creatorId": "102221305373626927973",
@@ -43,27 +43,6 @@ export const games = [
     "creatorId": "114363437140040998257",
     "creatorLastName": "Bajaj",
     "createdAt": "01/09/2026, 12:05:04"
-  },
-  {
-    "id": "5b3a8358-a075-466f-b118-a61b6fbbb657",
-    "name": "jk",
-    "creatorId": "100918285200871160853",
-    "creatorLastName": "Clifton",
-    "createdAt": "01/09/2026, 12:03:16"
-  },
-  {
-    "id": "8cb2cf11-c37a-40aa-afe2-145ad1afa1cc",
-    "name": "gane",
-    "creatorId": "100918285200871160853",
-    "creatorLastName": "Clifton",
-    "createdAt": "01/09/2026, 11:39:37"
-  },
-  {
-    "id": "3e828fc5-218c-451a-86d3-374bedbe39a5",
-    "name": "game1",
-    "creatorId": "100918285200871160853",
-    "creatorLastName": "Clifton",
-    "createdAt": "01/09/2026, 11:39:13"
   },
   {
     "id": "908215e4-c4b2-4784-8798-43c583aa7767",
