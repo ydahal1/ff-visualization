@@ -1,7 +1,14 @@
-// Generated on 01/08/2026, 20:00:02 (EST)
-// Total records: 2907
+// Generated on 01/08/2026, 20:15:03 (EST)
+// Total records: 2908
 
 export const games = [
+  {
+    "id": "70e3a38c-8ff8-4d84-9d24-1738c575e6c7",
+    "name": "Wack date",
+    "creatorId": "105248622117941812058",
+    "creatorLastName": "Wack",
+    "createdAt": "01/08/2026, 20:06:33"
+  },
   {
     "id": "6b58c557-c1ef-4b54-ba69-1f4231c4481b",
     "name": "BIGO",
