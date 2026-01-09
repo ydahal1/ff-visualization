@@ -1,7 +1,14 @@
-// Generated on 01/08/2026, 19:15:02 (EST)
-// Total records: 2906
+// Generated on 01/08/2026, 19:30:02 (EST)
+// Total records: 2907
 
 export const games = [
+  {
+    "id": "6b58c557-c1ef-4b54-ba69-1f4231c4481b",
+    "name": "BIGO",
+    "creatorId": "113934202810176572660",
+    "creatorLastName": "Impressions",
+    "createdAt": "01/08/2026, 19:21:31"
+  },
   {
     "id": "3470bb46-7ef4-4c54-950e-746fac02e20e",
     "name": "Generation Showdown: The 60s Editio",
