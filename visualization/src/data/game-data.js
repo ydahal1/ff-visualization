@@ -1,5 +1,5 @@
-// Generated on 01/09/2026, 04:45:02 (EST)
-// Total records: 2910
+// Generated on 01/09/2026, 05:00:02 (EST)
+// Total records: 2909
 
 export const games = [
   {
@@ -113,13 +113,6 @@ export const games = [
     "creatorId": "100892751365843861113",
     "creatorLastName": "Phillips",
     "createdAt": "01/08/2026, 11:12:55"
-  },
-  {
-    "id": "41a96fc4-e07e-4b56-8fd4-b7ee0c41810e",
-    "name": "TRBA EN OR",
-    "creatorId": "116284243485429993783",
-    "creatorLastName": "TRAPET",
-    "createdAt": "01/08/2026, 10:41:27"
   },
   {
     "id": "78a39901-e4b1-4f3f-877a-0b01372b07a0",
