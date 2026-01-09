@@ -1,7 +1,14 @@
-// Generated on 01/09/2026, 07:00:02 (EST)
-// Total records: 2910
+// Generated on 01/09/2026, 07:15:03 (EST)
+// Total records: 2911
 
 export const games = [
+  {
+    "id": "40312857-c55d-4d53-b225-c1661c500d70",
+    "name": "Game 1",
+    "creatorId": "102221305373626927973",
+    "creatorLastName": "Moodley",
+    "createdAt": "01/09/2026, 07:12:01"
+  },
   {
     "id": "9b0866c7-94a6-4511-91f0-d5aa7ec24c9e",
     "name": "nigg",
