@@ -1,7 +1,14 @@
-// Generated on 01/09/2026, 16:30:03 (EST)
-// Total records: 2926
+// Generated on 01/09/2026, 16:45:03 (EST)
+// Total records: 2927
 
 export const games = [
+  {
+    "id": "55d9b910-d503-4eee-8230-b9b142d7a6b3",
+    "name": "vmsek",
+    "creatorId": "107838275807241577973",
+    "creatorLastName": "Mayor",
+    "createdAt": "01/09/2026, 16:38:01"
+  },
   {
     "id": "d2e84f18-e507-4358-831e-d382f50e493f",
     "name": "team 1",
