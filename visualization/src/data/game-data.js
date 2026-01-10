@@ -1,7 +1,14 @@
-// Generated on 01/09/2026, 21:00:03 (EST)
-// Total records: 2930
+// Generated on 01/09/2026, 21:15:02 (EST)
+// Total records: 2931
 
 export const games = [
+  {
+    "id": "d7972c92-961e-49af-9930-fba4c7fa54fa",
+    "name": "Family Feud Legion Edition v2",
+    "creatorId": "106171550221408098647",
+    "creatorLastName": "Marfo",
+    "createdAt": "01/09/2026, 21:11:31"
+  },
   {
     "id": "8f3eb3fc-5971-45e7-b387-a2fee4b982b6",
     "name": "Game 3",
