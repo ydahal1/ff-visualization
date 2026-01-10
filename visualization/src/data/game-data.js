@@ -1,7 +1,14 @@
-// Generated on 01/10/2026, 12:00:02 (EST)
-// Total records: 2934
+// Generated on 01/10/2026, 12:15:02 (EST)
+// Total records: 2935
 
 export const games = [
+  {
+    "id": "6f2df3fc-b29e-4f06-ac15-cd0ed6709709",
+    "name": "Baby Feud",
+    "creatorId": "113560233595152489163",
+    "creatorLastName": "Brown",
+    "createdAt": "01/10/2026, 12:01:23"
+  },
   {
     "id": "428bec86-8cad-4cde-b30f-83596f52c875",
     "name": "Precursores",
