@@ -1,7 +1,14 @@
-// Generated on 01/10/2026, 06:45:02 (EST)
-// Total records: 2934
+// Generated on 01/10/2026, 07:00:02 (EST)
+// Total records: 2935
 
 export const games = [
+  {
+    "id": "8b388e62-7fe2-4cc0-b7fb-5868d736b8d4",
+    "name": "Fiesta de 100",
+    "creatorId": "112523973235105153641",
+    "creatorLastName": "Yose rizal",
+    "createdAt": "01/10/2026, 06:48:23"
+  },
   {
     "id": "428bec86-8cad-4cde-b30f-83596f52c875",
     "name": "Precursores",
