@@ -1,7 +1,14 @@
-// Generated on 01/09/2026, 22:30:03 (EST)
-// Total records: 2933
+// Generated on 01/09/2026, 22:45:02 (EST)
+// Total records: 2934
 
 export const games = [
+  {
+    "id": "e262101c-f306-400e-8097-ea1769e2f5a2",
+    "name": "Drunk ass",
+    "creatorId": "113677376457108660601",
+    "creatorLastName": "Minnich",
+    "createdAt": "01/09/2026, 22:32:48"
+  },
   {
     "id": "4db7d17b-cb2f-4342-bda4-ce0da6dd19de",
     "name": "Simpson Fam",
