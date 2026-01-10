@@ -1,7 +1,12 @@
-// Generated on 01/10/2026, 11:45:01 (EST)
-// Total records: 1752
+// Generated on 01/10/2026, 12:00:01 (EST)
+// Total records: 1753
 
 export const users = [
+  {
+    "id": "113560233595152489163",
+    "lName": "Brown",
+    "createdAt": "01/10/2026, 11:57:05"
+  },
   {
     "id": "112523973235105153641",
     "lName": "Yose rizal",
