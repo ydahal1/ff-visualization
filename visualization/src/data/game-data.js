@@ -1,5 +1,5 @@
-// Generated on 01/09/2026, 19:15:02 (EST)
-// Total records: 2927
+// Generated on 01/09/2026, 19:30:03 (EST)
+// Total records: 2925
 
 export const games = [
   {
@@ -141,20 +141,6 @@ export const games = [
     "creatorId": "111265298519880525409",
     "creatorLastName": "JAY",
     "createdAt": "01/08/2026, 23:14:55"
-  },
-  {
-    "id": "37a1c78e-ccd0-400b-85e4-49c06f629527",
-    "name": "test 2",
-    "creatorId": "116271761174667459580",
-    "creatorLastName": "Donato",
-    "createdAt": "01/08/2026, 22:03:18"
-  },
-  {
-    "id": "d095bd33-2ffd-40d0-b9ea-c1013a607e8b",
-    "name": "test",
-    "creatorId": "116271761174667459580",
-    "creatorLastName": "Donato",
-    "createdAt": "01/08/2026, 21:38:04"
   },
   {
     "id": "896c98e0-ef5a-42e5-8336-4a0ab15809f2",
