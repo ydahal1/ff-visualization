@@ -1,7 +1,14 @@
-// Generated on 01/09/2026, 23:45:02 (EST)
+// Generated on 01/10/2026, 24:00:02 (EST)
 // Total records: 2934
 
 export const games = [
+  {
+    "id": "428bec86-8cad-4cde-b30f-83596f52c875",
+    "name": "Precursores",
+    "creatorId": "104023425420449127506",
+    "creatorLastName": "Atek",
+    "createdAt": "01/09/2026, 23:50:18"
+  },
   {
     "id": "e262101c-f306-400e-8097-ea1769e2f5a2",
     "name": "Drunk ass",
@@ -3452,13 +3459,6 @@ export const games = [
     "creatorId": "104324181231353398940",
     "creatorLastName": "Lopez-Morfin",
     "createdAt": "12/26/2025, 16:52:09"
-  },
-  {
-    "id": "3ced1b8b-1c4b-4afa-af79-2520201fbbc7",
-    "name": "pioneers",
-    "creatorId": "104023425420449127506",
-    "creatorLastName": "Atek",
-    "createdAt": "12/26/2025, 15:42:48"
   },
   {
     "id": "2de9ab4a-91ff-4f90-aac6-b021d944469d",
