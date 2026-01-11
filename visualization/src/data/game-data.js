@@ -1,7 +1,14 @@
-// Generated on 01/11/2026, 07:45:02 (EST)
-// Total records: 2944
+// Generated on 01/11/2026, 08:00:02 (EST)
+// Total records: 2945
 
 export const games = [
+  {
+    "id": "0fc3bcdb-e717-46f6-8382-9fd8dd0fd902",
+    "name": "practice",
+    "creatorId": "107053842310602161558",
+    "creatorLastName": "Piccus",
+    "createdAt": "01/11/2026, 07:52:42"
+  },
   {
     "id": "c72692ca-1e24-4b07-957a-b939e854a3a5",
     "name": "Snoonu",
