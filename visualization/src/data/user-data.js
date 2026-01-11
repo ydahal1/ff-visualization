@@ -1,7 +1,12 @@
-// Generated on 01/11/2026, 04:45:00 (EST)
-// Total records: 1759
+// Generated on 01/11/2026, 05:00:00 (EST)
+// Total records: 1760
 
 export const users = [
+  {
+    "id": "114321031046896758211",
+    "lName": "Isaacs",
+    "createdAt": "01/11/2026, 04:50:22"
+  },
   {
     "id": "111193678895859461900",
     "lName": "Dębowski",
