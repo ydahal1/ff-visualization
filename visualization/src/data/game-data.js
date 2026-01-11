@@ -1,7 +1,14 @@
-// Generated on 01/11/2026, 09:30:03 (EST)
-// Total records: 2945
+// Generated on 01/11/2026, 09:45:02 (EST)
+// Total records: 2946
 
 export const games = [
+  {
+    "id": "079f0308-6bc8-4092-8e68-025ba86b9a28",
+    "name": "Teens Games",
+    "creatorId": "111193678895859461900",
+    "creatorLastName": "Dębowski",
+    "createdAt": "01/11/2026, 09:33:48"
+  },
   {
     "id": "0fc3bcdb-e717-46f6-8382-9fd8dd0fd902",
     "name": "practice",
