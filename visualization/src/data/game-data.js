@@ -1,7 +1,21 @@
-// Generated on 01/11/2026, 22:00:03 (EST)
-// Total records: 2958
+// Generated on 01/11/2026, 22:15:02 (EST)
+// Total records: 2960
 
 export const games = [
+  {
+    "id": "d73e83ee-eb88-4cd3-b5c4-90ba06ae9bf4",
+    "name": "finals 2",
+    "creatorId": "103406168834691908436",
+    "creatorLastName": "clay",
+    "createdAt": "01/11/2026, 22:10:01"
+  },
+  {
+    "id": "4674cba1-b260-458d-a898-559840e3239d",
+    "name": "Mentoring test",
+    "creatorId": "115943084957622213125",
+    "creatorLastName": "Maychandra J",
+    "createdAt": "01/11/2026, 22:04:20"
+  },
   {
     "id": "7e1475a0-5136-41be-b1cf-df7c87f72cdb",
     "name": "Round 5",
