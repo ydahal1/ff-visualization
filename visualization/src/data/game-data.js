@@ -1,7 +1,14 @@
-// Generated on 01/12/2026, 15:45:03 (EST)
-// Total records: 2971
+// Generated on 01/12/2026, 16:00:02 (EST)
+// Total records: 2972
 
 export const games = [
+  {
+    "id": "fbb39648-6441-4142-91d2-cf3b72805fd0",
+    "name": "Test",
+    "creatorId": "109493355347599071641",
+    "creatorLastName": "Simmons",
+    "createdAt": "01/12/2026, 15:57:51"
+  },
   {
     "id": "1ace9200-1cf2-410a-b593-d253133392a9",
     "name": "FAMILY FACE-OFF",
