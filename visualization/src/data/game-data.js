@@ -1,7 +1,14 @@
-// Generated on 01/12/2026, 16:30:02 (EST)
-// Total records: 2974
+// Generated on 01/12/2026, 16:45:02 (EST)
+// Total records: 2975
 
 export const games = [
+  {
+    "id": "b3042a51-7468-4e98-8c48-02dcd57609b6",
+    "name": "trivia 1",
+    "creatorId": "109740519518402307785",
+    "creatorLastName": "ortiz",
+    "createdAt": "01/12/2026, 16:38:55"
+  },
   {
     "id": "728d2027-cd48-4837-877a-01ed51dffacd",
     "name": "FAMILY FACE-OFF Final",
