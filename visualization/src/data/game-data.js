@@ -1,7 +1,14 @@
-// Generated on 01/12/2026, 12:45:03 (EST)
-// Total records: 2969
+// Generated on 01/12/2026, 13:00:02 (EST)
+// Total records: 2970
 
 export const games = [
+  {
+    "id": "9f3ad221-70ed-495c-8181-878f07849e32",
+    "name": "Mega Money Madness",
+    "creatorId": "117758600406401934929",
+    "creatorLastName": "Chikowski",
+    "createdAt": "01/12/2026, 12:47:14"
+  },
   {
     "id": "10d9c3d8-4d54-42e0-b8bf-e657f2c5e6a0",
     "name": "The PSP Showdown – Game Show Night",
