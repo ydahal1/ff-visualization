@@ -1,7 +1,14 @@
-// Generated on 01/12/2026, 12:00:02 (EST)
-// Total records: 2964
+// Generated on 01/12/2026, 12:15:02 (EST)
+// Total records: 2965
 
 export const games = [
+  {
+    "id": "203c0c0e-6be9-48b7-8d4e-d822385ceca3",
+    "name": "French project",
+    "creatorId": "106757763161138011147",
+    "creatorLastName": "Belide",
+    "createdAt": "01/12/2026, 12:11:21"
+  },
   {
     "id": "f3f78ab6-1489-4410-a74c-14eab4841c8f",
     "name": "FLICKOING THE TESTIES... BRINS REVENGE",
