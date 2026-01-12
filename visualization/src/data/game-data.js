@@ -1,7 +1,14 @@
-// Generated on 01/12/2026, 18:00:02 (EST)
-// Total records: 2977
+// Generated on 01/12/2026, 18:15:02 (EST)
+// Total records: 2978
 
 export const games = [
+  {
+    "id": "bab770a3-2a9d-48cf-9079-f09756194387",
+    "name": "New Year's Resolution",
+    "creatorId": "106112904342789940549",
+    "creatorLastName": "phan",
+    "createdAt": "01/12/2026, 18:12:55"
+  },
   {
     "id": "33cedba3-b288-4690-a273-e574886c4394",
     "name": "Game 1.12.26",
