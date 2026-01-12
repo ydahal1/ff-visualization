@@ -1,7 +1,14 @@
-// Generated on 01/12/2026, 16:15:03 (EST)
-// Total records: 2973
+// Generated on 01/12/2026, 16:30:02 (EST)
+// Total records: 2974
 
 export const games = [
+  {
+    "id": "728d2027-cd48-4837-877a-01ed51dffacd",
+    "name": "FAMILY FACE-OFF Final",
+    "creatorId": "112523973235105153641",
+    "creatorLastName": "Yose rizal",
+    "createdAt": "01/12/2026, 16:23:34"
+  },
   {
     "id": "ae8b9b2d-b851-497f-88bc-e7691ce7d0dd",
     "name": "FAMILY FACE-OFF Part 2",
