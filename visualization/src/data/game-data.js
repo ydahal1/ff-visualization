@@ -1,5 +1,5 @@
-// Generated on 01/12/2026, 07:30:02 (EST)
-// Total records: 2964
+// Generated on 01/12/2026, 07:45:02 (EST)
+// Total records: 2962
 
 export const games = [
   {
@@ -381,13 +381,6 @@ export const games = [
     "createdAt": "01/09/2026, 09:13:23"
   },
   {
-    "id": "079be2fc-49b2-4a2b-8e99-998161152a7f",
-    "name": "BRIN NEEDS HIGH HEELS TO REACH THE TOP CUPBOARD",
-    "creatorId": "111265298519880525409",
-    "creatorLastName": "JAY",
-    "createdAt": "01/09/2026, 09:12:06"
-  },
-  {
     "id": "dc541b1b-33e8-4769-94a1-d81d4509dbfd",
     "name": "Anchorage Family Fued",
     "creatorId": "108568150895083866885",
@@ -414,13 +407,6 @@ export const games = [
     "creatorId": "103498545609890375176",
     "creatorLastName": "Kas",
     "createdAt": "01/09/2026, 05:24:32"
-  },
-  {
-    "id": "bb830246-d6b7-4cac-9354-9a5d52e2ca81",
-    "name": "none of your business",
-    "creatorId": "111265298519880525409",
-    "creatorLastName": "JAY",
-    "createdAt": "01/08/2026, 23:14:55"
   },
   {
     "id": "896c98e0-ef5a-42e5-8336-4a0ab15809f2",
