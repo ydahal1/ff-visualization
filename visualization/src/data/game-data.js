@@ -1,7 +1,14 @@
-// Generated on 01/13/2026, 12:45:03 (EST)
-// Total records: 2983
+// Generated on 01/13/2026, 13:00:03 (EST)
+// Total records: 2984
 
 export const games = [
+  {
+    "id": "d08a3746-38c4-46c5-a3e2-74ba9a414aeb",
+    "name": "Property Feud",
+    "creatorId": "114344355529311623761",
+    "creatorLastName": "Lemke",
+    "createdAt": "01/13/2026, 12:51:58"
+  },
   {
     "id": "a7247c9b-dd87-4bc7-8889-754c1885dcf6",
     "name": "Spėk ir atspėk",
