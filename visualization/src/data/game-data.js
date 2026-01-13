@@ -1,7 +1,14 @@
-// Generated on 01/13/2026, 17:30:03 (EST)
-// Total records: 2994
+// Generated on 01/13/2026, 17:45:02 (EST)
+// Total records: 2995
 
 export const games = [
+  {
+    "id": "02706f2b-26a4-4c30-b326-8903fd7e7a8f",
+    "name": "Family Fun YaY",
+    "creatorId": "105562189411413079390",
+    "creatorLastName": "Decker",
+    "createdAt": "01/13/2026, 17:31:19"
+  },
   {
     "id": "359a7f91-3d46-4fca-9b27-067d5d81036f",
     "name": "MLA Fued",
