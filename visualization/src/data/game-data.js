@@ -1,7 +1,14 @@
-// Generated on 01/13/2026, 10:15:02 (EST)
-// Total records: 2981
+// Generated on 01/13/2026, 10:30:03 (EST)
+// Total records: 2982
 
 export const games = [
+  {
+    "id": "bd663756-9077-48df-9973-ac218b275ca9",
+    "name": "SURVEY SAYS: BUSINESS EDITION",
+    "creatorId": "105109429462342982154",
+    "creatorLastName": "Peraja",
+    "createdAt": "01/13/2026, 10:24:31"
+  },
   {
     "id": "c43f95aa-42e0-42cd-be0d-496cdc1845d3",
     "name": "NO FILTER\\",
