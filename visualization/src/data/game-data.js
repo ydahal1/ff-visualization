@@ -1,7 +1,14 @@
-// Generated on 01/13/2026, 11:15:03 (EST)
-// Total records: 2982
+// Generated on 01/13/2026, 11:30:02 (EST)
+// Total records: 2983
 
 export const games = [
+  {
+    "id": "a7247c9b-dd87-4bc7-8889-754c1885dcf6",
+    "name": "Spėk ir atspėk",
+    "creatorId": "103498545609890375176",
+    "creatorLastName": "Kas",
+    "createdAt": "01/13/2026, 11:16:41"
+  },
   {
     "id": "bd663756-9077-48df-9973-ac218b275ca9",
     "name": "SURVEY SAYS: BUSINESS EDITION",
