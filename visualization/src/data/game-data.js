@@ -1,5 +1,5 @@
-// Generated on 01/12/2026, 20:15:02 (EST)
-// Total records: 2977
+// Generated on 01/12/2026, 20:30:03 (EST)
+// Total records: 2973
 
 export const games = [
   {
@@ -10944,13 +10944,6 @@ export const games = [
     "createdAt": "12/12/2025, 12:17:39"
   },
   {
-    "id": "fc25afc4-3950-44fa-857e-992e325bb9db",
-    "name": "Tasty",
-    "creatorId": "118398045643308882603",
-    "creatorLastName": "Dahal",
-    "createdAt": "12/12/2025, 12:16:24"
-  },
-  {
     "id": "3555dbba-7325-427a-816c-5a45d8cf94ad",
     "name": "test",
     "creatorId": "105176125597894151625",
@@ -14262,13 +14255,6 @@ export const games = [
     "createdAt": "12/04/2025, 09:06:41"
   },
   {
-    "id": "96575978-38ce-4c3b-92e9-54ef592bbe67",
-    "name": "Ape",
-    "creatorId": "118398045643308882603",
-    "creatorLastName": "Dahal",
-    "createdAt": "12/04/2025, 08:03:37"
-  },
-  {
     "id": "061b7d4e-6482-46cb-893e-aa3d398e80b8",
     "name": "Round 13-16",
     "creatorId": "118147015452955935504",
@@ -14288,13 +14274,6 @@ export const games = [
     "creatorId": "118147015452955935504",
     "creatorLastName": "Harmony",
     "createdAt": "12/04/2025, 07:37:21"
-  },
-  {
-    "id": "f0c80eac-5168-4b0e-b16d-589e912d1583",
-    "name": "amigo",
-    "creatorId": "118398045643308882603",
-    "creatorLastName": "Dahal",
-    "createdAt": "12/04/2025, 06:43:17"
   },
   {
     "id": "2dc4ae94-bd81-4d6f-befd-fec779e89811",
@@ -20336,13 +20315,6 @@ export const games = [
     "creatorId": "103187874928466138334",
     "creatorLastName": "Levine",
     "createdAt": "11/06/2025, 16:09:30"
-  },
-  {
-    "id": "873fac00-2a75-4970-bb21-327b6fd0b5a8",
-    "name": "male VS Female",
-    "creatorId": "118398045643308882603",
-    "creatorLastName": "Dahal",
-    "createdAt": "11/06/2025, 16:01:34"
   },
   {
     "id": "56230cc4-3978-4900-bde1-810187a5ca3e",
