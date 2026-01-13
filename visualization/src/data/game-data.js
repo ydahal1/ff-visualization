@@ -1,7 +1,14 @@
-// Generated on 01/13/2026, 14:15:03 (EST)
-// Total records: 2989
+// Generated on 01/13/2026, 14:30:02 (EST)
+// Total records: 2990
 
 export const games = [
+  {
+    "id": "5ba0eecd-3c90-4f13-a203-b6fe1028482f",
+    "name": "Face Offs",
+    "creatorId": "105626268971452318341",
+    "creatorLastName": "Crigler",
+    "createdAt": "01/13/2026, 14:24:55"
+  },
   {
     "id": "a01244bd-aa0a-40ac-a772-96bf90b907b8",
     "name": "Round 4",
