@@ -1,7 +1,14 @@
-// Generated on 01/13/2026, 08:30:03 (EST)
-// Total records: 2977
+// Generated on 01/13/2026, 08:45:03 (EST)
+// Total records: 2978
 
 export const games = [
+  {
+    "id": "2833f99f-b641-46a8-b806-d9db5ca829a2",
+    "name": "z",
+    "creatorId": "108994297146739484640",
+    "creatorLastName": "Zaidi",
+    "createdAt": "01/13/2026, 08:38:34"
+  },
   {
     "id": "73ff47a0-ccd9-4c60-b399-5e74bb6098bc",
     "name": "Trial",
