@@ -1,7 +1,14 @@
-// Generated on 01/13/2026, 02:15:03 (EST)
-// Total records: 2976
+// Generated on 01/13/2026, 02:30:02 (EST)
+// Total records: 2977
 
 export const games = [
+  {
+    "id": "73ff47a0-ccd9-4c60-b399-5e74bb6098bc",
+    "name": "Trial",
+    "creatorId": "112523973235105153641",
+    "creatorLastName": "Yose rizal",
+    "createdAt": "01/13/2026, 02:22:49"
+  },
   {
     "id": "56f581c9-4733-4450-8947-69567563b394",
     "name": "Who's Ordering that burger? #1",
