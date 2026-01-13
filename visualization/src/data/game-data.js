@@ -1,7 +1,14 @@
-// Generated on 01/13/2026, 16:45:02 (EST)
-// Total records: 2993
+// Generated on 01/13/2026, 17:00:02 (EST)
+// Total records: 2994
 
 export const games = [
+  {
+    "id": "359a7f91-3d46-4fca-9b27-067d5d81036f",
+    "name": "MLA Fued",
+    "creatorId": "115195763887336954018",
+    "creatorLastName": "Hickey",
+    "createdAt": "01/13/2026, 16:46:02"
+  },
   {
     "id": "5297c380-f2e4-43da-810d-a5d47292d401",
     "name": "FLEX ACCESS REVIEW",
