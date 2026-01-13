@@ -1,7 +1,14 @@
-// Generated on 01/13/2026, 18:15:03 (EST)
-// Total records: 2995
+// Generated on 01/13/2026, 18:30:02 (EST)
+// Total records: 2996
 
 export const games = [
+  {
+    "id": "fa992fc4-6056-4435-b9bc-4a8bfd271d72",
+    "name": "Family Fun yayy",
+    "creatorId": "105562189411413079390",
+    "creatorLastName": "Decker",
+    "createdAt": "01/13/2026, 18:20:49"
+  },
   {
     "id": "02706f2b-26a4-4c30-b326-8903fd7e7a8f",
     "name": "Family Fun YaY",
