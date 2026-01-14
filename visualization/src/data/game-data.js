@@ -1,7 +1,14 @@
-// Generated on 01/14/2026, 11:15:02 (EST)
-// Total records: 3012
+// Generated on 01/14/2026, 11:30:02 (EST)
+// Total records: 3013
 
 export const games = [
+  {
+    "id": "5e2dface-4e3a-4964-82cc-feb2878d6bc9",
+    "name": "French Game",
+    "creatorId": "106757763161138011147",
+    "creatorLastName": "Belide",
+    "createdAt": "01/14/2026, 11:26:13"
+  },
   {
     "id": "e0a6cb83-72df-49e6-8abd-10167cdedd7b",
     "name": "V",
