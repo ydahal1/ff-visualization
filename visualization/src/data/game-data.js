@@ -1,7 +1,14 @@
-// Generated on 01/14/2026, 18:00:03 (EST)
-// Total records: 3012
+// Generated on 01/14/2026, 18:15:02 (EST)
+// Total records: 3013
 
 export const games = [
+  {
+    "id": "e51502d7-ed70-42e0-bb5c-3cfada5d986a",
+    "name": "Chap 12 Pancreas Pt 2",
+    "creatorId": "116077974043494461748",
+    "creatorLastName": "Pena",
+    "createdAt": "01/14/2026, 18:02:26"
+  },
   {
     "id": "3ed5d851-7f5b-4470-b8e1-2aa9789546d8",
     "name": "Chap 12 Pancreas Pt 1",
