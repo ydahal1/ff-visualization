@@ -1,7 +1,14 @@
-// Generated on 01/13/2026, 19:00:02 (EST)
-// Total records: 2997
+// Generated on 01/13/2026, 19:15:03 (EST)
+// Total records: 2998
 
 export const games = [
+  {
+    "id": "8a9714e8-0774-4dda-b803-5f8731393cec",
+    "name": "BDC GRAND HIGHLANDER FUED",
+    "creatorId": "105697302071846437780",
+    "creatorLastName": "Turner",
+    "createdAt": "01/13/2026, 19:11:26"
+  },
   {
     "id": "fa9b958a-8adb-4a35-84bf-c498cf90b685",
     "name": "Stars and Constellation",
