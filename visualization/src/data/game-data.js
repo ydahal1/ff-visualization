@@ -1,7 +1,14 @@
-// Generated on 01/14/2026, 24:15:02 (EST)
-// Total records: 3004
+// Generated on 01/14/2026, 24:30:03 (EST)
+// Total records: 3005
 
 export const games = [
+  {
+    "id": "d5bf3d8e-b0f8-440b-b021-9892e7c43484",
+    "name": "phi mu",
+    "creatorId": "116273134142843444208",
+    "creatorLastName": "Thompson",
+    "createdAt": "01/14/2026, 24:17:43"
+  },
   {
     "id": "cc06f619-643b-4428-a15f-527d05ccbfbd",
     "name": "Trial",
