@@ -1,5 +1,5 @@
-// Generated on 01/14/2026, 01:15:03 (EST)
-// Total records: 3005
+// Generated on 01/14/2026, 01:30:03 (EST)
+// Total records: 3004
 
 export const games = [
   {
@@ -8723,13 +8723,6 @@ export const games = [
     "creatorId": "104287511981792631998",
     "creatorLastName": "Bennett",
     "createdAt": "12/18/2025, 22:15:00"
-  },
-  {
-    "id": "41ea7fd7-377a-4765-a696-4ef90a00d8fa",
-    "name": "Bluetopia Feud",
-    "creatorId": "117025730047638763979",
-    "creatorLastName": "Rodriguez",
-    "createdAt": "12/18/2025, 20:47:39"
   },
   {
     "id": "cf2522a9-7f46-41da-b535-4149b3aea64e",
