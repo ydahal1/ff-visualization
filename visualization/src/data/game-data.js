@@ -1,5 +1,5 @@
-// Generated on 01/14/2026, 15:15:03 (EST)
-// Total records: 3013
+// Generated on 01/14/2026, 15:30:03 (EST)
+// Total records: 3011
 
 export const games = [
   {
@@ -18341,20 +18341,6 @@ export const games = [
     "creatorId": "118308944096886386827",
     "creatorLastName": "Torres",
     "createdAt": "11/20/2025, 22:18:02"
-  },
-  {
-    "id": "ad57291a-feb5-424d-8bbc-a79d108cd52d",
-    "name": "Family 1 VS Family 2",
-    "creatorId": "105430387602259394921",
-    "creatorLastName": "Weaver",
-    "createdAt": "11/20/2025, 21:37:09"
-  },
-  {
-    "id": "fb7817ac-d594-4e43-8b7c-f2a3c6ae01ad",
-    "name": "Team 1 VS Team 2",
-    "creatorId": "105430387602259394921",
-    "creatorLastName": "Weaver",
-    "createdAt": "11/20/2025, 20:45:36"
   },
   {
     "id": "c287cc75-3e8f-4efa-9cec-a2ced19b741b",
