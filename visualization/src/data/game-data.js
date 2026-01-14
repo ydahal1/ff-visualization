@@ -1,7 +1,21 @@
-// Generated on 01/14/2026, 07:45:02 (EST)
+// Generated on 01/14/2026, 08:00:02 (EST)
 // Total records: 3004
 
 export const games = [
+  {
+    "id": "4ef6860f-aab5-4ab0-96a1-f7b8f0bcdf40",
+    "name": "A",
+    "creatorId": "111265298519880525409",
+    "creatorLastName": "JAY",
+    "createdAt": "01/14/2026, 07:57:21"
+  },
+  {
+    "id": "1adeace3-d7a9-49a9-8b24-8d8432f08bfc",
+    "name": "NEEXT",
+    "creatorId": "115094499887853153621",
+    "creatorLastName": "Pérez",
+    "createdAt": "01/14/2026, 07:47:06"
+  },
   {
     "id": "d5bf3d8e-b0f8-440b-b021-9892e7c43484",
     "name": "phi mu",
@@ -178,25 +192,11 @@ export const games = [
     "createdAt": "01/13/2026, 10:24:31"
   },
   {
-    "id": "c43f95aa-42e0-42cd-be0d-496cdc1845d3",
-    "name": "NO FILTER\\",
-    "creatorId": "111265298519880525409",
-    "creatorLastName": "JAY",
-    "createdAt": "01/13/2026, 09:58:39"
-  },
-  {
     "id": "f205f646-d627-4b4e-b023-b0744d7002eb",
     "name": "Community Feud: The Bayanihan Edition",
     "creatorId": "114039933550931676360",
     "creatorLastName": "ventures",
     "createdAt": "01/13/2026, 09:22:46"
-  },
-  {
-    "id": "5ebad9ac-b00d-4159-bbd0-ef49fdc6b707",
-    "name": "MR NO STOP LAUGING",
-    "creatorId": "111265298519880525409",
-    "creatorLastName": "JAY",
-    "createdAt": "01/13/2026, 08:58:33"
   },
   {
     "id": "2833f99f-b641-46a8-b806-d9db5ca829a2",
