@@ -1,7 +1,14 @@
-// Generated on 01/13/2026, 20:15:03 (EST)
-// Total records: 3001
+// Generated on 01/13/2026, 20:30:02 (EST)
+// Total records: 3002
 
 export const games = [
+  {
+    "id": "b19a371c-44b9-4c90-bc3f-8700597df9b1",
+    "name": "family 10k",
+    "creatorId": "101944796820071106475",
+    "creatorLastName": "Joanne muliya",
+    "createdAt": "01/13/2026, 20:26:28"
+  },
   {
     "id": "b433d171-45a7-49ca-a66e-2c89dae0435d",
     "name": "family 1000",
