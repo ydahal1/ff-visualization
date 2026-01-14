@@ -1,7 +1,14 @@
-// Generated on 01/14/2026, 10:00:02 (EST)
-// Total records: 3009
+// Generated on 01/14/2026, 10:15:03 (EST)
+// Total records: 3010
 
 export const games = [
+  {
+    "id": "b2ab3596-4a74-4ae6-bd1c-ee622f435d91",
+    "name": "DJS STRUGGLING TO TALK LOL",
+    "creatorId": "111265298519880525409",
+    "creatorLastName": "JAY",
+    "createdAt": "01/14/2026, 10:08:20"
+  },
   {
     "id": "067ae1ae-f38b-4f9c-9a2d-87ddae28133a",
     "name": "Birthday",
