@@ -1,7 +1,14 @@
-// Generated on 01/13/2026, 20:45:02 (EST)
-// Total records: 3002
+// Generated on 01/13/2026, 21:00:03 (EST)
+// Total records: 3003
 
 export const games = [
+  {
+    "id": "d44be976-8950-438c-a699-e3a4bb069ec6",
+    "name": "Framily Feud",
+    "creatorId": "102845911629746186521",
+    "creatorLastName": "Leww",
+    "createdAt": "01/13/2026, 20:56:20"
+  },
   {
     "id": "b19a371c-44b9-4c90-bc3f-8700597df9b1",
     "name": "family 10k",
