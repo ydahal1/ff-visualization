@@ -1,7 +1,28 @@
-// Generated on 01/15/2026, 14:30:03 (EST)
-// Total records: 3024
+// Generated on 01/15/2026, 14:45:03 (EST)
+// Total records: 3026
 
 export const games = [
+  {
+    "id": "761542ed-93fd-4e5a-bd8b-0c9931d5ef18",
+    "name": "New Year's Resolution URS Pharmacy",
+    "creatorId": "106112904342789940549",
+    "creatorLastName": "phan",
+    "createdAt": "01/15/2026, 14:41:32"
+  },
+  {
+    "id": "ef31f1a8-7c4c-4c3d-a585-43fe29b1babe",
+    "name": "Civil War Pt2",
+    "creatorId": "101413887162420081594",
+    "creatorLastName": "Hanson",
+    "createdAt": "01/15/2026, 14:39:00"
+  },
+  {
+    "id": "785c1d3a-9600-4fd9-b3fb-b8c6eb091f55",
+    "name": "Civil War Pt1",
+    "creatorId": "101413887162420081594",
+    "creatorLastName": "Hanson",
+    "createdAt": "01/15/2026, 14:37:49"
+  },
   {
     "id": "e3b17b63-84dd-447a-bd8b-08125c09ed5c",
     "name": "Civil War",
@@ -400,13 +421,6 @@ export const games = [
     "creatorId": "108522472165440801712",
     "creatorLastName": "Joeck",
     "createdAt": "01/12/2026, 22:08:33"
-  },
-  {
-    "id": "bab770a3-2a9d-48cf-9079-f09756194387",
-    "name": "New Year's Resolution",
-    "creatorId": "106112904342789940549",
-    "creatorLastName": "phan",
-    "createdAt": "01/12/2026, 18:12:55"
   },
   {
     "id": "33cedba3-b288-4690-a273-e574886c4394",
