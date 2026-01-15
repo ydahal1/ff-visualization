@@ -1,7 +1,14 @@
-// Generated on 01/15/2026, 12:15:03 (EST)
-// Total records: 3022
+// Generated on 01/15/2026, 12:30:03 (EST)
+// Total records: 3023
 
 export const games = [
+  {
+    "id": "a5a78fdc-eece-4bfd-bd37-d4b4f7e8ea85",
+    "name": "Studniówka",
+    "creatorId": "102057309592986023583",
+    "creatorLastName": "Popiela",
+    "createdAt": "01/15/2026, 12:26:50"
+  },
   {
     "id": "e599754c-1e65-4483-b4c6-369920da6ea2",
     "name": "AMC FAMILY FEUD",
