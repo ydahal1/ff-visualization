@@ -1,7 +1,12 @@
-// Generated on 01/15/2026, 17:45:01 (EST)
-// Total records: 1838
+// Generated on 01/15/2026, 18:00:01 (EST)
+// Total records: 1839
 
 export const users = [
+  {
+    "id": "113175900863984953448",
+    "lName": "Gutiérrez Duarte",
+    "createdAt": "01/15/2026, 17:45:31"
+  },
   {
     "id": "108028240356008122409",
     "lName": "Moose Jaw",
