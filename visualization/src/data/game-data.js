@@ -1,7 +1,14 @@
-// Generated on 01/14/2026, 19:30:03 (EST)
-// Total records: 3013
+// Generated on 01/14/2026, 19:45:02 (EST)
+// Total records: 3014
 
 export const games = [
+  {
+    "id": "6f716e39-f356-4413-98c1-bde578d01c59",
+    "name": "Purrgatory",
+    "creatorId": "102489819802499664435",
+    "creatorLastName": "True",
+    "createdAt": "01/14/2026, 19:44:17"
+  },
   {
     "id": "af226390-ba98-4bd9-890f-02e49bdac9e4",
     "name": "01/14/26 - TEST",
