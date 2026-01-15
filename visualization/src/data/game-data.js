@@ -1,7 +1,14 @@
-// Generated on 01/15/2026, 18:00:03 (EST)
-// Total records: 3025
+// Generated on 01/15/2026, 18:15:03 (EST)
+// Total records: 3026
 
 export const games = [
+  {
+    "id": "c70a5077-1246-4204-aee0-cd8511f52354",
+    "name": "Party Game January",
+    "creatorId": "113148423015274180200",
+    "creatorLastName": "yellow",
+    "createdAt": "01/15/2026, 18:05:26"
+  },
   {
     "id": "761542ed-93fd-4e5a-bd8b-0c9931d5ef18",
     "name": "New Year's Resolution URS Pharmacy",
