@@ -1,7 +1,21 @@
-// Generated on 01/15/2026, 18:30:02 (EST)
-// Total records: 3027
+// Generated on 01/15/2026, 18:45:03 (EST)
+// Total records: 3029
 
 export const games = [
+  {
+    "id": "ca08f532-0125-4575-9631-8207629b859e",
+    "name": "Eagles Basketball Team Dinner",
+    "creatorId": "103725328504250554082",
+    "creatorLastName": "McSiebs",
+    "createdAt": "01/15/2026, 18:38:31"
+  },
+  {
+    "id": "b221cc36-5031-4b2b-9a52-204a762686b0",
+    "name": "Final Round",
+    "creatorId": "100449736667313895447",
+    "creatorLastName": "Neykov",
+    "createdAt": "01/15/2026, 18:35:51"
+  },
   {
     "id": "60170e7a-d92e-4f14-a173-29ee1422f9bb",
     "name": "Рожденият ден на Деси",
