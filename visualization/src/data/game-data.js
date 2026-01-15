@@ -1,7 +1,14 @@
-// Generated on 01/14/2026, 21:15:03 (EST)
-// Total records: 3015
+// Generated on 01/14/2026, 21:30:02 (EST)
+// Total records: 3016
 
 export const games = [
+  {
+    "id": "31ae5c50-1615-403a-aebc-b6a1cde50f19",
+    "name": "LETS GET IT",
+    "creatorId": "103873333276979408240",
+    "creatorLastName": "Vidal",
+    "createdAt": "01/14/2026, 21:22:52"
+  },
   {
     "id": "c718d34e-fb8f-4342-993b-30d7be85132d",
     "name": "scie",
