@@ -1,7 +1,14 @@
-// Generated on 01/15/2026, 13:00:03 (EST)
-// Total records: 3023
+// Generated on 01/15/2026, 13:15:04 (EST)
+// Total records: 3024
 
 export const games = [
+  {
+    "id": "e3b17b63-84dd-447a-bd8b-08125c09ed5c",
+    "name": "Civil War",
+    "creatorId": "101413887162420081594",
+    "creatorLastName": "Hanson",
+    "createdAt": "01/15/2026, 13:04:40"
+  },
   {
     "id": "a5a78fdc-eece-4bfd-bd37-d4b4f7e8ea85",
     "name": "Studniówka",
