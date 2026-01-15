@@ -1,7 +1,14 @@
-// Generated on 01/15/2026, 18:15:03 (EST)
-// Total records: 3026
+// Generated on 01/15/2026, 18:30:02 (EST)
+// Total records: 3027
 
 export const games = [
+  {
+    "id": "60170e7a-d92e-4f14-a173-29ee1422f9bb",
+    "name": "Рожденият ден на Деси",
+    "creatorId": "100449736667313895447",
+    "creatorLastName": "Neykov",
+    "createdAt": "01/15/2026, 18:29:20"
+  },
   {
     "id": "c70a5077-1246-4204-aee0-cd8511f52354",
     "name": "Party Game January",
