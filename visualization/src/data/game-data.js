@@ -1,7 +1,14 @@
-// Generated on 01/16/2026, 10:45:03 (EST)
-// Total records: 3049
+// Generated on 01/16/2026, 11:00:03 (EST)
+// Total records: 3050
 
 export const games = [
+  {
+    "id": "abad6967-f142-4e16-8bd5-2316e9a62110",
+    "name": "CLC Fued",
+    "creatorId": "105561587250880816617",
+    "creatorLastName": "Reichert",
+    "createdAt": "01/16/2026, 10:53:29"
+  },
   {
     "id": "78638095-8183-4dda-b563-33390e0fe0cc",
     "name": "British Grammar School Family Feud",
