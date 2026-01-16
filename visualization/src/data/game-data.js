@@ -1,7 +1,14 @@
-// Generated on 01/16/2026, 11:00:03 (EST)
-// Total records: 3050
+// Generated on 01/16/2026, 11:15:03 (EST)
+// Total records: 3051
 
 export const games = [
+  {
+    "id": "cb44c536-5ad6-4b38-9dfb-5110c3a4a47c",
+    "name": "R1",
+    "creatorId": "116730494056963323315",
+    "creatorLastName": "Alwardat",
+    "createdAt": "01/16/2026, 11:07:29"
+  },
   {
     "id": "abad6967-f142-4e16-8bd5-2316e9a62110",
     "name": "CLC Fued",
