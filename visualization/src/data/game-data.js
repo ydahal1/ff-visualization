@@ -1,7 +1,28 @@
-// Generated on 01/15/2026, 21:00:02 (EST)
-// Total records: 3033
+// Generated on 01/15/2026, 21:15:03 (EST)
+// Total records: 3036
 
 export const games = [
+  {
+    "id": "fd759050-e524-4cbb-8600-144837f19ae3",
+    "name": "Embarassingggggg",
+    "creatorId": "105430387602259394921",
+    "creatorLastName": "Weaver",
+    "createdAt": "01/15/2026, 21:09:16"
+  },
+  {
+    "id": "2da9f77a-97e9-45b0-b424-bafe5b8b25a7",
+    "name": "Random",
+    "creatorId": "105430387602259394921",
+    "creatorLastName": "Weaver",
+    "createdAt": "01/15/2026, 21:07:01"
+  },
+  {
+    "id": "5611a812-d7b9-4dd3-8aa1-eebb503781cc",
+    "name": "Funny",
+    "creatorId": "105430387602259394921",
+    "creatorLastName": "Weaver",
+    "createdAt": "01/15/2026, 21:06:00"
+  },
   {
     "id": "d48b7d70-8bbe-499a-80af-0ddc3c9c6bf7",
     "name": "Suitemate Feud 3",
