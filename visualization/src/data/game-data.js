@@ -1,20 +1,20 @@
-// Generated on 01/16/2026, 24:00:03 (EST)
+// Generated on 01/16/2026, 24:15:03 (EST)
 // Total records: 3041
 
 export const games = [
   {
-    "id": "769ca5e4-8d78-4284-a6c6-524fbff10721",
+    "id": "2b178d06-6e99-4230-8c4a-913dd18c93ce",
+    "name": "Tie-Breaker",
+    "creatorId": "107425511439183517801",
+    "creatorLastName": "Ramo",
+    "createdAt": "01/16/2026, 24:12:06"
+  },
+  {
+    "id": "be31f998-ee0a-4126-95f7-6f115c63a481",
     "name": "Xplifi Kickoff Feud",
     "creatorId": "107425511439183517801",
     "creatorLastName": "Ramo",
-    "createdAt": "01/15/2026, 23:55:49"
-  },
-  {
-    "id": "6df42087-ab19-4988-a9bd-d0722e6b8696",
-    "name": "Xplifi 2026 Kickoff Feud",
-    "creatorId": "107425511439183517801",
-    "creatorLastName": "Ramo",
-    "createdAt": "01/15/2026, 23:54:07"
+    "createdAt": "01/16/2026, 24:10:27"
   },
   {
     "id": "f45c8852-38b8-4329-b5bc-92a187f380b1",
