@@ -1,7 +1,21 @@
-// Generated on 01/16/2026, 14:15:03 (EST)
-// Total records: 3067
+// Generated on 01/16/2026, 14:30:02 (EST)
+// Total records: 3069
 
 export const games = [
+  {
+    "id": "6d84e768-2a17-43b7-bfbd-534057016ead",
+    "name": "Test 1",
+    "creatorId": "117547806492621776788",
+    "creatorLastName": "Jessmon",
+    "createdAt": "01/16/2026, 14:28:45"
+  },
+  {
+    "id": "78dceff5-2293-4e88-8ee6-1349e90a8d93",
+    "name": "clc feud",
+    "creatorId": "105561587250880816617",
+    "creatorLastName": "Reichert",
+    "createdAt": "01/16/2026, 14:26:41"
+  },
   {
     "id": "a594fb01-8680-4453-ac09-c17c6312a7a1",
     "name": "Xplifi Kickoff Feud 2026",
