@@ -1,7 +1,14 @@
-// Generated on 01/16/2026, 15:45:03 (EST)
-// Total records: 3071
+// Generated on 01/16/2026, 16:00:02 (EST)
+// Total records: 3072
 
 export const games = [
+  {
+    "id": "ba0be71d-54c7-4462-a17e-a3f39d750bc3",
+    "name": "Hair Color Class Family Fued #2",
+    "creatorId": "117809751722776111691",
+    "creatorLastName": "Carpenter",
+    "createdAt": "01/16/2026, 15:45:30"
+  },
   {
     "id": "c41b7b77-aa7d-4bce-bf6e-0ca3697c2b26",
     "name": "Color Class Family Fued",
