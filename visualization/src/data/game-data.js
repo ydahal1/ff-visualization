@@ -1,7 +1,14 @@
-// Generated on 01/16/2026, 14:30:02 (EST)
-// Total records: 3069
+// Generated on 01/16/2026, 14:45:02 (EST)
+// Total records: 3070
 
 export const games = [
+  {
+    "id": "13885c72-895c-44f8-855e-cbe05f96733b",
+    "name": "Mar games",
+    "creatorId": "105561587250880816617",
+    "creatorLastName": "Reichert",
+    "createdAt": "01/16/2026, 14:34:00"
+  },
   {
     "id": "6d84e768-2a17-43b7-bfbd-534057016ead",
     "name": "Test 1",
