@@ -1,7 +1,14 @@
-// Generated on 01/16/2026, 09:00:03 (EST)
-// Total records: 3047
+// Generated on 01/16/2026, 09:15:02 (EST)
+// Total records: 3048
 
 export const games = [
+  {
+    "id": "6cdff697-68db-4129-805e-1e4e4a7c4369",
+    "name": "Random",
+    "creatorId": "101413887162420081594",
+    "creatorLastName": "Hanson",
+    "createdAt": "01/16/2026, 09:05:20"
+  },
   {
     "id": "052bfb72-5763-48e5-87c2-9dbacecc2084",
     "name": "The Centeno's Family Feud",
