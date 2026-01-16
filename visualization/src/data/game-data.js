@@ -1,7 +1,21 @@
-// Generated on 01/16/2026, 13:45:02 (EST)
-// Total records: 3066
+// Generated on 01/16/2026, 14:00:02 (EST)
+// Total records: 3067
 
 export const games = [
+  {
+    "id": "df21146e-8480-45ce-bb01-cea8dbc36e68",
+    "name": "BIT Feud",
+    "creatorId": "112400068634763451329",
+    "creatorLastName": "Mendez",
+    "createdAt": "01/16/2026, 13:48:29"
+  },
+  {
+    "id": "23991e77-5b33-4a43-93f5-5fd8050f1ce8",
+    "name": "Xplifi Kickoff Feud 2026",
+    "creatorId": "107425511439183517801",
+    "creatorLastName": "Ramo",
+    "createdAt": "01/16/2026, 13:47:59"
+  },
   {
     "id": "c94cf979-ba54-43b7-a85f-9648d2906f86",
     "name": "Round 1",
@@ -197,13 +211,6 @@ export const games = [
     "creatorId": "107425511439183517801",
     "creatorLastName": "Ramo",
     "createdAt": "01/16/2026, 24:10:27"
-  },
-  {
-    "id": "f45c8852-38b8-4329-b5bc-92a187f380b1",
-    "name": "test",
-    "creatorId": "107425511439183517801",
-    "creatorLastName": "Ramo",
-    "createdAt": "01/15/2026, 23:38:54"
   },
   {
     "id": "00669379-3d22-4fee-b458-32574cc85567",
