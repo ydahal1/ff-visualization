@@ -1,7 +1,14 @@
-// Generated on 01/15/2026, 19:45:02 (EST)
-// Total records: 3030
+// Generated on 01/15/2026, 20:00:02 (EST)
+// Total records: 3031
 
 export const games = [
+  {
+    "id": "1d8dff39-3ec2-488c-b875-33d7b2ef7836",
+    "name": "Suitemate Feud",
+    "creatorId": "110014569355024953111",
+    "creatorLastName": "Vielhauer",
+    "createdAt": "01/15/2026, 19:53:43"
+  },
   {
     "id": "4fa0a5b2-6c92-4bc1-994d-75757a361998",
     "name": "Shift Ready",
