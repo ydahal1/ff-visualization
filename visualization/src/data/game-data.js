@@ -1,13 +1,13 @@
-// Generated on 01/16/2026, 05:00:03 (EST)
+// Generated on 01/16/2026, 05:15:03 (EST)
 // Total records: 3044
 
 export const games = [
   {
-    "id": "45d13f64-233e-4e91-95b4-a11917cd7e76",
-    "name": "Family Feud (Bible Edition)",
+    "id": "e0d773ba-0000-46a4-9498-433cdf0b76c4",
+    "name": "Family Feud",
     "creatorId": "108339927031862940220",
     "creatorLastName": "TESORERO",
-    "createdAt": "01/16/2026, 04:50:54"
+    "createdAt": "01/16/2026, 05:13:04"
   },
   {
     "id": "12833501-efd5-4620-bdf5-9d2a6fb7169a",
