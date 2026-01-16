@@ -1,7 +1,21 @@
-// Generated on 01/15/2026, 23:45:02 (EST)
-// Total records: 3039
+// Generated on 01/16/2026, 24:00:03 (EST)
+// Total records: 3041
 
 export const games = [
+  {
+    "id": "769ca5e4-8d78-4284-a6c6-524fbff10721",
+    "name": "Xplifi Kickoff Feud",
+    "creatorId": "107425511439183517801",
+    "creatorLastName": "Ramo",
+    "createdAt": "01/15/2026, 23:55:49"
+  },
+  {
+    "id": "6df42087-ab19-4988-a9bd-d0722e6b8696",
+    "name": "Xplifi 2026 Kickoff Feud",
+    "creatorId": "107425511439183517801",
+    "creatorLastName": "Ramo",
+    "createdAt": "01/15/2026, 23:54:07"
+  },
   {
     "id": "f45c8852-38b8-4329-b5bc-92a187f380b1",
     "name": "test",
