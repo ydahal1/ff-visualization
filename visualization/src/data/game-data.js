@@ -1,7 +1,14 @@
-// Generated on 01/16/2026, 15:15:02 (EST)
-// Total records: 3070
+// Generated on 01/16/2026, 15:30:02 (EST)
+// Total records: 3071
 
 export const games = [
+  {
+    "id": "c41b7b77-aa7d-4bce-bf6e-0ca3697c2b26",
+    "name": "Color Class Family Fued",
+    "creatorId": "117809751722776111691",
+    "creatorLastName": "Carpenter",
+    "createdAt": "01/16/2026, 15:28:59"
+  },
   {
     "id": "13885c72-895c-44f8-855e-cbe05f96733b",
     "name": "Mar games",
