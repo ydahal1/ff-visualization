@@ -1,7 +1,14 @@
-// Generated on 01/15/2026, 19:15:03 (EST)
-// Total records: 3029
+// Generated on 01/15/2026, 19:30:02 (EST)
+// Total records: 3030
 
 export const games = [
+  {
+    "id": "4fa0a5b2-6c92-4bc1-994d-75757a361998",
+    "name": "Shift Ready",
+    "creatorId": "108028240356008122409",
+    "creatorLastName": "Moose Jaw",
+    "createdAt": "01/15/2026, 19:15:29"
+  },
   {
     "id": "ca08f532-0125-4575-9631-8207629b859e",
     "name": "Eagles Basketball Team Dinner",
