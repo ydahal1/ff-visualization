@@ -1,7 +1,21 @@
-// Generated on 01/15/2026, 20:00:02 (EST)
-// Total records: 3031
+// Generated on 01/15/2026, 20:15:03 (EST)
+// Total records: 3033
 
 export const games = [
+  {
+    "id": "d48b7d70-8bbe-499a-80af-0ddc3c9c6bf7",
+    "name": "Suitemate Feud 3",
+    "creatorId": "110014569355024953111",
+    "creatorLastName": "Vielhauer",
+    "createdAt": "01/15/2026, 20:08:24"
+  },
+  {
+    "id": "886540b2-06d4-48de-8d7b-10a3ad35cee4",
+    "name": "Suitemate Feud 2",
+    "creatorId": "110014569355024953111",
+    "creatorLastName": "Vielhauer",
+    "createdAt": "01/15/2026, 20:05:13"
+  },
   {
     "id": "1d8dff39-3ec2-488c-b875-33d7b2ef7836",
     "name": "Suitemate Feud",
