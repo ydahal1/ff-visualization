@@ -1,7 +1,14 @@
-// Generated on 01/17/2026, 01:15:02 (EST)
-// Total records: 3081
+// Generated on 01/17/2026, 01:30:03 (EST)
+// Total records: 3082
 
 export const games = [
+  {
+    "id": "2f248a2f-add0-416c-9cf5-8e814dd34aec",
+    "name": "survey says",
+    "creatorId": "112254621059140460854",
+    "creatorLastName": "Walsh",
+    "createdAt": "01/17/2026, 01:28:35"
+  },
   {
     "id": "d8ca217e-eee8-4351-b804-68dcac7a05d9",
     "name": "¿Quien sabe mas en sysaid?",
