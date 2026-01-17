@@ -1,7 +1,14 @@
-// Generated on 01/17/2026, 06:45:02 (EST)
-// Total records: 3089
+// Generated on 01/17/2026, 07:00:03 (EST)
+// Total records: 3090
 
 export const games = [
+  {
+    "id": "2ec3fe24-fbd2-4342-9667-01b3210fc2de",
+    "name": "ff",
+    "creatorId": "112465393759328792192",
+    "creatorLastName": "Khurana",
+    "createdAt": "01/17/2026, 06:48:28"
+  },
   {
     "id": "61ea55c9-c8dd-4e39-a7cd-24c5b08c68c2",
     "name": "Extra 3",
