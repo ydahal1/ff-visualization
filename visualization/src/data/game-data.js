@@ -1,7 +1,28 @@
-// Generated on 01/16/2026, 22:15:02 (EST)
-// Total records: 3077
+// Generated on 01/16/2026, 22:30:03 (EST)
+// Total records: 3080
 
 export const games = [
+  {
+    "id": "8ffbf525-c5f9-4aa9-9154-92a7fdabc188",
+    "name": "Tick Tok",
+    "creatorId": "106828241584167681394",
+    "creatorLastName": "Plaza",
+    "createdAt": "01/16/2026, 22:17:05"
+  },
+  {
+    "id": "91655f01-854e-4a54-9c9a-e896d3c01127",
+    "name": "Jan 15, 2025",
+    "creatorId": "106828241584167681394",
+    "creatorLastName": "Plaza",
+    "createdAt": "01/16/2026, 22:16:28"
+  },
+  {
+    "id": "411dd9e2-6689-4b50-bdfb-e0ff8c26cc35",
+    "name": "Jan 15",
+    "creatorId": "106828241584167681394",
+    "creatorLastName": "Plaza",
+    "createdAt": "01/16/2026, 22:16:11"
+  },
   {
     "id": "20240f39-c817-4e06-aba1-6b9ee75f3189",
     "name": "Recovery",
