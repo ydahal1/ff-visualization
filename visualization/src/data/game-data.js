@@ -1,7 +1,14 @@
-// Generated on 01/17/2026, 17:45:03 (EST)
+// Generated on 01/17/2026, 18:00:03 (EST)
 // Total records: 3092
 
 export const games = [
+  {
+    "id": "4a46e406-0348-49ed-81ed-05355280b44a",
+    "name": "NEEXT Roosevelt",
+    "creatorId": "115094499887853153621",
+    "creatorLastName": "Pérez",
+    "createdAt": "01/17/2026, 17:47:48"
+  },
   {
     "id": "16f701f2-85a9-4725-9914-0f2029b23233",
     "name": "GO GAME NIGHT 3",
@@ -666,13 +673,6 @@ export const games = [
     "creatorId": "111265298519880525409",
     "creatorLastName": "JAY",
     "createdAt": "01/14/2026, 07:57:21"
-  },
-  {
-    "id": "1adeace3-d7a9-49a9-8b24-8d8432f08bfc",
-    "name": "NEEXT",
-    "creatorId": "115094499887853153621",
-    "creatorLastName": "Pérez",
-    "createdAt": "01/14/2026, 07:47:06"
   },
   {
     "id": "d5bf3d8e-b0f8-440b-b021-9892e7c43484",
