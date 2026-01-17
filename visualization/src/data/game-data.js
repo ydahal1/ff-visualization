@@ -1,7 +1,14 @@
-// Generated on 01/16/2026, 22:00:02 (EST)
-// Total records: 3076
+// Generated on 01/16/2026, 22:15:02 (EST)
+// Total records: 3077
 
 export const games = [
+  {
+    "id": "20240f39-c817-4e06-aba1-6b9ee75f3189",
+    "name": "Recovery",
+    "creatorId": "106828241584167681394",
+    "creatorLastName": "Plaza",
+    "createdAt": "01/16/2026, 22:06:38"
+  },
   {
     "id": "3bc96d4a-a8a8-4198-a690-0566dcadce21",
     "name": "Party Game",
