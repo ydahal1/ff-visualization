@@ -1,7 +1,14 @@
-// Generated on 01/17/2026, 02:15:02 (EST)
-// Total records: 3085
+// Generated on 01/17/2026, 02:30:03 (EST)
+// Total records: 3086
 
 export const games = [
+  {
+    "id": "fadaef48-b086-43e1-8707-64eb28d3e3b2",
+    "name": "gffhffg",
+    "creatorId": "110014569355024953111",
+    "creatorLastName": "Vielhauer",
+    "createdAt": "01/17/2026, 02:20:43"
+  },
   {
     "id": "7f3fb44c-2a94-447b-9c2e-28562ac3049c",
     "name": "Game 4",
