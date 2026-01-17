@@ -1,7 +1,14 @@
-// Generated on 01/16/2026, 20:45:02 (EST)
-// Total records: 3075
+// Generated on 01/16/2026, 21:00:03 (EST)
+// Total records: 3076
 
 export const games = [
+  {
+    "id": "3bc96d4a-a8a8-4198-a690-0566dcadce21",
+    "name": "Party Game",
+    "creatorId": "113148423015274180200",
+    "creatorLastName": "yellow",
+    "createdAt": "01/16/2026, 20:54:24"
+  },
   {
     "id": "ab38432a-b16e-41a4-afcf-905fb42baa19",
     "name": "Test",
