@@ -1,14 +1,7 @@
-// Generated on 01/17/2026, 14:15:03 (EST)
-// Total records: 3093
+// Generated on 01/17/2026, 14:30:02 (EST)
+// Total records: 3092
 
 export const games = [
-  {
-    "id": "e0d1f83e-743c-4cf1-8407-dd73bbdf104c",
-    "name": "jytejh",
-    "creatorId": "102200515798527115323",
-    "creatorLastName": "Jackson",
-    "createdAt": "01/17/2026, 13:56:55"
-  },
   {
     "id": "2bab2bcc-2b3b-4534-b4d3-ed768f256dc4",
     "name": "Baby shower game 2",
