@@ -1,7 +1,14 @@
-// Generated on 01/17/2026, 14:30:02 (EST)
+// Generated on 01/17/2026, 14:45:02 (EST)
 // Total records: 3092
 
 export const games = [
+  {
+    "id": "16f701f2-85a9-4725-9914-0f2029b23233",
+    "name": "GO GAME NIGHT 3",
+    "creatorId": "111939314855352728559",
+    "creatorLastName": "Sarová",
+    "createdAt": "01/17/2026, 14:34:41"
+  },
   {
     "id": "2bab2bcc-2b3b-4534-b4d3-ed768f256dc4",
     "name": "Baby shower game 2",
@@ -4558,13 +4565,6 @@ export const games = [
     "creatorId": "111939314855352728559",
     "creatorLastName": "Sarová",
     "createdAt": "12/26/2025, 18:41:32"
-  },
-  {
-    "id": "e98110a0-e789-4fc4-aca5-81a1834d985a",
-    "name": "GO GAME NIGHT 3",
-    "creatorId": "111939314855352728559",
-    "creatorLastName": "Sarová",
-    "createdAt": "12/26/2025, 18:33:13"
   },
   {
     "id": "3365ba26-b2de-4be9-aa23-a3652e71a85f",
