@@ -1,7 +1,14 @@
-// Generated on 01/18/2026, 07:45:03 (EST)
-// Total records: 3095
+// Generated on 01/18/2026, 08:00:03 (EST)
+// Total records: 3096
 
 export const games = [
+  {
+    "id": "c77261c7-e0bc-47ed-9a4a-e7e52ef31448",
+    "name": "Baby boy 1",
+    "creatorId": "103848263654866893692",
+    "creatorLastName": "A",
+    "createdAt": "01/18/2026, 07:52:54"
+  },
   {
     "id": "d91c07e7-450a-4136-8f88-41f3b203b31a",
     "name": "random",
