@@ -1,7 +1,14 @@
-// Generated on 01/17/2026, 23:30:03 (EST)
-// Total records: 3095
+// Generated on 01/17/2026, 23:45:02 (EST)
+// Total records: 3096
 
 export const games = [
+  {
+    "id": "9b664978-b57a-46d2-af73-e160e248a606",
+    "name": "Test game",
+    "creatorId": "117531515128849711224",
+    "creatorLastName": "Moore",
+    "createdAt": "01/17/2026, 23:42:49"
+  },
   {
     "id": "e3100c3c-fcd6-4580-a3b9-a1e20b9522f9",
     "name": "survey says",
