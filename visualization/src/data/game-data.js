@@ -1,5 +1,5 @@
-// Generated on 01/18/2026, 24:45:03 (EST)
-// Total records: 3099
+// Generated on 01/18/2026, 01:00:02 (EST)
+// Total records: 3095
 
 export const games = [
   {
@@ -115,13 +115,6 @@ export const games = [
     "createdAt": "01/17/2026, 03:17:30"
   },
   {
-    "id": "fadaef48-b086-43e1-8707-64eb28d3e3b2",
-    "name": "gffhffg",
-    "creatorId": "110014569355024953111",
-    "creatorLastName": "Vielhauer",
-    "createdAt": "01/17/2026, 02:20:43"
-  },
-  {
     "id": "7f3fb44c-2a94-447b-9c2e-28562ac3049c",
     "name": "Game 4",
     "creatorId": "115361726724032063073",
@@ -134,13 +127,6 @@ export const games = [
     "creatorId": "110014569355024953111",
     "creatorLastName": "Vielhauer",
     "createdAt": "01/17/2026, 01:54:46"
-  },
-  {
-    "id": "898c71ae-f734-4338-ae02-70ae3db2413d",
-    "name": "ff",
-    "creatorId": "110014569355024953111",
-    "creatorLastName": "Vielhauer",
-    "createdAt": "01/17/2026, 01:37:54"
   },
   {
     "id": "d8ca217e-eee8-4351-b804-68dcac7a05d9",
@@ -477,20 +463,6 @@ export const games = [
     "creatorId": "105430387602259394921",
     "creatorLastName": "Weaver",
     "createdAt": "01/15/2026, 21:06:00"
-  },
-  {
-    "id": "d48b7d70-8bbe-499a-80af-0ddc3c9c6bf7",
-    "name": "Suitemate Feud 3",
-    "creatorId": "110014569355024953111",
-    "creatorLastName": "Vielhauer",
-    "createdAt": "01/15/2026, 20:08:24"
-  },
-  {
-    "id": "886540b2-06d4-48de-8d7b-10a3ad35cee4",
-    "name": "Suitemate Feud 2",
-    "creatorId": "110014569355024953111",
-    "creatorLastName": "Vielhauer",
-    "createdAt": "01/15/2026, 20:05:13"
   },
   {
     "id": "1d8dff39-3ec2-488c-b875-33d7b2ef7836",
