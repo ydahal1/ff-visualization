@@ -1,7 +1,28 @@
-// Generated on 01/17/2026, 20:15:02 (EST)
-// Total records: 3093
+// Generated on 01/17/2026, 20:30:02 (EST)
+// Total records: 3095
 
 export const games = [
+  {
+    "id": "e3100c3c-fcd6-4580-a3b9-a1e20b9522f9",
+    "name": "survey says",
+    "creatorId": "112254621059140460854",
+    "creatorLastName": "Walsh",
+    "createdAt": "01/17/2026, 20:26:18"
+  },
+  {
+    "id": "13dab8b9-25a2-4a3f-b3c5-dbe78c0e4714",
+    "name": "survey says 1",
+    "creatorId": "112254621059140460854",
+    "creatorLastName": "Walsh",
+    "createdAt": "01/17/2026, 20:25:27"
+  },
+  {
+    "id": "41155a39-678e-4a6a-a880-094e33381df9",
+    "name": "Idk",
+    "creatorId": "104846720549598510395",
+    "creatorLastName": "Sullivan",
+    "createdAt": "01/17/2026, 20:19:26"
+  },
   {
     "id": "101b129e-c691-4147-8b68-aaa4f053ee97",
     "name": "Eagle Feud",
@@ -92,13 +113,6 @@ export const games = [
     "creatorId": "110014569355024953111",
     "creatorLastName": "Vielhauer",
     "createdAt": "01/17/2026, 01:37:54"
-  },
-  {
-    "id": "2f248a2f-add0-416c-9cf5-8e814dd34aec",
-    "name": "survey says",
-    "creatorId": "112254621059140460854",
-    "creatorLastName": "Walsh",
-    "createdAt": "01/17/2026, 01:28:35"
   },
   {
     "id": "d8ca217e-eee8-4351-b804-68dcac7a05d9",
