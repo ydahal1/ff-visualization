@@ -1,14 +1,7 @@
-// Generated on 01/17/2026, 22:30:02 (EST)
-// Total records: 3096
+// Generated on 01/17/2026, 22:45:02 (EST)
+// Total records: 3095
 
 export const games = [
-  {
-    "id": "abe26b75-f63f-4ea2-ae58-1109f5290738",
-    "name": "Gay chase + mason",
-    "creatorId": "111311122245444864325",
-    "creatorLastName": "Berning",
-    "createdAt": "01/17/2026, 21:48:05"
-  },
   {
     "id": "e3100c3c-fcd6-4580-a3b9-a1e20b9522f9",
     "name": "survey says",
