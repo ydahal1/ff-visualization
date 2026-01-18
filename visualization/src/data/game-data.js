@@ -1,7 +1,28 @@
-// Generated on 01/18/2026, 15:15:02 (EST)
-// Total records: 3100
+// Generated on 01/18/2026, 15:30:02 (EST)
+// Total records: 3103
 
 export const games = [
+  {
+    "id": "b0432727-d1d8-436d-9c92-2d147b18fe27",
+    "name": "test1",
+    "creatorId": "110584437543599245335",
+    "creatorLastName": "Monaghan",
+    "createdAt": "01/18/2026, 15:20:58"
+  },
+  {
+    "id": "411116eb-851e-453a-9c62-bf99d6a971ee",
+    "name": "Naija Boi 2",
+    "creatorId": "103848263654866893692",
+    "creatorLastName": "A",
+    "createdAt": "01/18/2026, 15:16:23"
+  },
+  {
+    "id": "f5c91473-d078-4cbf-89e3-666db66bb268",
+    "name": "Naija Boi",
+    "creatorId": "103848263654866893692",
+    "creatorLastName": "A",
+    "createdAt": "01/18/2026, 15:15:03"
+  },
   {
     "id": "af925267-4c2d-46b9-8890-929fac785927",
     "name": "Baby Boy Okeleji",
