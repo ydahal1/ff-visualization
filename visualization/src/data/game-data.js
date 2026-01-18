@@ -1,7 +1,14 @@
-// Generated on 01/17/2026, 18:45:02 (EST)
-// Total records: 3092
+// Generated on 01/17/2026, 19:00:02 (EST)
+// Total records: 3093
 
 export const games = [
+  {
+    "id": "101b129e-c691-4147-8b68-aaa4f053ee97",
+    "name": "Eagle Feud",
+    "creatorId": "111238372063107817647",
+    "creatorLastName": "Rouse",
+    "createdAt": "01/17/2026, 18:48:35"
+  },
   {
     "id": "4a46e406-0348-49ed-81ed-05355280b44a",
     "name": "NEEXT Roosevelt",
