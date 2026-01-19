@@ -1,7 +1,14 @@
-// Generated on 01/18/2026, 21:00:03 (EST)
-// Total records: 3116
+// Generated on 01/18/2026, 21:15:02 (EST)
+// Total records: 3117
 
 export const games = [
+  {
+    "id": "177a5188-764c-489a-b024-fc42493b088f",
+    "name": "family fueeedddd",
+    "creatorId": "110014569355024953111",
+    "creatorLastName": "Vielhauer",
+    "createdAt": "01/18/2026, 21:10:25"
+  },
   {
     "id": "b0678216-8f3a-4b35-a564-df05a49bb1ec",
     "name": "fast money",
