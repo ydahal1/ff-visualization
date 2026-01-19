@@ -1,7 +1,14 @@
-// Generated on 01/19/2026, 13:15:02 (EST)
-// Total records: 3131
+// Generated on 01/19/2026, 13:30:03 (EST)
+// Total records: 3132
 
 export const games = [
+  {
+    "id": "d8e23e7a-e896-4d8d-8215-818699fa5711",
+    "name": "Retention Session Game",
+    "creatorId": "114363437140040998257",
+    "creatorLastName": "Bajaj",
+    "createdAt": "01/19/2026, 13:17:25"
+  },
   {
     "id": "d863db96-5a5c-4b00-9ac4-1737cf5ddde6",
     "name": "Clear steps php part",
