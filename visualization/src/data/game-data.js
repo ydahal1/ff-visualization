@@ -1,7 +1,14 @@
-// Generated on 01/19/2026, 14:30:02 (EST)
-// Total records: 3134
+// Generated on 01/19/2026, 14:45:02 (EST)
+// Total records: 3135
 
 export const games = [
+  {
+    "id": "7c9c591f-b32e-4f31-842b-825f9a030259",
+    "name": "BC Feud",
+    "creatorId": "113309835936793809721",
+    "creatorLastName": "Yur",
+    "createdAt": "01/19/2026, 14:34:28"
+  },
   {
     "id": "5cddbce1-a80b-4dc9-8e90-2bbb93867e46",
     "name": "Newman Family Feud 1",
