@@ -1,7 +1,14 @@
-// Generated on 01/19/2026, 08:15:03 (EST)
-// Total records: 3121
+// Generated on 01/19/2026, 08:30:03 (EST)
+// Total records: 3122
 
 export const games = [
+  {
+    "id": "e6769936-bd8f-4c07-b0c2-005d660b6da8",
+    "name": "HS Game",
+    "creatorId": "113213142932507399908",
+    "creatorLastName": "Cameron",
+    "createdAt": "01/19/2026, 08:28:18"
+  },
   {
     "id": "d92ed82b-9327-44a1-bbe3-4cab88a2d3f4",
     "name": "Mogul Meud",
