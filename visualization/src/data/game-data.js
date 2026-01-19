@@ -1,7 +1,14 @@
-// Generated on 01/18/2026, 23:45:02 (EST)
-// Total records: 3120
+// Generated on 01/19/2026, 24:00:02 (EST)
+// Total records: 3121
 
 export const games = [
+  {
+    "id": "d92ed82b-9327-44a1-bbe3-4cab88a2d3f4",
+    "name": "Mogul Meud",
+    "creatorId": "118285610559056394768",
+    "creatorLastName": "Drake",
+    "createdAt": "01/18/2026, 23:59:16"
+  },
   {
     "id": "f88c7eab-bccf-4a47-850b-a086f5738a7f",
     "name": "tuodk",
