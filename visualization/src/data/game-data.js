@@ -1,27 +1,27 @@
-// Generated on 01/18/2026, 20:30:02 (EST)
+// Generated on 01/18/2026, 20:45:03 (EST)
 // Total records: 3116
 
 export const games = [
+  {
+    "id": "b0678216-8f3a-4b35-a564-df05a49bb1ec",
+    "name": "fast money",
+    "creatorId": "108484071752206367045",
+    "creatorLastName": "Michaels",
+    "createdAt": "01/18/2026, 20:32:54"
+  },
+  {
+    "id": "a8393227-74d0-473c-9c44-22defa4ae30c",
+    "name": "t4yerythdyhrtfg",
+    "creatorId": "108484071752206367045",
+    "creatorLastName": "Michaels",
+    "createdAt": "01/18/2026, 20:31:50"
+  },
   {
     "id": "127a820b-2da5-4f42-8b58-515fa780562c",
     "name": "Fant Feud 2",
     "creatorId": "105093320779830203851",
     "creatorLastName": "Martin",
     "createdAt": "01/18/2026, 20:09:05"
-  },
-  {
-    "id": "0e2869a5-bf67-411b-b1d3-8166581af9d7",
-    "name": "gfgfg",
-    "creatorId": "108484071752206367045",
-    "creatorLastName": "Michaels",
-    "createdAt": "01/18/2026, 20:01:56"
-  },
-  {
-    "id": "9524d42f-431d-4881-ab7c-17294fed5726",
-    "name": "ytty",
-    "creatorId": "108484071752206367045",
-    "creatorLastName": "Michaels",
-    "createdAt": "01/18/2026, 20:01:04"
   },
   {
     "id": "eabde9f2-8cc0-4001-a5ac-24a27d977578",
