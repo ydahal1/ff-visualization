@@ -1,7 +1,14 @@
-// Generated on 01/19/2026, 09:30:03 (EST)
-// Total records: 3122
+// Generated on 01/19/2026, 09:45:02 (EST)
+// Total records: 3123
 
 export const games = [
+  {
+    "id": "e9d0808f-6a4d-4ad5-b94a-fc40cac9f1e6",
+    "name": "Game 1",
+    "creatorId": "115224071917313237033",
+    "creatorLastName": "KOA",
+    "createdAt": "01/19/2026, 09:30:29"
+  },
   {
     "id": "e6769936-bd8f-4c07-b0c2-005d660b6da8",
     "name": "HS Game",
