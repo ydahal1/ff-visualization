@@ -1,7 +1,14 @@
-// Generated on 01/19/2026, 14:00:03 (EST)
-// Total records: 3132
+// Generated on 01/19/2026, 14:15:03 (EST)
+// Total records: 3133
 
 export const games = [
+  {
+    "id": "edfd25d1-d740-418e-86fe-050cc2ca2cf5",
+    "name": "Newman Family Feud",
+    "creatorId": "106727834092498024944",
+    "creatorLastName": "Kinkaid",
+    "createdAt": "01/19/2026, 14:11:44"
+  },
   {
     "id": "d8e23e7a-e896-4d8d-8215-818699fa5711",
     "name": "Retention Session Game",
