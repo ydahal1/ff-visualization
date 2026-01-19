@@ -1,7 +1,21 @@
-// Generated on 01/18/2026, 23:00:02 (EST)
-// Total records: 3117
+// Generated on 01/18/2026, 23:15:03 (EST)
+// Total records: 3119
 
 export const games = [
+  {
+    "id": "efb159bb-2666-449c-8f71-dadf492a94ea",
+    "name": "Grill Training Part 2",
+    "creatorId": "102200515798527115323",
+    "creatorLastName": "Jackson",
+    "createdAt": "01/18/2026, 23:01:56"
+  },
+  {
+    "id": "98585724-6390-4c98-9fc8-99132a754dc1",
+    "name": "Grill Training Part 1",
+    "creatorId": "102200515798527115323",
+    "creatorLastName": "Jackson",
+    "createdAt": "01/18/2026, 23:00:48"
+  },
   {
     "id": "177a5188-764c-489a-b024-fc42493b088f",
     "name": "family fueeedddd",
