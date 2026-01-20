@@ -1,13 +1,13 @@
-// Generated on 01/20/2026, 10:30:02 (EST)
+// Generated on 01/20/2026, 10:45:02 (EST)
 // Total records: 3163
 
 export const games = [
   {
-    "id": "30b78963-138f-4b1a-8e4e-95f4d97eae93",
-    "name": "ghfczghryj",
-    "creatorId": "105532499510913383495",
-    "creatorLastName": "Byreddy",
-    "createdAt": "01/20/2026, 10:20:31"
+    "id": "cd97aa6e-119c-423f-97aa-736d01c8b7b9",
+    "name": "Sunflower Springs Family Feud",
+    "creatorId": "116459962962568456207",
+    "creatorLastName": "Cervantes",
+    "createdAt": "01/20/2026, 10:36:18"
   },
   {
     "id": "56db76f8-2559-453c-9ec8-0cffc5a4dfb0",
