@@ -1,7 +1,14 @@
-// Generated on 01/20/2026, 15:45:03 (EST)
-// Total records: 3170
+// Generated on 01/20/2026, 16:00:02 (EST)
+// Total records: 3171
 
 export const games = [
+  {
+    "id": "99bfc080-ca61-40b9-88f0-79d621ce95cf",
+    "name": "APARATO DIGESTIVO",
+    "creatorId": "102284331469993045688",
+    "creatorLastName": "VILLARROEL FUERTES",
+    "createdAt": "01/20/2026, 15:51:22"
+  },
   {
     "id": "764e9423-ef47-43b4-82f2-eff828924be5",
     "name": "Manor",
