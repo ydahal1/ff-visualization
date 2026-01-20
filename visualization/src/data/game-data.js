@@ -1,7 +1,14 @@
-// Generated on 01/20/2026, 18:30:02 (EST)
-// Total records: 3175
+// Generated on 01/20/2026, 18:45:02 (EST)
+// Total records: 3176
 
 export const games = [
+  {
+    "id": "00a024f4-2c7b-479e-8e28-d96ffbe22854",
+    "name": "Hehe",
+    "creatorId": "117168692379659922321",
+    "creatorLastName": "N",
+    "createdAt": "01/20/2026, 18:44:11"
+  },
   {
     "id": "83441844-5a5d-4567-90dc-d2dd58aca36f",
     "name": "Country Feud 5",
