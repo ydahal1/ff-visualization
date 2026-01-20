@@ -1,7 +1,14 @@
-// Generated on 01/20/2026, 12:15:02 (EST)
-// Total records: 3163
+// Generated on 01/20/2026, 12:30:03 (EST)
+// Total records: 3164
 
 export const games = [
+  {
+    "id": "2d1c9834-7497-470c-9f36-4c50e88ed9b9",
+    "name": "Country Feud 3",
+    "creatorId": "109630085576241665500",
+    "creatorLastName": "Mouchantaf",
+    "createdAt": "01/20/2026, 12:26:20"
+  },
   {
     "id": "cd97aa6e-119c-423f-97aa-736d01c8b7b9",
     "name": "Sunflower Springs Family Feud",
