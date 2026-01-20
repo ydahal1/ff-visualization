@@ -1,7 +1,14 @@
-// Generated on 01/20/2026, 16:15:03 (EST)
-// Total records: 3173
+// Generated on 01/20/2026, 16:30:03 (EST)
+// Total records: 3174
 
 export const games = [
+  {
+    "id": "c3838f9c-f090-4413-ae1c-565fead6ef96",
+    "name": "DIGESTIVO",
+    "creatorId": "102284331469993045688",
+    "creatorLastName": "VILLARROEL FUERTES",
+    "createdAt": "01/20/2026, 16:17:26"
+  },
   {
     "id": "d518b0f8-c126-4b06-9e2a-09d4224b8bf0",
     "name": "Game 1",
