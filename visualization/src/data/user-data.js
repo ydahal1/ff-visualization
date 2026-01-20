@@ -1,7 +1,17 @@
-// Generated on 01/20/2026, 15:30:00 (EST)
-// Total records: 1917
+// Generated on 01/20/2026, 15:45:01 (EST)
+// Total records: 1919
 
 export const users = [
+  {
+    "id": "102284331469993045688",
+    "lName": "VILLARROEL FUERTES",
+    "createdAt": "01/20/2026, 15:38:03"
+  },
+  {
+    "id": "107916765121529311051",
+    "lName": "Beckum",
+    "createdAt": "01/20/2026, 15:34:40"
+  },
   {
     "id": "115556572994795200657",
     "lName": "Mohr",
