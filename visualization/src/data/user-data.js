@@ -1,7 +1,12 @@
-// Generated on 01/19/2026, 22:15:00 (EST)
-// Total records: 1908
+// Generated on 01/19/2026, 22:30:00 (EST)
+// Total records: 1909
 
 export const users = [
+  {
+    "id": "109060517677939056703",
+    "lName": "games",
+    "createdAt": "01/19/2026, 22:24:45"
+  },
   {
     "id": "111853250816652882217",
     "lName": "GABIANA",
