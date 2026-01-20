@@ -1,7 +1,21 @@
-// Generated on 01/19/2026, 21:15:02 (EST)
-// Total records: 3152
+// Generated on 01/19/2026, 21:30:03 (EST)
+// Total records: 3154
 
 export const games = [
+  {
+    "id": "aa2f7e92-6aca-4e88-8173-31fdcb93c582",
+    "name": "Librescu Feud",
+    "creatorId": "111168294067986721126",
+    "creatorLastName": "Pontello",
+    "createdAt": "01/19/2026, 21:29:16"
+  },
+  {
+    "id": "0391fb0e-b201-4e8d-923c-68cc7fb3b596",
+    "name": "Country Feud",
+    "creatorId": "109630085576241665500",
+    "creatorLastName": "Mouchantaf",
+    "createdAt": "01/19/2026, 21:15:25"
+  },
   {
     "id": "f23d25bb-989b-4413-9cc1-032bf4096166",
     "name": "1",
