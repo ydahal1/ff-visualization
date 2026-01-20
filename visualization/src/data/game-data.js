@@ -1,7 +1,21 @@
-// Generated on 01/20/2026, 10:15:02 (EST)
-// Total records: 3161
+// Generated on 01/20/2026, 10:30:02 (EST)
+// Total records: 3163
 
 export const games = [
+  {
+    "id": "30b78963-138f-4b1a-8e4e-95f4d97eae93",
+    "name": "ghfczghryj",
+    "creatorId": "105532499510913383495",
+    "creatorLastName": "Byreddy",
+    "createdAt": "01/20/2026, 10:20:31"
+  },
+  {
+    "id": "56db76f8-2559-453c-9ec8-0cffc5a4dfb0",
+    "name": "Sunflower Springs",
+    "creatorId": "116459962962568456207",
+    "creatorLastName": "Cervantes",
+    "createdAt": "01/20/2026, 10:16:18"
+  },
   {
     "id": "dea141e4-3fff-492d-9e65-232f3a6f8042",
     "name": "game 2",
