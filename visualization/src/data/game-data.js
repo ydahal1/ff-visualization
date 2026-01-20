@@ -1,7 +1,14 @@
-// Generated on 01/20/2026, 15:30:02 (EST)
-// Total records: 3169
+// Generated on 01/20/2026, 15:45:03 (EST)
+// Total records: 3170
 
 export const games = [
+  {
+    "id": "764e9423-ef47-43b4-82f2-eff828924be5",
+    "name": "Manor",
+    "creatorId": "107916765121529311051",
+    "creatorLastName": "Beckum",
+    "createdAt": "01/20/2026, 15:35:10"
+  },
   {
     "id": "34e48a48-1df4-4ee3-8062-bbcc5df706b8",
     "name": "Test Game",
