@@ -1,7 +1,14 @@
-// Generated on 01/19/2026, 21:45:03 (EST)
-// Total records: 3155
+// Generated on 01/19/2026, 22:00:03 (EST)
+// Total records: 3156
 
 export const games = [
+  {
+    "id": "aba96156-781e-4827-8de3-22a5b47e29f0",
+    "name": "LaVie Family Feud Game 1",
+    "creatorId": "111853250816652882217",
+    "creatorLastName": "GABIANA",
+    "createdAt": "01/19/2026, 21:47:19"
+  },
   {
     "id": "021d3133-3504-4adc-a82c-aed1a43486b0",
     "name": "Librescu  Family Feud",
