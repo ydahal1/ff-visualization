@@ -1,7 +1,12 @@
-// Generated on 01/19/2026, 19:15:01 (EST)
-// Total records: 1903
+// Generated on 01/19/2026, 19:30:00 (EST)
+// Total records: 1904
 
 export const users = [
+  {
+    "id": "112515583101053708259",
+    "lName": "Sessoms",
+    "createdAt": "01/19/2026, 19:22:06"
+  },
   {
     "id": "115463339385072005269",
     "lName": "bag",
