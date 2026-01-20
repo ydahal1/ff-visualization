@@ -1,7 +1,14 @@
-// Generated on 01/20/2026, 24:15:02 (EST)
-// Total records: 3158
+// Generated on 01/20/2026, 24:30:03 (EST)
+// Total records: 3159
 
 export const games = [
+  {
+    "id": "f1dbcbbd-f3fa-45c7-b182-c4293c834261",
+    "name": "Country Feud 2",
+    "creatorId": "109630085576241665500",
+    "creatorLastName": "Mouchantaf",
+    "createdAt": "01/20/2026, 24:20:08"
+  },
   {
     "id": "69cb9bc2-add8-4c8b-a150-42178d9c47e4",
     "name": "JROTC Warm up",
