@@ -1,3 +1,25 @@
+  // Table columns for Returning Users
+  const returningUsersColumns = [
+    {
+      title: "Last Name",
+      dataIndex: "lastName",
+      key: "lastName",
+      align: "center",
+    },
+    {
+      title: "Games Created",
+      dataIndex: "totalGames",
+      key: "totalGames",
+      align: "center",
+    },
+    {
+      title: "Unique Days",
+      dataIndex: "uniqueDates",
+      key: "uniqueDays",
+      align: "center",
+      render: (uniqueDates) => uniqueDates.length,
+    },
+  ];
 import React, { useState, useMemo } from "react";
 import { Tabs, Table, DatePicker, Space, Card, Statistic, Modal, Button } from "antd";
 import {
