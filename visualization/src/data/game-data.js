@@ -1,20 +1,20 @@
-// Generated on 01/21/2026, 10:45:02 (EST)
+// Generated on 01/21/2026, 11:00:03 (EST)
 // Total records: 3190
 
 export const games = [
+  {
+    "id": "6d316ec6-8679-4297-b9f3-60097199eceb",
+    "name": "Core Words 2",
+    "creatorId": "104720783788720258882",
+    "creatorLastName": "Lemos",
+    "createdAt": "01/21/2026, 10:57:30"
+  },
   {
     "id": "dea570bb-d18b-42df-a016-716bd062c364",
     "name": "Core Words",
     "creatorId": "104720783788720258882",
     "creatorLastName": "Lemos",
     "createdAt": "01/21/2026, 10:27:39"
-  },
-  {
-    "id": "77679070-9502-4e53-b555-8c157549a3aa",
-    "name": "sample",
-    "creatorId": "104720783788720258882",
-    "creatorLastName": "Lemos",
-    "createdAt": "01/21/2026, 10:16:13"
   },
   {
     "id": "b13dc408-0948-452f-9ce5-f4da5903c094",
