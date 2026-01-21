@@ -1,7 +1,17 @@
-// Generated on 01/20/2026, 21:00:01 (EST)
-// Total records: 1929
+// Generated on 01/20/2026, 21:15:01 (EST)
+// Total records: 1931
 
 export const users = [
+  {
+    "id": "111736910016993007530",
+    "lName": "GSU",
+    "createdAt": "01/20/2026, 21:09:24"
+  },
+  {
+    "id": "109865767897316339990",
+    "lName": "Hernandez-Chavez",
+    "createdAt": "01/20/2026, 21:09:04"
+  },
   {
     "id": "108149333516029857189",
     "lName": "Lerner",
