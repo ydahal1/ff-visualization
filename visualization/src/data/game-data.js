@@ -1,7 +1,21 @@
-// Generated on 01/21/2026, 13:45:03 (EST)
-// Total records: 3211
+// Generated on 01/21/2026, 14:00:03 (EST)
+// Total records: 3212
 
 export const games = [
+  {
+    "id": "e0dcacf0-f9fa-44a1-ba3b-313f9f43f832",
+    "name": "Extra Game #2",
+    "creatorId": "115556572994795200657",
+    "creatorLastName": "Mohr",
+    "createdAt": "01/21/2026, 13:58:15"
+  },
+  {
+    "id": "0399bd78-0759-42b5-b080-eec806ef625d",
+    "name": "Session #3",
+    "creatorId": "115556572994795200657",
+    "creatorLastName": "Mohr",
+    "createdAt": "01/21/2026, 13:52:47"
+  },
   {
     "id": "91776d34-6216-462c-9bf4-043a3b7c383f",
     "name": "Championship Round",
@@ -36,13 +50,6 @@ export const games = [
     "creatorId": "115556572994795200657",
     "creatorLastName": "Mohr",
     "createdAt": "01/21/2026, 13:36:03"
-  },
-  {
-    "id": "2fa7539a-7858-45f4-9621-14a65898b56d",
-    "name": "\"Baby\" Related",
-    "creatorId": "103976494081642549421",
-    "creatorLastName": "Stevens",
-    "createdAt": "01/21/2026, 13:28:54"
   },
   {
     "id": "35057e48-db3d-4adb-9268-402ecf449ba8",
