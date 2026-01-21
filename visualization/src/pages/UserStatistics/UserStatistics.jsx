@@ -620,37 +620,47 @@ const UserStatistics = () => {
       gamesCountByUserId[creatorId] = (gamesCountByUserId[creatorId] || 0) + 1;
     });
 
-    // Count how many users created X games
+    // Count how many users created X games, bucket 21+ games
     const distribution = {};
-    // First, count users with 0 games
     users.forEach((user) => {
       const gameCount = gamesCountByUserId[user.id] || 0;
-      distribution[gameCount] = (distribution[gameCount] || 0) + 1;
+      let bucket = gameCount;
+      if (gameCount > 20) bucket = 21;
+      distribution[bucket] = (distribution[bucket] || 0) + 1;
     });
 
     // Define colors for the pie chart slices
     const colors = [
       '#8884d8', '#82ca9d', '#ffc658', '#ff8042', '#0088fe',
       '#00c49f', '#ffbb28', '#ff6b9d', '#a4de6c', '#d084d0',
-      '#8dd1e1', '#83a6ed', '#ffa07a', '#98d8c8', '#f6a5b6'
+      '#8dd1e1', '#83a6ed', '#ffa07a', '#98d8c8', '#f6a5b6', '#b0b0b0'
     ];
 
     // Convert to array format for pie chart, sorted by game count (ascending)
-    const chartData = Object.entries(distribution)
-      .map(([gameCount, userCount]) => {
-        const percentage = users.length > 0 ? ((userCount / users.length) * 100).toFixed(1) : 0;
-        return {
-          name: `${gameCount} ${gameCount === '1' ? 'Game' : 'Games'}`,
-          gameCount: parseInt(gameCount),
-          value: userCount,
-          percentage,
-        };
-      })
-      .sort((a, b) => a.gameCount - b.gameCount) // Ascending order by game count
-      .map((item, index) => ({
-        ...item,
-        color: colors[index % colors.length],
-      }));
+    const chartData = [];
+    for (let i = 0; i <= 20; i++) {
+      if (distribution[i]) {
+        chartData.push({
+          name: `${i} Game${i === 1 ? '' : 's'}`,
+          gameCount: i,
+          value: distribution[i],
+          percentage: users.length > 0 ? ((distribution[i] / users.length) * 100).toFixed(1) : 0,
+        });
+      }
+    }
+    if (distribution[21]) {
+      chartData.push({
+        name: `21+ Games`,
+        gameCount: 21,
+        value: distribution[21],
+        percentage: users.length > 0 ? ((distribution[21] / users.length) * 100).toFixed(1) : 0,
+      });
+    }
+
+    // Assign colors
+    chartData.forEach((item, index) => {
+      item.color = colors[index % colors.length];
+    });
 
     return chartData;
   }, []);
