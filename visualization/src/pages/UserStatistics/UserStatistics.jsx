@@ -56,11 +56,11 @@ const UserStatistics = () => {
 
   // Get user data with games count
   const getUserData = () => {
-    // Calculate games count per user
-    const gamesCountByUser = {};
+    // Calculate games count per user by user ID
+    const gamesCountByUserId = {};
     games.forEach((game) => {
-      const creator = game.creatorLastName;
-      gamesCountByUser[creator] = (gamesCountByUser[creator] || 0) + 1;
+      const creatorId = game.creatorId;
+      gamesCountByUserId[creatorId] = (gamesCountByUserId[creatorId] || 0) + 1;
     });
 
     return users.map((user, index) => ({
@@ -69,7 +69,7 @@ const UserStatistics = () => {
       name: user.lName,
       createdAt: user.createdAt,
       createdDate: dayjs(user.createdAt).format("YYYY-MM-DD"),
-      gamesCount: gamesCountByUser[user.lName] || 0,
+      gamesCount: gamesCountByUserId[user.id] || 0,
     }));
   };
 
@@ -612,19 +612,19 @@ const UserStatistics = () => {
 
   // Data for games per user distribution pie chart
   const gamesPerUserDistribution = useMemo(() => {
-    // Calculate games count per user
-    const gamesCountByUser = {};
+
+    // Calculate games count per user by user ID
+    const gamesCountByUserId = {};
     games.forEach((game) => {
-      const creator = game.creatorLastName;
-      gamesCountByUser[creator] = (gamesCountByUser[creator] || 0) + 1;
+      const creatorId = game.creatorId;
+      gamesCountByUserId[creatorId] = (gamesCountByUserId[creatorId] || 0) + 1;
     });
 
     // Count how many users created X games
     const distribution = {};
-    
     // First, count users with 0 games
     users.forEach((user) => {
-      const gameCount = gamesCountByUser[user.lName] || 0;
+      const gameCount = gamesCountByUserId[user.id] || 0;
       distribution[gameCount] = (distribution[gameCount] || 0) + 1;
     });
 
