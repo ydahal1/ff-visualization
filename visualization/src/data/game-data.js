@@ -1,7 +1,14 @@
-// Generated on 01/21/2026, 07:15:03 (EST)
-// Total records: 3186
+// Generated on 01/21/2026, 07:30:02 (EST)
+// Total records: 3187
 
 export const games = [
+  {
+    "id": "23e343d5-ae1b-412b-a09d-a2f52fb2ebc1",
+    "name": "test1",
+    "creatorId": "112216871139253670268",
+    "creatorLastName": "Garrick",
+    "createdAt": "01/21/2026, 07:18:41"
+  },
   {
     "id": "9caab8d1-c486-4e0a-8751-8326afd463bf",
     "name": "MAPEH FEUD",
