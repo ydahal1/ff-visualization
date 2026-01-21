@@ -761,23 +761,22 @@ const UserStatistics = () => {
   // Table columns for users
   const userColumns = [
     {
-      {
-        title: "ID",
-        dataIndex: "id",
-        key: "id",
-        width: 60,
-        sorter: (a, b) => a.id - b.id,
-      },
-      {
-        title: "Last Name",
-        dataIndex: "name",
-        key: "name",
-        sorter: (a, b) => a.name.localeCompare(b.name),
-      },
-      {
-        title: "Games Created",
-        dataIndex: "gamesCount",
-        key: "gamesCount",
+      title: "ID",
+      dataIndex: "id",
+      key: "id",
+      width: 60,
+      sorter: (a, b) => a.id - b.id,
+    },
+    {
+      title: "Last Name",
+      dataIndex: "name",
+      key: "name",
+      sorter: (a, b) => a.name.localeCompare(b.name),
+    },
+    {
+      title: "Games Created",
+      dataIndex: "gamesCount",
+      key: "gamesCount",
       },
       {
         title: "Unique Days",
@@ -1186,108 +1185,13 @@ const UserStatistics = () => {
       label: <span>Games Per User</span>,
       children: (
         <Card size="small" className={styles.cardContainer}>
-          <div style={{ display: 'flex', flexDirection: 'column', gap: '30px' }}>
-            {/* Pie Chart */}
-            <div className={styles.chartContainer}>
-              <ResponsiveContainer width="100%" height="100%">
-                <PieChart>
-                  <Pie
-                    data={gamesPerUserDistribution}
-                    cx="35%"
-                    cy="50%"
-                    labelLine={false}
-                    label={false}
-                    outerRadius={150}
-                    fill="#8884d8"
-                    dataKey="value"
-                    activeIndex={activeIndex}
-                    activeShape={{
-                      outerRadius: 165,
-                      stroke: '#333',
-                      strokeWidth: 2,
-                    }}
-                    onMouseEnter={(_, index) => setActiveIndex(index)}
-                    onMouseLeave={() => setActiveIndex(null)}
-                  >
-                    {gamesPerUserDistribution.map((entry, index) => (
-                      <Cell 
-                        key={`cell-${index}`} 
-                        fill={entry.color}
-                        style={{ cursor: 'pointer' }}
-                      />
-                    ))}
-                  </Pie>
-                  <Tooltip 
-                    formatter={(value, name, props) => [
-                      `${value} users (${props.payload.percentage}%)`,
-                      props.payload.name
-                    ]}
-                  />
-                  <Legend 
-                    layout="vertical"
-                    align="right"
-                    verticalAlign="middle"
-                    formatter={(value, entry) => `${entry.payload.name}: ${entry.payload.value} users (${entry.payload.percentage}%)`}
-                    onMouseEnter={(entry) => {
-                      const index = gamesPerUserDistribution.findIndex(
-                        item => item.name === entry.payload.name
-                      );
-                      setActiveIndex(index);
-                    }}
-                    onMouseLeave={() => setActiveIndex(null)}
-                    wrapperStyle={{ cursor: 'pointer' }}
-                  />
-                </PieChart>
-              </ResponsiveContainer>
-            </div>
-
-            {/* Cumulative Data Table */}
-            {cumulativeData.length > 0 && (
-              <div style={{ padding: '0 20px' }}>
-                <h3 style={{ marginBottom: '15px', color: 'var(--text-primary)', fontSize: '16px' }}>
-                  Cumulative Distribution (Users with X or More Games)
-                </h3>
-                <div style={{ 
-                  display: 'grid', 
-                  gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))',
-                  gap: '12px',
-                }}>
-                  {cumulativeData.map((item) => (
-                    <div 
-                      key={item.gameCount}
-                      style={{
-                        padding: '12px 16px',
-                        background: 'var(--card-bg, #f5f5f5)',
-                        borderRadius: '6px',
-                        border: '1px solid var(--border-color, #d9d9d9)',
-                      }}
-                    >
-                      <div style={{ 
-                        fontSize: '13px', 
-                        color: 'var(--text-secondary, #666)',
-                        marginBottom: '4px',
-                      }}>
-                        {item.gameCount}+ Games
-                      </div>
-                      <div style={{ 
-                        fontSize: '20px', 
-                        fontWeight: 'bold',
-                        color: 'var(--primary-color, #1890ff)',
-                      }}>
-                        {item.userCount}
-                      </div>
-                      <div style={{ 
-                        fontSize: '12px', 
-                        color: 'var(--text-secondary, #666)',
-                      }}>
-                        ({item.percentage}% of users)
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              </div>
-            )}
-          </div>
+          <Table
+            columns={gamesPerUserTableColumns}
+            dataSource={gamesPerUserDistribution.map((row, idx) => ({ ...row, key: idx }))}
+            pagination={false}
+            bordered
+            style={{ margin: '24px 0', width: '100%', maxWidth: 500 }}
+          />
         </Card>
       ),
     },
