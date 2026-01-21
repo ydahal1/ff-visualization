@@ -1,7 +1,35 @@
-// Generated on 01/21/2026, 13:00:03 (EST)
-// Total records: 3201
+// Generated on 01/21/2026, 13:15:02 (EST)
+// Total records: 3205
 
 export const games = [
+  {
+    "id": "35942c68-6272-43bd-a717-35c21e7a95ba",
+    "name": "Session #2",
+    "creatorId": "115556572994795200657",
+    "creatorLastName": "Mohr",
+    "createdAt": "01/21/2026, 13:10:22"
+  },
+  {
+    "id": "912d23ef-90d5-4389-9ee5-72e7ce97574e",
+    "name": "Round 5 (Ignition Row & Apex Turn)",
+    "creatorId": "105259579177451063261",
+    "creatorLastName": "Burke",
+    "createdAt": "01/21/2026, 13:08:48"
+  },
+  {
+    "id": "099bbd4d-4a7e-44c3-8299-077056a0cb8e",
+    "name": "Winter Retreat 2",
+    "creatorId": "110929545551318369101",
+    "creatorLastName": "Church of Mount Clemens",
+    "createdAt": "01/21/2026, 13:06:04"
+  },
+  {
+    "id": "2ebf4760-1530-4408-9638-13f04658a117",
+    "name": "Round 4 (Grand Prix & Speed Trap)",
+    "creatorId": "105259579177451063261",
+    "creatorLastName": "Burke",
+    "createdAt": "01/21/2026, 13:00:46"
+  },
   {
     "id": "d6841101-1025-4c00-8580-bab5cbccae7f",
     "name": "Winter Retreat 1",
