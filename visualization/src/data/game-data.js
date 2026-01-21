@@ -1,7 +1,14 @@
-// Generated on 01/21/2026, 01:00:02 (EST)
+// Generated on 01/21/2026, 01:15:02 (EST)
 // Total records: 3185
 
 export const games = [
+  {
+    "id": "45e221da-19e9-44a4-8f0c-d053b9b88bec",
+    "name": "Game 1",
+    "creatorId": "113051864477797473645",
+    "creatorLastName": "Cox",
+    "createdAt": "01/21/2026, 01:02:12"
+  },
   {
     "id": "959fc154-b2b7-4e68-aea4-335244c3d60d",
     "name": "Evergreen Feud",
@@ -92,13 +99,6 @@ export const games = [
     "creatorId": "102284331469993045688",
     "creatorLastName": "VILLARROEL FUERTES",
     "createdAt": "01/20/2026, 16:17:26"
-  },
-  {
-    "id": "d518b0f8-c126-4b06-9e2a-09d4224b8bf0",
-    "name": "Game 1",
-    "creatorId": "113051864477797473645",
-    "creatorLastName": "Cox",
-    "createdAt": "01/20/2026, 16:06:54"
   },
   {
     "id": "72540ee1-a9f6-4ddb-8713-84d7cb56ce63",
