@@ -665,32 +665,23 @@ const UserStatistics = () => {
     return chartData;
   }, []);
 
-  // Calculate cumulative data (users with X or more games)
-  const cumulativeData = useMemo(() => {
-    if (gamesPerUserDistribution.length === 0) return [];
 
-    const cumulative = [];
-    const sortedData = [...gamesPerUserDistribution].sort((a, b) => b.gameCount - a.gameCount);
-    
-    let runningTotal = 0;
-    for (let i = 0; i < sortedData.length; i++) {
-      runningTotal += sortedData[i].value;
-      const gameCount = sortedData[i].gameCount;
-      
-      // Skip 0 games and 1 game for cumulative (start from 2+)
-      if (gameCount >= 2) {
-        const percentage = users.length > 0 ? ((runningTotal / users.length) * 100).toFixed(1) : 0;
-        cumulative.push({
-          gameCount,
-          userCount: runningTotal,
-          percentage,
-        });
-      }
-    }
-
-    // Return in descending order (higher game counts first)
-    return cumulative.sort((a, b) => b.gameCount - a.gameCount);
-  }, [gamesPerUserDistribution]);
+  // Table columns for Games Per User
+  const gamesPerUserTableColumns = [
+    {
+      title: 'Number of Games',
+      dataIndex: 'gameCount',
+      key: 'gameCount',
+      align: 'center',
+      render: (value) => (value === 21 ? '21+' : value),
+    },
+    {
+      title: 'Number of Users',
+      dataIndex: 'value',
+      key: 'value',
+      align: 'center',
+    },
+  ];
 
   // Returning users data
   const returningUsers = useMemo(() => {
@@ -785,55 +776,17 @@ const UserStatistics = () => {
     {
       title: "Games Created",
       dataIndex: "gamesCount",
-      key: "gamesCount",
-      width: 120,
-      sorter: (a, b) => a.gamesCount - b.gamesCount,
-      render: (count) => (
-        <span
-          className={`${styles.gamesCountBadge} ${
-            count > 0 ? styles.gamesCountActive : styles.gamesCountInactive
-          } ${count > 10 ? styles.gamesCountHigh : ""}`}
-        >
-          {count}
-        </span>
+      children: (
+        <Card size="small" className={styles.cardContainer}>
+          <Table
+            columns={gamesPerUserTableColumns}
+            dataSource={gamesPerUserDistribution.map((row, idx) => ({ ...row, key: idx }))}
+            pagination={false}
+            bordered
+            style={{ margin: '24px 0', width: '100%', maxWidth: 500 }}
+          />
+        </Card>
       ),
-    },
-    {
-      title: "Created At",
-      dataIndex: "createdAt",
-      key: "createdAt",
-      sorter: (a, b) =>
-        dayjs(a.createdAt).valueOf() - dayjs(b.createdAt).valueOf(),
-    },
-  ];
-
-  // Table columns for returning users
-  const returningUsersColumns = [
-    {
-      title: "#",
-      key: "index",
-      width: 60,
-      render: (_, __, index) => index + 1,
-    },
-    {
-      title: "Name",
-      dataIndex: "lastName",
-      key: "lastName",
-      sorter: (a, b) => a.lastName.localeCompare(b.lastName),
-    },
-    {
-      title: "Game Count",
-      dataIndex: "totalGames",
-      key: "totalGames",
-      sorter: (a, b) => a.totalGames - b.totalGames,
-      render: (count, record) => (
-        <Button
-          type="link"
-          onClick={() => handleGameCountClick(record)}
-          style={{ padding: 0, height: 'auto', color: '#1890ff' }}
-        >
-          {count}
-        </Button>
       ),
     },
     {
