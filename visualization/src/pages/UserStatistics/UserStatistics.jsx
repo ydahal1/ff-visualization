@@ -17,7 +17,7 @@
       dataIndex: "uniqueDates",
       key: "uniqueDays",
       align: "center",
-      render: (uniqueDates) => uniqueDates.length,
+      render: (uniqueDates) => (uniqueDates ? uniqueDates.length : 0),
     },
   ];
 import React, { useState, useMemo } from "react";
@@ -805,7 +805,7 @@ const UserStatistics = () => {
         dataIndex: "uniqueDates",
         key: "uniqueDays",
         sorter: (a, b) => a.uniqueDates.length - b.uniqueDates.length,
-        render: (uniqueDates) => uniqueDates.length,
+        render: (uniqueDates) => (uniqueDates ? uniqueDates.length : 0),
       },
     ];
 
