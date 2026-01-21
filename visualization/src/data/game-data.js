@@ -1,7 +1,14 @@
-// Generated on 01/21/2026, 12:15:03 (EST)
-// Total records: 3196
+// Generated on 01/21/2026, 12:30:03 (EST)
+// Total records: 3197
 
 export const games = [
+  {
+    "id": "49b3576e-8b4c-4a9f-be39-f8b307efbfe1",
+    "name": "ROOTS - January 21st",
+    "creatorId": "102824308942912392464",
+    "creatorLastName": "Mak",
+    "createdAt": "01/21/2026, 12:23:01"
+  },
   {
     "id": "95f00bd0-2716-4cd0-a8a0-2333d13511de",
     "name": "Development",
