@@ -1,7 +1,14 @@
-// Generated on 01/21/2026, 14:00:03 (EST)
-// Total records: 3212
+// Generated on 01/21/2026, 14:15:02 (EST)
+// Total records: 3213
 
 export const games = [
+  {
+    "id": "0b9c407d-8808-49f2-bf0b-07c9fbc32750",
+    "name": "Development Teams",
+    "creatorId": "113330473980783389817",
+    "creatorLastName": "ortiz",
+    "createdAt": "01/21/2026, 14:01:18"
+  },
   {
     "id": "e0dcacf0-f9fa-44a1-ba3b-313f9f43f832",
     "name": "Extra Game #2",
