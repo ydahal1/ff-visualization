@@ -1,13 +1,20 @@
-// Generated on 01/21/2026, 14:30:03 (EST)
-// Total records: 3213
+// Generated on 01/21/2026, 14:45:02 (EST)
+// Total records: 3214
 
 export const games = [
   {
-    "id": "d777d2ad-f3a3-41c6-9f55-463fedd5d0dc",
-    "name": "Música y más música trivia",
+    "id": "ce47af60-5c18-4192-9faa-e8220c45f5c3",
+    "name": "Trivia musical 1",
     "creatorId": "111329859865509282450",
     "creatorLastName": "Robledo Matthtias",
-    "createdAt": "01/21/2026, 14:24:06"
+    "createdAt": "01/21/2026, 14:40:13"
+  },
+  {
+    "id": "e770dc17-49c6-4db7-a13c-fb0a9145dce6",
+    "name": "First round family fued",
+    "creatorId": "107501870754965027748",
+    "creatorLastName": "Lewis",
+    "createdAt": "01/21/2026, 14:36:00"
   },
   {
     "id": "af3848e7-b81a-4172-91a9-466fdd91301d",
