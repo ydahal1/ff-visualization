@@ -761,42 +761,32 @@ const UserStatistics = () => {
   // Table columns for users
   const userColumns = [
     {
-      title: "ID",
-      dataIndex: "id",
-      key: "id",
-      width: 60,
-      sorter: (a, b) => a.id - b.id,
-    },
-    {
-      title: "Last Name",
-      dataIndex: "name",
-      key: "name",
-      sorter: (a, b) => a.name.localeCompare(b.name),
-    },
-    {
-      title: "Games Created",
-      dataIndex: "gamesCount",
-      children: (
-        <Card size="small" className={styles.cardContainer}>
-          <Table
-            columns={gamesPerUserTableColumns}
-            dataSource={gamesPerUserDistribution.map((row, idx) => ({ ...row, key: idx }))}
-            pagination={false}
-            bordered
-            style={{ margin: '24px 0', width: '100%', maxWidth: 500 }}
-          />
-        </Card>
-      ),
-      ),
-    },
-    {
-      title: "Unique Days",
-      dataIndex: "uniqueDates",
-      key: "uniqueDays",
-      sorter: (a, b) => a.uniqueDates.length - b.uniqueDates.length,
-      render: (uniqueDates) => uniqueDates.length,
-    },
-  ];
+      {
+        title: "ID",
+        dataIndex: "id",
+        key: "id",
+        width: 60,
+        sorter: (a, b) => a.id - b.id,
+      },
+      {
+        title: "Last Name",
+        dataIndex: "name",
+        key: "name",
+        sorter: (a, b) => a.name.localeCompare(b.name),
+      },
+      {
+        title: "Games Created",
+        dataIndex: "gamesCount",
+        key: "gamesCount",
+      },
+      {
+        title: "Unique Days",
+        dataIndex: "uniqueDates",
+        key: "uniqueDays",
+        sorter: (a, b) => a.uniqueDates.length - b.uniqueDates.length,
+        render: (uniqueDates) => uniqueDates.length,
+      },
+    ];
 
   // Tab items
   const tabItems = [
