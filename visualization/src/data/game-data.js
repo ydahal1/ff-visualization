@@ -1,7 +1,14 @@
-// Generated on 01/21/2026, 12:30:03 (EST)
+// Generated on 01/21/2026, 12:45:02 (EST)
 // Total records: 3197
 
 export const games = [
+  {
+    "id": "1a6d7df0-c382-4356-a793-cda75afa9c44",
+    "name": "Round 1 (Pit Stop & Checkered Flag)",
+    "creatorId": "105259579177451063261",
+    "creatorLastName": "Burke",
+    "createdAt": "01/21/2026, 12:40:41"
+  },
   {
     "id": "49b3576e-8b4c-4a9f-be39-f8b307efbfe1",
     "name": "ROOTS - January 21st",
@@ -12454,13 +12461,6 @@ export const games = [
     "creatorId": "109801315170981733711",
     "creatorLastName": "Jenkins",
     "createdAt": "12/12/2025, 15:23:36"
-  },
-  {
-    "id": "7b6c5309-6b75-47e6-b644-87c6d8e95c5e",
-    "name": "Concord CKO 2026",
-    "creatorId": "105259579177451063261",
-    "creatorLastName": "Burke",
-    "createdAt": "12/12/2025, 14:40:47"
   },
   {
     "id": "d55ae50d-26d2-4dcb-b552-1e33f77548fb",
