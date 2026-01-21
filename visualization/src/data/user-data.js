@@ -1,7 +1,12 @@
-// Generated on 01/21/2026, 12:45:01 (EST)
-// Total records: 1951
+// Generated on 01/21/2026, 13:00:01 (EST)
+// Total records: 1952
 
 export const users = [
+  {
+    "id": "110929545551318369101",
+    "lName": "Church of Mount Clemens",
+    "createdAt": "01/21/2026, 12:54:24"
+  },
   {
     "id": "105710213652275485954",
     "lName": "Amao",
