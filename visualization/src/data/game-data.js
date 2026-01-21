@@ -1,7 +1,14 @@
-// Generated on 01/21/2026, 18:30:02 (EST)
-// Total records: 3228
+// Generated on 01/21/2026, 18:45:03 (EST)
+// Total records: 3229
 
 export const games = [
+  {
+    "id": "3fb56d3e-22c8-4bdf-85f0-951a6fe53b43",
+    "name": "Club Xcel",
+    "creatorId": "103778137174778490091",
+    "creatorLastName": "Olubanwo",
+    "createdAt": "01/21/2026, 18:34:07"
+  },
   {
     "id": "932ecfba-919e-495d-8f77-8c8ddf6c7d4f",
     "name": "Muslim Family Feud",
