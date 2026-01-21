@@ -1,7 +1,14 @@
-// Generated on 01/21/2026, 09:30:02 (EST)
-// Total records: 3188
+// Generated on 01/21/2026, 09:45:03 (EST)
+// Total records: 3189
 
 export const games = [
+  {
+    "id": "4097c106-748e-48f3-9ddd-ca67c9f4821b",
+    "name": "WM Way 1",
+    "creatorId": "115334297848812296198",
+    "creatorLastName": "Brown",
+    "createdAt": "01/21/2026, 09:37:37"
+  },
   {
     "id": "b13dc408-0948-452f-9ce5-f4da5903c094",
     "name": "Test 1",
