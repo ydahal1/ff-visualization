@@ -1,7 +1,21 @@
-// Generated on 01/22/2026, 08:45:02 (EST)
-// Total records: 3241
+// Generated on 01/22/2026, 09:00:02 (EST)
+// Total records: 3243
 
 export const games = [
+  {
+    "id": "1b17aae4-aa0c-4fd5-a056-7f3af7217d2c",
+    "name": "MiniFued_1",
+    "creatorId": "111814034260725883553",
+    "creatorLastName": "Gupta",
+    "createdAt": "01/22/2026, 08:59:00"
+  },
+  {
+    "id": "3ba88a86-ebd4-46e9-9587-e374c8f32870",
+    "name": "MINI FEUD_1",
+    "creatorId": "112465393759328792192",
+    "creatorLastName": "Khurana",
+    "createdAt": "01/22/2026, 08:57:57"
+  },
   {
     "id": "1cb1aa6e-6e1c-447a-8cdf-5eac5c2ebd2f",
     "name": "t",
