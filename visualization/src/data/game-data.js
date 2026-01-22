@@ -1,7 +1,28 @@
-// Generated on 01/22/2026, 10:15:03 (EST)
-// Total records: 3251
+// Generated on 01/22/2026, 10:30:02 (EST)
+// Total records: 3253
 
 export const games = [
+  {
+    "id": "e9c0c925-3341-47ba-a4b1-0ec140c7ec03",
+    "name": "MiniFued_3",
+    "creatorId": "111814034260725883553",
+    "creatorLastName": "Gupta",
+    "createdAt": "01/22/2026, 10:25:02"
+  },
+  {
+    "id": "8daebe4e-597e-4828-8a96-18019d51bb60",
+    "name": "Game 3",
+    "creatorId": "103478519825189469703",
+    "creatorLastName": "Salem",
+    "createdAt": "01/22/2026, 10:24:45"
+  },
+  {
+    "id": "2dafed61-98d8-49e0-bd2d-e6565b1c424b",
+    "name": "Mini Feud_3",
+    "creatorId": "101210867551885655998",
+    "creatorLastName": "Khurana",
+    "createdAt": "01/22/2026, 10:24:09"
+  },
   {
     "id": "f5b4dda9-cb7f-4fca-a7b5-3d9ec8557500",
     "name": "Mini Feud_2",
@@ -1191,13 +1212,6 @@ export const games = [
     "creatorId": "105259854485635045516",
     "creatorLastName": "Ogletree",
     "createdAt": "01/17/2026, 13:19:19"
-  },
-  {
-    "id": "2ec3fe24-fbd2-4342-9667-01b3210fc2de",
-    "name": "ff",
-    "creatorId": "112465393759328792192",
-    "creatorLastName": "Khurana",
-    "createdAt": "01/17/2026, 06:48:28"
   },
   {
     "id": "61ea55c9-c8dd-4e39-a7cd-24c5b08c68c2",
