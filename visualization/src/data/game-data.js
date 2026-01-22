@@ -1,7 +1,35 @@
-// Generated on 01/22/2026, 10:30:02 (EST)
-// Total records: 3253
+// Generated on 01/22/2026, 10:45:03 (EST)
+// Total records: 3257
 
 export const games = [
+  {
+    "id": "e2e6fe00-2976-4651-b76f-00abea926223",
+    "name": "Game 4",
+    "creatorId": "103478519825189469703",
+    "creatorLastName": "Salem",
+    "createdAt": "01/22/2026, 10:44:23"
+  },
+  {
+    "id": "3a889acd-cdfd-4443-a964-b202b69442b6",
+    "name": "DEV TEAM",
+    "creatorId": "107242718282390717834",
+    "creatorLastName": "Dixon",
+    "createdAt": "01/22/2026, 10:40:23"
+  },
+  {
+    "id": "f2308b85-913a-485e-8b77-99989662bee1",
+    "name": "MiniFued_4",
+    "creatorId": "111814034260725883553",
+    "creatorLastName": "Gupta",
+    "createdAt": "01/22/2026, 10:37:35"
+  },
+  {
+    "id": "65ab3423-123a-4190-9f26-dd9ef6602b65",
+    "name": "MINI FEUD_4",
+    "creatorId": "112465393759328792192",
+    "creatorLastName": "Khurana",
+    "createdAt": "01/22/2026, 10:30:36"
+  },
   {
     "id": "e9c0c925-3341-47ba-a4b1-0ec140c7ec03",
     "name": "MiniFued_3",
