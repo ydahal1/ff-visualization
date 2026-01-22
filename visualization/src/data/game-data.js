@@ -1,7 +1,14 @@
-// Generated on 01/22/2026, 10:45:03 (EST)
-// Total records: 3257
+// Generated on 01/22/2026, 11:00:02 (EST)
+// Total records: 3258
 
 export const games = [
+  {
+    "id": "aae58337-749e-4edb-a293-c234d7eaad64",
+    "name": "MiniFued_5",
+    "creatorId": "111814034260725883553",
+    "creatorLastName": "Gupta",
+    "createdAt": "01/22/2026, 10:48:25"
+  },
   {
     "id": "e2e6fe00-2976-4651-b76f-00abea926223",
     "name": "Game 4",
