@@ -1,7 +1,21 @@
-// Generated on 01/21/2026, 22:45:04 (EST)
-// Total records: 3239
+// Generated on 01/21/2026, 23:00:03 (EST)
+// Total records: 3240
 
 export const games = [
+  {
+    "id": "143c846f-091a-4104-a6ce-816dc6b47d87",
+    "name": "NewYear/ValentineGetaway2",
+    "creatorId": "101432976380519045026",
+    "creatorLastName": "Segoviano",
+    "createdAt": "01/21/2026, 22:55:38"
+  },
+  {
+    "id": "5a4329a3-bf6d-480a-8aa9-33112c1a22f4",
+    "name": "Final Game",
+    "creatorId": "113051864477797473645",
+    "creatorLastName": "Cox",
+    "createdAt": "01/21/2026, 22:45:14"
+  },
   {
     "id": "1bb29299-88c8-4710-ba06-a507299215ab",
     "name": "BRAIN FEUD",
@@ -421,13 +435,6 @@ export const games = [
     "creatorId": "113364658482494490683",
     "creatorLastName": "Maraguinot",
     "createdAt": "01/21/2026, 05:37:30"
-  },
-  {
-    "id": "45e221da-19e9-44a4-8f0c-d053b9b88bec",
-    "name": "Game 1",
-    "creatorId": "113051864477797473645",
-    "creatorLastName": "Cox",
-    "createdAt": "01/21/2026, 01:02:12"
   },
   {
     "id": "959fc154-b2b7-4e68-aea4-335244c3d60d",
