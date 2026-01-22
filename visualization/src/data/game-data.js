@@ -1,7 +1,14 @@
-// Generated on 01/21/2026, 22:30:03 (EST)
-// Total records: 3238
+// Generated on 01/21/2026, 22:45:04 (EST)
+// Total records: 3239
 
 export const games = [
+  {
+    "id": "1bb29299-88c8-4710-ba06-a507299215ab",
+    "name": "BRAIN FEUD",
+    "creatorId": "102890831752746689030",
+    "creatorLastName": "Muhammadiyeva",
+    "createdAt": "01/21/2026, 22:38:57"
+  },
   {
     "id": "4c422d71-a08b-484e-aab8-e448c3fa12a1",
     "name": "Family 100 Ditres",
