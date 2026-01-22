@@ -1,7 +1,14 @@
-// Generated on 01/22/2026, 13:15:02 (EST)
-// Total records: 3261
+// Generated on 01/22/2026, 13:30:03 (EST)
+// Total records: 3262
 
 export const games = [
+  {
+    "id": "29a143c1-650e-413b-8dee-0161a3243152",
+    "name": "Mini Feud_5",
+    "creatorId": "109343642703591743149",
+    "creatorLastName": "Agarwal",
+    "createdAt": "01/22/2026, 13:29:09"
+  },
   {
     "id": "28b2124c-3ac6-4c97-9357-0dd47fd316ed",
     "name": "Game2",
