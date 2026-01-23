@@ -1,7 +1,14 @@
-// Generated on 01/23/2026, 14:45:03 (EST)
-// Total records: 3294
+// Generated on 01/23/2026, 15:00:03 (EST)
+// Total records: 3295
 
 export const games = [
+  {
+    "id": "95c06a11-d9bd-423e-ae8e-44d9be7c290c",
+    "name": "H&S in Psych Ch",
+    "creatorId": "102324758596825292687",
+    "creatorLastName": "Camelleri",
+    "createdAt": "01/23/2026, 14:56:05"
+  },
   {
     "id": "dfdb03d9-32a7-4d07-b8e1-ab569402f7bf",
     "name": "Instructor Meeting 1/23/26",
