@@ -1,7 +1,14 @@
-// Generated on 01/23/2026, 10:00:03 (EST)
-// Total records: 3286
+// Generated on 01/23/2026, 10:15:03 (EST)
+// Total records: 3287
 
 export const games = [
+  {
+    "id": "f284404a-fc66-44ef-bc30-8eab6262f9af",
+    "name": "SCIT FUN 1.23.26",
+    "creatorId": "105964105645057636044",
+    "creatorLastName": "Miller",
+    "createdAt": "01/23/2026, 10:12:15"
+  },
   {
     "id": "2910634a-db87-45a4-8a1d-4e7532616dad",
     "name": "Homie Feud",
