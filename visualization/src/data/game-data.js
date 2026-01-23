@@ -1,7 +1,14 @@
-// Generated on 01/23/2026, 11:45:02 (EST)
-// Total records: 3287
+// Generated on 01/23/2026, 12:00:03 (EST)
+// Total records: 3288
 
 export const games = [
+  {
+    "id": "703920e9-1ac8-43ba-9356-3827a279c0c5",
+    "name": "Operations",
+    "creatorId": "104218734626467111695",
+    "creatorLastName": "Lopez",
+    "createdAt": "01/23/2026, 11:56:42"
+  },
   {
     "id": "f284404a-fc66-44ef-bc30-8eab6262f9af",
     "name": "SCIT FUN 1.23.26",
