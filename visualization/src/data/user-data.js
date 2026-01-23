@@ -1,7 +1,12 @@
-// Generated on 01/23/2026, 15:00:00 (EST)
-// Total records: 2001
+// Generated on 01/23/2026, 15:15:00 (EST)
+// Total records: 2002
 
 export const users = [
+  {
+    "id": "104781778155111649827",
+    "lName": "Hathaway-Piccole",
+    "createdAt": "01/23/2026, 15:12:34"
+  },
   {
     "id": "102324758596825292687",
     "lName": "Camelleri",
