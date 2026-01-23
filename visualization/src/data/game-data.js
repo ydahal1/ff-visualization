@@ -1,7 +1,14 @@
-// Generated on 01/23/2026, 15:00:03 (EST)
-// Total records: 3295
+// Generated on 01/23/2026, 15:15:02 (EST)
+// Total records: 3296
 
 export const games = [
+  {
+    "id": "6ee39839-f21e-4677-a1a0-5e50ca4f6f69",
+    "name": "Trial",
+    "creatorId": "104781778155111649827",
+    "creatorLastName": "Hathaway-Piccole",
+    "createdAt": "01/23/2026, 15:12:54"
+  },
   {
     "id": "95c06a11-d9bd-423e-ae8e-44d9be7c290c",
     "name": "H&S in Psych Ch",
