@@ -1,7 +1,14 @@
-// Generated on 01/23/2026, 18:00:03 (EST)
-// Total records: 3296
+// Generated on 01/23/2026, 18:15:02 (EST)
+// Total records: 3297
 
 export const games = [
+  {
+    "id": "7d298150-6b91-42a8-a072-a5e31b1fb892",
+    "name": "CK Retreat",
+    "creatorId": "102389663976695846588",
+    "creatorLastName": "Meyer",
+    "createdAt": "01/23/2026, 18:12:00"
+  },
   {
     "id": "6ee39839-f21e-4677-a1a0-5e50ca4f6f69",
     "name": "Trial",
