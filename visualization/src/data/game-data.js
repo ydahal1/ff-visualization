@@ -1,7 +1,14 @@
-// Generated on 01/23/2026, 13:00:03 (EST)
-// Total records: 3289
+// Generated on 01/23/2026, 13:15:03 (EST)
+// Total records: 3290
 
 export const games = [
+  {
+    "id": "a4355d72-ed17-4fd9-b471-4dd886f34799",
+    "name": "SCTI FUN 1.23.26 Part 2",
+    "creatorId": "105964105645057636044",
+    "creatorLastName": "Miller",
+    "createdAt": "01/23/2026, 13:04:52"
+  },
   {
     "id": "e7afb058-b574-44fd-be7a-d1c282ff935e",
     "name": "test1",
@@ -17895,17 +17902,17 @@ export const games = [
     "createdAt": "11/29/2025, 15:11:36"
   },
   {
-    "id": "fdbe6353-a818-43ea-bc00-91e040d1c7d3",
-    "name": "Frinds feud",
-    "creatorId": "115589289485058984339",
-    "creatorLastName": "Chain",
-    "createdAt": "11/29/2025, 15:05:00"
-  },
-  {
     "id": "93f97fca-47f8-4714-bc07-17b7ca463d15",
     "name": "Friday Evening Fun",
     "creatorId": "110091634567525704379",
     "creatorLastName": "Guy",
+    "createdAt": "11/29/2025, 15:05:00"
+  },
+  {
+    "id": "fdbe6353-a818-43ea-bc00-91e040d1c7d3",
+    "name": "Frinds feud",
+    "creatorId": "115589289485058984339",
+    "creatorLastName": "Chain",
     "createdAt": "11/29/2025, 15:05:00"
   },
   {
