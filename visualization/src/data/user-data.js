@@ -1,7 +1,12 @@
-// Generated on 01/23/2026, 14:45:01 (EST)
-// Total records: 2000
+// Generated on 01/23/2026, 15:00:00 (EST)
+// Total records: 2001
 
 export const users = [
+  {
+    "id": "102324758596825292687",
+    "lName": "Camelleri",
+    "createdAt": "01/23/2026, 14:53:01"
+  },
   {
     "id": "102783035108914801556",
     "lName": "YMCA",
