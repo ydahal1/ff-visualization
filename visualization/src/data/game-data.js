@@ -1,7 +1,21 @@
-// Generated on 01/23/2026, 13:45:02 (EST)
-// Total records: 3290
+// Generated on 01/23/2026, 14:00:03 (EST)
+// Total records: 3292
 
 export const games = [
+  {
+    "id": "cbf510d2-56c5-48b5-8490-acff7aaa5963",
+    "name": "Bloop",
+    "creatorId": "102868667087322317237",
+    "creatorLastName": "Strawter",
+    "createdAt": "01/23/2026, 13:51:06"
+  },
+  {
+    "id": "cf2e52b7-d386-42fe-ab3a-40d817cbdfa3",
+    "name": "BIOL 209",
+    "creatorId": "115574980010033182902",
+    "creatorLastName": "Abillama",
+    "createdAt": "01/23/2026, 13:48:12"
+  },
   {
     "id": "a4355d72-ed17-4fd9-b471-4dd886f34799",
     "name": "SCTI FUN 1.23.26 Part 2",
