@@ -1,4 +1,4 @@
-// Generated on 01/23/2026, 15:30:03 (EST)
+// Generated on 01/23/2026, 15:45:03 (EST)
 // Total records: 3296
 
 export const games = [
@@ -17944,17 +17944,17 @@ export const games = [
     "createdAt": "11/29/2025, 15:11:36"
   },
   {
-    "id": "93f97fca-47f8-4714-bc07-17b7ca463d15",
-    "name": "Friday Evening Fun",
-    "creatorId": "110091634567525704379",
-    "creatorLastName": "Guy",
-    "createdAt": "11/29/2025, 15:05:00"
-  },
-  {
     "id": "fdbe6353-a818-43ea-bc00-91e040d1c7d3",
     "name": "Frinds feud",
     "creatorId": "115589289485058984339",
     "creatorLastName": "Chain",
+    "createdAt": "11/29/2025, 15:05:00"
+  },
+  {
+    "id": "93f97fca-47f8-4714-bc07-17b7ca463d15",
+    "name": "Friday Evening Fun",
+    "creatorId": "110091634567525704379",
+    "creatorLastName": "Guy",
     "createdAt": "11/29/2025, 15:05:00"
   },
   {
