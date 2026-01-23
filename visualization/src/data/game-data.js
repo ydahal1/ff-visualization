@@ -1,7 +1,14 @@
-// Generated on 01/23/2026, 03:30:03 (EST)
-// Total records: 3282
+// Generated on 01/23/2026, 03:45:03 (EST)
+// Total records: 3283
 
 export const games = [
+  {
+    "id": "d5864e7e-362e-4b9d-a868-5e4773ae2855",
+    "name": "CLASSROOM FAMILY FEUD",
+    "creatorId": "106502700754961034429",
+    "creatorLastName": "Cuaton",
+    "createdAt": "01/23/2026, 03:40:11"
+  },
   {
     "id": "59e16ca1-d6f6-4b9b-8a05-1d32f94ccbe2",
     "name": "Valentine2",
