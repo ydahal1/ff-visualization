@@ -1,7 +1,12 @@
-// Generated on 01/23/2026, 03:15:01 (EST)
-// Total records: 1989
+// Generated on 01/23/2026, 03:30:01 (EST)
+// Total records: 1990
 
 export const users = [
+  {
+    "id": "106502700754961034429",
+    "lName": "Cuaton",
+    "createdAt": "01/23/2026, 03:23:37"
+  },
   {
     "id": "102266884375606554267",
     "lName": "Here",
