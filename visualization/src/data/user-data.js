@@ -1,7 +1,12 @@
-// Generated on 01/23/2026, 10:30:01 (EST)
-// Total records: 1996
+// Generated on 01/23/2026, 10:45:00 (EST)
+// Total records: 1997
 
 export const users = [
+  {
+    "id": "114245040992694646985",
+    "lName": "alexander",
+    "createdAt": "01/23/2026, 10:42:08"
+  },
   {
     "id": "110301553396917225880",
     "lName": "CASTILLO RAMIREZ",
