@@ -1,7 +1,14 @@
-// Generated on 01/24/2026, 11:00:02 (EST)
-// Total records: 3312
+// Generated on 01/24/2026, 11:15:02 (EST)
+// Total records: 3313
 
 export const games = [
+  {
+    "id": "a881fcae-20b1-4c27-9449-80e59a70f600",
+    "name": "Game #4",
+    "creatorId": "108994297146739484640",
+    "creatorLastName": "Zaidi",
+    "createdAt": "01/24/2026, 11:08:05"
+  },
   {
     "id": "328fc2bd-1b8f-44bf-a1a9-917ce65c8ad8",
     "name": "Shaban Kids",
