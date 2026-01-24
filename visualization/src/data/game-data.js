@@ -1,5 +1,5 @@
-// Generated on 01/23/2026, 20:15:03 (EST)
-// Total records: 3302
+// Generated on 01/23/2026, 20:30:03 (EST)
+// Total records: 3301
 
 export const games = [
   {
@@ -8,13 +8,6 @@ export const games = [
     "creatorId": "100485807540396284886",
     "creatorLastName": "Horodecka",
     "createdAt": "01/23/2026, 19:51:21"
-  },
-  {
-    "id": "b5bbc76b-5c9a-4d5e-887e-121cd5cfe55f",
-    "name": "fam",
-    "creatorId": "115463339385072005269",
-    "creatorLastName": "bag",
-    "createdAt": "01/23/2026, 19:39:49"
   },
   {
     "id": "008716c9-2c79-4d1a-ab77-59dd729611aa",
