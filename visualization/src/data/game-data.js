@@ -1,7 +1,28 @@
-// Generated on 01/24/2026, 11:15:02 (EST)
-// Total records: 3313
+// Generated on 01/24/2026, 11:30:03 (EST)
+// Total records: 3316
 
 export const games = [
+  {
+    "id": "b3d03bdf-2589-45be-ad2c-92f1b880f5b8",
+    "name": "practice game",
+    "creatorId": "115463339385072005269",
+    "creatorLastName": "bag",
+    "createdAt": "01/24/2026, 11:29:25"
+  },
+  {
+    "id": "addf0f28-d82b-4861-a22c-b093f6119900",
+    "name": "Upward Bound 2 (01/24)",
+    "creatorId": "102941347896502185176",
+    "creatorLastName": "Gebre",
+    "createdAt": "01/24/2026, 11:26:03"
+  },
+  {
+    "id": "2093158d-13cc-4d0b-9cbd-f99480e40e93",
+    "name": "Shaban kids #2 (three questions)",
+    "creatorId": "108994297146739484640",
+    "creatorLastName": "Zaidi",
+    "createdAt": "01/24/2026, 11:16:21"
+  },
   {
     "id": "a881fcae-20b1-4c27-9449-80e59a70f600",
     "name": "Game #4",
