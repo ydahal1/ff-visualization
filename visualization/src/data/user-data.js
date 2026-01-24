@@ -1,7 +1,12 @@
-// Generated on 01/24/2026, 13:00:01 (EST)
-// Total records: 2009
+// Generated on 01/24/2026, 13:15:01 (EST)
+// Total records: 2010
 
 export const users = [
+  {
+    "id": "104149673385508931071",
+    "lName": "Community",
+    "createdAt": "01/24/2026, 13:04:11"
+  },
   {
     "id": "102215243128693172207",
     "lName": "Unknown Location 2 (UNKN2)",
