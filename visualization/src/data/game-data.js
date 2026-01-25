@@ -1,7 +1,14 @@
-// Generated on 01/24/2026, 23:30:03 (EST)
-// Total records: 3330
+// Generated on 01/24/2026, 23:45:02 (EST)
+// Total records: 3331
 
 export const games = [
+  {
+    "id": "1c42062c-8216-4991-b8d4-11a1028fdc8b",
+    "name": "LHWhites",
+    "creatorId": "109452374924637914018",
+    "creatorLastName": "Duque",
+    "createdAt": "01/24/2026, 23:40:43"
+  },
   {
     "id": "6d57b121-9e6b-40f3-bd08-b3bda4d89c56",
     "name": "Muslim Family Feud - Part 4",
