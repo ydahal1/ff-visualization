@@ -1,7 +1,14 @@
-// Generated on 01/25/2026, 15:45:02 (EST)
-// Total records: 3340
+// Generated on 01/25/2026, 16:00:03 (EST)
+// Total records: 3341
 
 export const games = [
+  {
+    "id": "8af544b9-202f-429a-bcee-b6c2a46fff64",
+    "name": "Celebrities",
+    "creatorId": "103976494081642549421",
+    "creatorLastName": "Stevens",
+    "createdAt": "01/25/2026, 15:51:59"
+  },
   {
     "id": "7af4face-dd18-449f-9ba1-f2981c4c6b65",
     "name": "Monsuno's Family Feud",
