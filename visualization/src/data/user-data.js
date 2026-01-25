@@ -1,7 +1,12 @@
-// Generated on 01/25/2026, 18:15:00 (EST)
-// Total records: 2027
+// Generated on 01/25/2026, 18:30:01 (EST)
+// Total records: 2028
 
 export const users = [
+  {
+    "id": "109617125956684833811",
+    "lName": "Holder",
+    "createdAt": "01/25/2026, 18:29:48"
+  },
   {
     "id": "107604944495901909037",
     "lName": "Castillones",
