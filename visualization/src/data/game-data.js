@@ -1,20 +1,20 @@
-// Generated on 01/25/2026, 24:00:03 (EST)
+// Generated on 01/25/2026, 24:15:02 (EST)
 // Total records: 3332
 
 export const games = [
+  {
+    "id": "baeed985-4384-4de3-a8ca-b8e983b0c968",
+    "name": "LHWhites3",
+    "creatorId": "109452374924637914018",
+    "creatorLastName": "Duque",
+    "createdAt": "01/25/2026, 24:13:02"
+  },
   {
     "id": "85ae2d89-0eec-4f75-9f77-0c2f076bbf14",
     "name": "LHWhites2",
     "creatorId": "109452374924637914018",
     "creatorLastName": "Duque",
     "createdAt": "01/24/2026, 23:54:19"
-  },
-  {
-    "id": "1c42062c-8216-4991-b8d4-11a1028fdc8b",
-    "name": "LHWhites",
-    "creatorId": "109452374924637914018",
-    "creatorLastName": "Duque",
-    "createdAt": "01/24/2026, 23:40:43"
   },
   {
     "id": "6d57b121-9e6b-40f3-bd08-b3bda4d89c56",
