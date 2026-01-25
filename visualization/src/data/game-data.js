@@ -1,7 +1,14 @@
-// Generated on 01/25/2026, 12:30:02 (EST)
-// Total records: 3336
+// Generated on 01/25/2026, 12:45:03 (EST)
+// Total records: 3337
 
 export const games = [
+  {
+    "id": "889a1bfb-7ab4-4d6b-91d4-b87b8ab0777f",
+    "name": "Family feud",
+    "creatorId": "105371620743072787794",
+    "creatorLastName": "Williams",
+    "createdAt": "01/25/2026, 12:42:31"
+  },
   {
     "id": "8322f7eb-d5a1-4764-88c6-5fb97bae8b05",
     "name": "practice game",
