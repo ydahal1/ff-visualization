@@ -1,7 +1,17 @@
-// Generated on 01/25/2026, 10:00:01 (EST)
-// Total records: 2017
+// Generated on 01/25/2026, 10:15:01 (EST)
+// Total records: 2019
 
 export const users = [
+  {
+    "id": "117891930186674560811",
+    "lName": "Hayes",
+    "createdAt": "01/25/2026, 10:14:47"
+  },
+  {
+    "id": "117070979919136144275",
+    "lName": "Parashar",
+    "createdAt": "01/25/2026, 10:04:34"
+  },
   {
     "id": "106971992244086587535",
     "lName": "Ceklosky",
