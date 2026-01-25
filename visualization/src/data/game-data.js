@@ -1,7 +1,28 @@
-// Generated on 01/24/2026, 23:15:03 (EST)
-// Total records: 3327
+// Generated on 01/24/2026, 23:30:03 (EST)
+// Total records: 3330
 
 export const games = [
+  {
+    "id": "6d57b121-9e6b-40f3-bd08-b3bda4d89c56",
+    "name": "Muslim Family Feud - Part 4",
+    "creatorId": "116170784390271937704",
+    "creatorLastName": "Ibrahim",
+    "createdAt": "01/24/2026, 23:27:53"
+  },
+  {
+    "id": "916cf2ba-b4cd-42a4-b408-9172f469f704",
+    "name": "Muslim Family Feud - Part 3",
+    "creatorId": "116170784390271937704",
+    "creatorLastName": "Ibrahim",
+    "createdAt": "01/24/2026, 23:25:51"
+  },
+  {
+    "id": "dee1f743-ec67-4f3e-bb81-a6c647d4492c",
+    "name": "Muslim Family Feud - Part 2",
+    "creatorId": "116170784390271937704",
+    "creatorLastName": "Ibrahim",
+    "createdAt": "01/24/2026, 23:17:35"
+  },
   {
     "id": "1479eefb-1394-4bf5-bf7a-c5054e3d5ae2",
     "name": "Muslim Family Feud - Part 1",
