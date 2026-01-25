@@ -1,7 +1,14 @@
-// Generated on 01/25/2026, 11:45:02 (EST)
+// Generated on 01/25/2026, 12:00:02 (EST)
 // Total records: 3336
 
 export const games = [
+  {
+    "id": "8322f7eb-d5a1-4764-88c6-5fb97bae8b05",
+    "name": "practice game",
+    "creatorId": "115463339385072005269",
+    "creatorLastName": "bag",
+    "createdAt": "01/25/2026, 11:51:18"
+  },
   {
     "id": "cbf805e5-db38-47ea-88db-bae82f6c6e36",
     "name": "Bible Trivia",
@@ -99,13 +106,6 @@ export const games = [
     "creatorId": "108448489309867925006",
     "creatorLastName": "Waller",
     "createdAt": "01/24/2026, 19:34:14"
-  },
-  {
-    "id": "e7c9b546-a82f-442e-8c88-f561f9b15d47",
-    "name": "Game 2",
-    "creatorId": "115463339385072005269",
-    "creatorLastName": "bag",
-    "createdAt": "01/24/2026, 16:27:08"
   },
   {
     "id": "796b98df-0ff7-4594-b4cb-7fb1cd6020e7",
