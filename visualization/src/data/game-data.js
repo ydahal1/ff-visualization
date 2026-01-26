@@ -1,7 +1,14 @@
-// Generated on 01/26/2026, 18:00:02 (EST)
-// Total records: 3381
+// Generated on 01/26/2026, 18:15:03 (EST)
+// Total records: 3382
 
 export const games = [
+  {
+    "id": "08c4c34e-cb67-44f3-b87a-649c2feae871",
+    "name": "Family feud",
+    "creatorId": "105895537975140987518",
+    "creatorLastName": "Pillsbury",
+    "createdAt": "01/26/2026, 18:12:25"
+  },
   {
     "id": "e8eeb6a9-85c2-4046-b224-e0969a5e5b21",
     "name": "Round 1",
