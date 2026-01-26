@@ -1,7 +1,14 @@
-// Generated on 01/26/2026, 10:30:02 (EST)
-// Total records: 3356
+// Generated on 01/26/2026, 10:45:03 (EST)
+// Total records: 3357
 
 export const games = [
+  {
+    "id": "f91cc84d-0d12-4965-a234-2dfc60ca0d2a",
+    "name": "Chapter 1 Recap",
+    "creatorId": "114476554657358058082",
+    "creatorLastName": "Dorsey-Thurman",
+    "createdAt": "01/26/2026, 10:32:56"
+  },
   {
     "id": "90734a10-f83b-4b87-b06d-3711fc336beb",
     "name": "game 1",
