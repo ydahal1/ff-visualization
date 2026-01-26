@@ -1,7 +1,12 @@
-// Generated on 01/26/2026, 10:15:00 (EST)
-// Total records: 2032
+// Generated on 01/26/2026, 10:30:01 (EST)
+// Total records: 2033
 
 export const users = [
+  {
+    "id": "114476554657358058082",
+    "lName": "Dorsey-Thurman",
+    "createdAt": "01/26/2026, 10:18:37"
+  },
   {
     "id": "111984407951974654220",
     "lName": "Panadera ",
