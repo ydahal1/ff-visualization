@@ -1,7 +1,14 @@
-// Generated on 01/26/2026, 09:30:03 (EST)
-// Total records: 3354
+// Generated on 01/26/2026, 09:45:03 (EST)
+// Total records: 3355
 
 export const games = [
+  {
+    "id": "be433c68-37ec-428b-88aa-aba78bdb279f",
+    "name": "Sec 2 - Nutrition",
+    "creatorId": "110902424727798175163",
+    "creatorLastName": "S",
+    "createdAt": "01/26/2026, 09:33:12"
+  },
   {
     "id": "2549bc78-038b-42e0-825a-6951db65d766",
     "name": "Grand Finale",
