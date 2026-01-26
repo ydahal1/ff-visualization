@@ -1,21 +1,7 @@
-// Generated on 01/26/2026, 12:30:04 (EST)
-// Total records: 3365
+// Generated on 01/26/2026, 12:45:02 (EST)
+// Total records: 3363
 
 export const games = [
-  {
-    "id": "955f5585-6127-44fc-a6e5-5ebce5716764",
-    "name": "Test",
-    "creatorId": "105564340795493765841",
-    "creatorLastName": "Holifield",
-    "createdAt": "01/26/2026, 12:27:08"
-  },
-  {
-    "id": "96efecb6-94e4-4d56-ae7e-204f98aaffb6",
-    "name": "hjmjm",
-    "creatorId": "105564340795493765841",
-    "creatorLastName": "Holifield",
-    "createdAt": "01/26/2026, 12:23:18"
-  },
   {
     "id": "a218d937-4c08-4ae6-8f2c-990bd803d2b9",
     "name": "The Schematic Showdown",
