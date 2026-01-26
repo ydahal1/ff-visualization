@@ -1,7 +1,14 @@
-// Generated on 01/26/2026, 10:15:03 (EST)
-// Total records: 3355
+// Generated on 01/26/2026, 10:30:02 (EST)
+// Total records: 3356
 
 export const games = [
+  {
+    "id": "90734a10-f83b-4b87-b06d-3711fc336beb",
+    "name": "game 1",
+    "creatorId": "115058201401618548263",
+    "creatorLastName": "Maddin",
+    "createdAt": "01/26/2026, 10:26:59"
+  },
   {
     "id": "be433c68-37ec-428b-88aa-aba78bdb279f",
     "name": "Sec 2 - Nutrition",
