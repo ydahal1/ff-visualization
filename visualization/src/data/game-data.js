@@ -1,7 +1,14 @@
-// Generated on 01/26/2026, 13:30:02 (EST)
+// Generated on 01/26/2026, 13:45:03 (EST)
 // Total records: 3368
 
 export const games = [
+  {
+    "id": "d6ba78d6-6a21-49e1-84d6-d8106f4a6b41",
+    "name": "New game",
+    "creatorId": "118309835471270032206",
+    "creatorLastName": "Sessions",
+    "createdAt": "01/26/2026, 13:32:31"
+  },
   {
     "id": "ce0e00c2-d00c-4774-af55-ca3726e40002",
     "name": "Coffee Oasis 1/30/26",
@@ -29,13 +36,6 @@ export const games = [
     "creatorId": "113834129870340293532",
     "creatorLastName": "Cooper",
     "createdAt": "01/26/2026, 13:12:30"
-  },
-  {
-    "id": "2ee5a33b-a841-417b-9c92-5ed45589fc93",
-    "name": "SE Feud",
-    "creatorId": "118309835471270032206",
-    "creatorLastName": "Sessions",
-    "createdAt": "01/26/2026, 13:00:44"
   },
   {
     "id": "a218d937-4c08-4ae6-8f2c-990bd803d2b9",
