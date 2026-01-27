@@ -1,7 +1,14 @@
-// Generated on 01/27/2026, 12:30:03 (EST)
-// Total records: 3415
+// Generated on 01/27/2026, 12:45:03 (EST)
+// Total records: 3416
 
 export const games = [
+  {
+    "id": "afec385a-3cef-4dbf-95dd-46a41d3dbec4",
+    "name": "ggj",
+    "creatorId": "110192564942890414123",
+    "creatorLastName": "Kraiem",
+    "createdAt": "01/27/2026, 12:37:07"
+  },
   {
     "id": "d54eb516-fb13-4b8d-ae60-f3b2581b25ba",
     "name": "God finds you where you are",
