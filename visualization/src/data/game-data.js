@@ -1,7 +1,21 @@
-// Generated on 01/27/2026, 14:30:03 (EST)
+// Generated on 01/27/2026, 14:45:03 (EST)
 // Total records: 3422
 
 export const games = [
+  {
+    "id": "522590ac-54bb-4f82-a5d3-748bb1b17bf2",
+    "name": "Dating & First impressions",
+    "creatorId": "106378732119640227934",
+    "creatorLastName": "Foster",
+    "createdAt": "01/27/2026, 14:43:27"
+  },
+  {
+    "id": "d378ea2d-f80d-4c56-b55e-00dde4eeb832",
+    "name": "bright2",
+    "creatorId": "106014527267691367107",
+    "creatorLastName": "Brightview",
+    "createdAt": "01/27/2026, 14:35:00"
+  },
   {
     "id": "aa369296-d4d3-49ff-b98a-81883d266e0c",
     "name": "brightview",
@@ -17909,25 +17923,11 @@ export const games = [
     "createdAt": "12/03/2025, 02:15:45"
   },
   {
-    "id": "387a45cc-c1b9-4c77-8b2b-9888154414df",
-    "name": "Pure",
-    "creatorId": "106378732119640227934",
-    "creatorLastName": "Foster",
-    "createdAt": "12/03/2025, 24:37:24"
-  },
-  {
     "id": "3e434645-e821-4410-a9e1-a1e354d69088",
     "name": "matt and max test",
     "creatorId": "100116919309577208786",
     "creatorLastName": "Apesa",
     "createdAt": "12/02/2025, 23:41:38"
-  },
-  {
-    "id": "cb6791d2-df1d-464c-9de5-79b2ab13618c",
-    "name": "Pollution",
-    "creatorId": "106378732119640227934",
-    "creatorLastName": "Foster",
-    "createdAt": "12/02/2025, 23:36:35"
   },
   {
     "id": "12055808-b9f3-47ef-aa15-f3697a1ae7b7",
