@@ -1,7 +1,21 @@
-// Generated on 01/27/2026, 09:45:03 (EST)
-// Total records: 3410
+// Generated on 01/27/2026, 10:00:04 (EST)
+// Total records: 3412
 
 export const games = [
+  {
+    "id": "903191c5-fd09-49be-909a-c3b606e32c1a",
+    "name": "Flavor Fued",
+    "creatorId": "104720802099356734545",
+    "creatorLastName": "Brunetti",
+    "createdAt": "01/27/2026, 09:55:41"
+  },
+  {
+    "id": "0e73c346-4ae0-429d-a374-917c964be739",
+    "name": "Test",
+    "creatorId": "111808288975539317006",
+    "creatorLastName": "Collins",
+    "createdAt": "01/27/2026, 09:53:42"
+  },
   {
     "id": "c55fdae6-0036-45db-8243-f15eef204539",
     "name": "TRY2",
