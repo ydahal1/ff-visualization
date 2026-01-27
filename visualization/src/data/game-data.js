@@ -1,7 +1,14 @@
-// Generated on 01/26/2026, 22:30:03 (EST)
+// Generated on 01/26/2026, 22:45:02 (EST)
 // Total records: 3400
 
 export const games = [
+  {
+    "id": "71d96909-b924-4841-9c4f-61d734667169",
+    "name": "Boys VS GIRLS",
+    "creatorId": "100187210282612743423",
+    "creatorLastName": "YT",
+    "createdAt": "01/26/2026, 22:43:08"
+  },
   {
     "id": "f3c92f50-0e4d-4f56-a6b2-fc2232e62518",
     "name": "Second Round",
@@ -15,13 +22,6 @@ export const games = [
     "creatorId": "113259836692994790778",
     "creatorLastName": "Amir",
     "createdAt": "01/26/2026, 22:19:22"
-  },
-  {
-    "id": "48128f9d-cae3-4d71-8919-e9709985a53e",
-    "name": "Family",
-    "creatorId": "100187210282612743423",
-    "creatorLastName": "YT",
-    "createdAt": "01/26/2026, 22:15:59"
   },
   {
     "id": "a708ffa5-dde6-4101-a694-2e5568e77a22",
