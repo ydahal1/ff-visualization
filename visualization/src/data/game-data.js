@@ -1,7 +1,21 @@
-// Generated on 01/26/2026, 21:45:03 (EST)
-// Total records: 3396
+// Generated on 01/26/2026, 22:00:03 (EST)
+// Total records: 3398
 
 export const games = [
+  {
+    "id": "a708ffa5-dde6-4101-a694-2e5568e77a22",
+    "name": "test 1",
+    "creatorId": "102645331813064864071",
+    "creatorLastName": "Narsa",
+    "createdAt": "01/26/2026, 21:49:57"
+  },
+  {
+    "id": "7973f028-1549-46fc-a3ef-3d528cb3cfae",
+    "name": "USM HOUSe",
+    "creatorId": "107556393032739195450",
+    "creatorLastName": "Flores",
+    "createdAt": "01/26/2026, 21:47:28"
+  },
   {
     "id": "05c99c6c-e3a4-496b-ae1a-c17e0b7233b6",
     "name": "GAME 1 MATCH 1",
