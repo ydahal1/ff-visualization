@@ -1,7 +1,14 @@
-// Generated on 01/27/2026, 10:30:04 (EST)
-// Total records: 3413
+// Generated on 01/27/2026, 10:45:03 (EST)
+// Total records: 3414
 
 export const games = [
+  {
+    "id": "79d51e3c-1902-471f-a614-53b5e7633351",
+    "name": "Danville Feud 2",
+    "creatorId": "102379588822931064938",
+    "creatorLastName": "Kioa",
+    "createdAt": "01/27/2026, 10:34:21"
+  },
   {
     "id": "85ab2272-c58b-4399-8228-75662beec545",
     "name": "Danville Feud",
