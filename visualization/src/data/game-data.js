@@ -1,5 +1,5 @@
-// Generated on 01/27/2026, 12:00:03 (EST)
-// Total records: 3416
+// Generated on 01/27/2026, 12:15:03 (EST)
+// Total records: 3415
 
 export const games = [
   {
@@ -8,13 +8,6 @@ export const games = [
     "creatorId": "113834129870340293532",
     "creatorLastName": "Cooper",
     "createdAt": "01/27/2026, 11:54:54"
-  },
-  {
-    "id": "b4cc7fb7-6482-4ceb-8868-739dc2273d52",
-    "name": "NAEP FAMILY FEUD",
-    "creatorId": "117690885660177322492",
-    "creatorLastName": "Ferrell",
-    "createdAt": "01/27/2026, 11:49:30"
   },
   {
     "id": "79d51e3c-1902-471f-a614-53b5e7633351",
