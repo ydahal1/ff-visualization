@@ -1,9 +1,9 @@
-// Generated on 01/27/2026, 16:57:03 (EST)
+// Generated on 01/27/2026, 16:58:03 (EST)
 // Total records: 1
 
 export const systemMetrics = [
   {
-    "timestamp": "2026-01-27T21:57:02.454Z",
+    "timestamp": "2026-01-27T21:58:02.241Z",
     "platform": "darwin",
     "environment": "production",
     "ssl": {
@@ -30,9 +30,9 @@ export const systemMetrics = [
     ],
     "memory": {
       "total": "16.00GB",
-      "used": "15.95GB",
-      "free": "0.05GB",
-      "usePercent": 100
+      "used": "15.68GB",
+      "free": "0.32GB",
+      "usePercent": 98
     },
     "docker": {
       "skipped": true,
@@ -47,9 +47,9 @@ export const systemMetrics = [
       "reason": "Redis/Docker not available"
     },
     "cpu": {
-      "1min": 5.91,
-      "5min": 4.28,
-      "15min": 4
+      "1min": 4.06,
+      "5min": 4.04,
+      "15min": 3.93
     }
   }
 ];
