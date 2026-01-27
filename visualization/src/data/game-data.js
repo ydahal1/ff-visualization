@@ -1,7 +1,49 @@
-// Generated on 01/26/2026, 23:45:03 (EST)
-// Total records: 3403
+// Generated on 01/27/2026, 24:00:02 (EST)
+// Total records: 3409
 
 export const games = [
+  {
+    "id": "7881db31-76ec-460f-b90c-a46a55ee18a0",
+    "name": "Article Points Evaluation",
+    "creatorId": "105978636487618779195",
+    "creatorLastName": "Ansari",
+    "createdAt": "01/26/2026, 23:55:30"
+  },
+  {
+    "id": "00424654-4d88-4f4e-a57e-e5bebc4d7501",
+    "name": "Final Round",
+    "creatorId": "106038684311840365143",
+    "creatorLastName": "K",
+    "createdAt": "01/26/2026, 23:51:40"
+  },
+  {
+    "id": "d9022d95-76ed-4a55-b9ec-39aa220f5753",
+    "name": "Round 6 (Semi-final)",
+    "creatorId": "106038684311840365143",
+    "creatorLastName": "K",
+    "createdAt": "01/26/2026, 23:50:49"
+  },
+  {
+    "id": "0e9e1062-abeb-4729-8698-11bb0f400543",
+    "name": "Round 5 (Semi-final)",
+    "creatorId": "106038684311840365143",
+    "creatorLastName": "K",
+    "createdAt": "01/26/2026, 23:49:58"
+  },
+  {
+    "id": "21f5e7cd-a122-470b-8ec5-830312b647cb",
+    "name": "Round 4",
+    "creatorId": "106038684311840365143",
+    "creatorLastName": "K",
+    "createdAt": "01/26/2026, 23:49:10"
+  },
+  {
+    "id": "ef6db771-20d3-419b-9029-e82097b3f4ee",
+    "name": "Round 3",
+    "creatorId": "106038684311840365143",
+    "creatorLastName": "K",
+    "createdAt": "01/26/2026, 23:46:45"
+  },
   {
     "id": "f625822f-1632-48a7-ac3c-4f77fb382efc",
     "name": "Round 2",
