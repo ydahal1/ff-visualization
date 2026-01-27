@@ -1,7 +1,12 @@
-// Generated on 01/27/2026, 14:00:01 (EST)
-// Total records: 2077
+// Generated on 01/27/2026, 14:15:00 (EST)
+// Total records: 2078
 
 export const users = [
+  {
+    "id": "106014527267691367107",
+    "lName": "Brightview",
+    "createdAt": "01/27/2026, 14:03:46"
+  },
   {
     "id": "107933225849863669747",
     "lName": "Wilkinson",
