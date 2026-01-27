@@ -1,7 +1,14 @@
-// Generated on 01/27/2026, 08:30:03 (EST)
-// Total records: 3408
+// Generated on 01/27/2026, 08:45:02 (EST)
+// Total records: 3409
 
 export const games = [
+  {
+    "id": "a45fa2a6-fbf8-43ec-a38c-cfb3f1b5cb51",
+    "name": "TRY1",
+    "creatorId": "111461084386104641669",
+    "creatorLastName": "T",
+    "createdAt": "01/27/2026, 08:40:41"
+  },
   {
     "id": "64426c4f-7fcc-400b-aca8-c2aae06094c1",
     "name": "fam 2 final",
