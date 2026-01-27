@@ -1,7 +1,21 @@
-// Generated on 01/27/2026, 16:15:04 (EST)
-// Total records: 3422
+// Generated on 01/27/2026, 16:30:03 (EST)
+// Total records: 3424
 
 export const games = [
+  {
+    "id": "8879417f-b18b-433e-996e-d0a5fc174f2a",
+    "name": "Team 1",
+    "creatorId": "108925468788254744341",
+    "creatorLastName": "Miller",
+    "createdAt": "01/27/2026, 16:21:07"
+  },
+  {
+    "id": "7fd7baad-4e54-4b1e-89a5-31d560e6c147",
+    "name": "Royalty Feud",
+    "creatorId": "108208435996214491225",
+    "creatorLastName": "Romero",
+    "createdAt": "01/27/2026, 16:17:04"
+  },
   {
     "id": "522590ac-54bb-4f82-a5d3-748bb1b17bf2",
     "name": "Dating & First impressions",
