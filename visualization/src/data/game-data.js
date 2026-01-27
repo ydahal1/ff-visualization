@@ -1,7 +1,14 @@
-// Generated on 01/27/2026, 05:00:03 (EST)
+// Generated on 01/27/2026, 05:15:03 (EST)
 // Total records: 3408
 
 export const games = [
+  {
+    "id": "64426c4f-7fcc-400b-aca8-c2aae06094c1",
+    "name": "fam 2 final",
+    "creatorId": "105331787739585984928",
+    "creatorLastName": "Kiss",
+    "createdAt": "01/27/2026, 05:12:05"
+  },
   {
     "id": "7881db31-76ec-460f-b90c-a46a55ee18a0",
     "name": "Article Points Evaluation",
@@ -2059,13 +2066,6 @@ export const games = [
     "creatorId": "104923433299025136835",
     "creatorLastName": "Dewey",
     "createdAt": "01/19/2026, 11:02:18"
-  },
-  {
-    "id": "4415b340-3377-4e8b-b1fa-694944a0e7f3",
-    "name": "Fam 2",
-    "creatorId": "105331787739585984928",
-    "creatorLastName": "Kiss",
-    "createdAt": "01/19/2026, 10:27:32"
   },
   {
     "id": "7cb124e2-1171-4315-8df3-28cba166d7a6",
