@@ -1,7 +1,14 @@
-// Generated on 01/27/2026, 14:00:03 (EST)
-// Total records: 3421
+// Generated on 01/27/2026, 14:15:03 (EST)
+// Total records: 3422
 
 export const games = [
+  {
+    "id": "aa369296-d4d3-49ff-b98a-81883d266e0c",
+    "name": "brightview",
+    "creatorId": "106014527267691367107",
+    "creatorLastName": "Brightview",
+    "createdAt": "01/27/2026, 14:08:42"
+  },
   {
     "id": "38bf839b-cd3f-4c97-8bdc-ac5f6e1e91f5",
     "name": "Feud of the Shadows",
