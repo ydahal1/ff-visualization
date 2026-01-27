@@ -17,13 +17,18 @@ const App = () => {
   const menuItems = [
     {
       key: "users",
-      icon: <UserOutlined />,
+      icon: <UserOutlined />, 
       label: "User Statistics",
     },
     {
       key: "games",
-      icon: <PlayCircleOutlined />,
+      icon: <PlayCircleOutlined />, 
       label: "Game Statistics",
+    },
+    {
+      key: "system-metrics",
+      icon: <span role="img" aria-label="metrics">📊</span>,
+      label: "System Metrics",
     },
   ];
 
@@ -37,12 +42,21 @@ const App = () => {
   };
 
   // Render the current page based on selected menu
+  // Import SystemMetrics lazily
+  const SystemMetrics = React.lazy(() => import("./pages/SystemMetrics/SystemMetrics"));
+
   const renderCurrentPage = () => {
     switch (selectedMenu) {
       case "users":
         return <UserStatistics />;
       case "games":
         return <GameStatistics />;
+      case "system-metrics":
+        return (
+          <React.Suspense fallback={<div>Loading System Metrics...</div>}>
+            <SystemMetrics />
+          </React.Suspense>
+        );
       default:
         return <UserStatistics />;
     }
@@ -55,6 +69,8 @@ const App = () => {
         return "User Statistics";
       case "games":
         return "Game Statistics";
+      case "system-metrics":
+        return "System Metrics";
       default:
         return "User Statistics";
     }
