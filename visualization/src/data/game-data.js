@@ -1,7 +1,21 @@
-// Generated on 01/28/2026, 10:30:03 (EST)
-// Total records: 3447
+// Generated on 01/28/2026, 10:45:03 (EST)
+// Total records: 3448
 
 export const games = [
+  {
+    "id": "a0a5bb26-150c-470a-87bb-d96c9dbc0ed7",
+    "name": "Gut",
+    "creatorId": "108704964783328247407",
+    "creatorLastName": "Cairns",
+    "createdAt": "01/28/2026, 10:44:15"
+  },
+  {
+    "id": "bb118770-763f-4e3f-a7bb-e6ee79585588",
+    "name": "Family Fuse",
+    "creatorId": "103293636093868229549",
+    "creatorLastName": "Thao",
+    "createdAt": "01/28/2026, 10:31:32"
+  },
   {
     "id": "353caf20-1636-4d97-97b7-b3effc225bb8",
     "name": "DRAFT",
@@ -78,13 +92,6 @@ export const games = [
     "creatorId": "105978636487618779195",
     "creatorLastName": "Ansari",
     "createdAt": "01/28/2026, 04:12:11"
-  },
-  {
-    "id": "58f433c4-f1ae-42f9-b28d-c7fccf580201",
-    "name": "Family Fuse",
-    "creatorId": "103293636093868229549",
-    "creatorLastName": "Thao",
-    "createdAt": "01/28/2026, 24:41:46"
   },
   {
     "id": "315412b4-f8d5-4eb5-bb54-f7aab0094408",
