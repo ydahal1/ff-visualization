@@ -1,13 +1,20 @@
-// Generated on 01/27/2026, 20:45:02 (EST)
-// Total records: 3435
+// Generated on 01/27/2026, 21:00:04 (EST)
+// Total records: 3436
 
 export const games = [
   {
-    "id": "ffd1769b-c350-4bd4-8573-59e6a1109ed0",
-    "name": "Game 2",
+    "id": "f3856e34-602b-425e-977e-54e9d4c3462a",
+    "name": "Game Night Pt.2",
+    "creatorId": "107261614396982015716",
+    "creatorLastName": "Christian",
+    "createdAt": "01/27/2026, 20:53:02"
+  },
+  {
+    "id": "ebbcb7c4-0870-46d2-8129-d4338eb44553",
+    "name": "Game 3",
     "creatorId": "106489574771499788210",
     "creatorLastName": "Richardson",
-    "createdAt": "01/27/2026, 20:25:23"
+    "createdAt": "01/27/2026, 20:50:47"
   },
   {
     "id": "47abf211-e6d1-42ba-8fa1-5ba3051dcb95",
