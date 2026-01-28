@@ -1,7 +1,21 @@
-// Generated on 01/28/2026, 24:30:02 (EST)
-// Total records: 3440
+// Generated on 01/28/2026, 24:45:03 (EST)
+// Total records: 3442
 
 export const games = [
+  {
+    "id": "58f433c4-f1ae-42f9-b28d-c7fccf580201",
+    "name": "Family Fuse",
+    "creatorId": "103293636093868229549",
+    "creatorLastName": "Thao",
+    "createdAt": "01/28/2026, 24:41:46"
+  },
+  {
+    "id": "315412b4-f8d5-4eb5-bb54-f7aab0094408",
+    "name": "Family Fued",
+    "creatorId": "103293636093868229549",
+    "creatorLastName": "Thao",
+    "createdAt": "01/28/2026, 24:35:04"
+  },
   {
     "id": "2cf45142-ccba-4bc6-99d8-97d1a67641b4",
     "name": "Events Ultimate Family Feud",
