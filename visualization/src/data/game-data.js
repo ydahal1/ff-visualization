@@ -1,7 +1,14 @@
-// Generated on 01/28/2026, 10:15:04 (EST)
-// Total records: 3446
+// Generated on 01/28/2026, 10:30:03 (EST)
+// Total records: 3447
 
 export const games = [
+  {
+    "id": "353caf20-1636-4d97-97b7-b3effc225bb8",
+    "name": "DRAFT",
+    "creatorId": "100919761569664263397",
+    "creatorLastName": "McKenzie",
+    "createdAt": "01/28/2026, 10:19:55"
+  },
   {
     "id": "9791b7d6-bab0-466b-b04c-90a489a0d91b",
     "name": "JLL CAM Family Feud",
