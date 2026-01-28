@@ -1,5 +1,5 @@
-// Generated on 01/27/2026, 19:45:02 (EST)
-// Total records: 3433
+// Generated on 01/27/2026, 20:00:03 (EST)
+// Total records: 3430
 
 export const games = [
   {
@@ -15,13 +15,6 @@ export const games = [
     "creatorId": "107261614396982015716",
     "creatorLastName": "Christian",
     "createdAt": "01/27/2026, 19:24:33"
-  },
-  {
-    "id": "326538be-d26f-4aac-8b0d-af84b69a1c53",
-    "name": "Game 1",
-    "creatorId": "106489574771499788210",
-    "creatorLastName": "Richardson",
-    "createdAt": "01/27/2026, 19:22:42"
   },
   {
     "id": "da209f7c-4246-4242-8d45-35b3c9ada7f1",
@@ -309,13 +302,6 @@ export const games = [
     "creatorId": "111853250816652882217",
     "creatorLastName": "GABIANA",
     "createdAt": "01/26/2026, 21:41:03"
-  },
-  {
-    "id": "22db4110-bc6c-4ceb-b948-3fbee8bf69b8",
-    "name": "Game 2",
-    "creatorId": "101958550814684924269",
-    "creatorLastName": "Bache",
-    "createdAt": "01/26/2026, 20:39:36"
   },
   {
     "id": "9a99b887-84c7-4720-8e87-8a6ea745e799",
@@ -736,13 +722,6 @@ export const games = [
     "creatorId": "111442745649121839622",
     "creatorLastName": "Miller",
     "createdAt": "01/25/2026, 13:32:29"
-  },
-  {
-    "id": "2f425d87-7d82-45bb-9cbb-ed680fdd5cbd",
-    "name": "Game 1",
-    "creatorId": "101958550814684924269",
-    "creatorLastName": "Bache",
-    "createdAt": "01/25/2026, 13:00:43"
   },
   {
     "id": "889a1bfb-7ab4-4d6b-91d4-b87b8ab0777f",
