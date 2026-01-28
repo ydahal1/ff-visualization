@@ -1,5 +1,5 @@
-// Generated on 01/28/2026, 15:00:04 (EST)
-// Total records: 3454
+// Generated on 01/28/2026, 15:15:02 (EST)
+// Total records: 3453
 
 export const games = [
   {
@@ -1877,13 +1877,6 @@ export const games = [
     "creatorId": "110929545551318369101",
     "creatorLastName": "Church of Mount Clemens",
     "createdAt": "01/21/2026, 13:06:04"
-  },
-  {
-    "id": "2ebf4760-1530-4408-9638-13f04658a117",
-    "name": "Round 4 (Grand Prix & Speed Trap)",
-    "creatorId": "105259579177451063261",
-    "creatorLastName": "Burke",
-    "createdAt": "01/21/2026, 13:00:46"
   },
   {
     "id": "d6841101-1025-4c00-8580-bab5cbccae7f",
