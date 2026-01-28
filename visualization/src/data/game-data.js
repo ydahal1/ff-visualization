@@ -1,7 +1,28 @@
-// Generated on 01/27/2026, 21:45:04 (EST)
-// Total records: 3436
+// Generated on 01/27/2026, 22:00:03 (EST)
+// Total records: 3439
 
 export const games = [
+  {
+    "id": "8e6c37f8-5429-4119-af9c-5ced3d34df69",
+    "name": "Match 1",
+    "creatorId": "100940783342679113617",
+    "creatorLastName": "sylla",
+    "createdAt": "01/27/2026, 21:53:32"
+  },
+  {
+    "id": "5241b356-9154-4c67-bf3a-97d69e0186c8",
+    "name": "Test",
+    "creatorId": "108827716396025717500",
+    "creatorLastName": "Doddoli",
+    "createdAt": "01/27/2026, 21:50:43"
+  },
+  {
+    "id": "eb8e20fa-3d30-434e-a9ec-800b8fe5fcf0",
+    "name": "Faculty Family Feud 1",
+    "creatorId": "106552283687517172200",
+    "creatorLastName": "willett",
+    "createdAt": "01/27/2026, 21:47:55"
+  },
   {
     "id": "f3856e34-602b-425e-977e-54e9d4c3462a",
     "name": "Game Night Pt.2",
