@@ -1,7 +1,14 @@
-// Generated on 01/28/2026, 16:15:03 (EST)
-// Total records: 3455
+// Generated on 01/28/2026, 16:30:02 (EST)
+// Total records: 3456
 
 export const games = [
+  {
+    "id": "878e1e53-296f-4223-9b8d-138671b5b8d1",
+    "name": "Family Feud",
+    "creatorId": "106790912205865663604",
+    "creatorLastName": "Meyer",
+    "createdAt": "01/28/2026, 16:27:39"
+  },
   {
     "id": "172271bf-64c6-4266-9108-97e0c87eb4eb",
     "name": "Ataxia",
