@@ -1,7 +1,14 @@
-// Generated on 01/27/2026, 22:15:03 (EST)
+// Generated on 01/27/2026, 22:30:03 (EST)
 // Total records: 3439
 
 export const games = [
+  {
+    "id": "4729220c-26f6-4f99-978e-8c14b7a703c3",
+    "name": "Faculty Family Feud",
+    "creatorId": "106552283687517172200",
+    "creatorLastName": "willett",
+    "createdAt": "01/27/2026, 22:18:37"
+  },
   {
     "id": "8e6c37f8-5429-4119-af9c-5ced3d34df69",
     "name": "Match 1",
@@ -15,13 +22,6 @@ export const games = [
     "creatorId": "108827716396025717500",
     "creatorLastName": "Doddoli",
     "createdAt": "01/27/2026, 21:50:43"
-  },
-  {
-    "id": "eb8e20fa-3d30-434e-a9ec-800b8fe5fcf0",
-    "name": "Faculty Family Feud 1",
-    "creatorId": "106552283687517172200",
-    "creatorLastName": "willett",
-    "createdAt": "01/27/2026, 21:47:55"
   },
   {
     "id": "f3856e34-602b-425e-977e-54e9d4c3462a",
@@ -18945,17 +18945,17 @@ export const games = [
     "createdAt": "11/29/2025, 15:11:36"
   },
   {
-    "id": "fdbe6353-a818-43ea-bc00-91e040d1c7d3",
-    "name": "Frinds feud",
-    "creatorId": "115589289485058984339",
-    "creatorLastName": "Chain",
-    "createdAt": "11/29/2025, 15:05:00"
-  },
-  {
     "id": "93f97fca-47f8-4714-bc07-17b7ca463d15",
     "name": "Friday Evening Fun",
     "creatorId": "110091634567525704379",
     "creatorLastName": "Guy",
+    "createdAt": "11/29/2025, 15:05:00"
+  },
+  {
+    "id": "fdbe6353-a818-43ea-bc00-91e040d1c7d3",
+    "name": "Frinds feud",
+    "creatorId": "115589289485058984339",
+    "creatorLastName": "Chain",
     "createdAt": "11/29/2025, 15:05:00"
   },
   {
