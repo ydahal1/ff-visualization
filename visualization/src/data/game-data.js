@@ -1,7 +1,21 @@
-// Generated on 01/27/2026, 20:00:03 (EST)
-// Total records: 3430
+// Generated on 01/27/2026, 20:15:03 (EST)
+// Total records: 3432
 
 export const games = [
+  {
+    "id": "32aa32e7-0eaf-4f98-8fa9-5d3d7c9969a6",
+    "name": "Game 1",
+    "creatorId": "106489574771499788210",
+    "creatorLastName": "Richardson",
+    "createdAt": "01/27/2026, 20:02:41"
+  },
+  {
+    "id": "bce45a5a-45ea-4fc4-b96f-08c800f44adb",
+    "name": "G",
+    "creatorId": "101958550814684924269",
+    "creatorLastName": "Bache",
+    "createdAt": "01/27/2026, 20:00:31"
+  },
   {
     "id": "ff1fa09d-370f-457f-9d08-15909a0ff0e7",
     "name": "SSA Game Test",
