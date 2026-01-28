@@ -1,7 +1,49 @@
-// Generated on 01/28/2026, 05:30:03 (EST)
+// Generated on 01/28/2026, 05:45:03 (EST)
 // Total records: 3443
 
 export const games = [
+  {
+    "id": "ae8fb769-5740-4d6f-ad4e-ce1ca76ce722",
+    "name": "Grand Finale",
+    "creatorId": "106391635171992686876",
+    "creatorLastName": "Amakrane",
+    "createdAt": "01/28/2026, 05:34:56"
+  },
+  {
+    "id": "5ad84cf0-9336-4a73-b055-c3c4f1cc15ce",
+    "name": "Semi-finals round 1.2",
+    "creatorId": "106391635171992686876",
+    "creatorLastName": "Amakrane",
+    "createdAt": "01/28/2026, 05:34:10"
+  },
+  {
+    "id": "b33ef3c4-8c2b-4358-8c3b-83a5c770ce92",
+    "name": "Semi-finals round 1.1",
+    "creatorId": "106391635171992686876",
+    "creatorLastName": "Amakrane",
+    "createdAt": "01/28/2026, 05:33:22"
+  },
+  {
+    "id": "8e1f3842-172b-45b3-8a5b-7e133bf0d1fb",
+    "name": "Qualification round 1.3",
+    "creatorId": "106391635171992686876",
+    "creatorLastName": "Amakrane",
+    "createdAt": "01/28/2026, 05:32:23"
+  },
+  {
+    "id": "b3dfb1ed-9ccf-4e48-8d3e-a78f2cbc6c07",
+    "name": "Qualification round 1.2",
+    "creatorId": "106391635171992686876",
+    "creatorLastName": "Amakrane",
+    "createdAt": "01/28/2026, 05:31:49"
+  },
+  {
+    "id": "7c261e22-82dc-4394-8a7f-65179fc032a1",
+    "name": "Qualification round 1.1",
+    "creatorId": "106391635171992686876",
+    "creatorLastName": "Amakrane",
+    "createdAt": "01/28/2026, 05:31:06"
+  },
   {
     "id": "bbbf2bc7-5157-4774-b2f1-69db726ec233",
     "name": "family feud",
@@ -666,48 +708,6 @@ export const games = [
     "creatorId": "110902424727798175163",
     "creatorLastName": "S",
     "createdAt": "01/26/2026, 09:33:12"
-  },
-  {
-    "id": "2549bc78-038b-42e0-825a-6951db65d766",
-    "name": "Grand Finale",
-    "creatorId": "106391635171992686876",
-    "creatorLastName": "Amakrane",
-    "createdAt": "01/26/2026, 08:11:01"
-  },
-  {
-    "id": "c4657628-5b96-4131-9746-5b6b3d60710f",
-    "name": "Round 2.2",
-    "creatorId": "106391635171992686876",
-    "creatorLastName": "Amakrane",
-    "createdAt": "01/26/2026, 08:09:32"
-  },
-  {
-    "id": "0e20cc57-b242-4b2f-ae83-c86ef7dd0b85",
-    "name": "Round 2.1",
-    "creatorId": "106391635171992686876",
-    "creatorLastName": "Amakrane",
-    "createdAt": "01/26/2026, 08:08:46"
-  },
-  {
-    "id": "d7f360c1-b64b-4e37-b651-52ecab765725",
-    "name": "Round 1.3",
-    "creatorId": "106391635171992686876",
-    "creatorLastName": "Amakrane",
-    "createdAt": "01/26/2026, 08:07:47"
-  },
-  {
-    "id": "4a92591e-1641-47f3-9c11-08a42ebcb68a",
-    "name": "Round 1.2",
-    "creatorId": "106391635171992686876",
-    "creatorLastName": "Amakrane",
-    "createdAt": "01/26/2026, 08:06:14"
-  },
-  {
-    "id": "3e185276-c8ef-4afb-b61a-cdf5f29abdfc",
-    "name": "Round 1",
-    "creatorId": "106391635171992686876",
-    "creatorLastName": "Amakrane",
-    "createdAt": "01/26/2026, 08:04:42"
   },
   {
     "id": "f9413fb8-b58a-42ac-9f7c-1bf3e7fd4011",
