@@ -1,7 +1,14 @@
-// Generated on 01/28/2026, 09:00:04 (EST)
-// Total records: 3444
+// Generated on 01/28/2026, 09:15:03 (EST)
+// Total records: 3445
 
 export const games = [
+  {
+    "id": "5e6f6d78-4b19-4dd3-ab39-67c1772e4d26",
+    "name": "Match 2",
+    "creatorId": "100940783342679113617",
+    "creatorLastName": "sylla",
+    "createdAt": "01/28/2026, 09:05:23"
+  },
   {
     "id": "b8ba0fac-5a71-4a79-acbc-e5d76489403b",
     "name": "TBI",
