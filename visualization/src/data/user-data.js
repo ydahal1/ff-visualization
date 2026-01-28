@@ -1,7 +1,12 @@
-// Generated on 01/28/2026, 14:15:01 (EST)
-// Total records: 2097
+// Generated on 01/28/2026, 14:30:01 (EST)
+// Total records: 2098
 
 export const users = [
+  {
+    "id": "116281982662036571223",
+    "lName": "Dantuono",
+    "createdAt": "01/28/2026, 14:25:29"
+  },
   {
     "id": "116413800472429314190",
     "lName": "Akers",
