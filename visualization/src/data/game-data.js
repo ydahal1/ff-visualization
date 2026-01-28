@@ -1,7 +1,28 @@
-// Generated on 01/27/2026, 20:15:03 (EST)
-// Total records: 3432
+// Generated on 01/27/2026, 20:30:03 (EST)
+// Total records: 3435
 
 export const games = [
+  {
+    "id": "ffd1769b-c350-4bd4-8573-59e6a1109ed0",
+    "name": "Game 2",
+    "creatorId": "106489574771499788210",
+    "creatorLastName": "Richardson",
+    "createdAt": "01/27/2026, 20:25:23"
+  },
+  {
+    "id": "47abf211-e6d1-42ba-8fa1-5ba3051dcb95",
+    "name": "VSA FAMILY FEUD",
+    "creatorId": "102051420225794454488",
+    "creatorLastName": "Collins",
+    "createdAt": "01/27/2026, 20:19:53"
+  },
+  {
+    "id": "e6375e56-3ce5-4d75-a4b9-42c599363831",
+    "name": "1",
+    "creatorId": "101958550814684924269",
+    "creatorLastName": "Bache",
+    "createdAt": "01/27/2026, 20:19:45"
+  },
   {
     "id": "32aa32e7-0eaf-4f98-8fa9-5d3d7c9969a6",
     "name": "Game 1",
