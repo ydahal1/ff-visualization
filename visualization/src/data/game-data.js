@@ -1,7 +1,14 @@
-// Generated on 01/28/2026, 04:00:03 (EST)
-// Total records: 3442
+// Generated on 01/28/2026, 04:15:02 (EST)
+// Total records: 3443
 
 export const games = [
+  {
+    "id": "bbbf2bc7-5157-4774-b2f1-69db726ec233",
+    "name": "family feud",
+    "creatorId": "105978636487618779195",
+    "creatorLastName": "Ansari",
+    "createdAt": "01/28/2026, 04:12:11"
+  },
   {
     "id": "58f433c4-f1ae-42f9-b28d-c7fccf580201",
     "name": "Family Fuse",
