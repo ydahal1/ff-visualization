@@ -1,13 +1,13 @@
-// Generated on 01/27/2026, 19:30:03 (EST)
+// Generated on 01/27/2026, 19:45:02 (EST)
 // Total records: 3433
 
 export const games = [
   {
-    "id": "1f6d6900-7706-44ff-b1d6-b00c42e6dab2",
-    "name": "pub family fued",
-    "creatorId": "100940783342679113617",
-    "creatorLastName": "sylla",
-    "createdAt": "01/27/2026, 19:27:44"
+    "id": "ff1fa09d-370f-457f-9d08-15909a0ff0e7",
+    "name": "SSA Game Test",
+    "creatorId": "104627499507420710867",
+    "creatorLastName": "G",
+    "createdAt": "01/27/2026, 19:42:26"
   },
   {
     "id": "4537d217-03a6-4796-9969-e73d6237b5c5",
