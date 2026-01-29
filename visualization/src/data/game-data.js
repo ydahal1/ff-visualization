@@ -1,14 +1,7 @@
-// Generated on 01/29/2026, 17:00:03 (EST)
-// Total records: 3490
+// Generated on 01/29/2026, 17:15:03 (EST)
+// Total records: 3489
 
 export const games = [
-  {
-    "id": "923541de-f1f0-403b-9fbb-46e936230ad6",
-    "name": "Monsuno's Family Feud",
-    "creatorId": "104086288524518466054",
-    "creatorLastName": "987",
-    "createdAt": "01/29/2026, 16:39:11"
-  },
   {
     "id": "18826051-2c90-490a-bfc8-c3415317c69f",
     "name": "Property Feud",
