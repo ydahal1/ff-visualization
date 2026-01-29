@@ -1,7 +1,28 @@
-// Generated on 01/29/2026, 15:15:04 (EST)
-// Total records: 3486
+// Generated on 01/29/2026, 15:30:03 (EST)
+// Total records: 3489
 
 export const games = [
+  {
+    "id": "58fb6018-8081-4861-bfc7-6bba51b545b6",
+    "name": "Game 2",
+    "creatorId": "103959781728268025518",
+    "creatorLastName": "Fuentes",
+    "createdAt": "01/29/2026, 15:23:51"
+  },
+  {
+    "id": "fde2af34-419b-4ca9-a22a-e9c22476e2a0",
+    "name": "Game 1",
+    "creatorId": "103959781728268025518",
+    "creatorLastName": "Fuentes",
+    "createdAt": "01/29/2026, 15:21:44"
+  },
+  {
+    "id": "346a25ed-924c-435b-8f71-eb033f662d48",
+    "name": "Monsuno's Family Feud",
+    "creatorId": "104086288524518466054",
+    "creatorLastName": "987",
+    "createdAt": "01/29/2026, 15:16:10"
+  },
   {
     "id": "b38e9f57-8891-4ceb-8d2a-fa0fc0725e7c",
     "name": "Black History Month Family Feud (2026 Edition)",
