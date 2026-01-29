@@ -1,7 +1,21 @@
-// Generated on 01/29/2026, 17:45:03 (EST)
-// Total records: 3491
+// Generated on 01/29/2026, 18:00:04 (EST)
+// Total records: 3492
 
 export const games = [
+  {
+    "id": "0f060f4a-d54f-4f5c-b004-b6825f228faa",
+    "name": "T375 FF",
+    "creatorId": "117945766036166157494",
+    "creatorLastName": "Lee",
+    "createdAt": "01/29/2026, 17:58:36"
+  },
+  {
+    "id": "b79f5add-0041-4797-9639-4ced92525a85",
+    "name": "Everlight 2",
+    "creatorId": "103913113227898878894",
+    "creatorLastName": "Marushkevych",
+    "createdAt": "01/29/2026, 17:57:13"
+  },
   {
     "id": "4b7c31c9-6da7-4a14-bfde-a0bbefaac438",
     "name": "Everlight 1",
@@ -813,13 +827,6 @@ export const games = [
     "creatorId": "108723782461349196994",
     "creatorLastName": "N'Singi",
     "createdAt": "01/26/2026, 20:20:56"
-  },
-  {
-    "id": "f9473e18-82a4-477b-8531-9980013d59f3",
-    "name": "T375 FF",
-    "creatorId": "117945766036166157494",
-    "creatorLastName": "Lee",
-    "createdAt": "01/26/2026, 19:59:42"
   },
   {
     "id": "d2576c67-5ac6-4706-b192-4487dd366ed0",
