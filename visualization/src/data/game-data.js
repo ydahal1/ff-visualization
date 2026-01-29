@@ -1,7 +1,14 @@
-// Generated on 01/29/2026, 11:15:03 (EST)
-// Total records: 3473
+// Generated on 01/29/2026, 11:30:02 (EST)
+// Total records: 3474
 
 export const games = [
+  {
+    "id": "6e8bad31-9adf-4ab9-a285-88f1c64c8b9f",
+    "name": "AOA practice",
+    "creatorId": "101802697754309805743",
+    "creatorLastName": "Mukisa",
+    "createdAt": "01/29/2026, 11:21:36"
+  },
   {
     "id": "3e45ac5d-5de1-4041-b3e8-b0badaee3645",
     "name": "Test Game",
