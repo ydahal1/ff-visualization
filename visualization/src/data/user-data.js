@@ -1,7 +1,12 @@
-// Generated on 01/29/2026, 05:00:00 (EST)
-// Total records: 2114
+// Generated on 01/29/2026, 05:15:01 (EST)
+// Total records: 2115
 
 export const users = [
+  {
+    "id": "103142085250562592510",
+    "lName": "P. GUIANG",
+    "createdAt": "01/29/2026, 05:06:36"
+  },
   {
     "id": "108874340973127627719",
     "lName": "Marketing",
