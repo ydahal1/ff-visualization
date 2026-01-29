@@ -1,7 +1,14 @@
-// Generated on 01/28/2026, 22:15:02 (EST)
-// Total records: 3466
+// Generated on 01/28/2026, 22:30:03 (EST)
+// Total records: 3467
 
 export const games = [
+  {
+    "id": "fdd089db-7538-4723-8e9b-826ab7ea6e6a",
+    "name": "Leader Consults",
+    "creatorId": "109945710794736330464",
+    "creatorLastName": "Denton",
+    "createdAt": "01/28/2026, 22:27:14"
+  },
   {
     "id": "9d042c4e-3256-462d-beb4-f90087baa7e8",
     "name": "Freund family feud",
