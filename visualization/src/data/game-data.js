@@ -1,7 +1,14 @@
-// Generated on 01/29/2026, 11:00:03 (EST)
-// Total records: 3472
+// Generated on 01/29/2026, 11:15:03 (EST)
+// Total records: 3473
 
 export const games = [
+  {
+    "id": "3e45ac5d-5de1-4041-b3e8-b0badaee3645",
+    "name": "Test Game",
+    "creatorId": "115657667724861663590",
+    "creatorLastName": "Sagum",
+    "createdAt": "01/29/2026, 11:00:48"
+  },
   {
     "id": "2e177a04-60bd-4df0-9498-1f83a7f3f87f",
     "name": "random",
