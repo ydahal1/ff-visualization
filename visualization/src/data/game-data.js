@@ -1,7 +1,14 @@
-// Generated on 01/29/2026, 04:45:03 (EST)
+// Generated on 01/29/2026, 05:00:03 (EST)
 // Total records: 3468
 
 export const games = [
+  {
+    "id": "0a6b34ad-4d7b-46f9-a7a0-e50adc9ac279",
+    "name": "Marketing Feud",
+    "creatorId": "108874340973127627719",
+    "creatorLastName": "Marketing",
+    "createdAt": "01/29/2026, 04:46:14"
+  },
   {
     "id": "7f0fdcd0-1cf7-4587-91c3-91392511e864",
     "name": "Jeux 2",
@@ -463,13 +470,6 @@ export const games = [
     "creatorId": "104149673385508931071",
     "creatorLastName": "Community",
     "createdAt": "01/27/2026, 12:59:27"
-  },
-  {
-    "id": "afec385a-3cef-4dbf-95dd-46a41d3dbec4",
-    "name": "ggj",
-    "creatorId": "110192564942890414123",
-    "creatorLastName": "Kraiem",
-    "createdAt": "01/27/2026, 12:37:07"
   },
   {
     "id": "d54eb516-fb13-4b8d-ae60-f3b2581b25ba",
