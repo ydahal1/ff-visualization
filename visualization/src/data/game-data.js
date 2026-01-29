@@ -1,7 +1,14 @@
-// Generated on 01/29/2026, 08:15:03 (EST)
-// Total records: 3470
+// Generated on 01/29/2026, 08:30:03 (EST)
+// Total records: 3471
 
 export const games = [
+  {
+    "id": "be9edcc4-fdee-4eaf-8252-c7388785dcd4",
+    "name": "Vantage Family Fued",
+    "creatorId": "115886734358551693918",
+    "creatorLastName": "Grillasca Arenas",
+    "createdAt": "01/29/2026, 08:16:19"
+  },
   {
     "id": "1f098a57-becb-43e3-b00e-f1a65026f96c",
     "name": "Zest Test 2026",
