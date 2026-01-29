@@ -1,7 +1,14 @@
-// Generated on 01/29/2026, 05:30:02 (EST)
-// Total records: 3469
+// Generated on 01/29/2026, 05:45:04 (EST)
+// Total records: 3470
 
 export const games = [
+  {
+    "id": "fb01919e-17b3-4094-a77c-a837e27de7f2",
+    "name": "Marketing Feud",
+    "creatorId": "108874340973127627719",
+    "creatorLastName": "Marketing",
+    "createdAt": "01/29/2026, 05:41:52"
+  },
   {
     "id": "fe498278-757d-420d-9693-6cb6fe313404",
     "name": "Round 2",
