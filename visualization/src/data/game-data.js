@@ -1,7 +1,14 @@
-// Generated on 01/29/2026, 24:15:03 (EST)
-// Total records: 3467
+// Generated on 01/29/2026, 24:30:03 (EST)
+// Total records: 3468
 
 export const games = [
+  {
+    "id": "7f0fdcd0-1cf7-4587-91c3-91392511e864",
+    "name": "Jeux 2",
+    "creatorId": "113728185734901665758",
+    "creatorLastName": "Shamess",
+    "createdAt": "01/29/2026, 24:25:59"
+  },
   {
     "id": "fdd089db-7538-4723-8e9b-826ab7ea6e6a",
     "name": "Leader Consults",
