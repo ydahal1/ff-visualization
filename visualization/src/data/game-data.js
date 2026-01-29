@@ -1,7 +1,14 @@
-// Generated on 01/29/2026, 12:00:03 (EST)
-// Total records: 3475
+// Generated on 01/29/2026, 12:15:03 (EST)
+// Total records: 3476
 
 export const games = [
+  {
+    "id": "8ffc23c6-b66e-4378-80bc-5dcc457616e5",
+    "name": "Next round",
+    "creatorId": "108756306742779299473",
+    "creatorLastName": "Osago",
+    "createdAt": "01/29/2026, 12:11:59"
+  },
   {
     "id": "f0fecfa3-13da-4121-bbb2-26b95b433b7b",
     "name": "School round",
