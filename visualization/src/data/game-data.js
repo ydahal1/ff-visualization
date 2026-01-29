@@ -1,7 +1,14 @@
-// Generated on 01/29/2026, 11:30:02 (EST)
-// Total records: 3474
+// Generated on 01/29/2026, 11:45:03 (EST)
+// Total records: 3475
 
 export const games = [
+  {
+    "id": "f0fecfa3-13da-4121-bbb2-26b95b433b7b",
+    "name": "School round",
+    "creatorId": "101802697754309805743",
+    "creatorLastName": "Mukisa",
+    "createdAt": "01/29/2026, 11:39:28"
+  },
   {
     "id": "6e8bad31-9adf-4ab9-a285-88f1c64c8b9f",
     "name": "AOA practice",
