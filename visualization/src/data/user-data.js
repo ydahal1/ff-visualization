@@ -1,7 +1,12 @@
-// Generated on 01/29/2026, 08:00:00 (EST)
-// Total records: 2116
+// Generated on 01/29/2026, 08:15:01 (EST)
+// Total records: 2117
 
 export const users = [
+  {
+    "id": "115886734358551693918",
+    "lName": "Grillasca Arenas",
+    "createdAt": "01/29/2026, 08:11:39"
+  },
   {
     "id": "103633654846252591011",
     "lName": "Brolin",
