@@ -1,7 +1,14 @@
-// Generated on 01/28/2026, 21:15:03 (EST)
-// Total records: 3465
+// Generated on 01/28/2026, 21:30:03 (EST)
+// Total records: 3466
 
 export const games = [
+  {
+    "id": "9d042c4e-3256-462d-beb4-f90087baa7e8",
+    "name": "Freund family feud",
+    "creatorId": "114966992140167916782",
+    "creatorLastName": "Freund",
+    "createdAt": "01/28/2026, 21:20:49"
+  },
   {
     "id": "3d51fea2-5a61-4619-b349-f4710542ade3",
     "name": "Testomg",
