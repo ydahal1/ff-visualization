@@ -1,7 +1,14 @@
-// Generated on 01/29/2026, 17:30:02 (EST)
-// Total records: 3490
+// Generated on 01/29/2026, 17:45:03 (EST)
+// Total records: 3491
 
 export const games = [
+  {
+    "id": "4b7c31c9-6da7-4a14-bfde-a0bbefaac438",
+    "name": "Everlight 1",
+    "creatorId": "103913113227898878894",
+    "creatorLastName": "Marushkevych",
+    "createdAt": "01/29/2026, 17:40:41"
+  },
   {
     "id": "1b92a2d6-9f7a-48dc-a0be-b762880608fa",
     "name": "Monsuno's Family Feud",
