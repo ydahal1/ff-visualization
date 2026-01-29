@@ -1,5 +1,5 @@
-// Generated on 01/29/2026, 08:00:02 (EST)
-// Total records: 3471
+// Generated on 01/29/2026, 08:15:03 (EST)
+// Total records: 3470
 
 export const games = [
   {
@@ -57,13 +57,6 @@ export const games = [
     "creatorId": "109898500362931341816",
     "creatorLastName": "Gao",
     "createdAt": "01/28/2026, 21:01:36"
-  },
-  {
-    "id": "563f9387-d797-46a6-8dd9-d19257e0fef3",
-    "name": "round 2",
-    "creatorId": "102645331813064864071",
-    "creatorLastName": "Narsa",
-    "createdAt": "01/28/2026, 20:26:13"
   },
   {
     "id": "d27c1be6-584d-4858-8ebb-b56a2a32cf5e",
