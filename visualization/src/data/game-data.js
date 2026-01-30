@@ -1,13 +1,20 @@
-// Generated on 01/30/2026, 10:45:02 (EST)
-// Total records: 3503
+// Generated on 01/30/2026, 11:00:04 (EST)
+// Total records: 3502
 
 export const games = [
   {
-    "id": "4b3665ac-ff59-4b7e-a9e0-c9950668459b",
-    "name": "Men's Fellowship",
+    "id": "08c269ea-2428-4355-b222-1e5380c99374",
+    "name": "Men's Fellowship 01",
     "creatorId": "117823342381230029037",
     "creatorLastName": "Pace",
-    "createdAt": "01/30/2026, 10:35:37"
+    "createdAt": "01/30/2026, 10:58:27"
+  },
+  {
+    "id": "107951f6-0fd8-42cd-b661-d0d94fb85c9a",
+    "name": "DRAFT2",
+    "creatorId": "100919761569664263397",
+    "creatorLastName": "McKenzie",
+    "createdAt": "01/30/2026, 10:49:12"
   },
   {
     "id": "fc5fd3c0-22e4-4c61-be5f-8020126364cd",
@@ -456,20 +463,6 @@ export const games = [
     "creatorId": "108704964783328247407",
     "creatorLastName": "Cairns",
     "createdAt": "01/28/2026, 10:44:15"
-  },
-  {
-    "id": "353caf20-1636-4d97-97b7-b3effc225bb8",
-    "name": "DRAFT",
-    "creatorId": "100919761569664263397",
-    "creatorLastName": "McKenzie",
-    "createdAt": "01/28/2026, 10:19:55"
-  },
-  {
-    "id": "9791b7d6-bab0-466b-b04c-90a489a0d91b",
-    "name": "JLL CAM Family Feud",
-    "creatorId": "100919761569664263397",
-    "creatorLastName": "McKenzie",
-    "createdAt": "01/28/2026, 10:09:53"
   },
   {
     "id": "5e6f6d78-4b19-4dd3-ab39-67c1772e4d26",
