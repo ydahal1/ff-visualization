@@ -1,20 +1,27 @@
-// Generated on 01/30/2026, 18:00:03 (EST)
+// Generated on 01/30/2026, 18:15:03 (EST)
 // Total records: 3529
 
 export const games = [
+  {
+    "id": "1245a75d-39b9-4cd4-8007-32e56c56b633",
+    "name": "Feud of Shadows",
+    "creatorId": "110078534813901457741",
+    "creatorLastName": "Austin",
+    "createdAt": "01/30/2026, 18:02:57"
+  },
+  {
+    "id": "5a1cf174-0b37-454b-b272-5829dbdd7131",
+    "name": "1",
+    "creatorId": "104767622335435579329",
+    "creatorLastName": "Sha",
+    "createdAt": "01/30/2026, 18:01:02"
+  },
   {
     "id": "e1b38e1c-36ea-4ec0-93a6-194acef69559",
     "name": "Round 1",
     "creatorId": "102645331813064864071",
     "creatorLastName": "Narsa",
     "createdAt": "01/30/2026, 17:48:44"
-  },
-  {
-    "id": "52ef29da-92ff-442f-8ae0-96bb50bb9db6",
-    "name": "Feud of Shadows",
-    "creatorId": "110078534813901457741",
-    "creatorLastName": "Austin",
-    "createdAt": "01/30/2026, 17:06:54"
   },
   {
     "id": "2beaa096-510e-4ba6-bee6-e6437f555622",
@@ -925,13 +932,6 @@ export const games = [
     "creatorId": "106014527267691367107",
     "creatorLastName": "Brightview",
     "createdAt": "01/27/2026, 14:08:42"
-  },
-  {
-    "id": "38bf839b-cd3f-4c97-8bdc-ac5f6e1e91f5",
-    "name": "Feud of the Shadows",
-    "creatorId": "110078534813901457741",
-    "creatorLastName": "Austin",
-    "createdAt": "01/27/2026, 13:44:59"
   },
   {
     "id": "276d94f0-9737-488a-ab92-cbdf485d84ac",
