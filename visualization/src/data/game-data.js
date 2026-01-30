@@ -1,7 +1,14 @@
-// Generated on 01/30/2026, 14:45:03 (EST)
+// Generated on 01/30/2026, 15:00:04 (EST)
 // Total records: 3521
 
 export const games = [
+  {
+    "id": "ad34c417-8e76-4b7d-8987-7e1a6148b03a",
+    "name": "Final Round",
+    "creatorId": "107242718282390717834",
+    "creatorLastName": "Dixon",
+    "createdAt": "01/30/2026, 14:46:10"
+  },
   {
     "id": "2209ffb1-4bfc-47e6-abd4-f6ace644c33d",
     "name": "Round1",
@@ -22,13 +29,6 @@ export const games = [
     "creatorId": "100254371129290136394",
     "creatorLastName": "Maze",
     "createdAt": "01/30/2026, 14:03:12"
-  },
-  {
-    "id": "198ead3f-88ef-4306-ac46-eac0d746b650",
-    "name": "DEV TEAM3",
-    "creatorId": "107242718282390717834",
-    "creatorLastName": "Dixon",
-    "createdAt": "01/30/2026, 14:00:53"
   },
   {
     "id": "b12afce5-66fd-4a3a-a133-da5dd5cef098",
