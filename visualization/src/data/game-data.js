@@ -1,7 +1,14 @@
-// Generated on 01/30/2026, 11:45:03 (EST)
-// Total records: 3505
+// Generated on 01/30/2026, 12:00:02 (EST)
+// Total records: 3506
 
 export const games = [
+  {
+    "id": "35d1a255-636d-41b1-a78c-c48774ce0a73",
+    "name": "Mr. Diamondback DBACK Feud",
+    "creatorId": "114533917941573200141",
+    "creatorLastName": "Dickson",
+    "createdAt": "01/30/2026, 11:45:45"
+  },
   {
     "id": "2f9e66d6-ccb4-4daa-b534-579e09ef1e6d",
     "name": "CS GAME NIGHT",
