@@ -1,7 +1,21 @@
-// Generated on 01/29/2026, 20:00:03 (EST)
-// Total records: 3494
+// Generated on 01/29/2026, 20:15:03 (EST)
+// Total records: 3495
 
 export const games = [
+  {
+    "id": "53c016fd-3790-4331-a29f-a3bb6eba3b0d",
+    "name": "FAMILY FEUD - BRIGHT VERSION 1",
+    "creatorId": "114923393555184152299",
+    "creatorLastName": "K",
+    "createdAt": "01/29/2026, 20:14:00"
+  },
+  {
+    "id": "0fd0ccd7-8bb7-4d0d-92de-a705bebd0570",
+    "name": "FAMILY FEUD - BRIGHT VERSION",
+    "creatorId": "114923393555184152299",
+    "creatorLastName": "K",
+    "createdAt": "01/29/2026, 20:01:41"
+  },
   {
     "id": "01d7a85a-a5ab-454b-ab8c-e62e7932392f",
     "name": "Hello",
@@ -78,13 +92,6 @@ export const games = [
     "creatorId": "103959781728268025518",
     "creatorLastName": "Fuentes",
     "createdAt": "01/29/2026, 15:21:44"
-  },
-  {
-    "id": "b38e9f57-8891-4ceb-8d2a-fa0fc0725e7c",
-    "name": "Black History Month Family Feud (2026 Edition)",
-    "creatorId": "104069596424405171497",
-    "creatorLastName": "Flocco",
-    "createdAt": "01/29/2026, 14:37:00"
   },
   {
     "id": "526feb89-3b59-493d-abd8-f998deed67b4",
