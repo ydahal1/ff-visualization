@@ -1,7 +1,28 @@
-// Generated on 01/30/2026, 15:30:04 (EST)
-// Total records: 3524
+// Generated on 01/30/2026, 15:45:04 (EST)
+// Total records: 3526
 
 export const games = [
+  {
+    "id": "0acda9d2-15bd-4259-8c60-77f82cdbad97",
+    "name": "1/30/26",
+    "creatorId": "103191239469811440026",
+    "creatorLastName": "Santiago",
+    "createdAt": "01/30/2026, 15:44:47"
+  },
+  {
+    "id": "4f70853c-5c3a-41a3-9e79-1b98651d93a6",
+    "name": "Wild Side",
+    "creatorId": "112804700274343537995",
+    "creatorLastName": "Kwak",
+    "createdAt": "01/30/2026, 15:38:27"
+  },
+  {
+    "id": "f68d5d1b-ed80-4639-b57b-2aca3444b0ff",
+    "name": "Social Media",
+    "creatorId": "108163622182702478461",
+    "creatorLastName": "Rodriguez",
+    "createdAt": "01/30/2026, 15:34:45"
+  },
   {
     "id": "53605364-7797-4f25-8263-c5c5159797f4",
     "name": "Gidwitz 1",
@@ -5594,13 +5615,6 @@ export const games = [
     "creatorId": "111042563648226308665",
     "creatorLastName": "Whiters",
     "createdAt": "01/02/2026, 18:06:52"
-  },
-  {
-    "id": "aeb01d77-9fef-45f5-9527-b7f8a9273abe",
-    "name": "support",
-    "creatorId": "103191239469811440026",
-    "creatorLastName": "Santiago",
-    "createdAt": "01/02/2026, 16:08:27"
   },
   {
     "id": "f056a2f5-668c-43a7-9d2f-8dd7b30575c2",
