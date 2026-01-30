@@ -1,7 +1,21 @@
-// Generated on 01/30/2026, 12:45:04 (EST)
-// Total records: 3511
+// Generated on 01/30/2026, 13:00:04 (EST)
+// Total records: 3513
 
 export const games = [
+  {
+    "id": "f690cfa0-913b-489e-97fd-5df6d8de05aa",
+    "name": "gerg",
+    "creatorId": "114521190787691662197",
+    "creatorLastName": "Drago",
+    "createdAt": "01/30/2026, 12:56:47"
+  },
+  {
+    "id": "f3035dad-1282-41c0-af93-a1467d050c10",
+    "name": "Vantage Game2",
+    "creatorId": "115886734358551693918",
+    "creatorLastName": "Grillasca Arenas",
+    "createdAt": "01/30/2026, 12:55:50"
+  },
   {
     "id": "eb811079-6be5-4f7a-a7cd-edc8a4535ea0",
     "name": "Vantage Family Fued",
