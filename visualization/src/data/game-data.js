@@ -1,7 +1,14 @@
-// Generated on 01/30/2026, 11:30:03 (EST)
+// Generated on 01/30/2026, 11:45:03 (EST)
 // Total records: 3505
 
 export const games = [
+  {
+    "id": "2f9e66d6-ccb4-4daa-b534-579e09ef1e6d",
+    "name": "CS GAME NIGHT",
+    "creatorId": "107574788738403039602",
+    "creatorLastName": "Almeda",
+    "createdAt": "01/30/2026, 11:39:55"
+  },
   {
     "id": "28c136fe-689c-42a9-b062-af0a3e4d60a4",
     "name": "1",
@@ -23038,13 +23045,6 @@ export const games = [
     "creatorId": "115825991644763529095",
     "creatorLastName": "Cholewka",
     "createdAt": "11/14/2025, 14:28:52"
-  },
-  {
-    "id": "4282802b-40cb-4009-a452-40df3e1d00a5",
-    "name": "Noypi VS Pinoy",
-    "creatorId": "107574788738403039602",
-    "creatorLastName": "Almeda",
-    "createdAt": "11/14/2025, 12:59:17"
   },
   {
     "id": "da77819a-861b-48d7-a2b2-5c4d37cbe176",
