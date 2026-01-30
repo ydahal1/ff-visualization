@@ -1,7 +1,21 @@
-// Generated on 01/29/2026, 20:15:03 (EST)
-// Total records: 3495
+// Generated on 01/29/2026, 20:30:02 (EST)
+// Total records: 3497
 
 export const games = [
+  {
+    "id": "43017937-ba3b-4ed7-8f4c-7daa97a5fe02",
+    "name": "Heated Rivalries vs Awesome Admin",
+    "creatorId": "115058201401618548263",
+    "creatorLastName": "Maddin",
+    "createdAt": "01/29/2026, 20:26:18"
+  },
+  {
+    "id": "6aea010f-648b-4b42-ac5a-8ade9070653e",
+    "name": "Firas and his B*tches vs Good in the Sheets",
+    "creatorId": "115058201401618548263",
+    "creatorLastName": "Maddin",
+    "createdAt": "01/29/2026, 20:21:53"
+  },
   {
     "id": "53c016fd-3790-4331-a29f-a3bb6eba3b0d",
     "name": "FAMILY FEUD - BRIGHT VERSION 1",
