@@ -1,7 +1,21 @@
-// Generated on 01/30/2026, 16:15:04 (EST)
-// Total records: 3526
+// Generated on 01/30/2026, 16:30:03 (EST)
+// Total records: 3527
 
 export const games = [
+  {
+    "id": "071e9169-f1ff-4514-86df-1586ee250628",
+    "name": "Are You Smarter Than A Senior Game 2",
+    "creatorId": "117918469398797677267",
+    "creatorLastName": "Beasley",
+    "createdAt": "01/30/2026, 16:26:24"
+  },
+  {
+    "id": "e3be4779-7a31-4142-a746-8b915200cb12",
+    "name": "Are You Smarter Than A Senior Game 1",
+    "creatorId": "117918469398797677267",
+    "creatorLastName": "Beasley",
+    "createdAt": "01/30/2026, 16:18:42"
+  },
   {
     "id": "0acda9d2-15bd-4259-8c60-77f82cdbad97",
     "name": "1/30/26",
@@ -288,13 +302,6 @@ export const games = [
     "creatorId": "114923393555184152299",
     "creatorLastName": "K",
     "createdAt": "01/29/2026, 20:01:41"
-  },
-  {
-    "id": "01d7a85a-a5ab-454b-ab8c-e62e7932392f",
-    "name": "Hello",
-    "creatorId": "117918469398797677267",
-    "creatorLastName": "Beasley",
-    "createdAt": "01/29/2026, 19:31:25"
   },
   {
     "id": "9c539eb4-0bf4-4b8e-835d-c771741201f4",
