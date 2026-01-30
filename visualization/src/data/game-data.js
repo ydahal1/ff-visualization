@@ -1,7 +1,21 @@
-// Generated on 01/29/2026, 20:30:02 (EST)
-// Total records: 3497
+// Generated on 01/29/2026, 20:45:03 (EST)
+// Total records: 3499
 
 export const games = [
+  {
+    "id": "e224be7a-b367-4037-a120-b139103abffe",
+    "name": "Banned Book Babes vs MEGA",
+    "creatorId": "100671062334299743135",
+    "creatorLastName": "Maddin",
+    "createdAt": "01/29/2026, 20:38:16"
+  },
+  {
+    "id": "db0c4149-fdef-4a9d-b278-473f1627f490",
+    "name": "Printer Panic Squad vs Socialites",
+    "creatorId": "100671062334299743135",
+    "creatorLastName": "Maddin",
+    "createdAt": "01/29/2026, 20:32:48"
+  },
   {
     "id": "43017937-ba3b-4ed7-8f4c-7daa97a5fe02",
     "name": "Heated Rivalries vs Awesome Admin",
