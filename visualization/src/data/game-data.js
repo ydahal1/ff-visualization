@@ -1,7 +1,14 @@
-// Generated on 01/30/2026, 12:15:04 (EST)
-// Total records: 3508
+// Generated on 01/30/2026, 12:30:03 (EST)
+// Total records: 3509
 
 export const games = [
+  {
+    "id": "cf040945-524b-4ca6-ae9f-fb84062294bc",
+    "name": "Family Fued 02",
+    "creatorId": "101197724978775162820",
+    "creatorLastName": "Gwarube",
+    "createdAt": "01/30/2026, 12:17:24"
+  },
   {
     "id": "91fb922a-9817-4920-87a1-432429552e88",
     "name": "Family Fued",
