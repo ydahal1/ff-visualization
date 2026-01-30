@@ -1,7 +1,21 @@
-// Generated on 01/30/2026, 16:45:02 (EST)
-// Total records: 3527
+// Generated on 01/30/2026, 17:00:04 (EST)
+// Total records: 3528
 
 export const games = [
+  {
+    "id": "2beaa096-510e-4ba6-bee6-e6437f555622",
+    "name": "WILDSIDE.B",
+    "creatorId": "112804700274343537995",
+    "creatorLastName": "Kwak",
+    "createdAt": "01/30/2026, 16:53:39"
+  },
+  {
+    "id": "f42ac599-ba7d-4987-88eb-af687f91274b",
+    "name": "WILDSIDE.A",
+    "creatorId": "112804700274343537995",
+    "creatorLastName": "Kwak",
+    "createdAt": "01/30/2026, 16:52:44"
+  },
   {
     "id": "071e9169-f1ff-4514-86df-1586ee250628",
     "name": "Are You Smarter Than A Senior Game 2",
@@ -22,13 +36,6 @@ export const games = [
     "creatorId": "103191239469811440026",
     "creatorLastName": "Santiago",
     "createdAt": "01/30/2026, 15:44:47"
-  },
-  {
-    "id": "4f70853c-5c3a-41a3-9e79-1b98651d93a6",
-    "name": "Wild Side",
-    "creatorId": "112804700274343537995",
-    "creatorLastName": "Kwak",
-    "createdAt": "01/30/2026, 15:38:27"
   },
   {
     "id": "f68d5d1b-ed80-4639-b57b-2aca3444b0ff",
