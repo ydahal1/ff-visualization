@@ -1,4 +1,4 @@
-// Generated on 01/30/2026, 06:15:02 (EST)
+// Generated on 01/30/2026, 06:45:03 (EST)
 // Total records: 3501
 
 export const games = [
@@ -18449,7 +18449,7 @@ export const games = [
   },
   {
     "id": "ca568c6c-c9af-497a-8a78-c219664700bc",
-    "name": "🎉FAMILY FEUD - MARRIOTT EDITION .",
+    "name": "?FAMILY FEUD - MARRIOTT EDITION .",
     "creatorId": "102947534295305498512",
     "creatorLastName": "Bulatao",
     "createdAt": "12/03/2025, 06:11:21"
@@ -20549,7 +20549,7 @@ export const games = [
   },
   {
     "id": "402d5434-f718-474e-a48f-b38612d0e732",
-    "name": "Team 1 😆 VS Team 2 😆",
+    "name": "Team 1 ? VS Team 2 ?",
     "creatorId": "113285283408277247123",
     "creatorLastName": "Desai",
     "createdAt": "11/26/2025, 11:37:15"
