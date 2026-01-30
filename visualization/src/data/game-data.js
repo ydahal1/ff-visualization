@@ -1,7 +1,14 @@
-// Generated on 01/30/2026, 02:15:03 (EST)
-// Total records: 3500
+// Generated on 01/30/2026, 02:30:03 (EST)
+// Total records: 3501
 
 export const games = [
+  {
+    "id": "24189d83-f159-46eb-86b1-35d3d1b549f4",
+    "name": "k sig x chi o",
+    "creatorId": "112457215520417936575",
+    "creatorLastName": "scaglione",
+    "createdAt": "01/30/2026, 02:26:34"
+  },
   {
     "id": "688e0f6d-7368-4c6d-b614-8ffc03c8d503",
     "name": "FAST MONEY",
