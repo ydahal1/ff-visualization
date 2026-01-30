@@ -1,7 +1,14 @@
-// Generated on 01/30/2026, 09:30:03 (EST)
-// Total records: 3501
+// Generated on 01/30/2026, 09:45:03 (EST)
+// Total records: 3502
 
 export const games = [
+  {
+    "id": "fc5fd3c0-22e4-4c61-be5f-8020126364cd",
+    "name": "test",
+    "creatorId": "111576125378582297747",
+    "creatorLastName": "Wilder",
+    "createdAt": "01/30/2026, 09:40:59"
+  },
   {
     "id": "24189d83-f159-46eb-86b1-35d3d1b549f4",
     "name": "k sig x chi o",
