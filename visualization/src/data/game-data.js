@@ -1,7 +1,14 @@
-// Generated on 01/30/2026, 17:00:04 (EST)
+// Generated on 01/30/2026, 17:15:02 (EST)
 // Total records: 3528
 
 export const games = [
+  {
+    "id": "52ef29da-92ff-442f-8ae0-96bb50bb9db6",
+    "name": "Feud of Shadows",
+    "creatorId": "110078534813901457741",
+    "creatorLastName": "Austin",
+    "createdAt": "01/30/2026, 17:06:54"
+  },
   {
     "id": "2beaa096-510e-4ba6-bee6-e6437f555622",
     "name": "WILDSIDE.B",
@@ -841,13 +848,6 @@ export const games = [
     "creatorId": "114403970572193552899",
     "creatorLastName": "Pillsbury",
     "createdAt": "01/27/2026, 19:20:50"
-  },
-  {
-    "id": "3e8e1802-3280-4e1e-bdb7-4d76d060a753",
-    "name": "round 1",
-    "creatorId": "102645331813064864071",
-    "creatorLastName": "Narsa",
-    "createdAt": "01/27/2026, 18:28:33"
   },
   {
     "id": "ca33c581-09b4-4b15-bbd5-33f947764c06",
