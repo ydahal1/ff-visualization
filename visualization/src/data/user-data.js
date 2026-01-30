@@ -1,7 +1,12 @@
-// Generated on 01/29/2026, 19:30:01 (EST)
-// Total records: 2138
+// Generated on 01/29/2026, 19:45:00 (EST)
+// Total records: 2139
 
 export const users = [
+  {
+    "id": "117918469398797677267",
+    "lName": "Beasley",
+    "createdAt": "01/29/2026, 19:31:09"
+  },
   {
     "id": "104021985044591697629",
     "lName": "Revolution",
