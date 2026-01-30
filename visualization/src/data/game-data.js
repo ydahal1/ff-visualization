@@ -1,7 +1,21 @@
-// Generated on 01/30/2026, 12:30:03 (EST)
-// Total records: 3509
+// Generated on 01/30/2026, 12:45:04 (EST)
+// Total records: 3511
 
 export const games = [
+  {
+    "id": "eb811079-6be5-4f7a-a7cd-edc8a4535ea0",
+    "name": "Vantage Family Fued",
+    "creatorId": "115886734358551693918",
+    "creatorLastName": "Grillasca Arenas",
+    "createdAt": "01/30/2026, 12:43:18"
+  },
+  {
+    "id": "fa7ffc85-9dee-4c3a-b042-33423221f1ca",
+    "name": "Altitude Training 1-30-26",
+    "creatorId": "106518215154458238686",
+    "creatorLastName": "Houtz Zaharias ",
+    "createdAt": "01/30/2026, 12:35:54"
+  },
   {
     "id": "cf040945-524b-4ca6-ae9f-fb84062294bc",
     "name": "Family Fued 02",
