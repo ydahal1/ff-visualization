@@ -1,7 +1,14 @@
-// Generated on 01/29/2026, 19:15:02 (EST)
+// Generated on 01/29/2026, 19:30:03 (EST)
 // Total records: 3494
 
 export const games = [
+  {
+    "id": "9c539eb4-0bf4-4b8e-835d-c771741201f4",
+    "name": "Game no 1",
+    "creatorId": "109854934632144399854",
+    "creatorLastName": "Moriarty",
+    "createdAt": "01/29/2026, 19:20:39"
+  },
   {
     "id": "13ee89a0-8bfe-4e42-81e9-49c208532c0f",
     "name": "test",
@@ -183,13 +190,6 @@ export const games = [
     "creatorId": "106380323583905043001",
     "creatorLastName": "jabre",
     "createdAt": "01/29/2026, 10:35:26"
-  },
-  {
-    "id": "be9edcc4-fdee-4eaf-8252-c7388785dcd4",
-    "name": "Vantage Family Fued",
-    "creatorId": "115886734358551693918",
-    "creatorLastName": "Grillasca Arenas",
-    "createdAt": "01/29/2026, 08:16:19"
   },
   {
     "id": "1f098a57-becb-43e3-b00e-f1a65026f96c",
