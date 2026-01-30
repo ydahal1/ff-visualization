@@ -1,7 +1,17 @@
-// Generated on 01/30/2026, 12:15:01 (EST)
-// Total records: 2151
+// Generated on 01/30/2026, 12:30:00 (EST)
+// Total records: 2153
 
 export const users = [
+  {
+    "id": "116142332187379454028",
+    "lName": "Tempest",
+    "createdAt": "01/30/2026, 12:21:51"
+  },
+  {
+    "id": "106518215154458238686",
+    "lName": "Houtz Zaharias ",
+    "createdAt": "01/30/2026, 12:16:02"
+  },
   {
     "id": "101197724978775162820",
     "lName": "Gwarube",
