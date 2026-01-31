@@ -1,7 +1,28 @@
-// Generated on 01/30/2026, 21:00:03 (EST)
-// Total records: 3544
+// Generated on 01/30/2026, 21:15:03 (EST)
+// Total records: 3545
 
 export const games = [
+  {
+    "id": "575c19ed-32fd-4116-bccd-7e44ec820e2f",
+    "name": "WORK PLEASE",
+    "creatorId": "102051420225794454488",
+    "creatorLastName": "Collins",
+    "createdAt": "01/30/2026, 21:10:50"
+  },
+  {
+    "id": "04b6cff1-5490-4cdb-8b95-6a655853c98f",
+    "name": "dude",
+    "creatorId": "105044261605754049250",
+    "creatorLastName": "me",
+    "createdAt": "01/30/2026, 21:10:35"
+  },
+  {
+    "id": "41d68a9e-a3e6-4c71-8c6b-99de28c0561d",
+    "name": "Game #2",
+    "creatorId": "104021985044591697629",
+    "creatorLastName": "Revolution",
+    "createdAt": "01/30/2026, 21:04:18"
+  },
   {
     "id": "a5f7a3b8-4a7b-45fe-9647-285b22453130",
     "name": "Round 1",
@@ -393,13 +414,6 @@ export const games = [
     "creatorId": "102645331813064864071",
     "creatorLastName": "Narsa",
     "createdAt": "01/29/2026, 22:19:36"
-  },
-  {
-    "id": "80f41d53-151c-4a68-af94-e5c02c85c71c",
-    "name": "Family Feud #2",
-    "creatorId": "104021985044591697629",
-    "creatorLastName": "Revolution",
-    "createdAt": "01/29/2026, 21:44:49"
   },
   {
     "id": "e224be7a-b367-4037-a120-b139103abffe",
@@ -918,13 +932,6 @@ export const games = [
     "creatorId": "106489574771499788210",
     "creatorLastName": "Richardson",
     "createdAt": "01/27/2026, 20:50:47"
-  },
-  {
-    "id": "47abf211-e6d1-42ba-8fa1-5ba3051dcb95",
-    "name": "VSA FAMILY FEUD",
-    "creatorId": "102051420225794454488",
-    "creatorLastName": "Collins",
-    "createdAt": "01/27/2026, 20:19:53"
   },
   {
     "id": "e6375e56-3ce5-4d75-a4b9-42c599363831",
