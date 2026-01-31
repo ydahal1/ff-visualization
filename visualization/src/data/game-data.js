@@ -1,7 +1,14 @@
-// Generated on 01/30/2026, 22:15:03 (EST)
-// Total records: 3544
+// Generated on 01/30/2026, 22:30:03 (EST)
+// Total records: 3545
 
 export const games = [
+  {
+    "id": "0d87d180-789c-4708-abca-859d69f324ac",
+    "name": "vidhi's feral 22",
+    "creatorId": "112080376425159391527",
+    "creatorLastName": "patel",
+    "createdAt": "01/30/2026, 22:21:38"
+  },
   {
     "id": "789f34ae-f2d6-49fc-ab7e-3676b10ca7ff",
     "name": "THE STROKES",
