@@ -1,7 +1,35 @@
-// Generated on 01/30/2026, 20:00:02 (EST)
-// Total records: 3536
+// Generated on 01/30/2026, 20:15:03 (EST)
+// Total records: 3540
 
 export const games = [
+  {
+    "id": "5bdd7c37-b5ff-46c5-aeb3-64b376fbec3b",
+    "name": "PLEASE WORK TEST",
+    "creatorId": "102051420225794454488",
+    "creatorLastName": "Collins",
+    "createdAt": "01/30/2026, 20:08:01"
+  },
+  {
+    "id": "dfaec42f-ece7-4524-9527-03acd2bab0e5",
+    "name": "Lizbeth Vega",
+    "creatorId": "101759486217329494912",
+    "creatorLastName": "Vega",
+    "createdAt": "01/30/2026, 20:04:40"
+  },
+  {
+    "id": "ef49e312-5db9-4411-a257-a852d6abc12f",
+    "name": "Parathyroid Glands",
+    "creatorId": "116077974043494461748",
+    "creatorLastName": "Pena",
+    "createdAt": "01/30/2026, 20:04:24"
+  },
+  {
+    "id": "2f21936a-dfd6-4f48-9dc7-c14c990f7918",
+    "name": "Babbs 40th",
+    "creatorId": "110394491651447817430",
+    "creatorLastName": "Nazaire",
+    "createdAt": "01/30/2026, 20:00:18"
+  },
   {
     "id": "f085f94d-5d1b-4111-b9ab-17395ecdbcff",
     "name": "AVP x NEWDOS",
