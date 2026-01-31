@@ -1,7 +1,14 @@
-// Generated on 01/31/2026, 17:15:02 (EST)
-// Total records: 3564
+// Generated on 01/31/2026, 17:30:03 (EST)
+// Total records: 3565
 
 export const games = [
+  {
+    "id": "a4f46a06-33bb-4d65-a6a4-4164fafcd217",
+    "name": "bday girl 21st",
+    "creatorId": "111821951052002108459",
+    "creatorLastName": "patel",
+    "createdAt": "01/31/2026, 17:20:43"
+  },
   {
     "id": "6f2e732f-0f51-4b07-8de2-dd80d05cf97a",
     "name": "Moguls Meud",
