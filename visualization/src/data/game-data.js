@@ -1,7 +1,21 @@
-// Generated on 01/30/2026, 19:45:03 (EST)
-// Total records: 3534
+// Generated on 01/30/2026, 20:00:02 (EST)
+// Total records: 3536
 
 export const games = [
+  {
+    "id": "f085f94d-5d1b-4111-b9ab-17395ecdbcff",
+    "name": "AVP x NEWDOS",
+    "creatorId": "112595161634551782204",
+    "creatorLastName": "Ratliff",
+    "createdAt": "01/30/2026, 19:56:29"
+  },
+  {
+    "id": "6ac867c3-1386-4017-af3f-036744b246ae",
+    "name": "NEW",
+    "creatorId": "117883865895756489198",
+    "creatorLastName": "Team",
+    "createdAt": "01/30/2026, 19:45:24"
+  },
   {
     "id": "aee3eab0-8a8d-479b-876e-a1e232a052d9",
     "name": "Adrenal Gland Pt 2",
