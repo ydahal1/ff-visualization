@@ -1,7 +1,21 @@
-// Generated on 01/30/2026, 19:15:02 (EST)
-// Total records: 3529
+// Generated on 01/30/2026, 19:30:03 (EST)
+// Total records: 3531
 
 export const games = [
+  {
+    "id": "44ca0144-1e08-44bc-be39-2093c08f00c8",
+    "name": "bd test",
+    "creatorId": "114990360697760618953",
+    "creatorLastName": "Cammayo",
+    "createdAt": "01/30/2026, 19:18:44"
+  },
+  {
+    "id": "1a3aa689-fdc3-45b7-8dd5-f0c0d4ba74bc",
+    "name": "loloz",
+    "creatorId": "117878175232746680520",
+    "creatorLastName": "Munoz",
+    "createdAt": "01/30/2026, 19:15:04"
+  },
   {
     "id": "1245a75d-39b9-4cd4-8007-32e56c56b633",
     "name": "Feud of Shadows",
