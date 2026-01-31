@@ -1,7 +1,14 @@
-// Generated on 01/31/2026, 13:15:02 (EST)
-// Total records: 3556
+// Generated on 01/31/2026, 13:30:03 (EST)
+// Total records: 3557
 
 export const games = [
+  {
+    "id": "bb02b9ee-4ee0-483b-b477-87a50de909b5",
+    "name": "second half",
+    "creatorId": "106862736730943347631",
+    "creatorLastName": "Walters",
+    "createdAt": "01/31/2026, 13:19:02"
+  },
   {
     "id": "3fcdfff7-fc31-48a9-b229-c4864fe1d25d",
     "name": "cam trivia first half",
