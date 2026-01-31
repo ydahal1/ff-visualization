@@ -1,7 +1,21 @@
-// Generated on 01/31/2026, 03:30:03 (EST)
-// Total records: 3547
+// Generated on 01/31/2026, 03:45:03 (EST)
+// Total records: 3549
 
 export const games = [
+  {
+    "id": "802ad9d3-2785-4f1c-841f-5d376ef0539f",
+    "name": "Moguls Meud Game 2",
+    "creatorId": "118285610559056394768",
+    "creatorLastName": "Drake",
+    "createdAt": "01/31/2026, 03:41:59"
+  },
+  {
+    "id": "519b6ec9-4ca3-41f6-a611-f5d7d0fc7984",
+    "name": "Movie Moguls Game 1",
+    "creatorId": "118285610559056394768",
+    "creatorLastName": "Drake",
+    "createdAt": "01/31/2026, 03:38:36"
+  },
   {
     "id": "bcc1a44b-2727-4b12-a138-8e62c233c195",
     "name": "Dreday1",
