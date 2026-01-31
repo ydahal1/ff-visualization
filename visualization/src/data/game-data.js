@@ -1,7 +1,21 @@
-// Generated on 01/31/2026, 16:30:03 (EST)
-// Total records: 3562
+// Generated on 01/31/2026, 16:45:03 (EST)
+// Total records: 3564
 
 export const games = [
+  {
+    "id": "f0f77912-615f-4d83-a564-cf800774e502",
+    "name": "VSA EXTERNAL",
+    "creatorId": "102051420225794454488",
+    "creatorLastName": "Collins",
+    "createdAt": "01/31/2026, 16:33:16"
+  },
+  {
+    "id": "8fef9269-f459-4414-8a4c-858f48e32c35",
+    "name": "Name something...",
+    "creatorId": "106087086888561929076",
+    "creatorLastName": "Meyer",
+    "createdAt": "01/31/2026, 16:30:53"
+  },
   {
     "id": "a33b0e2a-0909-4f75-9efd-14c4c653ef06",
     "name": "Food",
