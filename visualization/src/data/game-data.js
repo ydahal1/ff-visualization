@@ -1,13 +1,13 @@
-// Generated on 01/30/2026, 21:30:02 (EST)
+// Generated on 01/30/2026, 21:45:03 (EST)
 // Total records: 3545
 
 export const games = [
   {
-    "id": "912e6542-30a2-403c-a3e8-433210377288",
-    "name": "Ssemi",
+    "id": "401c50ea-ec35-4b8e-9010-bf0532e0e84b",
+    "name": "Semi",
     "creatorId": "102645331813064864071",
     "creatorLastName": "Narsa",
-    "createdAt": "01/30/2026, 21:28:13"
+    "createdAt": "01/30/2026, 21:43:38"
   },
   {
     "id": "575c19ed-32fd-4116-bccd-7e44ec820e2f",
