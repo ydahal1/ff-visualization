@@ -1,14 +1,7 @@
-// Generated on 01/31/2026, 10:15:03 (EST)
-// Total records: 3552
+// Generated on 01/31/2026, 10:30:04 (EST)
+// Total records: 3551
 
 export const games = [
-  {
-    "id": "13e49a03-0609-4ac3-af48-e8c8c870b617",
-    "name": "Women's Retreat",
-    "creatorId": "116233293239908078816",
-    "creatorLastName": "Russell",
-    "createdAt": "01/31/2026, 10:14:08"
-  },
   {
     "id": "623eb6f9-7be7-4377-8dd9-c1044d91b287",
     "name": "Family Feud V3",
