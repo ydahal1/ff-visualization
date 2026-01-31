@@ -1,5 +1,5 @@
-// Generated on 01/31/2026, 02:45:03 (EST)
-// Total records: 3548
+// Generated on 01/31/2026, 03:00:04 (EST)
+// Total records: 3547
 
 export const games = [
   {
@@ -3123,13 +3123,6 @@ export const games = [
     "creatorId": "113213142932507399908",
     "creatorLastName": "Cameron",
     "createdAt": "01/19/2026, 08:28:18"
-  },
-  {
-    "id": "d92ed82b-9327-44a1-bbe3-4cab88a2d3f4",
-    "name": "Mogul Meud",
-    "creatorId": "118285610559056394768",
-    "creatorLastName": "Drake",
-    "createdAt": "01/18/2026, 23:59:16"
   },
   {
     "id": "f88c7eab-bccf-4a47-850b-a086f5738a7f",
