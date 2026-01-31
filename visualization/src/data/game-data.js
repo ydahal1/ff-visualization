@@ -1,20 +1,20 @@
-// Generated on 01/30/2026, 22:00:02 (EST)
+// Generated on 01/30/2026, 22:15:03 (EST)
 // Total records: 3544
 
 export const games = [
+  {
+    "id": "789f34ae-f2d6-49fc-ab7e-3676b10ca7ff",
+    "name": "THE STROKES",
+    "creatorId": "111636693452313768298",
+    "creatorLastName": "sanchez",
+    "createdAt": "01/30/2026, 22:05:58"
+  },
   {
     "id": "401c50ea-ec35-4b8e-9010-bf0532e0e84b",
     "name": "Semi",
     "creatorId": "102645331813064864071",
     "creatorLastName": "Narsa",
     "createdAt": "01/30/2026, 21:43:38"
-  },
-  {
-    "id": "575c19ed-32fd-4116-bccd-7e44ec820e2f",
-    "name": "WORK PLEASE",
-    "creatorId": "102051420225794454488",
-    "creatorLastName": "Collins",
-    "createdAt": "01/30/2026, 21:10:50"
   },
   {
     "id": "04b6cff1-5490-4cdb-8b95-6a655853c98f",
