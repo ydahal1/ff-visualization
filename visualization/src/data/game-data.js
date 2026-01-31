@@ -1,13 +1,13 @@
-// Generated on 01/30/2026, 20:45:03 (EST)
+// Generated on 01/30/2026, 21:00:03 (EST)
 // Total records: 3544
 
 export const games = [
   {
-    "id": "774e2771-c084-424e-8b0e-cdd8fcc6bdd9",
-    "name": "round 1",
+    "id": "a5f7a3b8-4a7b-45fe-9647-285b22453130",
+    "name": "Round 1",
     "creatorId": "102645331813064864071",
     "creatorLastName": "Narsa",
-    "createdAt": "01/30/2026, 20:42:27"
+    "createdAt": "01/30/2026, 20:57:43"
   },
   {
     "id": "4cc0146e-c27a-4ccb-8622-e777e06f4246",
