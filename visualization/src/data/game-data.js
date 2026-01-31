@@ -1,7 +1,14 @@
-// Generated on 01/31/2026, 18:30:03 (EST)
-// Total records: 3565
+// Generated on 01/31/2026, 18:45:03 (EST)
+// Total records: 3566
 
 export const games = [
+  {
+    "id": "1360382b-8bdf-4dae-9fea-e586c356bbed",
+    "name": "Charlie's Birthday",
+    "creatorId": "118244541464429817899",
+    "creatorLastName": "Arnold",
+    "createdAt": "01/31/2026, 18:44:53"
+  },
   {
     "id": "a4f46a06-33bb-4d65-a6a4-4164fafcd217",
     "name": "bday girl 21st",
