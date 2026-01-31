@@ -1,5 +1,5 @@
-// Generated on 01/30/2026, 21:45:03 (EST)
-// Total records: 3545
+// Generated on 01/30/2026, 22:00:02 (EST)
+// Total records: 3544
 
 export const games = [
   {
@@ -71,13 +71,6 @@ export const games = [
     "creatorId": "104021985044591697629",
     "creatorLastName": "Revolution",
     "createdAt": "01/30/2026, 20:21:30"
-  },
-  {
-    "id": "5bdd7c37-b5ff-46c5-aeb3-64b376fbec3b",
-    "name": "PLEASE WORK TEST",
-    "creatorId": "102051420225794454488",
-    "creatorLastName": "Collins",
-    "createdAt": "01/30/2026, 20:08:01"
   },
   {
     "id": "dfaec42f-ece7-4524-9527-03acd2bab0e5",
