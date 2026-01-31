@@ -1,7 +1,14 @@
-// Generated on 01/31/2026, 16:45:03 (EST)
+// Generated on 01/31/2026, 17:00:04 (EST)
 // Total records: 3564
 
 export const games = [
+  {
+    "id": "97d8128e-399f-47e5-a5c7-1e9965d7fcea",
+    "name": "Moguls Meud",
+    "creatorId": "118285610559056394768",
+    "creatorLastName": "Drake",
+    "createdAt": "01/31/2026, 16:59:47"
+  },
   {
     "id": "f0f77912-615f-4d83-a564-cf800774e502",
     "name": "VSA EXTERNAL",
@@ -120,13 +127,6 @@ export const games = [
     "creatorId": "118285610559056394768",
     "creatorLastName": "Drake",
     "createdAt": "01/31/2026, 03:41:59"
-  },
-  {
-    "id": "519b6ec9-4ca3-41f6-a611-f5d7d0fc7984",
-    "name": "Movie Moguls Game 1",
-    "creatorId": "118285610559056394768",
-    "creatorLastName": "Drake",
-    "createdAt": "01/31/2026, 03:38:36"
   },
   {
     "id": "bcc1a44b-2727-4b12-a138-8e62c233c195",
