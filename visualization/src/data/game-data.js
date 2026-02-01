@@ -1,7 +1,21 @@
-// Generated on 01/31/2026, 18:45:03 (EST)
-// Total records: 3566
+// Generated on 01/31/2026, 19:00:04 (EST)
+// Total records: 3567
 
 export const games = [
+  {
+    "id": "d7f0ee29-c3bf-434d-9acb-9ee976fa134b",
+    "name": "fast cash",
+    "creatorId": "118244541464429817899",
+    "creatorLastName": "Arnold",
+    "createdAt": "01/31/2026, 18:52:22"
+  },
+  {
+    "id": "d55d7218-eaf1-490b-8662-fa8a039c9e29",
+    "name": "Zion Family Fued",
+    "creatorId": "110519630154243883012",
+    "creatorLastName": "Elad",
+    "createdAt": "01/31/2026, 18:46:26"
+  },
   {
     "id": "1360382b-8bdf-4dae-9fea-e586c356bbed",
     "name": "Charlie's Birthday",
@@ -225,13 +239,6 @@ export const games = [
     "creatorId": "116077974043494461748",
     "creatorLastName": "Pena",
     "createdAt": "01/30/2026, 20:39:42"
-  },
-  {
-    "id": "4b035294-2f37-4dfa-975e-b9316618ba0e",
-    "name": "game1",
-    "creatorId": "118244541464429817899",
-    "creatorLastName": "Arnold",
-    "createdAt": "01/30/2026, 20:34:43"
   },
   {
     "id": "b64dbb7e-15b6-4b95-9496-e05d8f46b803",
