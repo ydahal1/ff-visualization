@@ -1,7 +1,14 @@
-// Generated on 01/31/2026, 19:15:03 (EST)
-// Total records: 3569
+// Generated on 01/31/2026, 19:30:03 (EST)
+// Total records: 3570
 
 export const games = [
+  {
+    "id": "9547195d-917d-4334-ab0e-d4ec7f922528",
+    "name": "JAMES",
+    "creatorId": "116883238139147244438",
+    "creatorLastName": "Borjas",
+    "createdAt": "01/31/2026, 19:18:02"
+  },
   {
     "id": "0a2e369d-ac91-46cf-9dce-3600d91249f8",
     "name": "Saturday Night Vibes",
