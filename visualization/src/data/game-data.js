@@ -1,7 +1,42 @@
-// Generated on 02/01/2026, 17:00:03 (EST)
-// Total records: 3582
+// Generated on 02/01/2026, 17:15:03 (EST)
+// Total records: 3581
 
 export const games = [
+  {
+    "id": "b2a8db28-0ca7-4c50-9bd9-1f40cdd67ef8",
+    "name": "GO Games 6",
+    "creatorId": "111939314855352728559",
+    "creatorLastName": "Sarová",
+    "createdAt": "02/01/2026, 17:11:38"
+  },
+  {
+    "id": "d03f387c-e2b4-4928-b222-e0aca9cd9864",
+    "name": "GO Games 5",
+    "creatorId": "111939314855352728559",
+    "creatorLastName": "Sarová",
+    "createdAt": "02/01/2026, 17:11:01"
+  },
+  {
+    "id": "2a5f95ee-7c41-49c0-84cb-47139f38d90b",
+    "name": "GO Games 4",
+    "creatorId": "111939314855352728559",
+    "creatorLastName": "Sarová",
+    "createdAt": "02/01/2026, 17:10:06"
+  },
+  {
+    "id": "e764631f-162d-4141-b9c4-f5e16707bdf9",
+    "name": "GO Games 3",
+    "creatorId": "111939314855352728559",
+    "creatorLastName": "Sarová",
+    "createdAt": "02/01/2026, 17:07:38"
+  },
+  {
+    "id": "340da317-3d75-46e5-8a37-18d35c5241fd",
+    "name": "GO Games 2",
+    "creatorId": "111939314855352728559",
+    "creatorLastName": "Sarová",
+    "createdAt": "02/01/2026, 17:06:48"
+  },
   {
     "id": "c55c8a1b-6d21-49a9-b1f2-2891de3da81a",
     "name": "GO Games",
@@ -3559,13 +3594,6 @@ export const games = [
     "createdAt": "01/17/2026, 18:48:35"
   },
   {
-    "id": "16f701f2-85a9-4725-9914-0f2029b23233",
-    "name": "GO GAME NIGHT 3",
-    "creatorId": "111939314855352728559",
-    "creatorLastName": "Sarová",
-    "createdAt": "01/17/2026, 14:34:41"
-  },
-  {
     "id": "2bab2bcc-2b3b-4534-b4d3-ed768f256dc4",
     "name": "Baby shower game 2",
     "creatorId": "105259854485635045516",
@@ -5575,20 +5603,6 @@ export const games = [
     "createdAt": "01/05/2026, 15:48:56"
   },
   {
-    "id": "08ca258f-175b-432d-9edc-794b0e141a2d",
-    "name": "GO GAME NIGHT 5",
-    "creatorId": "111939314855352728559",
-    "creatorLastName": "Sarová",
-    "createdAt": "01/05/2026, 14:55:05"
-  },
-  {
-    "id": "95a2c01f-27ce-45e0-bd14-ae53bb51887b",
-    "name": "GO GAME NIGHT",
-    "creatorId": "111939314855352728559",
-    "creatorLastName": "Sarová",
-    "createdAt": "01/05/2026, 14:46:41"
-  },
-  {
     "id": "a0ef805f-58d8-4716-869d-3222da3daacb",
     "name": "L&C Shutdown days round two",
     "creatorId": "100246298055175757401",
@@ -6546,13 +6560,6 @@ export const games = [
     "creatorId": "110034275482573946470",
     "creatorLastName": "Rägastik",
     "createdAt": "12/31/2025, 14:13:04"
-  },
-  {
-    "id": "dd5df7f9-a5c6-4612-9e65-861069ef7541",
-    "name": "GO GAME NIGHT 6",
-    "creatorId": "111939314855352728559",
-    "creatorLastName": "Sarová",
-    "createdAt": "12/31/2025, 14:08:26"
   },
   {
     "id": "df1054a3-dfa4-435f-bc94-fe78e9b7022f",
@@ -8023,20 +8030,6 @@ export const games = [
     "creatorId": "108254562011136483685",
     "creatorLastName": "Richardson",
     "createdAt": "12/26/2025, 20:16:32"
-  },
-  {
-    "id": "67f1f8e6-e4a0-4717-9b0e-c377a412ded8",
-    "name": "GO GAME NIGHT 4",
-    "creatorId": "111939314855352728559",
-    "creatorLastName": "Sarová",
-    "createdAt": "12/26/2025, 18:41:32"
-  },
-  {
-    "id": "3365ba26-b2de-4be9-aa23-a3652e71a85f",
-    "name": "GO GAME NIGHT 2",
-    "creatorId": "111939314855352728559",
-    "creatorLastName": "Sarová",
-    "createdAt": "12/26/2025, 18:31:32"
   },
   {
     "id": "859c98c0-4889-45bf-97c3-e15a37de80cc",
