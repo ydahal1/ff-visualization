@@ -1,7 +1,21 @@
-// Generated on 02/01/2026, 17:45:03 (EST)
-// Total records: 3581
+// Generated on 02/01/2026, 18:00:03 (EST)
+// Total records: 3583
 
 export const games = [
+  {
+    "id": "3ecf24b8-aeb8-4c72-ae8c-0a3e875159c9",
+    "name": "MMM 1",
+    "creatorId": "105862426993559909350",
+    "creatorLastName": "Ampadu",
+    "createdAt": "02/01/2026, 17:58:43"
+  },
+  {
+    "id": "5d694d73-f0f2-40c8-a1e1-eb323d4e6398",
+    "name": "Cheese",
+    "creatorId": "111856132832575306312",
+    "creatorLastName": "Tansill",
+    "createdAt": "02/01/2026, 17:54:17"
+  },
   {
     "id": "b2a8db28-0ca7-4c50-9bd9-1f40cdd67ef8",
     "name": "GO Games 6",
