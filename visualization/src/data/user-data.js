@@ -1,7 +1,17 @@
-// Generated on 01/31/2026, 19:45:00 (EST)
-// Total records: 2192
+// Generated on 01/31/2026, 20:00:01 (EST)
+// Total records: 2194
 
 export const users = [
+  {
+    "id": "110190575193323303936",
+    "lName": "Nguyen",
+    "createdAt": "01/31/2026, 19:56:43"
+  },
+  {
+    "id": "103888030555931522627",
+    "lName": "Cahulao",
+    "createdAt": "01/31/2026, 19:52:47"
+  },
   {
     "id": "105862426993559909350",
     "lName": "Ampadu",
