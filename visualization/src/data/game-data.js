@@ -1,14 +1,7 @@
-// Generated on 02/01/2026, 10:45:02 (EST)
-// Total records: 3577
+// Generated on 02/01/2026, 11:00:04 (EST)
+// Total records: 3576
 
 export const games = [
-  {
-    "id": "494f447a-5e35-47a4-9879-525ae68965d1",
-    "name": "MMM",
-    "creatorId": "105862426993559909350",
-    "creatorLastName": "Ampadu",
-    "createdAt": "02/01/2026, 10:38:37"
-  },
   {
     "id": "9b1c22e0-8a87-47f4-8664-bad23130013f",
     "name": "NURSING",
