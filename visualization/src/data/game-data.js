@@ -1,7 +1,21 @@
-// Generated on 02/01/2026, 08:45:03 (EST)
-// Total records: 3574
+// Generated on 02/01/2026, 09:00:04 (EST)
+// Total records: 3576
 
 export const games = [
+  {
+    "id": "9b1c22e0-8a87-47f4-8664-bad23130013f",
+    "name": "NURSING",
+    "creatorId": "105973879734073671872",
+    "creatorLastName": "خبراني",
+    "createdAt": "02/01/2026, 08:53:16"
+  },
+  {
+    "id": "c26e0aa1-1063-4768-95ba-407b34ac9521",
+    "name": "NURSING FEUD",
+    "creatorId": "105973879734073671872",
+    "creatorLastName": "خبراني",
+    "createdAt": "02/01/2026, 08:52:37"
+  },
   {
     "id": "5770aa8b-0215-4d2a-944b-717892c827ab",
     "name": "Family Fued",
