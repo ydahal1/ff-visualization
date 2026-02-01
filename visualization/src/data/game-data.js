@@ -1,7 +1,21 @@
-// Generated on 02/01/2026, 16:45:02 (EST)
-// Total records: 3580
+// Generated on 02/01/2026, 17:00:03 (EST)
+// Total records: 3582
 
 export const games = [
+  {
+    "id": "c55c8a1b-6d21-49a9-b1f2-2891de3da81a",
+    "name": "GO Games",
+    "creatorId": "111939314855352728559",
+    "creatorLastName": "Sarová",
+    "createdAt": "02/01/2026, 16:59:32"
+  },
+  {
+    "id": "64cecaa9-c084-493e-9935-cc91f51d4779",
+    "name": "yayy",
+    "creatorId": "118096256133677424780",
+    "creatorLastName": "Fletcher",
+    "createdAt": "02/01/2026, 16:45:43"
+  },
   {
     "id": "1f287e4c-5d1b-496e-9b4e-35ac24d57ccc",
     "name": "Enon (3)",
