@@ -1,7 +1,14 @@
-// Generated on 01/31/2026, 20:15:02 (EST)
-// Total records: 3571
+// Generated on 01/31/2026, 20:30:04 (EST)
+// Total records: 3572
 
 export const games = [
+  {
+    "id": "6e33f20b-8f35-426a-b34e-94b77830ef20",
+    "name": "Family Fued",
+    "creatorId": "103888030555931522627",
+    "creatorLastName": "Cahulao",
+    "createdAt": "01/31/2026, 20:17:55"
+  },
   {
     "id": "87b30e97-62fb-4227-80b0-416c2690295f",
     "name": "10",
