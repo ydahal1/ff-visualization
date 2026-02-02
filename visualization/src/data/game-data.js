@@ -1,7 +1,14 @@
-// Generated on 02/02/2026, 15:30:03 (EST)
-// Total records: 3594
+// Generated on 02/02/2026, 15:45:03 (EST)
+// Total records: 3595
 
 export const games = [
+  {
+    "id": "25f67cde-98e7-44c7-84a2-3f1f2e223d68",
+    "name": "Royalty",
+    "creatorId": "108208435996214491225",
+    "creatorLastName": "Romero",
+    "createdAt": "02/02/2026, 15:43:54"
+  },
   {
     "id": "7850d8f3-33fa-4e7d-b5b2-201c374ba3d4",
     "name": "uuuuu",
