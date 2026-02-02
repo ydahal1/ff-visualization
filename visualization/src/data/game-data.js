@@ -1,7 +1,21 @@
-// Generated on 02/02/2026, 18:00:02 (EST)
-// Total records: 3601
+// Generated on 02/02/2026, 18:15:03 (EST)
+// Total records: 3603
 
 export const games = [
+  {
+    "id": "b6879b9a-2e55-4d73-bfa4-40ff3a057172",
+    "name": "JUDEN FUED",
+    "creatorId": "102075039154051491982",
+    "creatorLastName": "Mages",
+    "createdAt": "02/02/2026, 18:12:51"
+  },
+  {
+    "id": "a746222b-84b4-40ba-af8b-2d5df9b0296f",
+    "name": "BHM RA EVENT 2",
+    "creatorId": "115946857975521517540",
+    "creatorLastName": "Francois",
+    "createdAt": "02/02/2026, 18:02:21"
+  },
   {
     "id": "109bc5c2-c5a2-4f55-a9b7-d836b3dd5c11",
     "name": "Office",
