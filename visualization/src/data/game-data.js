@@ -1,7 +1,14 @@
-// Generated on 02/02/2026, 17:15:02 (EST)
-// Total records: 3600
+// Generated on 02/02/2026, 17:30:03 (EST)
+// Total records: 3601
 
 export const games = [
+  {
+    "id": "109bc5c2-c5a2-4f55-a9b7-d836b3dd5c11",
+    "name": "Office",
+    "creatorId": "110730463345749775125",
+    "creatorLastName": "Bonfiglio",
+    "createdAt": "02/02/2026, 17:27:23"
+  },
   {
     "id": "81d425c6-5c45-4e5d-b815-c2b0fb27a3f4",
     "name": "Glitter",
