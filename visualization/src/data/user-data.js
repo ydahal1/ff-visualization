@@ -1,11 +1,11 @@
-// Generated on 02/02/2026, 11:45:00 (EST)
-// Total records: 2214
+// Generated on 02/02/2026, 11:48:01 (EST)
+// Total records: 2213
 
 export const users = [
   {
-    "id": "112251739527126915948",
-    "lName": "rogers",
-    "createdAt": "02/02/2026, 09:43:48"
+    "id": "00000000000000000002",
+    "lName": "User",
+    "createdAt": "02/02/2026, 06:57:43"
   },
   {
     "id": "108130778613352829676",
@@ -11011,11 +11011,6 @@ export const users = [
     "id": "101314529049982545103",
     "lName": "Schipani",
     "createdAt": "10/16/2025, 07:37:46"
-  },
-  {
-    "id": "00000000000000000000",
-    "lName": "User",
-    "createdAt": "10/15/2025, 14:40:53"
   },
   {
     "id": "117197582166640224717",
