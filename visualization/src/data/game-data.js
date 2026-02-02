@@ -1,7 +1,28 @@
-// Generated on 02/02/2026, 16:00:03 (EST)
-// Total records: 3595
+// Generated on 02/02/2026, 16:15:03 (EST)
+// Total records: 3598
 
 export const games = [
+  {
+    "id": "c9f079d3-65e7-4f0b-88c1-7836ed1e4e58",
+    "name": "Happydfd",
+    "creatorId": "109388182592203297647",
+    "creatorLastName": "Dahal",
+    "createdAt": "02/02/2026, 16:07:05"
+  },
+  {
+    "id": "b19cb9af-9a8a-4f0e-bc77-42d5ebe37f6b",
+    "name": "Stripe",
+    "creatorId": "109388182592203297647",
+    "creatorLastName": "Dahal",
+    "createdAt": "02/02/2026, 16:06:03"
+  },
+  {
+    "id": "66d59ca7-f542-40a8-8eb4-6ceeb2eeb5f8",
+    "name": "Happy",
+    "creatorId": "109388182592203297647",
+    "creatorLastName": "Dahal",
+    "createdAt": "02/02/2026, 16:05:28"
+  },
   {
     "id": "98a6bcce-6e1d-4d60-86ee-f225a8172488",
     "name": "Royalty Feud",
