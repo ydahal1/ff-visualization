@@ -1,7 +1,21 @@
-// Generated on 02/02/2026, 17:00:04 (EST)
-// Total records: 3598
+// Generated on 02/02/2026, 17:15:02 (EST)
+// Total records: 3600
 
 export const games = [
+  {
+    "id": "81d425c6-5c45-4e5d-b815-c2b0fb27a3f4",
+    "name": "Glitter",
+    "creatorId": "117310804119824178896",
+    "creatorLastName": "Calixto",
+    "createdAt": "02/02/2026, 17:07:19"
+  },
+  {
+    "id": "dc5788d5-d2de-4c19-ae90-a8f4e3764c9f",
+    "name": "BHM RA EVENT",
+    "creatorId": "115946857975521517540",
+    "creatorLastName": "Francois",
+    "createdAt": "02/02/2026, 17:00:14"
+  },
   {
     "id": "c9f079d3-65e7-4f0b-88c1-7836ed1e4e58",
     "name": "Happydfd",
