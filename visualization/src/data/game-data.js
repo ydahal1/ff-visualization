@@ -1,7 +1,14 @@
-// Generated on 02/01/2026, 22:00:03 (EST)
-// Total records: 3587
+// Generated on 02/01/2026, 22:15:03 (EST)
+// Total records: 3588
 
 export const games = [
+  {
+    "id": "091ca210-ca10-4614-9ce2-9140f1b6760e",
+    "name": "BHM RA EVENT",
+    "creatorId": "115946857975521517540",
+    "creatorLastName": "Francois",
+    "createdAt": "02/01/2026, 22:11:41"
+  },
   {
     "id": "5d75bfd9-88fe-41d0-90a6-59e31c0b613c",
     "name": "Game 2",
