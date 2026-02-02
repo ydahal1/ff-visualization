@@ -1,7 +1,14 @@
-// Generated on 02/02/2026, 03:45:03 (EST)
-// Total records: 3592
+// Generated on 02/02/2026, 04:00:02 (EST)
+// Total records: 3593
 
 export const games = [
+  {
+    "id": "eb5cd213-0785-42b6-aff6-18c0e9563ee6",
+    "name": "YOUTH FUED",
+    "creatorId": "100949284185701494294",
+    "creatorLastName": "Segi",
+    "createdAt": "02/02/2026, 03:59:12"
+  },
   {
     "id": "6c66bc4c-b71e-4b44-be94-e8f579240669",
     "name": "YOUTH FRUED",
