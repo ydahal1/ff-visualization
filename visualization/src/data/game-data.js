@@ -1,13 +1,20 @@
-// Generated on 02/02/2026, 15:45:03 (EST)
+// Generated on 02/02/2026, 16:00:03 (EST)
 // Total records: 3595
 
 export const games = [
   {
-    "id": "25f67cde-98e7-44c7-84a2-3f1f2e223d68",
-    "name": "Royalty",
+    "id": "98a6bcce-6e1d-4d60-86ee-f225a8172488",
+    "name": "Royalty Feud",
     "creatorId": "108208435996214491225",
     "creatorLastName": "Romero",
-    "createdAt": "02/02/2026, 15:43:54"
+    "createdAt": "02/02/2026, 15:49:38"
+  },
+  {
+    "id": "3fbd4ae2-1aa3-4e4d-85b9-4a74dca3f559",
+    "name": "RoyalT",
+    "creatorId": "108208435996214491225",
+    "creatorLastName": "Romero",
+    "createdAt": "02/02/2026, 15:48:54"
   },
   {
     "id": "7850d8f3-33fa-4e7d-b5b2-201c374ba3d4",
@@ -1429,13 +1436,6 @@ export const games = [
     "creatorId": "108925468788254744341",
     "creatorLastName": "Miller",
     "createdAt": "01/27/2026, 16:21:07"
-  },
-  {
-    "id": "7fd7baad-4e54-4b1e-89a5-31d560e6c147",
-    "name": "Royalty Feud",
-    "creatorId": "108208435996214491225",
-    "creatorLastName": "Romero",
-    "createdAt": "01/27/2026, 16:17:04"
   },
   {
     "id": "d378ea2d-f80d-4c56-b55e-00dde4eeb832",
