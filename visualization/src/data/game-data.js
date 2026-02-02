@@ -1,7 +1,14 @@
-// Generated on 02/01/2026, 20:45:03 (EST)
-// Total records: 3585
+// Generated on 02/01/2026, 21:00:03 (EST)
+// Total records: 3586
 
 export const games = [
+  {
+    "id": "4314a7ad-ac62-451d-93fb-28a87a06af5d",
+    "name": "Game 1",
+    "creatorId": "116233293239908078816",
+    "creatorLastName": "Russell",
+    "createdAt": "02/01/2026, 20:55:56"
+  },
   {
     "id": "3d127a74-c543-4de7-9592-e1890c3e4a1f",
     "name": "Dating & First impressions",
