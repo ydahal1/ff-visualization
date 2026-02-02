@@ -1,7 +1,14 @@
-// Generated on 02/02/2026, 03:30:04 (EST)
-// Total records: 3591
+// Generated on 02/02/2026, 03:45:03 (EST)
+// Total records: 3592
 
 export const games = [
+  {
+    "id": "6c66bc4c-b71e-4b44-be94-e8f579240669",
+    "name": "YOUTH FRUED",
+    "creatorId": "100949284185701494294",
+    "creatorLastName": "Segi",
+    "createdAt": "02/02/2026, 03:37:24"
+  },
   {
     "id": "6bf2dff7-34ab-4b61-b0cc-21b80be29da0",
     "name": "Oh boy",
