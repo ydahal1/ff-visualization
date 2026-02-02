@@ -1,7 +1,14 @@
-// Generated on 02/02/2026, 01:00:04 (EST)
-// Total records: 3590
+// Generated on 02/02/2026, 01:15:03 (EST)
+// Total records: 3591
 
 export const games = [
+  {
+    "id": "6bf2dff7-34ab-4b61-b0cc-21b80be29da0",
+    "name": "Oh boy",
+    "creatorId": "106378732119640227934",
+    "creatorLastName": "Foster",
+    "createdAt": "02/02/2026, 01:10:43"
+  },
   {
     "id": "75e4ac31-2334-4e69-b72a-eb4e345aa298",
     "name": "Single Ladies",
