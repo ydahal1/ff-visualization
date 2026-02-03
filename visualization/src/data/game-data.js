@@ -1,7 +1,21 @@
-// Generated on 02/03/2026, 10:45:03 (EST)
-// Total records: 3614
+// Generated on 02/03/2026, 11:00:04 (EST)
+// Total records: 3616
 
 export const games = [
+  {
+    "id": "37ae84ec-79d0-4f9d-8382-e72ec963ed7a",
+    "name": "Workshop - Anger Management",
+    "creatorId": "100268418768116408194",
+    "creatorLastName": "Piche",
+    "createdAt": "02/03/2026, 10:54:22"
+  },
+  {
+    "id": "0bf47c88-150e-4346-aac4-e61dab5629da",
+    "name": "unit 2 crim (2)",
+    "creatorId": "112655011798254436955",
+    "creatorLastName": "Albarella",
+    "createdAt": "02/03/2026, 10:46:44"
+  },
   {
     "id": "4bd44dc1-6671-4bbd-aee2-19a8f999bc91",
     "name": "unit 2 crim",
