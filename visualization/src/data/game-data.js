@@ -1,5 +1,5 @@
-// Generated on 02/03/2026, 11:15:03 (EST)
-// Total records: 3616
+// Generated on 02/03/2026, 11:30:03 (EST)
+// Total records: 3615
 
 export const games = [
   {
@@ -484,13 +484,6 @@ export const games = [
     "creatorId": "113512468399187389949",
     "creatorLastName": "Dreikosen",
     "createdAt": "01/31/2026, 15:36:44"
-  },
-  {
-    "id": "42b19df6-f7ff-46c2-be8b-8ca0051b5d53",
-    "name": "APO 1",
-    "creatorId": "116612986749916295779",
-    "creatorLastName": "Aiken",
-    "createdAt": "01/31/2026, 14:48:05"
   },
   {
     "id": "e7b7fb22-53ab-417a-b865-6633a9bac248",
