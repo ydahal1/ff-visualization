@@ -1,7 +1,14 @@
-// Generated on 02/03/2026, 17:45:03 (EST)
-// Total records: 3628
+// Generated on 02/03/2026, 18:00:03 (EST)
+// Total records: 3629
 
 export const games = [
+  {
+    "id": "c303e3d5-5bdb-4361-aaf1-0e9cd82c79fe",
+    "name": "Game 1",
+    "creatorId": "110021544839893704478",
+    "creatorLastName": "Farmer",
+    "createdAt": "02/03/2026, 17:48:09"
+  },
   {
     "id": "e0c991a0-9668-4cd9-99c4-26288c480e9c",
     "name": "YAL Game",
