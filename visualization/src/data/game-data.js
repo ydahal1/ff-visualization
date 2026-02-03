@@ -1,7 +1,14 @@
-// Generated on 02/02/2026, 22:00:04 (EST)
-// Total records: 3606
+// Generated on 02/02/2026, 22:15:02 (EST)
+// Total records: 3607
 
 export const games = [
+  {
+    "id": "08666ede-3f24-46bf-8ebc-b6a554949453",
+    "name": "Feud",
+    "creatorId": "107588622902685528621",
+    "creatorLastName": "Eugenio",
+    "createdAt": "02/02/2026, 22:02:00"
+  },
   {
     "id": "162cd88d-2341-4f2f-8e51-af13392846bd",
     "name": "PC-B Feud",
