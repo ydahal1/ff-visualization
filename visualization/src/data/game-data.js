@@ -1,7 +1,14 @@
-// Generated on 02/03/2026, 09:45:03 (EST)
-// Total records: 3612
+// Generated on 02/03/2026, 10:00:06 (EST)
+// Total records: 3613
 
 export const games = [
+  {
+    "id": "554f0bb9-34e8-4fb9-931e-23d19098aa56",
+    "name": "fueds",
+    "creatorId": "102557437712395622272",
+    "creatorLastName": "Waban",
+    "createdAt": "02/03/2026, 09:46:04"
+  },
   {
     "id": "d144a431-4331-47ba-8e8b-204d8ffa8c72",
     "name": "Families of the fuedss",
