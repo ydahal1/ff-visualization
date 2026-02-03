@@ -1,7 +1,14 @@
-// Generated on 02/03/2026, 16:45:04 (EST)
-// Total records: 3627
+// Generated on 02/03/2026, 17:00:04 (EST)
+// Total records: 3628
 
 export const games = [
+  {
+    "id": "e0c991a0-9668-4cd9-99c4-26288c480e9c",
+    "name": "YAL Game",
+    "creatorId": "108437197823269163895",
+    "creatorLastName": "Pinteralli",
+    "createdAt": "02/03/2026, 16:48:41"
+  },
   {
     "id": "e45206a3-141c-4e87-9858-380c141cdc46",
     "name": "CM2 Week 3 Mental Health",
