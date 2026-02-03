@@ -1,7 +1,21 @@
-// Generated on 02/03/2026, 14:15:02 (EST)
-// Total records: 3624
+// Generated on 02/03/2026, 14:30:03 (EST)
+// Total records: 3625
 
 export const games = [
+  {
+    "id": "888cb177-3481-448e-bf37-64b0822ec375",
+    "name": "Mega Money Madness",
+    "creatorId": "117758600406401934929",
+    "creatorLastName": "Chikowski",
+    "createdAt": "02/03/2026, 14:27:27"
+  },
+  {
+    "id": "e57847b6-3a22-42ca-bde7-687a3ea33c66",
+    "name": "100 mexicanos deijeron",
+    "creatorId": "100192979127244772912",
+    "creatorLastName": "Anaya Arias",
+    "createdAt": "02/03/2026, 14:25:05"
+  },
   {
     "id": "8c438547-3a38-4510-932b-3ec5d6618c12",
     "name": "PMO BP Staff",
@@ -4754,13 +4768,6 @@ export const games = [
     "creatorId": "112523973235105153641",
     "creatorLastName": "Yose rizal",
     "createdAt": "01/12/2026, 15:43:16"
-  },
-  {
-    "id": "9f3ad221-70ed-495c-8181-878f07849e32",
-    "name": "Mega Money Madness",
-    "creatorId": "117758600406401934929",
-    "creatorLastName": "Chikowski",
-    "createdAt": "01/12/2026, 12:47:14"
   },
   {
     "id": "10d9c3d8-4d54-42e0-b8bf-e657f2c5e6a0",
