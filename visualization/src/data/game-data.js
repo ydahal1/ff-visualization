@@ -1,7 +1,21 @@
-// Generated on 02/03/2026, 12:45:03 (EST)
-// Total records: 3616
+// Generated on 02/03/2026, 13:00:03 (EST)
+// Total records: 3618
 
 export const games = [
+  {
+    "id": "977c6cd3-924f-4742-a850-8bfd622f1bdd",
+    "name": "hello",
+    "creatorId": "115463339385072005269",
+    "creatorLastName": "bag",
+    "createdAt": "02/03/2026, 12:55:28"
+  },
+  {
+    "id": "5cd001ce-a0eb-4c57-a7c7-980f228f2e84",
+    "name": "eff",
+    "creatorId": "105554215970485813874",
+    "creatorLastName": "Newishi",
+    "createdAt": "02/03/2026, 12:48:50"
+  },
   {
     "id": "b41f588a-4657-464e-a64d-867541a2ab47",
     "name": "APO 2",
