@@ -1,5 +1,5 @@
-// Generated on 02/03/2026, 13:45:02 (EST)
-// Total records: 3622
+// Generated on 02/03/2026, 14:00:03 (EST)
+// Total records: 3621
 
 export const games = [
   {
@@ -15,13 +15,6 @@ export const games = [
     "creatorId": "105118834880877678136",
     "creatorLastName": "Wallin",
     "createdAt": "02/03/2026, 13:41:59"
-  },
-  {
-    "id": "4378635c-9b2f-4107-85b5-fbfc65eb7b44",
-    "name": "ijbi",
-    "creatorId": "103617293986231146525",
-    "creatorLastName": "Quides",
-    "createdAt": "02/03/2026, 13:10:18"
   },
   {
     "id": "cb7698d6-0d35-457b-902b-a71e990a9a32",
