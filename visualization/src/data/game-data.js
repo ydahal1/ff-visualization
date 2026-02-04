@@ -1,13 +1,13 @@
-// Generated on 02/04/2026, 10:00:05 (EST)
-// Total records: 3655
+// Generated on 02/04/2026, 10:15:05 (EST)
+// Total records: 3654
 
 export const games = [
   {
-    "id": "65140d68-57d4-4cc4-b9b2-b4652364cff2",
-    "name": "The Zest Quest 2026 - p2",
-    "creatorId": "103633654846252591011",
-    "creatorLastName": "Brolin",
-    "createdAt": "02/04/2026, 09:40:12"
+    "id": "f923a2e0-9bf4-4bbe-9d47-ce306c800de8",
+    "name": "Game 2",
+    "creatorId": "112706364503973139789",
+    "creatorLastName": "Luster",
+    "createdAt": "02/04/2026, 10:05:39"
   },
   {
     "id": "e0742ad7-e2c6-4bfb-b060-e41522132763",
@@ -15,13 +15,6 @@ export const games = [
     "creatorId": "112706364503973139789",
     "creatorLastName": "Luster",
     "createdAt": "02/04/2026, 09:39:11"
-  },
-  {
-    "id": "e8f709bd-9ca7-4813-862d-da68008d8942",
-    "name": "The Zest Quest 2026",
-    "creatorId": "103633654846252591011",
-    "creatorLastName": "Brolin",
-    "createdAt": "02/04/2026, 09:37:35"
   },
   {
     "id": "960ab77b-11b6-46b5-a5d6-b2565f8bbfab",
