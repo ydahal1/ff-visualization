@@ -1,7 +1,14 @@
-// Generated on 02/03/2026, 21:15:02 (EST)
-// Total records: 3635
+// Generated on 02/03/2026, 21:30:04 (EST)
+// Total records: 3636
 
 export const games = [
+  {
+    "id": "4dcf2b04-df3f-4a7b-b9c4-0d72daa62dd6",
+    "name": "KC Test",
+    "creatorId": "111117536098328302297",
+    "creatorLastName": "Arce",
+    "createdAt": "02/03/2026, 21:22:10"
+  },
   {
     "id": "15a71e50-11a7-45da-9fee-3856ffeb955e",
     "name": "Game 2",
