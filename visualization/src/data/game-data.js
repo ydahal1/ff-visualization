@@ -1,7 +1,28 @@
-// Generated on 02/04/2026, 24:00:03 (EST)
-// Total records: 3644
+// Generated on 02/04/2026, 24:15:03 (EST)
+// Total records: 3647
 
 export const games = [
+  {
+    "id": "e6f1ab47-bf18-4af5-aee4-4c64be07f1c5",
+    "name": "Semifinals 2",
+    "creatorId": "106945839282690000191",
+    "creatorLastName": "Martinez",
+    "createdAt": "02/04/2026, 24:14:21"
+  },
+  {
+    "id": "32fde54a-d808-48e7-9d34-e1fc6b7c0cf3",
+    "name": "Semi Finals 1",
+    "creatorId": "106945839282690000191",
+    "creatorLastName": "Martinez",
+    "createdAt": "02/04/2026, 24:06:58"
+  },
+  {
+    "id": "11d0f33c-5154-4165-af07-75c9db025644",
+    "name": "201 Fued",
+    "creatorId": "110014569355024953111",
+    "creatorLastName": "Vielhauer",
+    "createdAt": "02/04/2026, 24:06:48"
+  },
   {
     "id": "383d72f5-2863-470d-9c70-6b90d26fdf37",
     "name": "Camel Feud- BSA vs SAO",
