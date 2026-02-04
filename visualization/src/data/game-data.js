@@ -1,7 +1,21 @@
-// Generated on 02/03/2026, 19:45:03 (EST)
-// Total records: 3631
+// Generated on 02/03/2026, 20:00:04 (EST)
+// Total records: 3633
 
 export const games = [
+  {
+    "id": "a834f411-f796-4079-860f-a0e4ffa804a2",
+    "name": "Game 2",
+    "creatorId": "112861523780384510032",
+    "creatorLastName": "Trost",
+    "createdAt": "02/03/2026, 19:54:19"
+  },
+  {
+    "id": "8b00e535-1dc5-4401-a788-802275a4fb92",
+    "name": "Game 1",
+    "creatorId": "112861523780384510032",
+    "creatorLastName": "Trost",
+    "createdAt": "02/03/2026, 19:52:00"
+  },
   {
     "id": "d468298d-ae28-4ed3-92ec-6ae3695cf394",
     "name": "lock in",
