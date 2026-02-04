@@ -1,7 +1,14 @@
-// Generated on 02/04/2026, 04:00:02 (EST)
-// Total records: 3649
+// Generated on 02/04/2026, 04:15:03 (EST)
+// Total records: 3650
 
 export const games = [
+  {
+    "id": "e815ead5-b4bf-411e-bf3a-7eb405ee1fbe",
+    "name": "test",
+    "creatorId": "112812064454145354246",
+    "creatorLastName": "Cruz",
+    "createdAt": "02/04/2026, 04:13:23"
+  },
   {
     "id": "2bf70764-c94f-4264-87a8-a435131a1665",
     "name": "Spy Game",
