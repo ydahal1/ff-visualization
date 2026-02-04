@@ -1,7 +1,14 @@
-// Generated on 02/04/2026, 02:00:03 (EST)
-// Total records: 3648
+// Generated on 02/04/2026, 02:15:03 (EST)
+// Total records: 3649
 
 export const games = [
+  {
+    "id": "2bf70764-c94f-4264-87a8-a435131a1665",
+    "name": "Spy Game",
+    "creatorId": "116241509224653806502",
+    "creatorLastName": "Ogden",
+    "createdAt": "02/04/2026, 02:09:00"
+  },
   {
     "id": "2fc7feff-af06-41d6-96a8-58d4d1c496d6",
     "name": "Finals",
