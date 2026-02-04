@@ -1,7 +1,21 @@
-// Generated on 02/03/2026, 21:00:04 (EST)
-// Total records: 3634
+// Generated on 02/03/2026, 21:15:02 (EST)
+// Total records: 3635
 
 export const games = [
+  {
+    "id": "15a71e50-11a7-45da-9fee-3856ffeb955e",
+    "name": "Game 2",
+    "creatorId": "104791922307945634116",
+    "creatorLastName": "Thompson",
+    "createdAt": "02/03/2026, 21:09:36"
+  },
+  {
+    "id": "bb88dd78-141a-4454-b3ae-e63d0954999a",
+    "name": "Game 1",
+    "creatorId": "104791922307945634116",
+    "creatorLastName": "Thompson",
+    "createdAt": "02/03/2026, 21:00:57"
+  },
   {
     "id": "f2e5b23c-f57c-40c5-b903-4c6e85ff2623",
     "name": "Salty Feud",
@@ -2220,13 +2234,6 @@ export const games = [
     "creatorId": "104755628555286425398",
     "creatorLastName": "Boter",
     "createdAt": "01/26/2026, 02:43:46"
-  },
-  {
-    "id": "1d5e6b85-bf83-483c-abf7-9ba566e51a15",
-    "name": "WTL Retreat",
-    "creatorId": "104791922307945634116",
-    "creatorLastName": "Thompson",
-    "createdAt": "01/25/2026, 22:07:22"
   },
   {
     "id": "b18c90be-014b-47a9-95fc-801129c24430",
