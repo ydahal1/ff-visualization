@@ -1,7 +1,14 @@
-// Generated on 02/04/2026, 24:15:03 (EST)
-// Total records: 3647
+// Generated on 02/04/2026, 24:30:03 (EST)
+// Total records: 3648
 
 export const games = [
+  {
+    "id": "2fc7feff-af06-41d6-96a8-58d4d1c496d6",
+    "name": "Finals",
+    "creatorId": "106945839282690000191",
+    "creatorLastName": "Martinez",
+    "createdAt": "02/04/2026, 24:24:40"
+  },
   {
     "id": "e6f1ab47-bf18-4af5-aee4-4c64be07f1c5",
     "name": "Semifinals 2",
