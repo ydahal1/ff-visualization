@@ -1,7 +1,14 @@
-// Generated on 02/03/2026, 19:30:02 (EST)
-// Total records: 3630
+// Generated on 02/03/2026, 19:45:03 (EST)
+// Total records: 3631
 
 export const games = [
+  {
+    "id": "d468298d-ae28-4ed3-92ec-6ae3695cf394",
+    "name": "lock in",
+    "creatorId": "106545261549284489166",
+    "creatorLastName": "H",
+    "createdAt": "02/03/2026, 19:38:23"
+  },
   {
     "id": "e086b83f-a33b-42df-acd6-5f9cb528f8b6",
     "name": "test",
