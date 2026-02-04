@@ -1,7 +1,14 @@
-// Generated on 02/03/2026, 21:30:04 (EST)
+// Generated on 02/03/2026, 21:45:03 (EST)
 // Total records: 3636
 
 export const games = [
+  {
+    "id": "2030c438-57e7-46e5-809c-f2d6b0104680",
+    "name": "Game 3",
+    "creatorId": "112861523780384510032",
+    "creatorLastName": "Trost",
+    "createdAt": "02/03/2026, 21:35:20"
+  },
   {
     "id": "4dcf2b04-df3f-4a7b-b9c4-0d72daa62dd6",
     "name": "KC Test",
@@ -36,13 +43,6 @@ export const games = [
     "creatorId": "112861523780384510032",
     "creatorLastName": "Trost",
     "createdAt": "02/03/2026, 19:54:19"
-  },
-  {
-    "id": "8b00e535-1dc5-4401-a788-802275a4fb92",
-    "name": "Game 1",
-    "creatorId": "112861523780384510032",
-    "creatorLastName": "Trost",
-    "createdAt": "02/03/2026, 19:52:00"
   },
   {
     "id": "d468298d-ae28-4ed3-92ec-6ae3695cf394",
