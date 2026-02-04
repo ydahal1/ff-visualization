@@ -1,20 +1,20 @@
-// Generated on 02/04/2026, 05:00:03 (EST)
+// Generated on 02/04/2026, 05:15:03 (EST)
 // Total records: 3651
 
 export const games = [
+  {
+    "id": "850e615c-44b8-4fd3-b000-a90711705ab6",
+    "name": "Game 1",
+    "creatorId": "112812064454145354246",
+    "creatorLastName": "Cruz",
+    "createdAt": "02/04/2026, 05:06:02"
+  },
   {
     "id": "a88bc7c9-3ac9-43da-9464-cc90a0de0800",
     "name": "game 1",
     "creatorId": "114417662414529335428",
     "creatorLastName": "drinkwater",
     "createdAt": "02/04/2026, 04:34:37"
-  },
-  {
-    "id": "e815ead5-b4bf-411e-bf3a-7eb405ee1fbe",
-    "name": "test",
-    "creatorId": "112812064454145354246",
-    "creatorLastName": "Cruz",
-    "createdAt": "02/04/2026, 04:13:23"
   },
   {
     "id": "2bf70764-c94f-4264-87a8-a435131a1665",
