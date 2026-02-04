@@ -1,7 +1,14 @@
-// Generated on 02/04/2026, 10:30:03 (EST)
-// Total records: 3654
+// Generated on 02/04/2026, 10:45:04 (EST)
+// Total records: 3655
 
 export const games = [
+  {
+    "id": "d8c98cef-1dda-4ba3-a369-2e2b7e4b4149",
+    "name": "MhH Club Schultz v. Historical society",
+    "creatorId": "111576125378582297747",
+    "creatorLastName": "Wilder",
+    "createdAt": "02/04/2026, 10:40:34"
+  },
   {
     "id": "f923a2e0-9bf4-4bbe-9d47-ce306c800de8",
     "name": "Game 2",
