@@ -1,7 +1,14 @@
-// Generated on 02/03/2026, 20:30:03 (EST)
-// Total records: 3633
+// Generated on 02/03/2026, 20:45:03 (EST)
+// Total records: 3634
 
 export const games = [
+  {
+    "id": "f2e5b23c-f57c-40c5-b903-4c6e85ff2623",
+    "name": "Salty Feud",
+    "creatorId": "112370351193094278526",
+    "creatorLastName": "Johnson",
+    "createdAt": "02/03/2026, 20:41:16"
+  },
   {
     "id": "a834f411-f796-4079-860f-a0e4ffa804a2",
     "name": "Game 2",
