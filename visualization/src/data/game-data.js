@@ -1,7 +1,21 @@
-// Generated on 02/04/2026, 15:30:04 (EST)
-// Total records: 3673
+// Generated on 02/04/2026, 15:45:02 (EST)
+// Total records: 3675
 
 export const games = [
+  {
+    "id": "a1c5a4f2-5c0b-43ed-9b65-3fc6fbfd77ba",
+    "name": "Kubi Game 1",
+    "creatorId": "114417662414529335428",
+    "creatorLastName": "drinkwater",
+    "createdAt": "02/04/2026, 15:37:18"
+  },
+  {
+    "id": "9bef24d2-76a7-4e72-bb0e-6dbab0fcdca2",
+    "name": "Test game",
+    "creatorId": "117678940778523379375",
+    "creatorLastName": "Grassi",
+    "createdAt": "02/04/2026, 15:34:58"
+  },
   {
     "id": "ba3a5f81-0301-418f-bd48-03fbaf60dd63",
     "name": "kenny",
