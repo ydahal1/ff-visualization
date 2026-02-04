@@ -1,7 +1,14 @@
-// Generated on 02/04/2026, 04:30:03 (EST)
-// Total records: 3650
+// Generated on 02/04/2026, 04:45:03 (EST)
+// Total records: 3651
 
 export const games = [
+  {
+    "id": "a88bc7c9-3ac9-43da-9464-cc90a0de0800",
+    "name": "game 1",
+    "creatorId": "114417662414529335428",
+    "creatorLastName": "drinkwater",
+    "createdAt": "02/04/2026, 04:34:37"
+  },
   {
     "id": "e815ead5-b4bf-411e-bf3a-7eb405ee1fbe",
     "name": "test",
