@@ -1,7 +1,21 @@
-// Generated on 02/05/2026, 05:45:03 (EST)
-// Total records: 3706
+// Generated on 02/05/2026, 06:00:03 (EST)
+// Total records: 3708
 
 export const games = [
+  {
+    "id": "798cac27-68f9-4bcb-808d-df6dab63fcf5",
+    "name": "Fafsad",
+    "creatorId": "103506625424639939406",
+    "creatorLastName": "Pasco",
+    "createdAt": "02/05/2026, 05:52:41"
+  },
+  {
+    "id": "ae5b8f93-aec5-4773-8b99-f4790ce66497",
+    "name": "gtgrt",
+    "creatorId": "103506625424639939406",
+    "creatorLastName": "Pasco",
+    "createdAt": "02/05/2026, 05:46:28"
+  },
   {
     "id": "ee7f6487-43e0-489a-a502-efb046d19ad2",
     "name": "Hell",
