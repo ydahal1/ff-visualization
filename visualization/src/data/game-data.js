@@ -1,7 +1,14 @@
-// Generated on 02/05/2026, 18:00:03 (EST)
-// Total records: 3737
+// Generated on 02/05/2026, 18:15:03 (EST)
+// Total records: 3738
 
 export const games = [
+  {
+    "id": "9b5627d6-508f-4550-be6e-de26dce226b6",
+    "name": "Part 1",
+    "creatorId": "104069596424405171497",
+    "creatorLastName": "Flocco",
+    "createdAt": "02/05/2026, 18:08:18"
+  },
   {
     "id": "d056c845-850b-49a4-8945-c1ec3958f078",
     "name": "WBTY Game Night - Round 2",
