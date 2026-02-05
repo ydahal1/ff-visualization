@@ -1,13 +1,20 @@
-// Generated on 02/05/2026, 16:45:04 (EST)
-// Total records: 3733
+// Generated on 02/05/2026, 17:00:03 (EST)
+// Total records: 3734
 
 export const games = [
   {
-    "id": "80b5ec70-57b2-4378-9fed-7521a62eba2c",
-    "name": "Acute NSM",
+    "id": "18a6267d-51eb-4ec4-9e59-e87eec97b9a4",
+    "name": "WBTY Game Night",
+    "creatorId": "111015873048058706936",
+    "creatorLastName": "Zacky",
+    "createdAt": "02/05/2026, 16:50:50"
+  },
+  {
+    "id": "a7b319db-0da1-4e19-b2f2-3e595b3953a8",
+    "name": "Acute NSM 2026",
     "creatorId": "112626572558234108387",
     "creatorLastName": "Sarallo",
-    "createdAt": "02/05/2026, 16:28:31"
+    "createdAt": "02/05/2026, 16:50:06"
   },
   {
     "id": "57b463a2-e7fd-474e-a86e-eb1a9aa0e3e7",
