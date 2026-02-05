@@ -1,7 +1,21 @@
-// Generated on 02/05/2026, 11:00:04 (EST)
-// Total records: 3716
+// Generated on 02/05/2026, 11:15:03 (EST)
+// Total records: 3718
 
 export const games = [
+  {
+    "id": "18520e58-f82f-47ce-8c7c-20fccd6b770c",
+    "name": "Phi Alpha Theta GBM #2",
+    "creatorId": "108991074191201502797",
+    "creatorLastName": "Paliouras",
+    "createdAt": "02/05/2026, 11:14:44"
+  },
+  {
+    "id": "c5556850-3665-4665-9a6e-42abaedbfe71",
+    "name": "Family Feud ARC 2",
+    "creatorId": "101270464933372645515",
+    "creatorLastName": "Marie",
+    "createdAt": "02/05/2026, 11:03:56"
+  },
   {
     "id": "d456a37c-7b75-44f5-81b9-13350953ef85",
     "name": "Galentine's Family Fued",
