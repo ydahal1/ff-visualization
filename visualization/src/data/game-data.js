@@ -1,14 +1,7 @@
-// Generated on 02/05/2026, 02:30:03 (EST)
-// Total records: 3705
+// Generated on 02/05/2026, 02:45:03 (EST)
+// Total records: 3703
 
 export const games = [
-  {
-    "id": "01f9ad65-7f93-4e43-bce2-c4647e4ab126",
-    "name": "Round 1",
-    "creatorId": "117168692379659922321",
-    "creatorLastName": "N",
-    "createdAt": "02/05/2026, 24:35:13"
-  },
   {
     "id": "6393208f-3646-4cc3-9e07-ec04dc522c56",
     "name": "OH1 Activity Night - Game 2",
@@ -3914,13 +3907,6 @@ export const games = [
     "creatorId": "108012321791210378361",
     "creatorLastName": "cub",
     "createdAt": "01/20/2026, 18:54:13"
-  },
-  {
-    "id": "00a024f4-2c7b-479e-8e28-d96ffbe22854",
-    "name": "Hehe",
-    "creatorId": "117168692379659922321",
-    "creatorLastName": "N",
-    "createdAt": "01/20/2026, 18:44:11"
   },
   {
     "id": "83441844-5a5d-4567-90dc-d2dd58aca36f",
