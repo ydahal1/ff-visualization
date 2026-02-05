@@ -1,7 +1,14 @@
-// Generated on 02/05/2026, 07:30:03 (EST)
-// Total records: 3708
+// Generated on 02/05/2026, 07:45:03 (EST)
+// Total records: 3709
 
 export const games = [
+  {
+    "id": "9c45ace1-a61b-494d-94a8-7f68219a6c3d",
+    "name": "MEDDICC Media",
+    "creatorId": "117720516676779239810",
+    "creatorLastName": "Verde",
+    "createdAt": "02/05/2026, 07:35:04"
+  },
   {
     "id": "798cac27-68f9-4bcb-808d-df6dab63fcf5",
     "name": "Fafsad",
