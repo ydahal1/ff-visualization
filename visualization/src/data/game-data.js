@@ -1,5 +1,5 @@
-// Generated on 02/05/2026, 12:45:04 (EST)
-// Total records: 3723
+// Generated on 02/05/2026, 13:00:03 (EST)
+// Total records: 3721
 
 export const games = [
   {
@@ -45,25 +45,11 @@ export const games = [
     "createdAt": "02/05/2026, 11:14:44"
   },
   {
-    "id": "c5556850-3665-4665-9a6e-42abaedbfe71",
-    "name": "Family Feud ARC 2",
-    "creatorId": "101270464933372645515",
-    "creatorLastName": "Marie",
-    "createdAt": "02/05/2026, 11:03:56"
-  },
-  {
     "id": "d456a37c-7b75-44f5-81b9-13350953ef85",
     "name": "Galentine's Family Fued",
     "creatorId": "117666991616310461838",
     "creatorLastName": "Stiver",
     "createdAt": "02/05/2026, 10:59:51"
-  },
-  {
-    "id": "f2008f7e-8299-449a-97c5-ae7f1f867f1e",
-    "name": "Family Feud ARC",
-    "creatorId": "101270464933372645515",
-    "creatorLastName": "Marie",
-    "createdAt": "02/05/2026, 10:58:23"
   },
   {
     "id": "8353cb2f-eb66-4ff1-ae27-b10c6c38c7a4",
