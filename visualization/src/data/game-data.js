@@ -1,7 +1,14 @@
-// Generated on 02/05/2026, 17:45:03 (EST)
-// Total records: 3736
+// Generated on 02/05/2026, 18:00:03 (EST)
+// Total records: 3737
 
 export const games = [
+  {
+    "id": "d056c845-850b-49a4-8945-c1ec3958f078",
+    "name": "WBTY Game Night - Round 2",
+    "creatorId": "111015873048058706936",
+    "creatorLastName": "Zacky",
+    "createdAt": "02/05/2026, 17:45:50"
+  },
   {
     "id": "a9f53f3d-880f-46d8-8ddd-245dc9f7b879",
     "name": "Supreme Feud!",
