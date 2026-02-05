@@ -1,7 +1,14 @@
-// Generated on 02/05/2026, 09:45:04 (EST)
-// Total records: 3711
+// Generated on 02/05/2026, 10:00:03 (EST)
+// Total records: 3712
 
 export const games = [
+  {
+    "id": "7be45dab-fe22-40ea-b9c3-802290211db1",
+    "name": "sistema solar",
+    "creatorId": "100192979127244772912",
+    "creatorLastName": "Anaya Arias",
+    "createdAt": "02/05/2026, 09:45:37"
+  },
   {
     "id": "1b58b4e6-6cf6-41b1-8e33-9e529f1f1d2c",
     "name": "Game 2",
