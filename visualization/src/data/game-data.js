@@ -1,5 +1,5 @@
-// Generated on 02/05/2026, 16:30:03 (EST)
-// Total records: 3734
+// Generated on 02/05/2026, 16:45:04 (EST)
+// Total records: 3733
 
 export const games = [
   {
@@ -64,13 +64,6 @@ export const games = [
     "creatorId": "109945710794736330464",
     "creatorLastName": "Denton",
     "createdAt": "02/05/2026, 14:12:01"
-  },
-  {
-    "id": "0fe0c5ba-cedf-405b-a4cf-ae3bb57ee73b",
-    "name": "Round 1",
-    "creatorId": "100081924231568889490",
-    "creatorLastName": "Office",
-    "createdAt": "02/05/2026, 13:53:38"
   },
   {
     "id": "dda79a04-7a04-4beb-a6bf-1f6841f549d5",
