@@ -1,7 +1,21 @@
-// Generated on 02/05/2026, 17:15:03 (EST)
-// Total records: 3733
+// Generated on 02/05/2026, 17:30:03 (EST)
+// Total records: 3735
 
 export const games = [
+  {
+    "id": "7c7d7068-1eab-47df-8b43-1308cebe3f31",
+    "name": "game 2",
+    "creatorId": "111293977600563042842",
+    "creatorLastName": "Appietu",
+    "createdAt": "02/05/2026, 17:20:50"
+  },
+  {
+    "id": "0f4696cb-0452-41ff-9838-7fd15ff86669",
+    "name": "FCA FAMILY FEUD",
+    "creatorId": "114237572800889821063",
+    "creatorLastName": "Sharp",
+    "createdAt": "02/05/2026, 17:19:38"
+  },
   {
     "id": "6e40f8e1-1bea-4393-ac7e-4685d0d7863b",
     "name": "WBTY Game Night - Round 1",
