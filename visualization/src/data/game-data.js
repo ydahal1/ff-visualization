@@ -1,7 +1,14 @@
-// Generated on 02/04/2026, 23:30:03 (EST)
-// Total records: 3703
+// Generated on 02/04/2026, 23:45:04 (EST)
+// Total records: 3704
 
 export const games = [
+  {
+    "id": "6393208f-3646-4cc3-9e07-ec04dc522c56",
+    "name": "OH1 Activity Night - Game 2",
+    "creatorId": "106534552458555861153",
+    "creatorLastName": "Coltrin",
+    "createdAt": "02/04/2026, 23:35:50"
+  },
   {
     "id": "8636146e-4434-4553-937a-6951bf0f25c5",
     "name": "OH 1st Ward Game 1",
