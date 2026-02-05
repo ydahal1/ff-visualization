@@ -1,7 +1,21 @@
-// Generated on 02/05/2026, 12:30:03 (EST)
-// Total records: 3721
+// Generated on 02/05/2026, 12:45:04 (EST)
+// Total records: 3723
 
 export const games = [
+  {
+    "id": "b720814e-3083-4201-8930-86d1e359a404",
+    "name": "Maggie Pt 2",
+    "creatorId": "114045861612237557738",
+    "creatorLastName": "Delventhal",
+    "createdAt": "02/05/2026, 12:41:50"
+  },
+  {
+    "id": "66709d88-5b9c-4771-b4f3-0de88f655f8e",
+    "name": "Maggie Pt 1",
+    "creatorId": "114045861612237557738",
+    "creatorLastName": "Delventhal",
+    "createdAt": "02/05/2026, 12:38:38"
+  },
   {
     "id": "df9d54f7-5a0f-4a7c-b682-e6b1534c62e4",
     "name": "Family Feud Feb 2",
