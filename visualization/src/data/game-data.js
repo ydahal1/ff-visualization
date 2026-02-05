@@ -1,7 +1,56 @@
-// Generated on 02/05/2026, 13:00:03 (EST)
-// Total records: 3721
+// Generated on 02/05/2026, 13:15:04 (EST)
+// Total records: 3728
 
 export const games = [
+  {
+    "id": "7be4b329-1d81-4161-9294-42ea0b4d8118",
+    "name": "Global Health Feud",
+    "creatorId": "115319884984214645125",
+    "creatorLastName": "Kadiri",
+    "createdAt": "02/05/2026, 13:14:00"
+  },
+  {
+    "id": "32646eea-a8b3-4b0c-ae3e-013f7094b37c",
+    "name": "Game 5",
+    "creatorId": "115224071917313237033",
+    "creatorLastName": "KOA",
+    "createdAt": "02/05/2026, 13:13:58"
+  },
+  {
+    "id": "c741ea82-d24a-4846-8ca0-24b16f8be0e9",
+    "name": "Game 2",
+    "creatorId": "103187101868196127267",
+    "creatorLastName": "Luzi",
+    "createdAt": "02/05/2026, 13:10:09"
+  },
+  {
+    "id": "e9e07f0e-90a8-45f7-a431-d772219ce504",
+    "name": "Game 4",
+    "creatorId": "115224071917313237033",
+    "creatorLastName": "KOA",
+    "createdAt": "02/05/2026, 13:09:49"
+  },
+  {
+    "id": "3e37c7ef-bf9a-44b8-bccd-2a850a08d5e2",
+    "name": "Game 3",
+    "creatorId": "115224071917313237033",
+    "creatorLastName": "KOA",
+    "createdAt": "02/05/2026, 13:08:05"
+  },
+  {
+    "id": "eb982ed8-f0d6-47d2-8c82-8feb63781c80",
+    "name": "Game 2",
+    "creatorId": "115224071917313237033",
+    "creatorLastName": "KOA",
+    "createdAt": "02/05/2026, 13:06:21"
+  },
+  {
+    "id": "27d3438a-7bb9-4c4c-985f-7de1e4c79a89",
+    "name": "Valentine 2",
+    "creatorId": "115224071917313237033",
+    "creatorLastName": "KOA",
+    "createdAt": "02/05/2026, 13:04:01"
+  },
   {
     "id": "b720814e-3083-4201-8930-86d1e359a404",
     "name": "Maggie Pt 2",
