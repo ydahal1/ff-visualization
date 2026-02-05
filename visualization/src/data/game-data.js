@@ -1,7 +1,14 @@
-// Generated on 02/05/2026, 05:30:04 (EST)
-// Total records: 3705
+// Generated on 02/05/2026, 05:45:03 (EST)
+// Total records: 3706
 
 export const games = [
+  {
+    "id": "ee7f6487-43e0-489a-a502-efb046d19ad2",
+    "name": "Hell",
+    "creatorId": "110091634567525704379",
+    "creatorLastName": "Guy",
+    "createdAt": "02/05/2026, 05:34:49"
+  },
   {
     "id": "84e61291-c823-4fbc-b098-e6e49153eff9",
     "name": "jujutsu",
