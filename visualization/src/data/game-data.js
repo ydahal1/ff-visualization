@@ -1,7 +1,14 @@
-// Generated on 02/05/2026, 03:30:03 (EST)
-// Total records: 3704
+// Generated on 02/05/2026, 03:45:03 (EST)
+// Total records: 3705
 
 export const games = [
+  {
+    "id": "84e61291-c823-4fbc-b098-e6e49153eff9",
+    "name": "jujutsu",
+    "creatorId": "108836526796670601361",
+    "creatorLastName": "Smith",
+    "createdAt": "02/05/2026, 03:38:14"
+  },
   {
     "id": "d91275bc-13ef-4073-b4d5-a22fd79d86a0",
     "name": "Round 1",
