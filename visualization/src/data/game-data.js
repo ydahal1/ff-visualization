@@ -1,7 +1,28 @@
-// Generated on 02/05/2026, 18:30:03 (EST)
-// Total records: 3737
+// Generated on 02/05/2026, 18:45:03 (EST)
+// Total records: 3739
 
 export const games = [
+  {
+    "id": "560028e7-c7c3-4907-8667-4b59382de703",
+    "name": "WBTY Game Night - Round 2",
+    "creatorId": "111015873048058706936",
+    "creatorLastName": "Zacky",
+    "createdAt": "02/05/2026, 18:34:20"
+  },
+  {
+    "id": "be9d987b-749e-4e73-ad52-c231f3db8036",
+    "name": "Game 3",
+    "creatorId": "111293977600563042842",
+    "creatorLastName": "Appietu",
+    "createdAt": "02/05/2026, 18:33:38"
+  },
+  {
+    "id": "a1c9780f-fce9-4f41-b7cf-8542e4976a75",
+    "name": "WBTY Game Night - Round 1",
+    "creatorId": "111015873048058706936",
+    "creatorLastName": "Zacky",
+    "createdAt": "02/05/2026, 18:32:55"
+  },
   {
     "id": "b4aa023f-064f-4909-ac44-c4f68b088273",
     "name": "Peters Township Young Life Family Feud 2.0",
@@ -316,13 +337,6 @@ export const games = [
     "creatorId": "112812064454145354246",
     "creatorLastName": "Cruz",
     "createdAt": "02/04/2026, 22:59:28"
-  },
-  {
-    "id": "1153736e-2b86-4d84-9ad8-e2c76b37beed",
-    "name": "pop culture and campus life",
-    "creatorId": "111293977600563042842",
-    "creatorLastName": "Appietu",
-    "createdAt": "02/04/2026, 22:48:32"
   },
   {
     "id": "e8688a77-bafa-45c7-9350-dba569ce9822",
