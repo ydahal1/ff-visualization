@@ -1,7 +1,14 @@
-// Generated on 02/05/2026, 17:30:03 (EST)
-// Total records: 3735
+// Generated on 02/05/2026, 17:45:03 (EST)
+// Total records: 3736
 
 export const games = [
+  {
+    "id": "a9f53f3d-880f-46d8-8ddd-245dc9f7b879",
+    "name": "Supreme Feud!",
+    "creatorId": "100081924231568889490",
+    "creatorLastName": "Office",
+    "createdAt": "02/05/2026, 17:32:03"
+  },
   {
     "id": "7c7d7068-1eab-47df-8b43-1308cebe3f31",
     "name": "game 2",
