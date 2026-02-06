@@ -1,7 +1,21 @@
-// Generated on 02/06/2026, 07:00:04 (EST)
-// Total records: 3760
+// Generated on 02/06/2026, 07:15:03 (EST)
+// Total records: 3762
 
 export const games = [
+  {
+    "id": "4cba75d2-f5e6-46be-b98d-25de69b16981",
+    "name": "q",
+    "creatorId": "115636046168082399439",
+    "creatorLastName": "Marin",
+    "createdAt": "02/06/2026, 07:03:21"
+  },
+  {
+    "id": "9089ef32-00d5-49e3-a288-aac55cafd529",
+    "name": "izmēģinājums",
+    "creatorId": "102843382132070367839",
+    "creatorLastName": "K",
+    "createdAt": "02/06/2026, 07:01:17"
+  },
   {
     "id": "feae9256-3195-48f6-9fce-514356e77596",
     "name": "SRM",
