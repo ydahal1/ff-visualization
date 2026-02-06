@@ -1,7 +1,42 @@
-// Generated on 02/06/2026, 16:00:03 (EST)
-// Total records: 3790
+// Generated on 02/06/2026, 16:15:03 (EST)
+// Total records: 3794
 
 export const games = [
+  {
+    "id": "27e9a5dc-7164-4e99-96f2-2f778ac8f9f4",
+    "name": "Supreme Feud Round 3!",
+    "creatorId": "100081924231568889490",
+    "creatorLastName": "Office",
+    "createdAt": "02/06/2026, 16:14:03"
+  },
+  {
+    "id": "e7ba5d14-c282-42fd-92d9-93ebebee3526",
+    "name": "Supreme Feud Round 4!",
+    "creatorId": "100081924231568889490",
+    "creatorLastName": "Office",
+    "createdAt": "02/06/2026, 16:13:14"
+  },
+  {
+    "id": "11d089e7-7cd7-4c0e-8edb-82729b5fa84c",
+    "name": "Family Feud ARC",
+    "creatorId": "101270464933372645515",
+    "creatorLastName": "Marie",
+    "createdAt": "02/06/2026, 16:07:13"
+  },
+  {
+    "id": "28198379-56b6-4cba-8f96-e5d114a7651c",
+    "name": "Supreme Feud Round 2!",
+    "creatorId": "100081924231568889490",
+    "creatorLastName": "Office",
+    "createdAt": "02/06/2026, 16:03:07"
+  },
+  {
+    "id": "e5026186-69e1-45b9-94b9-37942a3b3ee2",
+    "name": "Supreme Feud Round 1!",
+    "creatorId": "100081924231568889490",
+    "creatorLastName": "Office",
+    "createdAt": "02/06/2026, 16:02:00"
+  },
   {
     "id": "591140ea-8135-4db0-9243-00b8ca155554",
     "name": "Valentine",
@@ -498,13 +533,6 @@ export const games = [
     "creatorId": "104069596424405171497",
     "creatorLastName": "Flocco",
     "createdAt": "02/05/2026, 18:08:18"
-  },
-  {
-    "id": "a9f53f3d-880f-46d8-8ddd-245dc9f7b879",
-    "name": "Supreme Feud!",
-    "creatorId": "100081924231568889490",
-    "creatorLastName": "Office",
-    "createdAt": "02/05/2026, 17:32:03"
   },
   {
     "id": "7c7d7068-1eab-47df-8b43-1308cebe3f31",
