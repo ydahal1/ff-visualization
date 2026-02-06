@@ -1,7 +1,21 @@
-// Generated on 02/06/2026, 12:00:03 (EST)
-// Total records: 3776
+// Generated on 02/06/2026, 12:15:03 (EST)
+// Total records: 3778
 
 export const games = [
+  {
+    "id": "5c865f1d-d773-4e80-908e-65c57b85b09c",
+    "name": "Game 6",
+    "creatorId": "105554215970485813874",
+    "creatorLastName": "Newishi",
+    "createdAt": "02/06/2026, 12:14:04"
+  },
+  {
+    "id": "68ec7eef-7686-4d96-b307-4c71a351f6af",
+    "name": "Game 5",
+    "creatorId": "105554215970485813874",
+    "creatorLastName": "Newishi",
+    "createdAt": "02/06/2026, 12:02:25"
+  },
   {
     "id": "88c19e4c-ddf6-49c8-b3f3-c7d8b33f25b5",
     "name": "moore love live",
