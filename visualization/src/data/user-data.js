@@ -1,7 +1,17 @@
-// Generated on 02/06/2026, 06:15:01 (EST)
-// Total records: 2328
+// Generated on 02/06/2026, 06:30:00 (EST)
+// Total records: 2330
 
 export const users = [
+  {
+    "id": "104391650188345854696",
+    "lName": "",
+    "createdAt": "02/06/2026, 06:25:59"
+  },
+  {
+    "id": "117979562860599552807",
+    "lName": "",
+    "createdAt": "02/06/2026, 06:15:19"
+  },
   {
     "id": "105340403935056004938",
     "lName": "Akeripa",
