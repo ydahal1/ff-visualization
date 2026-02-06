@@ -1,7 +1,14 @@
-// Generated on 02/06/2026, 06:00:03 (EST)
-// Total records: 3757
+// Generated on 02/06/2026, 06:15:04 (EST)
+// Total records: 3755
 
 export const games = [
+  {
+    "id": "66c859c2-920d-438f-9175-9d8c914cc1c4",
+    "name": "Friday",
+    "creatorId": "109388182592203297647",
+    "creatorLastName": "Dahal",
+    "createdAt": "02/06/2026, 06:01:19"
+  },
   {
     "id": "60b22ed9-323b-40ec-81a8-0e0ddff2be83",
     "name": "Opener",
@@ -1296,27 +1303,6 @@ export const games = [
     "creatorId": "115946857975521517540",
     "creatorLastName": "Francois",
     "createdAt": "02/02/2026, 17:00:14"
-  },
-  {
-    "id": "c9f079d3-65e7-4f0b-88c1-7836ed1e4e58",
-    "name": "Happydfd",
-    "creatorId": "109388182592203297647",
-    "creatorLastName": "Dahal",
-    "createdAt": "02/02/2026, 16:07:05"
-  },
-  {
-    "id": "b19cb9af-9a8a-4f0e-bc77-42d5ebe37f6b",
-    "name": "Stripe",
-    "creatorId": "109388182592203297647",
-    "creatorLastName": "Dahal",
-    "createdAt": "02/02/2026, 16:06:03"
-  },
-  {
-    "id": "66d59ca7-f542-40a8-8eb4-6ceeb2eeb5f8",
-    "name": "Happy",
-    "creatorId": "109388182592203297647",
-    "creatorLastName": "Dahal",
-    "createdAt": "02/02/2026, 16:05:28"
   },
   {
     "id": "98a6bcce-6e1d-4d60-86ee-f225a8172488",
