@@ -1,7 +1,14 @@
-// Generated on 02/06/2026, 08:30:03 (EST)
-// Total records: 3765
+// Generated on 02/06/2026, 08:45:03 (EST)
+// Total records: 3766
 
 export const games = [
+  {
+    "id": "8060db2d-f802-4e24-9ff9-9cf721e61974",
+    "name": "Family Feud :)",
+    "creatorId": "117408726872198991895",
+    "creatorLastName": "Gay",
+    "createdAt": "02/06/2026, 08:37:43"
+  },
   {
     "id": "8c1df408-8e47-433b-89ab-762a70c8c65a",
     "name": "work",
