@@ -1,7 +1,14 @@
-// Generated on 02/06/2026, 04:00:05 (EST)
-// Total records: 3756
+// Generated on 02/06/2026, 04:15:04 (EST)
+// Total records: 3757
 
 export const games = [
+  {
+    "id": "63a8f0a1-5e1c-4785-8c36-b9c30a4895a0",
+    "name": "Happy Hour",
+    "creatorId": "118398045643308882603",
+    "creatorLastName": "Dahal",
+    "createdAt": "02/06/2026, 04:04:21"
+  },
   {
     "id": "3fee9829-3a70-4c90-a0b9-a3b3d896c318",
     "name": "YSA GAMES NIGHT",
