@@ -1,7 +1,14 @@
-// Generated on 02/06/2026, 08:00:03 (EST)
-// Total records: 3764
+// Generated on 02/06/2026, 08:15:03 (EST)
+// Total records: 3765
 
 export const games = [
+  {
+    "id": "8c1df408-8e47-433b-89ab-762a70c8c65a",
+    "name": "work",
+    "creatorId": "101627710777353369098",
+    "creatorLastName": "Christine",
+    "createdAt": "02/06/2026, 08:10:12"
+  },
   {
     "id": "289d1be1-3108-48e7-8ffe-121aecaa9d1b",
     "name": "Remember me... maybe?",
