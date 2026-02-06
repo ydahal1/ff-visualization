@@ -1,7 +1,14 @@
-// Generated on 02/06/2026, 14:45:03 (EST)
-// Total records: 3786
+// Generated on 02/06/2026, 15:00:03 (EST)
+// Total records: 3787
 
 export const games = [
+  {
+    "id": "b21482b2-a0a0-49c7-ae52-a929d801b622",
+    "name": "2/6",
+    "creatorId": "113735753105450950083",
+    "creatorLastName": "Carter",
+    "createdAt": "02/06/2026, 14:56:41"
+  },
   {
     "id": "d3681ab2-df0c-44e9-b3ea-5b6c5355a766",
     "name": "સ્નેહ મિલન પરિવાર રમત",
