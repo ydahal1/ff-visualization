@@ -1,7 +1,14 @@
-// Generated on 02/06/2026, 06:15:04 (EST)
-// Total records: 3755
+// Generated on 02/06/2026, 06:30:03 (EST)
+// Total records: 3756
 
 export const games = [
+  {
+    "id": "e2e0ff2e-a33e-418a-b7a8-465f5b1d7245",
+    "name": "Marketing fued",
+    "creatorId": "117979562860599552807",
+    "creatorLastName": "",
+    "createdAt": "02/06/2026, 06:23:36"
+  },
   {
     "id": "66c859c2-920d-438f-9175-9d8c914cc1c4",
     "name": "Friday",
