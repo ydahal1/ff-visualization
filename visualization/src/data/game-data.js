@@ -1,7 +1,21 @@
-// Generated on 02/06/2026, 07:15:03 (EST)
-// Total records: 3762
+// Generated on 02/06/2026, 07:30:03 (EST)
+// Total records: 3764
 
 export const games = [
+  {
+    "id": "289d1be1-3108-48e7-8ffe-121aecaa9d1b",
+    "name": "Remember me... maybe?",
+    "creatorId": "112325864000255073744",
+    "creatorLastName": "Caingcoy",
+    "createdAt": "02/06/2026, 07:28:24"
+  },
+  {
+    "id": "c5043a8b-6e50-467f-a7a0-7d97912e3bfc",
+    "name": "fam",
+    "creatorId": "103617293986231146525",
+    "creatorLastName": "Quides",
+    "createdAt": "02/06/2026, 07:22:09"
+  },
   {
     "id": "4cba75d2-f5e6-46be-b98d-25de69b16981",
     "name": "q",
