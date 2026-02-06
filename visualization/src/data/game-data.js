@@ -1,7 +1,14 @@
-// Generated on 02/06/2026, 03:30:03 (EST)
-// Total records: 3755
+// Generated on 02/06/2026, 03:45:03 (EST)
+// Total records: 3756
 
 export const games = [
+  {
+    "id": "3fee9829-3a70-4c90-a0b9-a3b3d896c318",
+    "name": "YSA GAMES NIGHT",
+    "creatorId": "105340403935056004938",
+    "creatorLastName": "Akeripa",
+    "createdAt": "02/06/2026, 03:44:19"
+  },
   {
     "id": "e1f782fe-d734-44f3-ba9e-a80ac70ec3bd",
     "name": "music asa",
