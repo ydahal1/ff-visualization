@@ -1,7 +1,14 @@
-// Generated on 02/06/2026, 09:45:04 (EST)
-// Total records: 3768
+// Generated on 02/06/2026, 10:00:04 (EST)
+// Total records: 3769
 
 export const games = [
+  {
+    "id": "39db986e-43d3-4634-8adf-282249bdb7ee",
+    "name": "Game 1",
+    "creatorId": "105554215970485813874",
+    "creatorLastName": "Newishi",
+    "createdAt": "02/06/2026, 09:49:57"
+  },
   {
     "id": "4d799e1a-9aa7-4015-b1ed-71b8ef20e077",
     "name": "Relapse Prevention",
