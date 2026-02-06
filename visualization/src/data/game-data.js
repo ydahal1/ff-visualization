@@ -1,7 +1,14 @@
-// Generated on 02/06/2026, 09:30:03 (EST)
-// Total records: 3767
+// Generated on 02/06/2026, 09:45:04 (EST)
+// Total records: 3768
 
 export const games = [
+  {
+    "id": "4d799e1a-9aa7-4015-b1ed-71b8ef20e077",
+    "name": "Relapse Prevention",
+    "creatorId": "112951046788712741283",
+    "creatorLastName": "Miller",
+    "createdAt": "02/06/2026, 09:35:23"
+  },
   {
     "id": "3d737080-b350-449c-93ae-6629c6b3f4a3",
     "name": "Run it Back!",
