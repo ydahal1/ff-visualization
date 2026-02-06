@@ -1,7 +1,14 @@
-// Generated on 02/06/2026, 24:45:03 (EST)
-// Total records: 3755
+// Generated on 02/06/2026, 01:00:03 (EST)
+// Total records: 3756
 
 export const games = [
+  {
+    "id": "ee42a343-4d4a-41e8-95a2-96e26955e18f",
+    "name": "Faily feud",
+    "creatorId": "112521957458864337782",
+    "creatorLastName": "Militante",
+    "createdAt": "02/06/2026, 24:48:39"
+  },
   {
     "id": "c0e7fb66-f87a-4e0f-a58b-5ed15f0562f1",
     "name": "Perception",
