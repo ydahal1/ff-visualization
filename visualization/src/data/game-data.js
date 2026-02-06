@@ -1,7 +1,14 @@
-// Generated on 02/06/2026, 18:00:04 (EST)
-// Total records: 3794
+// Generated on 02/06/2026, 18:15:04 (EST)
+// Total records: 3795
 
 export const games = [
+  {
+    "id": "724c4f3c-00a4-4f5c-83ff-11d42f8f160e",
+    "name": "Phi Mu Alpha Recruitment",
+    "creatorId": "114893136582229110456",
+    "creatorLastName": "Dziuba",
+    "createdAt": "02/06/2026, 18:11:14"
+  },
   {
     "id": "27e9a5dc-7164-4e99-96f2-2f778ac8f9f4",
     "name": "Supreme Feud Round 3!",
