@@ -1,7 +1,14 @@
-// Generated on 02/06/2026, 14:15:03 (EST)
-// Total records: 3785
+// Generated on 02/06/2026, 14:30:03 (EST)
+// Total records: 3786
 
 export const games = [
+  {
+    "id": "d3681ab2-df0c-44e9-b3ea-5b6c5355a766",
+    "name": "સ્નેહ મિલન પરિવાર રમત",
+    "creatorId": "118441093291324409344",
+    "creatorLastName": "Patel",
+    "createdAt": "02/06/2026, 14:16:37"
+  },
   {
     "id": "46852fe1-91df-4d09-9e60-482dc7da9aea",
     "name": "Tiger Feud 1",
