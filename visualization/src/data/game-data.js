@@ -1,7 +1,14 @@
-// Generated on 02/05/2026, 22:15:04 (EST)
-// Total records: 3748
+// Generated on 02/05/2026, 22:30:02 (EST)
+// Total records: 3749
 
 export const games = [
+  {
+    "id": "c90ebfbc-73f2-40e6-a410-cf559ac8bf8c",
+    "name": "CoTC 1",
+    "creatorId": "109159734063906963732",
+    "creatorLastName": "Thiemann",
+    "createdAt": "02/05/2026, 22:16:47"
+  },
   {
     "id": "6daaf0a8-6781-46b7-b1cd-2f5bf314209e",
     "name": "Family Feud (1)",
