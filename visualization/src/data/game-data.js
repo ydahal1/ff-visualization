@@ -1,7 +1,42 @@
-// Generated on 02/06/2026, 06:30:03 (EST)
-// Total records: 3756
+// Generated on 02/06/2026, 06:45:03 (EST)
+// Total records: 3761
 
 export const games = [
+  {
+    "id": "7bb7e5f5-cdf5-4005-9fb9-6f35f4a2a88e",
+    "name": "2",
+    "creatorId": "104786515412790727430",
+    "creatorLastName": "Sovre",
+    "createdAt": "02/06/2026, 06:38:30"
+  },
+  {
+    "id": "e6f2464e-4fc5-42d1-a768-e8c841874e66",
+    "name": "coba",
+    "creatorId": "104391650188345854696",
+    "creatorLastName": "",
+    "createdAt": "02/06/2026, 06:36:38"
+  },
+  {
+    "id": "2eea14cb-3417-4ba6-a144-7711ad6787c1",
+    "name": "kafdak syarat puasa",
+    "creatorId": "104391650188345854696",
+    "creatorLastName": "",
+    "createdAt": "02/06/2026, 06:35:23"
+  },
+  {
+    "id": "98a7b6af-50bd-4e3b-8cbf-8d60d1f2de21",
+    "name": "1",
+    "creatorId": "104786515412790727430",
+    "creatorLastName": "Sovre",
+    "createdAt": "02/06/2026, 06:32:30"
+  },
+  {
+    "id": "a42f7581-4e3f-400d-90f7-36f6fec24edd",
+    "name": "Game 2",
+    "creatorId": "105340403935056004938",
+    "creatorLastName": "Akeripa",
+    "createdAt": "02/06/2026, 06:30:19"
+  },
   {
     "id": "e2e0ff2e-a33e-418a-b7a8-465f5b1d7245",
     "name": "Marketing fued",
