@@ -1,7 +1,14 @@
-// Generated on 02/06/2026, 05:15:03 (EST)
-// Total records: 3757
+// Generated on 02/06/2026, 05:30:03 (EST)
+// Total records: 3758
 
 export const games = [
+  {
+    "id": "f67b795b-f624-4f7d-915c-42f11ac7aa39",
+    "name": "Hehehe",
+    "creatorId": "117168692379659922321",
+    "creatorLastName": "N",
+    "createdAt": "02/06/2026, 05:26:24"
+  },
   {
     "id": "63a8f0a1-5e1c-4785-8c36-b9c30a4895a0",
     "name": "Happy Hour",
