@@ -1,7 +1,35 @@
-// Generated on 02/06/2026, 19:15:03 (EST)
-// Total records: 3792
+// Generated on 02/06/2026, 19:30:03 (EST)
+// Total records: 3796
 
 export const games = [
+  {
+    "id": "a0d29b72-c020-42ef-9d00-c1a5f35ca26d",
+    "name": "Supreme Feud Round 5!",
+    "creatorId": "100081924231568889490",
+    "creatorLastName": "Office",
+    "createdAt": "02/06/2026, 19:22:00"
+  },
+  {
+    "id": "dfe94a5b-442d-44dd-987c-737890c73136",
+    "name": "Supreme Feud Round 4!",
+    "creatorId": "100081924231568889490",
+    "creatorLastName": "Office",
+    "createdAt": "02/06/2026, 19:20:01"
+  },
+  {
+    "id": "218b45a8-eee7-4cae-9c89-02f03b85f7a4",
+    "name": "Supreme Feud Round 3!",
+    "creatorId": "100081924231568889490",
+    "creatorLastName": "Office",
+    "createdAt": "02/06/2026, 19:18:07"
+  },
+  {
+    "id": "43880384-dbcb-42cc-ad4c-91828df8a34a",
+    "name": "Supreme Feud Round 2!",
+    "creatorId": "100081924231568889490",
+    "creatorLastName": "Office",
+    "createdAt": "02/06/2026, 19:16:20"
+  },
   {
     "id": "225fa082-1976-4d71-8302-21c5f4add2a9",
     "name": "Supreme Feud Round 1!",
