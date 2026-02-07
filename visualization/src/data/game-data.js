@@ -1,7 +1,21 @@
-// Generated on 02/06/2026, 21:00:03 (EST)
-// Total records: 3804
+// Generated on 02/06/2026, 21:15:03 (EST)
+// Total records: 3806
 
 export const games = [
+  {
+    "id": "81c7c0e8-8000-4262-8035-a30f26965cfb",
+    "name": "Finals Round Actually",
+    "creatorId": "117168692379659922321",
+    "creatorLastName": "N",
+    "createdAt": "02/06/2026, 21:06:53"
+  },
+  {
+    "id": "945bcf60-deea-4b33-8c3b-2fa4543807b5",
+    "name": "Final Round",
+    "creatorId": "117168692379659922321",
+    "creatorLastName": "N",
+    "createdAt": "02/06/2026, 21:06:14"
+  },
   {
     "id": "f769f5b9-8328-4c27-9147-61b5c5520e8f",
     "name": "Round 7",
