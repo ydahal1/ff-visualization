@@ -1,7 +1,14 @@
-// Generated on 02/07/2026, 15:45:03 (EST)
+// Generated on 02/07/2026, 16:00:04 (EST)
 // Total records: 3815
 
 export const games = [
+  {
+    "id": "c9097143-aa03-4ab5-9e5e-56f90445b8b0",
+    "name": "Supreme Feud Round 3!!!",
+    "creatorId": "100081924231568889490",
+    "creatorLastName": "Office",
+    "createdAt": "02/07/2026, 15:55:46"
+  },
   {
     "id": "b06bd93d-d39f-4982-afcb-dc1fb9970089",
     "name": "Supreme Feud Championship Round",
@@ -183,13 +190,6 @@ export const games = [
     "creatorId": "100081924231568889490",
     "creatorLastName": "Office",
     "createdAt": "02/06/2026, 19:20:01"
-  },
-  {
-    "id": "218b45a8-eee7-4cae-9c89-02f03b85f7a4",
-    "name": "Supreme Feud Round 3!",
-    "creatorId": "100081924231568889490",
-    "creatorLastName": "Office",
-    "createdAt": "02/06/2026, 19:18:07"
   },
   {
     "id": "43880384-dbcb-42cc-ad4c-91828df8a34a",
