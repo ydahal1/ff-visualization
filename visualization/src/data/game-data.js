@@ -1,7 +1,21 @@
-// Generated on 02/07/2026, 17:30:03 (EST)
-// Total records: 3815
+// Generated on 02/07/2026, 17:45:02 (EST)
+// Total records: 3817
 
 export const games = [
+  {
+    "id": "316edf6f-f1a3-47f1-b585-ed8ae5e849b8",
+    "name": "Game 2",
+    "creatorId": "101759486217329494912",
+    "creatorLastName": "Vega",
+    "createdAt": "02/07/2026, 17:44:08"
+  },
+  {
+    "id": "f30c016a-48e5-4755-bae1-e3b9b12e7a29",
+    "name": "Birthday1",
+    "creatorId": "118064721653284678875",
+    "creatorLastName": "America",
+    "createdAt": "02/07/2026, 17:30:56"
+  },
   {
     "id": "7c2feb60-1e48-4ea8-97e1-7f4d3c61d0c9",
     "name": "Friday Night",
