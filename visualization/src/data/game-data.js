@@ -1,7 +1,14 @@
-// Generated on 02/07/2026, 05:45:04 (EST)
-// Total records: 3808
+// Generated on 02/07/2026, 06:00:03 (EST)
+// Total records: 3809
 
 export const games = [
+  {
+    "id": "28f47356-2e30-46f3-ac3c-4a4335fdf405",
+    "name": "Family fued 2",
+    "creatorId": "103617293986231146525",
+    "creatorLastName": "Quides",
+    "createdAt": "02/07/2026, 05:45:16"
+  },
   {
     "id": "4bf9f61e-8efe-4bd9-ad94-bb09da9ee9e3",
     "name": "NCO of the QTR Board",
