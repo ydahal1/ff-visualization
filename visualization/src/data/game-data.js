@@ -1,7 +1,14 @@
-// Generated on 02/06/2026, 21:45:03 (EST)
-// Total records: 3806
+// Generated on 02/06/2026, 22:00:03 (EST)
+// Total records: 3807
 
 export const games = [
+  {
+    "id": "96360d81-d8fd-48f9-b247-28508567886c",
+    "name": "Test",
+    "creatorId": "108012321791210378361",
+    "creatorLastName": "cub",
+    "createdAt": "02/06/2026, 21:57:23"
+  },
   {
     "id": "81c7c0e8-8000-4262-8035-a30f26965cfb",
     "name": "Finals Round Actually",
