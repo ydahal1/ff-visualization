@@ -1,7 +1,14 @@
-// Generated on 02/07/2026, 16:30:03 (EST)
-// Total records: 3813
+// Generated on 02/07/2026, 16:45:03 (EST)
+// Total records: 3814
 
 export const games = [
+  {
+    "id": "d7283ddf-da0b-44fb-84aa-5a6560549507",
+    "name": "100 amigas dijeron",
+    "creatorId": "108330828195045771440",
+    "creatorLastName": "Resendiz",
+    "createdAt": "02/07/2026, 16:30:12"
+  },
   {
     "id": "c9097143-aa03-4ab5-9e5e-56f90445b8b0",
     "name": "Supreme Feud Round 3!!!",
