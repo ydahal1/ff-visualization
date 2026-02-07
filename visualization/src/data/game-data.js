@@ -1,7 +1,14 @@
-// Generated on 02/07/2026, 18:00:03 (EST)
+// Generated on 02/07/2026, 18:15:03 (EST)
 // Total records: 3818
 
 export const games = [
+  {
+    "id": "bbfe6231-c627-49e2-be97-e38648ba486c",
+    "name": "Round 2",
+    "creatorId": "108012321791210378361",
+    "creatorLastName": "cub",
+    "createdAt": "02/07/2026, 18:12:08"
+  },
   {
     "id": "6f65eaf7-081c-40c0-9594-03ecaa840745",
     "name": "meeting",
@@ -29,13 +36,6 @@ export const games = [
     "creatorId": "112514688688826124190",
     "creatorLastName": "Bhandari",
     "createdAt": "02/07/2026, 17:14:38"
-  },
-  {
-    "id": "de482ba3-6adc-4bc5-8766-035457045f9e",
-    "name": "Round 1",
-    "creatorId": "108012321791210378361",
-    "creatorLastName": "cub",
-    "createdAt": "02/07/2026, 17:06:21"
   },
   {
     "id": "d7283ddf-da0b-44fb-84aa-5a6560549507",
