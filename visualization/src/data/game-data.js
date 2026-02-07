@@ -1,7 +1,14 @@
-// Generated on 02/07/2026, 15:00:04 (EST)
-// Total records: 3814
+// Generated on 02/07/2026, 15:15:03 (EST)
+// Total records: 3815
 
 export const games = [
+  {
+    "id": "dde530c8-3e95-4964-804e-a748c8712612",
+    "name": "Biblical Fued (ADVANCED)",
+    "creatorId": "106707436963099833187",
+    "creatorLastName": "",
+    "createdAt": "02/07/2026, 15:09:57"
+  },
   {
     "id": "40a042ff-cc63-4421-9f24-4f42ea0a90c6",
     "name": "Biblical Feud p1 (1st time)",
