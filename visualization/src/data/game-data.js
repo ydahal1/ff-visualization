@@ -1,7 +1,14 @@
-// Generated on 02/07/2026, 17:45:02 (EST)
-// Total records: 3817
+// Generated on 02/07/2026, 18:00:03 (EST)
+// Total records: 3818
 
 export const games = [
+  {
+    "id": "6f65eaf7-081c-40c0-9594-03ecaa840745",
+    "name": "meeting",
+    "creatorId": "106630745331434386276",
+    "creatorLastName": "Moussa",
+    "createdAt": "02/07/2026, 17:49:43"
+  },
   {
     "id": "316edf6f-f1a3-47f1-b585-ed8ae5e849b8",
     "name": "Game 2",
