@@ -1,7 +1,14 @@
-// Generated on 02/07/2026, 06:00:03 (EST)
-// Total records: 3809
+// Generated on 02/07/2026, 06:15:04 (EST)
+// Total records: 3810
 
 export const games = [
+  {
+    "id": "3e6c20f6-eb57-46cb-a587-ad4406f188a4",
+    "name": "GAME 1",
+    "creatorId": "115636046168082399439",
+    "creatorLastName": "Marin",
+    "createdAt": "02/07/2026, 06:13:28"
+  },
   {
     "id": "28f47356-2e30-46f3-ac3c-4a4335fdf405",
     "name": "Family fued 2",
