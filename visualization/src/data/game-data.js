@@ -1,7 +1,14 @@
-// Generated on 02/07/2026, 15:30:02 (EST)
-// Total records: 3814
+// Generated on 02/07/2026, 15:45:03 (EST)
+// Total records: 3815
 
 export const games = [
+  {
+    "id": "b06bd93d-d39f-4982-afcb-dc1fb9970089",
+    "name": "Supreme Feud Championship Round",
+    "creatorId": "100081924231568889490",
+    "creatorLastName": "Office",
+    "createdAt": "02/07/2026, 15:38:26"
+  },
   {
     "id": "dde530c8-3e95-4964-804e-a748c8712612",
     "name": "Biblical Fued (ADVANCED)",
