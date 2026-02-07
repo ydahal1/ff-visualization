@@ -1,7 +1,21 @@
-// Generated on 02/07/2026, 16:45:03 (EST)
-// Total records: 3814
+// Generated on 02/07/2026, 17:00:03 (EST)
+// Total records: 3816
 
 export const games = [
+  {
+    "id": "107715f0-777a-4a3d-93f5-9b3261c8b11e",
+    "name": "Test Again",
+    "creatorId": "118064721653284678875",
+    "creatorLastName": "America",
+    "createdAt": "02/07/2026, 16:54:24"
+  },
+  {
+    "id": "5f4eae0c-08ec-4d47-93d3-fd93776ab035",
+    "name": "So Icey",
+    "creatorId": "101797658035282902979",
+    "creatorLastName": "Murphy",
+    "createdAt": "02/07/2026, 16:52:28"
+  },
   {
     "id": "d7283ddf-da0b-44fb-84aa-5a6560549507",
     "name": "100 amigas dijeron",
