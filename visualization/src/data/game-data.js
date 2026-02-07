@@ -1,20 +1,27 @@
-// Generated on 02/07/2026, 17:00:03 (EST)
-// Total records: 3816
+// Generated on 02/07/2026, 17:15:04 (EST)
+// Total records: 3817
 
 export const games = [
+  {
+    "id": "7c2feb60-1e48-4ea8-97e1-7f4d3c61d0c9",
+    "name": "Friday Night",
+    "creatorId": "112514688688826124190",
+    "creatorLastName": "Bhandari",
+    "createdAt": "02/07/2026, 17:14:38"
+  },
+  {
+    "id": "de482ba3-6adc-4bc5-8766-035457045f9e",
+    "name": "Round 1",
+    "creatorId": "108012321791210378361",
+    "creatorLastName": "cub",
+    "createdAt": "02/07/2026, 17:06:21"
+  },
   {
     "id": "107715f0-777a-4a3d-93f5-9b3261c8b11e",
     "name": "Test Again",
     "creatorId": "118064721653284678875",
     "creatorLastName": "America",
     "createdAt": "02/07/2026, 16:54:24"
-  },
-  {
-    "id": "5f4eae0c-08ec-4d47-93d3-fd93776ab035",
-    "name": "So Icey",
-    "creatorId": "101797658035282902979",
-    "creatorLastName": "Murphy",
-    "createdAt": "02/07/2026, 16:52:28"
   },
   {
     "id": "d7283ddf-da0b-44fb-84aa-5a6560549507",
