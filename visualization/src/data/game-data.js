@@ -1,5 +1,5 @@
-// Generated on 02/07/2026, 14:30:03 (EST)
-// Total records: 3815
+// Generated on 02/07/2026, 14:45:03 (EST)
+// Total records: 3814
 
 export const games = [
   {
@@ -2619,13 +2619,6 @@ export const games = [
     "creatorId": "106203513564624883604",
     "creatorLastName": "S",
     "createdAt": "01/29/2026, 13:28:50"
-  },
-  {
-    "id": "6558fa81-6793-4d4d-98ef-5e9ad1e0623c",
-    "name": "Am intrebat 100 de chinezi:",
-    "creatorId": "103030876059176384628",
-    "creatorLastName": "Pal",
-    "createdAt": "01/29/2026, 13:24:50"
   },
   {
     "id": "c92a7a57-af23-4ddc-ab91-bdfa28d2548a",
