@@ -1,7 +1,35 @@
-// Generated on 02/07/2026, 12:45:03 (EST)
-// Total records: 3810
+// Generated on 02/07/2026, 13:00:04 (EST)
+// Total records: 3814
 
 export const games = [
+  {
+    "id": "906b005d-8b82-4cda-a9eb-0c2a039089f1",
+    "name": "Biblical Feud (1st game",
+    "creatorId": "101638308941110962956",
+    "creatorLastName": "Arnardu",
+    "createdAt": "02/07/2026, 12:59:13"
+  },
+  {
+    "id": "1c569abf-1438-443f-90b7-c1db726d095a",
+    "name": "Bonus Game",
+    "creatorId": "110021544839893704478",
+    "creatorLastName": "Farmer",
+    "createdAt": "02/07/2026, 12:59:05"
+  },
+  {
+    "id": "a5349333-2345-4113-9bce-6ecbced9e35c",
+    "name": "Game 3",
+    "creatorId": "110021544839893704478",
+    "creatorLastName": "Farmer",
+    "createdAt": "02/07/2026, 12:57:21"
+  },
+  {
+    "id": "c9b6b88c-e6ad-4436-b92b-b6f2df966bf2",
+    "name": "Game 2",
+    "creatorId": "110021544839893704478",
+    "creatorLastName": "Farmer",
+    "createdAt": "02/07/2026, 12:54:00"
+  },
   {
     "id": "c7187af7-db85-4944-8f99-bfe6f0b28357",
     "name": "February Mentor Meeting",
