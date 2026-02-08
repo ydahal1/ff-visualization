@@ -1,7 +1,14 @@
-// Generated on 02/07/2026, 21:15:03 (EST)
-// Total records: 3825
+// Generated on 02/07/2026, 21:30:02 (EST)
+// Total records: 3826
 
 export const games = [
+  {
+    "id": "9816a4d9-6540-4fd1-8236-00a7883d9434",
+    "name": "Brooks VS Dookie",
+    "creatorId": "109564094352871552352",
+    "creatorLastName": "hitz",
+    "createdAt": "02/07/2026, 21:18:20"
+  },
   {
     "id": "8cd3c860-f18c-46fe-aa36-812dd92822e3",
     "name": "Game 2",
