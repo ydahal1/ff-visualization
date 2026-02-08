@@ -1,7 +1,21 @@
-// Generated on 02/07/2026, 19:30:03 (EST)
-// Total records: 3822
+// Generated on 02/07/2026, 19:45:03 (EST)
+// Total records: 3824
 
 export const games = [
+  {
+    "id": "135543b7-82b6-4dee-b252-2053c5d4894a",
+    "name": "Fast Money",
+    "creatorId": "101797658035282902979",
+    "creatorLastName": "Murphy",
+    "createdAt": "02/07/2026, 19:33:10"
+  },
+  {
+    "id": "eaa18adf-5546-40d8-b3f7-d2a0d50890ff",
+    "name": "So Icey",
+    "creatorId": "101797658035282902979",
+    "creatorLastName": "Murphy",
+    "createdAt": "02/07/2026, 19:30:57"
+  },
   {
     "id": "77a45216-437c-4bd2-9334-8e2fdd524be9",
     "name": "Final Round",
