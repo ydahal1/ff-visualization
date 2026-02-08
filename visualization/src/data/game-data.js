@@ -1,7 +1,21 @@
-// Generated on 02/08/2026, 16:30:03 (EST)
-// Total records: 3839
+// Generated on 02/08/2026, 16:45:03 (EST)
+// Total records: 3841
 
 export const games = [
+  {
+    "id": "98a2e96b-fdba-4d44-9751-4226a06804ee",
+    "name": "Family Feud 2",
+    "creatorId": "111419505728947517118",
+    "creatorLastName": "*",
+    "createdAt": "02/08/2026, 16:41:44"
+  },
+  {
+    "id": "8143cc99-1b6c-4b2c-8996-0f0d59840988",
+    "name": "ai",
+    "creatorId": "112204261020417179915",
+    "creatorLastName": "Muzamal",
+    "createdAt": "02/08/2026, 16:35:03"
+  },
   {
     "id": "7bdd607e-daad-4578-990c-658233c85315",
     "name": "Form time family feud",
