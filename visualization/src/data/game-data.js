@@ -1,13 +1,20 @@
-// Generated on 02/07/2026, 22:00:03 (EST)
-// Total records: 3827
+// Generated on 02/07/2026, 22:15:03 (EST)
+// Total records: 3828
 
 export const games = [
   {
-    "id": "5238529d-34a9-4d6c-ac4c-9f9fa11cf674",
-    "name": "Brooks VS Dookie",
+    "id": "671c9b14-f41c-4786-bf2a-edbc0b1d3075",
+    "name": "Hello",
+    "creatorId": "111191839157596042806",
+    "creatorLastName": "Beneza",
+    "createdAt": "02/07/2026, 22:10:20"
+  },
+  {
+    "id": "1f24f486-0557-4ede-af31-afa12f6f408a",
+    "name": "KR vs YOMAMA",
     "creatorId": "109564094352871552352",
     "creatorLastName": "hitz",
-    "createdAt": "02/07/2026, 21:42:14"
+    "createdAt": "02/07/2026, 22:05:57"
   },
   {
     "id": "da641032-66fd-4ed4-8533-e5b18b92476d",
