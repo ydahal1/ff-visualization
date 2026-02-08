@@ -1,7 +1,14 @@
-// Generated on 02/08/2026, 16:00:03 (EST)
-// Total records: 3837
+// Generated on 02/08/2026, 16:15:03 (EST)
+// Total records: 3838
 
 export const games = [
+  {
+    "id": "fda1554f-d4a7-414e-aac4-a3c3d05e64d0",
+    "name": "fwe",
+    "creatorId": "109461888344185798975",
+    "creatorLastName": "Tennant",
+    "createdAt": "02/08/2026, 16:07:17"
+  },
   {
     "id": "b2763bec-8466-439b-b467-b3b6227ab428",
     "name": "Crossroads Fued",
