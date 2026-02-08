@@ -1,7 +1,14 @@
-// Generated on 02/08/2026, 10:15:02 (EST)
-// Total records: 3833
+// Generated on 02/08/2026, 10:30:03 (EST)
+// Total records: 3834
 
 export const games = [
+  {
+    "id": "bf64c0d3-12d8-4594-b87d-e22c21233914",
+    "name": "Silat al rahim",
+    "creatorId": "113802394388720254593",
+    "creatorLastName": "Yasin",
+    "createdAt": "02/08/2026, 10:28:33"
+  },
   {
     "id": "31fd3757-ea5a-4ad6-8b8f-f5304af4e8f7",
     "name": "FHE GAMES",
