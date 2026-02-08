@@ -1,13 +1,20 @@
-// Generated on 02/07/2026, 21:30:02 (EST)
-// Total records: 3826
+// Generated on 02/07/2026, 21:45:03 (EST)
+// Total records: 3827
 
 export const games = [
   {
-    "id": "9816a4d9-6540-4fd1-8236-00a7883d9434",
+    "id": "5238529d-34a9-4d6c-ac4c-9f9fa11cf674",
     "name": "Brooks VS Dookie",
     "creatorId": "109564094352871552352",
     "creatorLastName": "hitz",
-    "createdAt": "02/07/2026, 21:18:20"
+    "createdAt": "02/07/2026, 21:42:14"
+  },
+  {
+    "id": "da641032-66fd-4ed4-8533-e5b18b92476d",
+    "name": "Brooks VS Dookie Family",
+    "creatorId": "109564094352871552352",
+    "creatorLastName": "hitz",
+    "createdAt": "02/07/2026, 21:33:35"
   },
   {
     "id": "8cd3c860-f18c-46fe-aa36-812dd92822e3",
