@@ -1,7 +1,14 @@
-// Generated on 02/08/2026, 04:30:03 (EST)
-// Total records: 3834
+// Generated on 02/08/2026, 04:45:02 (EST)
+// Total records: 3833
 
 export const games = [
+  {
+    "id": "31fd3757-ea5a-4ad6-8b8f-f5304af4e8f7",
+    "name": "FHE GAMES",
+    "creatorId": "103888030555931522627",
+    "creatorLastName": "Cahulao",
+    "createdAt": "02/08/2026, 04:38:42"
+  },
   {
     "id": "14b43c09-19a0-4649-8af3-3b479b730c7c",
     "name": "Am intrebat 100 de chinezi",
@@ -1935,13 +1942,6 @@ export const games = [
     "createdAt": "02/01/2026, 23:24:07"
   },
   {
-    "id": "5a152d1c-4b89-4e67-8efc-b72aba7697d2",
-    "name": "FAMILY FEUD",
-    "creatorId": "103888030555931522627",
-    "creatorLastName": "Cahulao",
-    "createdAt": "02/01/2026, 23:09:20"
-  },
-  {
     "id": "5d75bfd9-88fe-41d0-90a6-59e31c0b613c",
     "name": "Game 2",
     "creatorId": "116233293239908078816",
@@ -2087,13 +2087,6 @@ export const games = [
     "creatorId": "113443167709296708098",
     "creatorLastName": "Tillman",
     "createdAt": "01/31/2026, 21:59:43"
-  },
-  {
-    "id": "6e33f20b-8f35-426a-b34e-94b77830ef20",
-    "name": "Family Fued",
-    "creatorId": "103888030555931522627",
-    "creatorLastName": "Cahulao",
-    "createdAt": "01/31/2026, 20:17:55"
   },
   {
     "id": "87b30e97-62fb-4227-80b0-416c2690295f",
