@@ -1,7 +1,14 @@
-// Generated on 02/07/2026, 20:15:02 (EST)
+// Generated on 02/07/2026, 20:30:03 (EST)
 // Total records: 3823
 
 export const games = [
+  {
+    "id": "e5b0b1d1-835a-4aec-a2e6-9b8166d36a4b",
+    "name": "Fast Moolah",
+    "creatorId": "108012321791210378361",
+    "creatorLastName": "cub",
+    "createdAt": "02/07/2026, 20:29:40"
+  },
   {
     "id": "135543b7-82b6-4dee-b252-2053c5d4894a",
     "name": "Fast Money",
@@ -15,13 +22,6 @@ export const games = [
     "creatorId": "101797658035282902979",
     "creatorLastName": "Murphy",
     "createdAt": "02/07/2026, 19:30:57"
-  },
-  {
-    "id": "77a45216-437c-4bd2-9334-8e2fdd524be9",
-    "name": "Final Round",
-    "creatorId": "108012321791210378361",
-    "creatorLastName": "cub",
-    "createdAt": "02/07/2026, 19:18:00"
   },
   {
     "id": "5635f597-62e0-47bf-9c0b-84fddfaec919",
