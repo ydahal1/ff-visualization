@@ -1,7 +1,21 @@
-// Generated on 02/07/2026, 22:30:03 (EST)
-// Total records: 3828
+// Generated on 02/07/2026, 22:45:03 (EST)
+// Total records: 3830
 
 export const games = [
+  {
+    "id": "048efaa1-2989-4144-b604-cfbe510019d3",
+    "name": "S versus R",
+    "creatorId": "104882238374582971662",
+    "creatorLastName": "Han",
+    "createdAt": "02/07/2026, 22:44:22"
+  },
+  {
+    "id": "c8c9bbb4-281a-4569-b12a-4890c03a4d3f",
+    "name": "H versus S",
+    "creatorId": "104882238374582971662",
+    "creatorLastName": "Han",
+    "createdAt": "02/07/2026, 22:43:32"
+  },
   {
     "id": "671c9b14-f41c-4786-bf2a-edbc0b1d3075",
     "name": "Hello",
