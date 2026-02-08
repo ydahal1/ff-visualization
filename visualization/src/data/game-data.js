@@ -1,7 +1,14 @@
-// Generated on 02/08/2026, 02:30:02 (EST)
-// Total records: 3833
+// Generated on 02/08/2026, 02:45:03 (EST)
+// Total records: 3834
 
 export const games = [
+  {
+    "id": "14b43c09-19a0-4649-8af3-3b479b730c7c",
+    "name": "Am intrebat 100 de chinezi",
+    "creatorId": "103030876059176384628",
+    "creatorLastName": "Pal",
+    "createdAt": "02/08/2026, 02:37:06"
+  },
   {
     "id": "b6a17827-4c59-4fde-9746-8d66b4ffee75",
     "name": "Emmy's Deadlock Family Feud [1]",
