@@ -1,7 +1,14 @@
-// Generated on 02/08/2026, 15:30:04 (EST)
-// Total records: 3836
+// Generated on 02/08/2026, 15:45:03 (EST)
+// Total records: 3837
 
 export const games = [
+  {
+    "id": "b2763bec-8466-439b-b467-b3b6227ab428",
+    "name": "Crossroads Fued",
+    "creatorId": "116177140746059611152",
+    "creatorLastName": "Slagle",
+    "createdAt": "02/08/2026, 15:42:39"
+  },
   {
     "id": "0250b2af-f173-4d59-a6c4-000ef8c7edac",
     "name": "Campers Feud",
