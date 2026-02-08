@@ -1,7 +1,14 @@
-// Generated on 02/08/2026, 12:45:04 (EST)
-// Total records: 3834
+// Generated on 02/08/2026, 13:00:04 (EST)
+// Total records: 3835
 
 export const games = [
+  {
+    "id": "661373b5-86e0-411f-8fb8-1812c78e1842",
+    "name": "GAME 3",
+    "creatorId": "115636046168082399439",
+    "creatorLastName": "Marin",
+    "createdAt": "02/08/2026, 12:52:41"
+  },
   {
     "id": "bf64c0d3-12d8-4594-b87d-e22c21233914",
     "name": "Silat al rahim",
