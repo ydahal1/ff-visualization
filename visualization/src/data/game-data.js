@@ -1,7 +1,14 @@
-// Generated on 02/09/2026, 13:30:03 (EST)
-// Total records: 3848
+// Generated on 02/09/2026, 13:45:03 (EST)
+// Total records: 3849
 
 export const games = [
+  {
+    "id": "4c6fa9d0-33c0-466e-8df9-1394541c11fc",
+    "name": "Round 1",
+    "creatorId": "104069596424405171497",
+    "creatorLastName": "Flocco",
+    "createdAt": "02/09/2026, 13:41:06"
+  },
   {
     "id": "44945ea6-093f-4024-8d9c-c7776841a2f1",
     "name": "primo gioco",
