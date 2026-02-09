@@ -1,7 +1,14 @@
-// Generated on 02/09/2026, 08:00:04 (EST)
-// Total records: 3851
+// Generated on 02/09/2026, 08:15:03 (EST)
+// Total records: 3852
 
 export const games = [
+  {
+    "id": "625f4e43-31f0-4351-8182-2043f996587b",
+    "name": "SECONDO ROUND",
+    "creatorId": "103484689418205338460",
+    "creatorLastName": "Pedrinazzi",
+    "createdAt": "02/09/2026, 08:06:18"
+  },
   {
     "id": "17e35aeb-5de1-4b5f-837a-571c7a0e102d",
     "name": "Aryansh's Birthday Fued 2",
