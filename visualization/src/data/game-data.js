@@ -1,7 +1,14 @@
-// Generated on 02/09/2026, 16:00:03 (EST)
-// Total records: 3850
+// Generated on 02/09/2026, 16:15:04 (EST)
+// Total records: 3851
 
 export const games = [
+  {
+    "id": "208e79f2-f110-438c-b4dc-9520304ebe3c",
+    "name": "Bday feud",
+    "creatorId": "106539802036760908167",
+    "creatorLastName": "Jensen",
+    "createdAt": "02/09/2026, 16:04:23"
+  },
   {
     "id": "a5717e54-3004-4c55-95c0-0cb4941dcf26",
     "name": "Round 2",
