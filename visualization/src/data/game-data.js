@@ -1,7 +1,14 @@
-// Generated on 02/09/2026, 01:30:03 (EST)
+// Generated on 02/09/2026, 01:45:03 (EST)
 // Total records: 3848
 
 export const games = [
+  {
+    "id": "ec4bcee2-189f-4657-89a3-c6b1f3377ae4",
+    "name": "Am intrebat 100 de chinezi:",
+    "creatorId": "103030876059176384628",
+    "creatorLastName": "Pal",
+    "createdAt": "02/09/2026, 01:34:11"
+  },
   {
     "id": "b1ed0452-68bd-4785-8227-f99038e92016",
     "name": "Emmy's Deadlock Family Feud [2]",
@@ -134,13 +141,6 @@ export const games = [
     "creatorId": "103888030555931522627",
     "creatorLastName": "Cahulao",
     "createdAt": "02/08/2026, 04:38:42"
-  },
-  {
-    "id": "14b43c09-19a0-4649-8af3-3b479b730c7c",
-    "name": "Am intrebat 100 de chinezi",
-    "creatorId": "103030876059176384628",
-    "creatorLastName": "Pal",
-    "createdAt": "02/08/2026, 02:37:06"
   },
   {
     "id": "b6a17827-4c59-4fde-9746-8d66b4ffee75",
