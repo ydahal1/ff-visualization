@@ -1,7 +1,14 @@
-// Generated on 02/09/2026, 17:15:04 (EST)
-// Total records: 3857
+// Generated on 02/09/2026, 17:30:03 (EST)
+// Total records: 3858
 
 export const games = [
+  {
+    "id": "4aafe83b-0e49-46f4-8df3-04ad8dcbb40e",
+    "name": "Bonus Round",
+    "creatorId": "104069596424405171497",
+    "creatorLastName": "Flocco",
+    "createdAt": "02/09/2026, 17:22:23"
+  },
   {
     "id": "97d6d150-f403-4ee9-bb4e-a08492d5b436",
     "name": "Semi-final 2",
