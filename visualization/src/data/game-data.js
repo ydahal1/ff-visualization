@@ -1,7 +1,14 @@
-// Generated on 02/08/2026, 21:00:04 (EST)
+// Generated on 02/08/2026, 21:15:03 (EST)
 // Total records: 3845
 
 export const games = [
+  {
+    "id": "729144a1-b763-4524-9552-08f80660ff57",
+    "name": "Global Health Feud",
+    "creatorId": "115319884984214645125",
+    "creatorLastName": "Kadiri",
+    "createdAt": "02/08/2026, 21:08:26"
+  },
   {
     "id": "fd89b050-adff-4e76-9018-df0d2c34c3c8",
     "name": "How to Talk with Love",
@@ -1030,13 +1037,6 @@ export const games = [
     "creatorId": "104415062278853414186",
     "creatorLastName": "Mantzell",
     "createdAt": "02/05/2026, 13:52:13"
-  },
-  {
-    "id": "7be4b329-1d81-4161-9294-42ea0b4d8118",
-    "name": "Global Health Feud",
-    "creatorId": "115319884984214645125",
-    "creatorLastName": "Kadiri",
-    "createdAt": "02/05/2026, 13:14:00"
   },
   {
     "id": "32646eea-a8b3-4b0c-ae3e-013f7094b37c",
