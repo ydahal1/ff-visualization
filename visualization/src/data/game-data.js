@@ -1,7 +1,14 @@
-// Generated on 02/09/2026, 06:30:03 (EST)
-// Total records: 3849
+// Generated on 02/09/2026, 06:45:04 (EST)
+// Total records: 3850
 
 export const games = [
+  {
+    "id": "75627264-e996-40bc-86d1-d13d665e8f11",
+    "name": "Aryansh's Birthday Fued",
+    "creatorId": "111461084386104641669",
+    "creatorLastName": "T",
+    "createdAt": "02/09/2026, 06:37:14"
+  },
   {
     "id": "412a8144-92fa-48c3-bcd1-019a4e293bec",
     "name": "Bare Minimum or Princess Treatment 2",
