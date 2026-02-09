@@ -1,7 +1,42 @@
-// Generated on 02/09/2026, 16:45:03 (EST)
-// Total records: 3852
+// Generated on 02/09/2026, 17:00:04 (EST)
+// Total records: 3857
 
 export const games = [
+  {
+    "id": "97d6d150-f403-4ee9-bb4e-a08492d5b436",
+    "name": "Semi-final 2",
+    "creatorId": "116548761223905955717",
+    "creatorLastName": "Bosman",
+    "createdAt": "02/09/2026, 16:56:50"
+  },
+  {
+    "id": "756921bc-8e16-4b01-84cf-edd9b5c56ba6",
+    "name": "Semi-final 1",
+    "creatorId": "116548761223905955717",
+    "creatorLastName": "Bosman",
+    "createdAt": "02/09/2026, 16:50:24"
+  },
+  {
+    "id": "990ad67a-95eb-4fdd-93b1-0c1677645d9c",
+    "name": "Round 3",
+    "creatorId": "116548761223905955717",
+    "creatorLastName": "Bosman",
+    "createdAt": "02/09/2026, 16:48:54"
+  },
+  {
+    "id": "f6e65ce9-5a29-4b14-b867-f98089a7e28c",
+    "name": "MAC THEMED",
+    "creatorId": "104333247568629323870",
+    "creatorLastName": "Horner",
+    "createdAt": "02/09/2026, 16:47:00"
+  },
+  {
+    "id": "0cf1deb1-8b07-42da-a6ff-75c64a153d09",
+    "name": "Round 2",
+    "creatorId": "116548761223905955717",
+    "creatorLastName": "Bosman",
+    "createdAt": "02/09/2026, 16:45:39"
+  },
   {
     "id": "daf8502f-9366-4ae6-8382-be0b9ff0fb28",
     "name": "Round 1",
