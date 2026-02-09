@@ -1,7 +1,21 @@
-// Generated on 02/09/2026, 13:00:03 (EST)
-// Total records: 3848
+// Generated on 02/09/2026, 13:15:04 (EST)
+// Total records: 3850
 
 export const games = [
+  {
+    "id": "44945ea6-093f-4024-8d9c-c7776841a2f1",
+    "name": "primo gioco",
+    "creatorId": "104989040614339670667",
+    "creatorLastName": "roma",
+    "createdAt": "02/09/2026, 13:13:28"
+  },
+  {
+    "id": "b8754e9e-930c-41c2-9bf9-0481bb072156",
+    "name": "Round 1",
+    "creatorId": "116548761223905955717",
+    "creatorLastName": "Bosman",
+    "createdAt": "02/09/2026, 13:05:20"
+  },
   {
     "id": "abdc00ed-14f7-4fe1-919d-f373e2a69692",
     "name": "Valentine 7",
