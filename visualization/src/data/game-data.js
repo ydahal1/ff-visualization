@@ -1,7 +1,14 @@
-// Generated on 02/08/2026, 22:15:03 (EST)
+// Generated on 02/08/2026, 22:30:03 (EST)
 // Total records: 3845
 
 export const games = [
+  {
+    "id": "726ddad2-16b4-4753-b7fe-d16b823931cd",
+    "name": "test",
+    "creatorId": "107966711161071576285",
+    "creatorLastName": "Wales",
+    "createdAt": "02/08/2026, 22:29:03"
+  },
   {
     "id": "729144a1-b763-4524-9552-08f80660ff57",
     "name": "Global Health Feud",
@@ -1233,13 +1240,6 @@ export const games = [
     "creatorId": "112812064454145354246",
     "creatorLastName": "Cruz",
     "createdAt": "02/04/2026, 22:59:28"
-  },
-  {
-    "id": "e8688a77-bafa-45c7-9350-dba569ce9822",
-    "name": "1st Game",
-    "creatorId": "112812064454145354246",
-    "creatorLastName": "Cruz",
-    "createdAt": "02/04/2026, 22:41:14"
   },
   {
     "id": "c12a7080-14ab-44cc-9dff-9b713e3236d7",
