@@ -1,7 +1,14 @@
-// Generated on 02/09/2026, 02:30:03 (EST)
-// Total records: 3848
+// Generated on 02/09/2026, 02:45:04 (EST)
+// Total records: 3849
 
 export const games = [
+  {
+    "id": "6d4dd90d-4d0d-4db1-b93d-190e00aa2a71",
+    "name": "Bare Minimum or Princess Treatment",
+    "creatorId": "109658206857977219465",
+    "creatorLastName": "Straughter",
+    "createdAt": "02/09/2026, 02:42:32"
+  },
   {
     "id": "ec4bcee2-189f-4657-89a3-c6b1f3377ae4",
     "name": "Am intrebat 100 de chinezi:",
