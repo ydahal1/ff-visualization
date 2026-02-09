@@ -1,7 +1,14 @@
-// Generated on 02/08/2026, 19:00:04 (EST)
-// Total records: 3844
+// Generated on 02/08/2026, 19:15:03 (EST)
+// Total records: 3845
 
 export const games = [
+  {
+    "id": "fd89b050-adff-4e76-9018-df0d2c34c3c8",
+    "name": "How to Talk with Love",
+    "creatorId": "117990366626101952627",
+    "creatorLastName": "Henry",
+    "createdAt": "02/08/2026, 19:11:54"
+  },
   {
     "id": "d20b7d8a-85a9-4703-9f47-9d69eb8ac043",
     "name": "JJK FAMILY FEUD",
