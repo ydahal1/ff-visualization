@@ -1,5 +1,5 @@
-// Generated on 02/09/2026, 13:15:04 (EST)
-// Total records: 3850
+// Generated on 02/09/2026, 13:30:03 (EST)
+// Total records: 3848
 
 export const games = [
   {
@@ -1018,13 +1018,6 @@ export const games = [
     "createdAt": "02/05/2026, 19:32:44"
   },
   {
-    "id": "66fa8e46-f758-4829-a600-2ecc3d32a42b",
-    "name": "game",
-    "creatorId": "104069596424405171497",
-    "creatorLastName": "Flocco",
-    "createdAt": "02/05/2026, 18:48:33"
-  },
-  {
     "id": "560028e7-c7c3-4907-8667-4b59382de703",
     "name": "WBTY Game Night - Round 2",
     "creatorId": "111015873048058706936",
@@ -1051,13 +1044,6 @@ export const games = [
     "creatorId": "104415062278853414186",
     "creatorLastName": "Mantzell",
     "createdAt": "02/05/2026, 18:26:19"
-  },
-  {
-    "id": "9b5627d6-508f-4550-be6e-de26dce226b6",
-    "name": "Part 1",
-    "creatorId": "104069596424405171497",
-    "creatorLastName": "Flocco",
-    "createdAt": "02/05/2026, 18:08:18"
   },
   {
     "id": "7c7d7068-1eab-47df-8b43-1308cebe3f31",
