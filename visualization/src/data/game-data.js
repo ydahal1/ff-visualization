@@ -1,7 +1,14 @@
-// Generated on 02/09/2026, 02:45:04 (EST)
-// Total records: 3849
+// Generated on 02/09/2026, 03:00:04 (EST)
+// Total records: 3850
 
 export const games = [
+  {
+    "id": "412a8144-92fa-48c3-bcd1-019a4e293bec",
+    "name": "Bare Minimum or Princess Treatment 2",
+    "creatorId": "109658206857977219465",
+    "creatorLastName": "Straughter",
+    "createdAt": "02/09/2026, 02:47:25"
+  },
   {
     "id": "6d4dd90d-4d0d-4db1-b93d-190e00aa2a71",
     "name": "Bare Minimum or Princess Treatment",
