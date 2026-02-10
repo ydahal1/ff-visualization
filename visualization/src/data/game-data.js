@@ -1,7 +1,14 @@
-// Generated on 02/09/2026, 23:30:03 (EST)
-// Total records: 3860
+// Generated on 02/09/2026, 23:45:03 (EST)
+// Total records: 3861
 
 export const games = [
+  {
+    "id": "acf2fedc-42e3-4903-8991-6fbda25687de",
+    "name": "Lock in Round 2",
+    "creatorId": "106545261549284489166",
+    "creatorLastName": "H",
+    "createdAt": "02/09/2026, 23:30:58"
+  },
   {
     "id": "b08a567a-58ba-43d2-9517-a26749420a67",
     "name": "Lock in Round 1",
