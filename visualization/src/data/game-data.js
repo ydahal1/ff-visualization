@@ -1,7 +1,14 @@
-// Generated on 02/09/2026, 20:00:04 (EST)
-// Total records: 3860
+// Generated on 02/09/2026, 20:15:03 (EST)
+// Total records: 3857
 
 export const games = [
+  {
+    "id": "b77dcf48-76f6-40d2-aaf9-cff4dbec21a5",
+    "name": "MLL Family Feud",
+    "creatorId": "105787419555220236219",
+    "creatorLastName": "shave",
+    "createdAt": "02/09/2026, 20:12:03"
+  },
   {
     "id": "de114333-2cb3-4065-b687-2e50f7cf931a",
     "name": "Practice Game",
@@ -15,13 +22,6 @@ export const games = [
     "creatorId": "116548761223905955717",
     "creatorLastName": "Bosman",
     "createdAt": "02/09/2026, 18:46:32"
-  },
-  {
-    "id": "9de11859-2bfb-4b61-944d-a20ee2c9890c",
-    "name": "MLL Family Feud",
-    "creatorId": "105787419555220236219",
-    "creatorLastName": "shave",
-    "createdAt": "02/09/2026, 18:36:25"
   },
   {
     "id": "8f7c5800-f8af-4a54-b2e0-988042e40ff5",
@@ -764,13 +764,6 @@ export const games = [
     "creatorId": "105554215970485813874",
     "creatorLastName": "Newishi",
     "createdAt": "02/06/2026, 12:02:25"
-  },
-  {
-    "id": "88c19e4c-ddf6-49c8-b3f3-c7d8b33f25b5",
-    "name": "moore love live",
-    "creatorId": "105787419555220236219",
-    "creatorLastName": "shave",
-    "createdAt": "02/06/2026, 11:42:22"
   },
   {
     "id": "6aaf84ae-8318-48b8-a3cd-6b4588025fa3",
@@ -3328,25 +3321,11 @@ export const games = [
     "createdAt": "01/27/2026, 20:50:47"
   },
   {
-    "id": "e6375e56-3ce5-4d75-a4b9-42c599363831",
-    "name": "1",
-    "creatorId": "101958550814684924269",
-    "creatorLastName": "Bache",
-    "createdAt": "01/27/2026, 20:19:45"
-  },
-  {
     "id": "32aa32e7-0eaf-4f98-8fa9-5d3d7c9969a6",
     "name": "Game 1",
     "creatorId": "106489574771499788210",
     "creatorLastName": "Richardson",
     "createdAt": "01/27/2026, 20:02:41"
-  },
-  {
-    "id": "bce45a5a-45ea-4fc4-b96f-08c800f44adb",
-    "name": "G",
-    "creatorId": "101958550814684924269",
-    "creatorLastName": "Bache",
-    "createdAt": "01/27/2026, 20:00:31"
   },
   {
     "id": "ff1fa09d-370f-457f-9d08-15909a0ff0e7",
