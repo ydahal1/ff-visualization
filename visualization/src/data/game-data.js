@@ -1,7 +1,14 @@
-// Generated on 02/10/2026, 17:45:03 (EST)
+// Generated on 02/10/2026, 18:00:02 (EST)
 // Total records: 3882
 
 export const games = [
+  {
+    "id": "f1439c1c-9a39-4426-98e0-74ab15b52aea",
+    "name": "Stethoscopes & Showdowns: Med Fued",
+    "creatorId": "101062967749083687207",
+    "creatorLastName": "Marilley",
+    "createdAt": "02/10/2026, 17:55:57"
+  },
   {
     "id": "5eec60e2-b124-4c49-8660-fb4a1e7e8047",
     "name": "BGC",
@@ -3375,13 +3382,6 @@ export const games = [
     "creatorId": "101585856464686786332",
     "creatorLastName": "Lovitz",
     "createdAt": "01/28/2026, 11:54:29"
-  },
-  {
-    "id": "3894452d-1432-4d59-9a89-b0de53f90a44",
-    "name": "The RS Feud",
-    "creatorId": "104173626321455914659",
-    "creatorLastName": "D",
-    "createdAt": "01/28/2026, 11:03:25"
   },
   {
     "id": "a0a5bb26-150c-470a-87bb-d96c9dbc0ed7",
