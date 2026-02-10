@@ -1,13 +1,13 @@
-// Generated on 02/10/2026, 05:30:03 (EST)
-// Total records: 3867
+// Generated on 02/10/2026, 05:45:03 (EST)
+// Total records: 3866
 
 export const games = [
   {
-    "id": "e6dda75e-7332-46dc-a438-66ff599d2f8d",
-    "name": "game 2",
+    "id": "8e383232-a752-4f9e-a8f8-62271e20ff76",
+    "name": "game 1",
     "creatorId": "104989040614339670667",
     "creatorLastName": "roma",
-    "createdAt": "02/10/2026, 05:15:03"
+    "createdAt": "02/10/2026, 05:43:04"
   },
   {
     "id": "43152d5c-991f-40d7-a14c-a4ef1478078c",
@@ -190,13 +190,6 @@ export const games = [
     "creatorId": "104069596424405171497",
     "creatorLastName": "Flocco",
     "createdAt": "02/09/2026, 13:41:06"
-  },
-  {
-    "id": "44945ea6-093f-4024-8d9c-c7776841a2f1",
-    "name": "primo gioco",
-    "creatorId": "104989040614339670667",
-    "creatorLastName": "roma",
-    "createdAt": "02/09/2026, 13:13:28"
   },
   {
     "id": "abdc00ed-14f7-4fe1-919d-f373e2a69692",
