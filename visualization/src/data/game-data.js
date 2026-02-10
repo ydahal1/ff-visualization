@@ -1,14 +1,7 @@
-// Generated on 02/09/2026, 23:00:04 (EST)
-// Total records: 3861
+// Generated on 02/09/2026, 23:15:02 (EST)
+// Total records: 3859
 
 export const games = [
-  {
-    "id": "456fe3c6-a698-49b3-98cc-52c84fa284c3",
-    "name": "misa loves",
-    "creatorId": "109925997556357794531",
-    "creatorLastName": "Azhar",
-    "createdAt": "02/09/2026, 22:49:03"
-  },
   {
     "id": "854f0c56-6868-4764-aa14-f4bbaa6b3b79",
     "name": "A vs B",
@@ -43,13 +36,6 @@ export const games = [
     "creatorId": "110139222594635628153",
     "creatorLastName": "Haire",
     "createdAt": "02/09/2026, 20:19:21"
-  },
-  {
-    "id": "b77dcf48-76f6-40d2-aaf9-cff4dbec21a5",
-    "name": "MLL Family Feud",
-    "creatorId": "105787419555220236219",
-    "creatorLastName": "shave",
-    "createdAt": "02/09/2026, 20:12:03"
   },
   {
     "id": "5e541613-13db-4276-a828-cb35c65469c3",
