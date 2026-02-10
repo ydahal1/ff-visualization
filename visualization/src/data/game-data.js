@@ -1,7 +1,14 @@
-// Generated on 02/10/2026, 02:15:03 (EST)
-// Total records: 3866
+// Generated on 02/10/2026, 02:30:03 (EST)
+// Total records: 3867
 
 export const games = [
+  {
+    "id": "43152d5c-991f-40d7-a14c-a4ef1478078c",
+    "name": "tester",
+    "creatorId": "116901916700536130453",
+    "creatorLastName": "Collins",
+    "createdAt": "02/10/2026, 02:26:05"
+  },
   {
     "id": "aaacb035-e8b9-4cab-a892-519d44cd5ff9",
     "name": "Logistics Feud",
