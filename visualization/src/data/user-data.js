@@ -1,7 +1,17 @@
-// Generated on 02/09/2026, 22:45:00 (EST)
-// Total records: 2387
+// Generated on 02/09/2026, 23:00:00 (EST)
+// Total records: 2389
 
 export const users = [
+  {
+    "id": "107094319688154806151",
+    "lName": "Urbiztondo",
+    "createdAt": "02/09/2026, 22:48:47"
+  },
+  {
+    "id": "109925997556357794531",
+    "lName": "Azhar",
+    "createdAt": "02/09/2026, 22:47:24"
+  },
   {
     "id": "105042273215330553560",
     "lName": "",
