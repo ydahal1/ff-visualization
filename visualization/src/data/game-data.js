@@ -1,7 +1,28 @@
-// Generated on 02/10/2026, 13:15:03 (EST)
-// Total records: 3873
+// Generated on 02/10/2026, 13:30:04 (EST)
+// Total records: 3875
 
 export const games = [
+  {
+    "id": "54295c01-4367-46b5-9182-04e2000439ac",
+    "name": "SENSORES DE TEMPERATURA",
+    "creatorId": "101743693261963389854",
+    "creatorLastName": "RO",
+    "createdAt": "02/10/2026, 13:29:21"
+  },
+  {
+    "id": "52ecdd5b-6630-4d10-afcd-a1059a520c4a",
+    "name": "Logistics Feud",
+    "creatorId": "107778181672878064634",
+    "creatorLastName": "Rhoden",
+    "createdAt": "02/10/2026, 13:25:56"
+  },
+  {
+    "id": "b362110a-2f69-41d2-b8ab-9a6b7d6745b7",
+    "name": "Austin Bache",
+    "creatorId": "101958550814684924269",
+    "creatorLastName": "Bache",
+    "createdAt": "02/10/2026, 13:23:14"
+  },
   {
     "id": "b22c5f37-e666-443c-bb30-c7d88b66489f",
     "name": "BMEG lore",
@@ -78,13 +99,6 @@ export const games = [
     "creatorId": "116901916700536130453",
     "creatorLastName": "Collins",
     "createdAt": "02/10/2026, 02:26:05"
-  },
-  {
-    "id": "aaacb035-e8b9-4cab-a892-519d44cd5ff9",
-    "name": "Logistics Feud",
-    "creatorId": "107778181672878064634",
-    "creatorLastName": "Rhoden",
-    "createdAt": "02/10/2026, 01:43:20"
   },
   {
     "id": "cb061ef9-fcad-4421-90e5-6c9054bb9115",
