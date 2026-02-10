@@ -1,7 +1,14 @@
-// Generated on 02/10/2026, 14:00:02 (EST)
-// Total records: 3875
+// Generated on 02/10/2026, 14:15:03 (EST)
+// Total records: 3876
 
 export const games = [
+  {
+    "id": "fcb85a0d-8995-488d-8291-833b3ba6b4fd",
+    "name": "Test Game",
+    "creatorId": "107091848357544103749",
+    "creatorLastName": "Simms",
+    "createdAt": "02/10/2026, 14:10:23"
+  },
   {
     "id": "54295c01-4367-46b5-9182-04e2000439ac",
     "name": "SENSORES DE TEMPERATURA",
