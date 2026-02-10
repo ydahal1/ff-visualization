@@ -1,7 +1,14 @@
-// Generated on 02/10/2026, 16:00:03 (EST)
-// Total records: 3881
+// Generated on 02/10/2026, 16:15:03 (EST)
+// Total records: 3882
 
 export const games = [
+  {
+    "id": "5eec60e2-b124-4c49-8660-fb4a1e7e8047",
+    "name": "BGC",
+    "creatorId": "103604422384368573093",
+    "creatorLastName": "Williams",
+    "createdAt": "02/10/2026, 16:00:44"
+  },
   {
     "id": "60d96c38-9bd5-43c5-8112-259324fd34fc",
     "name": "Game",
