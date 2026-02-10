@@ -1,7 +1,14 @@
-// Generated on 02/10/2026, 15:30:02 (EST)
-// Total records: 3879
+// Generated on 02/10/2026, 15:45:04 (EST)
+// Total records: 3880
 
 export const games = [
+  {
+    "id": "e50d3b9f-9093-4e3b-859b-7bb9634315b8",
+    "name": "Test game",
+    "creatorId": "112128390614085251716",
+    "creatorLastName": "Holmes",
+    "createdAt": "02/10/2026, 15:36:00"
+  },
   {
     "id": "62f2baa1-ad6e-497d-b8d5-08e0baba9aaa",
     "name": "do YOU know YOUR roommie????",
