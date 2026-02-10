@@ -1,13 +1,13 @@
-// Generated on 02/10/2026, 15:00:04 (EST)
+// Generated on 02/10/2026, 15:15:03 (EST)
 // Total records: 3879
 
 export const games = [
   {
-    "id": "3503d1ef-ee60-402d-a861-570f90a6b163",
-    "name": "Pagbasa",
-    "creatorId": "110630124610259343117",
-    "creatorLastName": "Kiyoki",
-    "createdAt": "02/10/2026, 14:39:49"
+    "id": "62f2baa1-ad6e-497d-b8d5-08e0baba9aaa",
+    "name": "do YOU know YOUR roommie????",
+    "creatorId": "107480515932580244167",
+    "creatorLastName": "Martin",
+    "createdAt": "02/10/2026, 15:06:00"
   },
   {
     "id": "f04008e1-85f6-4472-b26c-3dee70f301fb",
