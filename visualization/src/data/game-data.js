@@ -1,7 +1,14 @@
-// Generated on 02/10/2026, 09:00:04 (EST)
-// Total records: 3869
+// Generated on 02/10/2026, 09:15:04 (EST)
+// Total records: 3870
 
 export const games = [
+  {
+    "id": "4a539327-e684-44f9-ad7a-524960131170",
+    "name": "Sample Game",
+    "creatorId": "106899163046070023613",
+    "creatorLastName": "Adams",
+    "createdAt": "02/10/2026, 09:09:51"
+  },
   {
     "id": "e61b6ae3-39e0-4c23-9c2f-3dd55aab38ff",
     "name": "MRD's",
