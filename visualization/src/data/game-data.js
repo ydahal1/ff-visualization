@@ -1,20 +1,20 @@
-// Generated on 02/09/2026, 20:15:03 (EST)
+// Generated on 02/09/2026, 20:30:02 (EST)
 // Total records: 3857
 
 export const games = [
+  {
+    "id": "6c493fa9-7b8b-48a3-8434-ba1a07e8891f",
+    "name": "Practice Game",
+    "creatorId": "110139222594635628153",
+    "creatorLastName": "Haire",
+    "createdAt": "02/09/2026, 20:19:21"
+  },
   {
     "id": "b77dcf48-76f6-40d2-aaf9-cff4dbec21a5",
     "name": "MLL Family Feud",
     "creatorId": "105787419555220236219",
     "creatorLastName": "shave",
     "createdAt": "02/09/2026, 20:12:03"
-  },
-  {
-    "id": "de114333-2cb3-4065-b687-2e50f7cf931a",
-    "name": "Practice Game",
-    "creatorId": "110139222594635628153",
-    "creatorLastName": "Haire",
-    "createdAt": "02/09/2026, 19:56:38"
   },
   {
     "id": "5e541613-13db-4276-a828-cb35c65469c3",
