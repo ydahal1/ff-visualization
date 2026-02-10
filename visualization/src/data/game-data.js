@@ -1,13 +1,13 @@
-// Generated on 02/09/2026, 19:45:03 (EST)
+// Generated on 02/09/2026, 20:00:04 (EST)
 // Total records: 3860
 
 export const games = [
   {
-    "id": "e7901629-a4bf-469c-8125-17ab89b3f661",
+    "id": "de114333-2cb3-4065-b687-2e50f7cf931a",
     "name": "Practice Game",
     "creatorId": "110139222594635628153",
     "creatorLastName": "Haire",
-    "createdAt": "02/09/2026, 19:42:49"
+    "createdAt": "02/09/2026, 19:56:38"
   },
   {
     "id": "5e541613-13db-4276-a828-cb35c65469c3",
