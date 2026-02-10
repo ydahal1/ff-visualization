@@ -1,7 +1,14 @@
-// Generated on 02/09/2026, 22:45:03 (EST)
+// Generated on 02/09/2026, 23:00:04 (EST)
 // Total records: 3861
 
 export const games = [
+  {
+    "id": "456fe3c6-a698-49b3-98cc-52c84fa284c3",
+    "name": "misa loves",
+    "creatorId": "109925997556357794531",
+    "creatorLastName": "Azhar",
+    "createdAt": "02/09/2026, 22:49:03"
+  },
   {
     "id": "854f0c56-6868-4764-aa14-f4bbaa6b3b79",
     "name": "A vs B",
@@ -1870,13 +1877,6 @@ export const games = [
     "creatorId": "112861523780384510032",
     "creatorLastName": "Trost",
     "createdAt": "02/03/2026, 19:54:19"
-  },
-  {
-    "id": "d468298d-ae28-4ed3-92ec-6ae3695cf394",
-    "name": "lock in",
-    "creatorId": "106545261549284489166",
-    "creatorLastName": "H",
-    "createdAt": "02/03/2026, 19:38:23"
   },
   {
     "id": "e086b83f-a33b-42df-acd6-5f9cb528f8b6",
