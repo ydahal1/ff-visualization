@@ -1,7 +1,14 @@
-// Generated on 02/11/2026, 17:30:02 (EST)
-// Total records: 3918
+// Generated on 02/11/2026, 17:45:03 (EST)
+// Total records: 3919
 
 export const games = [
+  {
+    "id": "92fa618d-4bf5-479b-9187-0fa4c92b5237",
+    "name": "Deadly Animals Feud",
+    "creatorId": "113389573728096683377",
+    "creatorLastName": "Dellarciprete",
+    "createdAt": "02/11/2026, 17:36:40"
+  },
   {
     "id": "5fb45ef1-8a6b-4963-93a6-f37047996766",
     "name": "Game 1",
