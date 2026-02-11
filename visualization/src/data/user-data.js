@@ -1,7 +1,12 @@
-// Generated on 02/11/2026, 01:15:01 (EST)
-// Total records: 2413
+// Generated on 02/11/2026, 01:30:01 (EST)
+// Total records: 2414
 
 export const users = [
+  {
+    "id": "114715002909408594182",
+    "lName": "Phung",
+    "createdAt": "02/11/2026, 01:22:48"
+  },
   {
     "id": "117740246750045274249",
     "lName": "Gartner",
