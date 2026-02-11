@@ -1,7 +1,14 @@
-// Generated on 02/11/2026, 15:45:03 (EST)
-// Total records: 3915
+// Generated on 02/11/2026, 16:00:03 (EST)
+// Total records: 3916
 
 export const games = [
+  {
+    "id": "530a951f-e41a-4911-bdaa-f707dfd6700b",
+    "name": "Game 1",
+    "creatorId": "110360946134894145168",
+    "creatorLastName": "Torres",
+    "createdAt": "02/11/2026, 15:49:48"
+  },
   {
     "id": "7a0397ae-5356-4042-ad5e-b66f0b652a82",
     "name": "Valentine 2",
