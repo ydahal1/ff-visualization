@@ -1,7 +1,12 @@
-// Generated on 02/10/2026, 22:00:00 (EST)
-// Total records: 2412
+// Generated on 02/10/2026, 22:15:00 (EST)
+// Total records: 2413
 
 export const users = [
+  {
+    "id": "117740246750045274249",
+    "lName": "Gartner",
+    "createdAt": "02/10/2026, 22:07:27"
+  },
   {
     "id": "117209481019978422516",
     "lName": "John Paul D.",
