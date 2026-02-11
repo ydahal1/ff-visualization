@@ -1,7 +1,14 @@
-// Generated on 02/11/2026, 13:30:03 (EST)
-// Total records: 3911
+// Generated on 02/11/2026, 13:45:03 (EST)
+// Total records: 3912
 
 export const games = [
+  {
+    "id": "5cec20ef-9720-484d-94dd-b22f2b4a9e68",
+    "name": "Friendship Feud",
+    "creatorId": "118367680150789447946",
+    "creatorLastName": "Harris",
+    "createdAt": "02/11/2026, 13:39:12"
+  },
   {
     "id": "ef811283-3dce-4260-8531-e0fbf845914f",
     "name": "test",
