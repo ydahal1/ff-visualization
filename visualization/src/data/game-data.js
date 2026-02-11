@@ -1,7 +1,21 @@
-// Generated on 02/11/2026, 16:00:03 (EST)
-// Total records: 3916
+// Generated on 02/11/2026, 16:15:02 (EST)
+// Total records: 3917
 
 export const games = [
+  {
+    "id": "29ff3c86-005e-47e4-8b41-e51828e98ddd",
+    "name": "Game 2",
+    "creatorId": "110360946134894145168",
+    "creatorLastName": "Torres",
+    "createdAt": "02/11/2026, 16:11:23"
+  },
+  {
+    "id": "8407eaec-9799-4587-9b1f-43380f6025d6",
+    "name": "Animal Nutrition",
+    "creatorId": "116437739621193920330",
+    "creatorLastName": "Kids Zone",
+    "createdAt": "02/11/2026, 16:04:40"
+  },
   {
     "id": "530a951f-e41a-4911-bdaa-f707dfd6700b",
     "name": "Game 1",
@@ -1954,13 +1968,6 @@ export const games = [
     "creatorId": "114502171658797094980",
     "creatorLastName": "Matulewicz",
     "createdAt": "02/04/2026, 17:45:21"
-  },
-  {
-    "id": "65f1a828-ee6f-4c61-bd48-b2c365bdab14",
-    "name": "Test",
-    "creatorId": "110360946134894145168",
-    "creatorLastName": "Torres",
-    "createdAt": "02/04/2026, 17:43:02"
   },
   {
     "id": "41532311-ab4f-4e8e-a85b-908d2b27e825",
