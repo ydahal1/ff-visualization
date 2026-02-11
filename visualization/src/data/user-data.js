@@ -1,7 +1,12 @@
-// Generated on 02/11/2026, 15:30:01 (EST)
-// Total records: 2424
+// Generated on 02/11/2026, 15:45:01 (EST)
+// Total records: 2425
 
 export const users = [
+  {
+    "id": "116437739621193920330",
+    "lName": "Kids Zone",
+    "createdAt": "02/11/2026, 15:44:32"
+  },
   {
     "id": "114835664908094911123",
     "lName": "Nguyen",
