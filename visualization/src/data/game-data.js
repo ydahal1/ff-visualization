@@ -1,7 +1,14 @@
-// Generated on 02/10/2026, 20:00:10 (EST)
-// Total records: 3884
+// Generated on 02/10/2026, 20:15:03 (EST)
+// Total records: 3885
 
 export const games = [
+  {
+    "id": "a70802db-954a-4ab6-b424-fe0bc1eec2a9",
+    "name": "Community",
+    "creatorId": "114325778577767867710",
+    "creatorLastName": "",
+    "createdAt": "02/10/2026, 20:02:00"
+  },
   {
     "id": "33f24462-3b60-4ac1-9e11-7f94d72c4542",
     "name": "tets",
