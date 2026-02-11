@@ -1,14 +1,7 @@
-// Generated on 02/11/2026, 11:45:04 (EST)
-// Total records: 3911
+// Generated on 02/11/2026, 12:00:03 (EST)
+// Total records: 3910
 
 export const games = [
-  {
-    "id": "44da284d-05af-4191-afee-7efb11a5008d",
-    "name": "kjfkuf",
-    "creatorId": "107608123254563473968",
-    "creatorLastName": "Marasigan",
-    "createdAt": "02/11/2026, 11:28:04"
-  },
   {
     "id": "5c20f380-0070-4a44-8d1f-1ecf5e82e643",
     "name": "School Trivia",
