@@ -1,7 +1,14 @@
-// Generated on 02/11/2026, 12:45:03 (EST)
-// Total records: 3910
+// Generated on 02/11/2026, 13:00:03 (EST)
+// Total records: 3911
 
 export const games = [
+  {
+    "id": "ef811283-3dce-4260-8531-e0fbf845914f",
+    "name": "test",
+    "creatorId": "107611421329850909076",
+    "creatorLastName": "Ricchiazzi",
+    "createdAt": "02/11/2026, 12:51:58"
+  },
   {
     "id": "5c20f380-0070-4a44-8d1f-1ecf5e82e643",
     "name": "School Trivia",
