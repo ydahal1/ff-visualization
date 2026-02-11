@@ -1,7 +1,14 @@
-// Generated on 02/11/2026, 01:30:04 (EST)
-// Total records: 3896
+// Generated on 02/11/2026, 01:45:03 (EST)
+// Total records: 3897
 
 export const games = [
+  {
+    "id": "be9e6e75-c74c-4186-93af-1063e1f1a271",
+    "name": "Family Feud - Empower Weekend Edition",
+    "creatorId": "117870484618358016002",
+    "creatorLastName": "Meinel",
+    "createdAt": "02/11/2026, 01:38:04"
+  },
   {
     "id": "a721c92a-575b-43c1-a37f-7318bc1ba4aa",
     "name": "hehe",
