@@ -1,7 +1,14 @@
-// Generated on 02/11/2026, 11:00:03 (EST)
-// Total records: 3909
+// Generated on 02/11/2026, 11:15:03 (EST)
+// Total records: 3910
 
 export const games = [
+  {
+    "id": "5c20f380-0070-4a44-8d1f-1ecf5e82e643",
+    "name": "School Trivia",
+    "creatorId": "112502539318868002465",
+    "creatorLastName": "Entwisle",
+    "createdAt": "02/11/2026, 11:02:55"
+  },
   {
     "id": "32b6ff52-0365-4d6a-9eb4-7559b4e3906e",
     "name": "How much do I know about my School?",
