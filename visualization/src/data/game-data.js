@@ -1,7 +1,21 @@
-// Generated on 02/12/2026, 09:15:03 (EST)
-// Total records: 3931
+// Generated on 02/12/2026, 09:30:02 (EST)
+// Total records: 3933
 
 export const games = [
+  {
+    "id": "bb5f807e-41c7-4c8b-9816-98f5e3c66949",
+    "name": "Test",
+    "creatorId": "102535673279786903672",
+    "creatorLastName": "Rodgers",
+    "createdAt": "02/12/2026, 09:20:38"
+  },
+  {
+    "id": "a41324c1-1b89-4676-bdd5-49a6a30da180",
+    "name": "GROUP 2/12",
+    "creatorId": "113168677182674025760",
+    "creatorLastName": "Wedgle",
+    "createdAt": "02/12/2026, 09:15:09"
+  },
   {
     "id": "9f8a1647-7a7b-4313-9355-e5b26472bfe3",
     "name": "FAMILY FEUD",
