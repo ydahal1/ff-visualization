@@ -1,7 +1,56 @@
-// Generated on 02/12/2026, 13:44:05 (EST)
-// Total records: 3942
+// Generated on 02/12/2026, 13:45:03 (EST)
+// Total records: 3949
 
 export const games = [
+  {
+    "id": "50fe6d1a-48a8-407b-8e84-26d104d7aed1",
+    "name": "Tada",
+    "creatorId": "114002191266981179988",
+    "creatorLastName": "Jam",
+    "createdAt": "02/12/2026, 13:41:48"
+  },
+  {
+    "id": "40069c13-a536-4556-bd5a-a0fd58fdd154",
+    "name": "test",
+    "creatorId": "110005934784269236523",
+    "creatorLastName": "Special",
+    "createdAt": "02/12/2026, 13:11:45"
+  },
+  {
+    "id": "f6d36059-b0ff-44a0-83ae-6e059898a85b",
+    "name": "gg",
+    "creatorId": "100570928101360855797",
+    "creatorLastName": "Pike",
+    "createdAt": "02/12/2026, 12:41:12"
+  },
+  {
+    "id": "79c78b43-7757-48d1-aef8-0d0af6bf7bfb",
+    "name": "Trivia Winter Olympics",
+    "creatorId": "114316510519451424952",
+    "creatorLastName": "Cook",
+    "createdAt": "02/12/2026, 12:25:40"
+  },
+  {
+    "id": "527ec9f3-a241-415b-ab0e-0ae428be816d",
+    "name": "Sweetheart Social Part 2",
+    "creatorId": "105258021354774246832",
+    "creatorLastName": "Parks",
+    "createdAt": "02/12/2026, 11:14:21"
+  },
+  {
+    "id": "3c6d4df2-78ad-4736-9e26-eaae70d9f7da",
+    "name": "Sweetheart Social Part 1",
+    "creatorId": "105258021354774246832",
+    "creatorLastName": "Parks",
+    "createdAt": "02/12/2026, 11:13:20"
+  },
+  {
+    "id": "14868eb6-45bb-4935-bf26-842a2264727c",
+    "name": "Delta",
+    "creatorId": "100184816113669329249",
+    "creatorLastName": "G",
+    "createdAt": "02/12/2026, 11:10:25"
+  },
   {
     "id": "5612e0a0-c8d1-46d6-aa8b-8a9c54b3f8f1",
     "name": "omo",
