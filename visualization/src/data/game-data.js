@@ -1,7 +1,14 @@
-// Generated on 02/11/2026, 19:45:02 (EST)
+// Generated on 02/11/2026, 20:00:03 (EST)
 // Total records: 3924
 
 export const games = [
+  {
+    "id": "8a175ef2-7d7e-432e-856c-36e51c587482",
+    "name": "Family Feud",
+    "creatorId": "110630124610259343117",
+    "creatorLastName": "Kiyoki",
+    "createdAt": "02/11/2026, 19:59:44"
+  },
   {
     "id": "233483b1-86df-46c6-9ca1-70d1f05d00a0",
     "name": "Wedding shower family fued",
@@ -183,13 +190,6 @@ export const games = [
     "creatorId": "106179286354066455646",
     "creatorLastName": "Whitney",
     "createdAt": "02/11/2026, 08:58:32"
-  },
-  {
-    "id": "36b4629f-3d21-4eaf-bc62-34dd655defb0",
-    "name": "Family Feud",
-    "creatorId": "110630124610259343117",
-    "creatorLastName": "Kiyoki",
-    "createdAt": "02/11/2026, 08:52:05"
   },
   {
     "id": "67657a4c-d7ca-4061-bb69-4aa9389f6991",
