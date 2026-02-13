@@ -1,5 +1,5 @@
-// Generated on 02/13/2026, 12:15:03 (EST)
-// Total records: 3974
+// Generated on 02/13/2026, 12:30:03 (EST)
+// Total records: 3973
 
 export const games = [
   {
@@ -2745,13 +2745,6 @@ export const games = [
     "creatorId": "111540989769027553001",
     "creatorLastName": "anaya",
     "createdAt": "02/03/2026, 14:36:56"
-  },
-  {
-    "id": "888cb177-3481-448e-bf37-64b0822ec375",
-    "name": "Mega Money Madness",
-    "creatorId": "117758600406401934929",
-    "creatorLastName": "Chikowski",
-    "createdAt": "02/03/2026, 14:27:27"
   },
   {
     "id": "e57847b6-3a22-42ca-bde7-687a3ea33c66",
