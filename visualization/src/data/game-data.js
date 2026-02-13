@@ -1,7 +1,21 @@
-// Generated on 02/13/2026, 13:00:02 (EST)
-// Total records: 3973
+// Generated on 02/13/2026, 13:15:03 (EST)
+// Total records: 3975
 
 export const games = [
+  {
+    "id": "ea259e53-de8f-4cd3-9fb3-a9db15fa5fec",
+    "name": "ddg",
+    "creatorId": "104170106161198752530",
+    "creatorLastName": "Dawson",
+    "createdAt": "02/13/2026, 13:10:56"
+  },
+  {
+    "id": "5f16497e-99b4-4a42-8038-e9499783deaa",
+    "name": "grefrr",
+    "creatorId": "104170106161198752530",
+    "creatorLastName": "Dawson",
+    "createdAt": "02/13/2026, 13:10:56"
+  },
   {
     "id": "bc6c2b24-8bb5-4bc9-9caa-d052f98a4b28",
     "name": "Game 9",
