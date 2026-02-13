@@ -1,7 +1,21 @@
-// Generated on 02/13/2026, 11:00:02 (EST)
-// Total records: 3971
+// Generated on 02/13/2026, 11:15:04 (EST)
+// Total records: 3973
 
 export const games = [
+  {
+    "id": "ba05c707-cb27-407c-9fe7-fb837bc3706d",
+    "name": "Test",
+    "creatorId": "109245918370467689849",
+    "creatorLastName": "Bieberle",
+    "createdAt": "02/13/2026, 11:10:07"
+  },
+  {
+    "id": "09884e0e-f867-4e21-92dc-1005545f68e5",
+    "name": "Декември водий",
+    "creatorId": "102546862461461657028",
+    "creatorLastName": "Sashev",
+    "createdAt": "02/13/2026, 11:03:23"
+  },
   {
     "id": "ecb7dae2-eb35-46aa-a26d-42ae25ad56dd",
     "name": "Galentine's 2",
