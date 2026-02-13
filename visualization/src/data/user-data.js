@@ -1,7 +1,12 @@
-// Generated on 02/12/2026, 21:00:00 (EST)
-// Total records: 2462
+// Generated on 02/12/2026, 21:15:00 (EST)
+// Total records: 2463
 
 export const users = [
+  {
+    "id": "106608130452017971155",
+    "lName": "Di Giovanna",
+    "createdAt": "02/12/2026, 21:05:56"
+  },
   {
     "id": "109370245723592303545",
     "lName": "MENDOZA QUINONES",
