@@ -1,7 +1,21 @@
-// Generated on 02/12/2026, 20:00:03 (EST)
-// Total records: 3954
+// Generated on 02/12/2026, 20:15:02 (EST)
+// Total records: 3956
 
 export const games = [
+  {
+    "id": "0ced48c4-b0d7-4d81-9cd8-bfe1833c2f10",
+    "name": "Comparatives and superlatives",
+    "creatorId": "109370245723592303545",
+    "creatorLastName": "MENDOZA QUINONES",
+    "createdAt": "02/12/2026, 20:13:49"
+  },
+  {
+    "id": "0adf47be-93ef-49d3-95de-2f4104f45d78",
+    "name": "SO&E FAMILY FEUD",
+    "creatorId": "117477585196637710209",
+    "creatorLastName": "",
+    "createdAt": "02/12/2026, 20:12:36"
+  },
   {
     "id": "a038d0e8-6d5d-42ae-aaf3-5c6bb20154a2",
     "name": "Gals vs Pals",
