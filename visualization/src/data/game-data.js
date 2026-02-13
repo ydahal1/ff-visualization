@@ -1,13 +1,34 @@
-// Generated on 02/13/2026, 10:30:02 (EST)
-// Total records: 3970
+// Generated on 02/13/2026, 10:45:03 (EST)
+// Total records: 3971
 
 export const games = [
   {
-    "id": "bebc78fc-bb4f-469e-a086-ac17cd9f010e",
+    "id": "ecb7dae2-eb35-46aa-a26d-42ae25ad56dd",
+    "name": "Galentine's 2",
+    "creatorId": "100358351492688510638",
+    "creatorLastName": "Arjun",
+    "createdAt": "02/13/2026, 10:44:27"
+  },
+  {
+    "id": "f891471a-c0d8-4e91-9b7e-fc618b86412c",
+    "name": "BSU's Black History Family Feud Pt. 2",
+    "creatorId": "105752982924408082745",
+    "creatorLastName": "",
+    "createdAt": "02/13/2026, 10:38:17"
+  },
+  {
+    "id": "f6efa735-3f48-429d-9c7e-3b0df8dda236",
     "name": "Galentine's 1",
     "creatorId": "100358351492688510638",
     "creatorLastName": "Arjun",
-    "createdAt": "02/13/2026, 10:29:47"
+    "createdAt": "02/13/2026, 10:37:10"
+  },
+  {
+    "id": "49598e00-ac6b-423b-8f9d-c0b0632ac1ca",
+    "name": "BSU's Black History Family Feud",
+    "creatorId": "105752982924408082745",
+    "creatorLastName": "",
+    "createdAt": "02/13/2026, 10:34:42"
   },
   {
     "id": "6105d34c-a87b-42a0-ae1c-eaa4f0aa3a0e",
@@ -15,20 +36,6 @@ export const games = [
     "creatorId": "115463339385072005269",
     "creatorLastName": "bag",
     "createdAt": "02/13/2026, 10:25:43"
-  },
-  {
-    "id": "59a369ae-f528-4026-8cd0-d7ee70bfa540",
-    "name": "Game 4",
-    "creatorId": "115463339385072005269",
-    "creatorLastName": "bag",
-    "createdAt": "02/13/2026, 10:21:52"
-  },
-  {
-    "id": "ecd9be1a-b28c-4af1-a271-d910848e7dab",
-    "name": "Galentine's Family Feud 2",
-    "creatorId": "100358351492688510638",
-    "creatorLastName": "Arjun",
-    "createdAt": "02/13/2026, 10:17:04"
   },
   {
     "id": "64580901-2b43-4c37-bcfc-61e7577c4583",
