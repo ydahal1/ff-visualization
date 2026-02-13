@@ -1,7 +1,14 @@
-// Generated on 02/13/2026, 16:30:03 (EST)
-// Total records: 3979
+// Generated on 02/13/2026, 16:45:03 (EST)
+// Total records: 3974
 
 export const games = [
+  {
+    "id": "b93348c5-80f1-46e7-a3dd-9138376f8e5c",
+    "name": "game #1",
+    "creatorId": "113958919273172769674",
+    "creatorLastName": "Zadina",
+    "createdAt": "02/13/2026, 16:41:54"
+  },
   {
     "id": "350e9df1-5d54-48a7-a51f-e30948de0887",
     "name": "Compliance Game",
@@ -23740,13 +23747,6 @@ export const games = [
     "createdAt": "11/26/2025, 17:54:08"
   },
   {
-    "id": "0b3ff8cf-5d4a-4394-a131-b0797eb37fc0",
-    "name": "test 1 VS test 2",
-    "creatorId": "113958919273172769674",
-    "creatorLastName": "Zadina",
-    "createdAt": "11/26/2025, 17:46:16"
-  },
-  {
     "id": "d0b5b953-06b5-4ca8-af9c-8b16dff9ef60",
     "name": "2 VS 1",
     "creatorId": "106852336429880937873",
@@ -24816,41 +24816,6 @@ export const games = [
     "creatorId": "106196808967040786938",
     "creatorLastName": "Whited",
     "createdAt": "11/22/2025, 24:41:14"
-  },
-  {
-    "id": "841fe9fb-113b-4543-9cb4-db1ea020a114",
-    "name": "Yomamas VS houghjass",
-    "creatorId": "113958919273172769674",
-    "creatorLastName": "Zadina",
-    "createdAt": "11/21/2025, 22:33:18"
-  },
-  {
-    "id": "42f699da-2026-414a-aa0f-5418ddf1c62e",
-    "name": "Ludicris VS Applebottomgenes",
-    "creatorId": "113958919273172769674",
-    "creatorLastName": "Zadina",
-    "createdAt": "11/21/2025, 22:30:34"
-  },
-  {
-    "id": "e002f4e1-0f36-4274-add2-2848f6eae8a6",
-    "name": "Labubus VS Lafufus",
-    "creatorId": "113958919273172769674",
-    "creatorLastName": "Zadina",
-    "createdAt": "11/21/2025, 22:29:20"
-  },
-  {
-    "id": "d3a99e41-4f42-4eae-b053-b9dae7165657",
-    "name": "gigglebottom VS jiggle",
-    "creatorId": "113958919273172769674",
-    "creatorLastName": "Zadina",
-    "createdAt": "11/21/2025, 22:27:45"
-  },
-  {
-    "id": "9fb4c2e2-01f2-4e19-995b-e991861cc3cb",
-    "name": "Tinkle VS Loofah",
-    "creatorId": "113958919273172769674",
-    "creatorLastName": "Zadina",
-    "createdAt": "11/21/2025, 22:26:45"
   },
   {
     "id": "9adf8cbf-cd99-4120-a266-d8054d521ce7",
