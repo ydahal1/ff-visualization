@@ -1,7 +1,14 @@
-// Generated on 02/13/2026, 16:00:02 (EST)
-// Total records: 3978
+// Generated on 02/13/2026, 16:15:03 (EST)
+// Total records: 3979
 
 export const games = [
+  {
+    "id": "350e9df1-5d54-48a7-a51f-e30948de0887",
+    "name": "Compliance Game",
+    "creatorId": "110285082921463583321",
+    "creatorLastName": "Wright",
+    "createdAt": "02/13/2026, 16:08:04"
+  },
   {
     "id": "e51cdf8d-b328-46e6-a7cd-58cb5ad9dacb",
     "name": "Maggie 1",
