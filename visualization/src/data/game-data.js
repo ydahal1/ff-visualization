@@ -1,7 +1,14 @@
-// Generated on 02/13/2026, 13:30:03 (EST)
-// Total records: 3976
+// Generated on 02/13/2026, 13:45:03 (EST)
+// Total records: 3977
 
 export const games = [
+  {
+    "id": "cc0982fa-e513-45d1-80c2-266836f674e8",
+    "name": "ewef",
+    "creatorId": "117547910408444955271",
+    "creatorLastName": "Lovitz",
+    "createdAt": "02/13/2026, 13:41:58"
+  },
   {
     "id": "f8b01b1f-e32e-4bfd-afd3-55598a61483f",
     "name": "Game 1",
