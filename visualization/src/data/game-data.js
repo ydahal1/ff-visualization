@@ -1,7 +1,21 @@
-// Generated on 02/13/2026, 09:00:03 (EST)
-// Total records: 3963
+// Generated on 02/13/2026, 09:15:03 (EST)
+// Total records: 3964
 
 export const games = [
+  {
+    "id": "ff986a62-440e-491d-8ffb-75cfff1363a8",
+    "name": "Galentine's Family Feud",
+    "creatorId": "100358351492688510638",
+    "creatorLastName": "Arjun",
+    "createdAt": "02/13/2026, 09:08:42"
+  },
+  {
+    "id": "928758f9-2ee4-4f6d-bde8-9ef680d60f52",
+    "name": "Office Feud- Valentine's Edition",
+    "creatorId": "110005934784269236523",
+    "creatorLastName": "Special",
+    "createdAt": "02/13/2026, 09:03:09"
+  },
   {
     "id": "de183a37-fc18-4508-b7bb-b38c058a02c9",
     "name": "steam day 2",
@@ -120,13 +134,6 @@ export const games = [
     "creatorId": "114002191266981179988",
     "creatorLastName": "Jam",
     "createdAt": "02/12/2026, 13:41:48"
-  },
-  {
-    "id": "40069c13-a536-4556-bd5a-a0fd58fdd154",
-    "name": "test",
-    "creatorId": "110005934784269236523",
-    "creatorLastName": "Special",
-    "createdAt": "02/12/2026, 13:11:45"
   },
   {
     "id": "f6d36059-b0ff-44a0-83ae-6e059898a85b",
