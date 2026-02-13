@@ -1,7 +1,14 @@
-// Generated on 02/12/2026, 21:00:03 (EST)
-// Total records: 3956
+// Generated on 02/12/2026, 21:15:02 (EST)
+// Total records: 3957
 
 export const games = [
+  {
+    "id": "5d1ceda5-0ba6-44db-aa01-63ece9239e6d",
+    "name": "game 7",
+    "creatorId": "115224071917313237033",
+    "creatorLastName": "KOA",
+    "createdAt": "02/12/2026, 21:04:19"
+  },
   {
     "id": "b9f19499-76e5-4f2f-9200-ab71f73f485c",
     "name": "Comparatives vs Superlatives",
