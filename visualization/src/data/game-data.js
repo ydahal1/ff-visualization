@@ -1,7 +1,14 @@
-// Generated on 02/12/2026, 22:15:03 (EST)
-// Total records: 3957
+// Generated on 02/12/2026, 22:30:03 (EST)
+// Total records: 3958
 
 export const games = [
+  {
+    "id": "366bb412-6c8e-4251-b8e3-27de88458f54",
+    "name": "Family Feud BSA Edition",
+    "creatorId": "115809115254383134344",
+    "creatorLastName": "dixon",
+    "createdAt": "02/12/2026, 22:29:08"
+  },
   {
     "id": "5d1ceda5-0ba6-44db-aa01-63ece9239e6d",
     "name": "game 7",
