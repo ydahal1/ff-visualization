@@ -1,7 +1,14 @@
-// Generated on 02/13/2026, 15:00:03 (EST)
-// Total records: 3979
+// Generated on 02/13/2026, 15:15:03 (EST)
+// Total records: 3978
 
 export const games = [
+  {
+    "id": "e51cdf8d-b328-46e6-a7cd-58cb5ad9dacb",
+    "name": "Maggie 1",
+    "creatorId": "114045861612237557738",
+    "creatorLastName": "Delventhal",
+    "createdAt": "02/13/2026, 15:02:01"
+  },
   {
     "id": "03bd156d-e009-478c-9b3d-a13dc70bfe6f",
     "name": "ashley",
@@ -2129,20 +2136,6 @@ export const games = [
     "creatorId": "103187101868196127267",
     "creatorLastName": "Luzi",
     "createdAt": "02/05/2026, 13:10:09"
-  },
-  {
-    "id": "b720814e-3083-4201-8930-86d1e359a404",
-    "name": "Maggie Pt 2",
-    "creatorId": "114045861612237557738",
-    "creatorLastName": "Delventhal",
-    "createdAt": "02/05/2026, 12:41:50"
-  },
-  {
-    "id": "66709d88-5b9c-4771-b4f3-0de88f655f8e",
-    "name": "Maggie Pt 1",
-    "creatorId": "114045861612237557738",
-    "creatorLastName": "Delventhal",
-    "createdAt": "02/05/2026, 12:38:38"
   },
   {
     "id": "df9d54f7-5a0f-4a7c-b682-e6b1534c62e4",
