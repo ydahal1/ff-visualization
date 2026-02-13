@@ -1,7 +1,14 @@
-// Generated on 02/12/2026, 23:15:03 (EST)
-// Total records: 3960
+// Generated on 02/12/2026, 23:30:03 (EST)
+// Total records: 3961
 
 export const games = [
+  {
+    "id": "8569930b-8838-4cd5-ac36-cffbef4b6332",
+    "name": "FHE GAMES",
+    "creatorId": "103888030555931522627",
+    "creatorLastName": "Cahulao",
+    "createdAt": "02/12/2026, 23:29:49"
+  },
   {
     "id": "05b79d25-b787-4663-afd2-2c5778fcc50e",
     "name": "BHM 1",
