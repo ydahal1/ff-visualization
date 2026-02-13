@@ -1,14 +1,7 @@
-// Generated on 02/12/2026, 20:30:03 (EST)
-// Total records: 3956
+// Generated on 02/12/2026, 20:45:03 (EST)
+// Total records: 3955
 
 export const games = [
-  {
-    "id": "0ced48c4-b0d7-4d81-9cd8-bfe1833c2f10",
-    "name": "Comparatives and superlatives",
-    "creatorId": "109370245723592303545",
-    "creatorLastName": "MENDOZA QUINONES",
-    "createdAt": "02/12/2026, 20:13:49"
-  },
   {
     "id": "0adf47be-93ef-49d3-95de-2f4104f45d78",
     "name": "SO&E FAMILY FEUD",
