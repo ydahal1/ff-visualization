@@ -1,20 +1,48 @@
-// Generated on 02/13/2026, 10:00:03 (EST)
-// Total records: 3967
+// Generated on 02/13/2026, 10:15:03 (EST)
+// Total records: 3970
 
 export const games = [
   {
-    "id": "758a01bf-4658-4537-804c-370489c359ee",
-    "name": "Game 1",
-    "creatorId": "115463339385072005269",
-    "creatorLastName": "bag",
-    "createdAt": "02/13/2026, 09:55:50"
-  },
-  {
-    "id": "8fae6f33-c8d8-4239-8651-8ce861125586",
-    "name": "Galentine's Family Feud pt 2",
+    "id": "e8b1e619-1c97-4c51-a8d8-d85a047a3830",
+    "name": "Galentine's Family Feud 2",
     "creatorId": "100358351492688510638",
     "creatorLastName": "Arjun",
-    "createdAt": "02/13/2026, 09:50:04"
+    "createdAt": "02/13/2026, 10:14:17"
+  },
+  {
+    "id": "415248c8-f1a8-4919-9ebb-6c67b816b693",
+    "name": "Game 3",
+    "creatorId": "115463339385072005269",
+    "creatorLastName": "bag",
+    "createdAt": "02/13/2026, 10:13:05"
+  },
+  {
+    "id": "64580901-2b43-4c37-bcfc-61e7577c4583",
+    "name": "Valentine's Day 2",
+    "creatorId": "118054808709429502313",
+    "creatorLastName": "Trinh",
+    "createdAt": "02/13/2026, 10:12:33"
+  },
+  {
+    "id": "e5cb87a5-2702-4c63-a987-3abf265ca154",
+    "name": "Game 2",
+    "creatorId": "115463339385072005269",
+    "creatorLastName": "bag",
+    "createdAt": "02/13/2026, 10:07:09"
+  },
+  {
+    "id": "4b121a54-d4a9-492a-810a-52090ceedfd7",
+    "name": "Galentine's Family Feud 1",
+    "creatorId": "100358351492688510638",
+    "creatorLastName": "Arjun",
+    "createdAt": "02/13/2026, 10:03:02"
+  },
+  {
+    "id": "389b5ea8-f013-4ea7-a9b7-641a70655f58",
+    "name": "Valentine's Day",
+    "creatorId": "118054808709429502313",
+    "creatorLastName": "Trinh",
+    "createdAt": "02/13/2026, 10:00:06"
   },
   {
     "id": "bf78e38a-5da6-4e26-90a9-6dd3d3a75f8e",
@@ -29,13 +57,6 @@ export const games = [
     "creatorId": "110005934784269236523",
     "creatorLastName": "Special",
     "createdAt": "02/13/2026, 09:15:06"
-  },
-  {
-    "id": "ff986a62-440e-491d-8ffb-75cfff1363a8",
-    "name": "Galentine's Family Feud",
-    "creatorId": "100358351492688510638",
-    "creatorLastName": "Arjun",
-    "createdAt": "02/13/2026, 09:08:42"
   },
   {
     "id": "928758f9-2ee4-4f6d-bde8-9ef680d60f52",
