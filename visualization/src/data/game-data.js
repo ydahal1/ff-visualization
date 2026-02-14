@@ -1,7 +1,21 @@
-// Generated on 02/14/2026, 07:45:02 (EST)
-// Total records: 3982
+// Generated on 02/14/2026, 08:00:03 (EST)
+// Total records: 3984
 
 export const games = [
+  {
+    "id": "44bc1d2a-5bd0-4722-a025-3eccf6705cb8",
+    "name": "Terg",
+    "creatorId": "111332197949391797988",
+    "creatorLastName": "Mahmud",
+    "createdAt": "02/14/2026, 07:56:58"
+  },
+  {
+    "id": "eee7b2d3-348b-44f0-b7c5-86b1fe4c2918",
+    "name": "Sleeper Super 7 Show Down!",
+    "creatorId": "116277505866776533750",
+    "creatorLastName": "Sleeper",
+    "createdAt": "02/14/2026, 07:50:16"
+  },
   {
     "id": "52273235-adb2-4398-8e31-eca27aa3c8b2",
     "name": "Jj",
