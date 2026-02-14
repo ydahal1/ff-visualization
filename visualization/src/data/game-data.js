@@ -1,7 +1,14 @@
-// Generated on 02/14/2026, 16:15:03 (EST)
-// Total records: 3988
+// Generated on 02/14/2026, 16:30:03 (EST)
+// Total records: 3989
 
 export const games = [
+  {
+    "id": "aef8d9be-f19f-4a04-8d02-57e48acdf4ae",
+    "name": "Lincoln",
+    "creatorId": "104534936852732613165",
+    "creatorLastName": "Vasconcelos",
+    "createdAt": "02/14/2026, 16:28:36"
+  },
   {
     "id": "f3a45b74-fc23-40c1-891d-9360439cd29d",
     "name": "Practice",
