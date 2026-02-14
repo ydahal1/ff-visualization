@@ -1,7 +1,14 @@
-// Generated on 02/14/2026, 15:30:03 (EST)
-// Total records: 3987
+// Generated on 02/14/2026, 15:45:03 (EST)
+// Total records: 3988
 
 export const games = [
+  {
+    "id": "f3a45b74-fc23-40c1-891d-9360439cd29d",
+    "name": "Practice",
+    "creatorId": "116975222046542165224",
+    "creatorLastName": "Walz",
+    "createdAt": "02/14/2026, 15:33:05"
+  },
   {
     "id": "64993992-2dc5-4f54-9876-205b00f83751",
     "name": "Birthday Feud 2",
