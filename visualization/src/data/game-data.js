@@ -1,13 +1,27 @@
-// Generated on 02/14/2026, 16:45:02 (EST)
-// Total records: 3982
+// Generated on 02/14/2026, 17:00:03 (EST)
+// Total records: 3984
 
 export const games = [
   {
-    "id": "aef8d9be-f19f-4a04-8d02-57e48acdf4ae",
-    "name": "Lincoln",
+    "id": "344bec73-41b9-4fab-8d5f-d049a2388732",
+    "name": "Super Nico",
+    "creatorId": "113862765735792574210",
+    "creatorLastName": "Orta",
+    "createdAt": "02/14/2026, 16:50:12"
+  },
+  {
+    "id": "34d5203e-e73a-420a-a45c-45556f941e7d",
+    "name": "Lincoln School",
     "creatorId": "104534936852732613165",
     "creatorLastName": "Vasconcelos",
-    "createdAt": "02/14/2026, 16:28:36"
+    "createdAt": "02/14/2026, 16:47:16"
+  },
+  {
+    "id": "fbcbdbb6-fe2a-43a0-9f81-1b6c061d7e6d",
+    "name": "Game 1",
+    "creatorId": "115224071917313237033",
+    "creatorLastName": "KOA",
+    "createdAt": "02/14/2026, 16:47:11"
   },
   {
     "id": "f3a45b74-fc23-40c1-891d-9360439cd29d",
