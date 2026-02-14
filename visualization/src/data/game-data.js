@@ -1,7 +1,14 @@
-// Generated on 02/13/2026, 22:00:02 (EST)
-// Total records: 3977
+// Generated on 02/13/2026, 22:15:03 (EST)
+// Total records: 3978
 
 export const games = [
+  {
+    "id": "14cbd433-161b-4f8a-8353-2ed9f93abc86",
+    "name": "Efes Galentine",
+    "creatorId": "115817947976927596419",
+    "creatorLastName": "Warhouse",
+    "createdAt": "02/13/2026, 22:09:26"
+  },
   {
     "id": "6b0f3f79-6a1f-4e4a-baa1-cf00c12153dd",
     "name": "Maggie 2",
