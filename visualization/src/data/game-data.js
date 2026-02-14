@@ -1,7 +1,21 @@
-// Generated on 02/14/2026, 24:45:03 (EST)
-// Total records: 3978
+// Generated on 02/14/2026, 01:00:03 (EST)
+// Total records: 3980
 
 export const games = [
+  {
+    "id": "c5e95c41-0392-44a5-b8f2-ec8a8ab7d36c",
+    "name": "argo",
+    "creatorId": "114556086414496832716",
+    "creatorLastName": "Riz",
+    "createdAt": "02/14/2026, 24:59:55"
+  },
+  {
+    "id": "306f8489-0621-4a05-9e59-2855ae2277ef",
+    "name": "Kenna Tines",
+    "creatorId": "114556086414496832716",
+    "creatorLastName": "Riz",
+    "createdAt": "02/14/2026, 24:59:06"
+  },
   {
     "id": "14cbd433-161b-4f8a-8353-2ed9f93abc86",
     "name": "Efes Galentine",
