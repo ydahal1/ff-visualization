@@ -1,7 +1,14 @@
-// Generated on 02/14/2026, 13:00:02 (EST)
+// Generated on 02/14/2026, 13:15:03 (EST)
 // Total records: 3986
 
 export const games = [
+  {
+    "id": "36ed0037-6d19-47fc-bdcd-36b6578f1324",
+    "name": "Logistics Feud",
+    "creatorId": "107778181672878064634",
+    "creatorLastName": "Rhoden",
+    "createdAt": "02/14/2026, 13:05:04"
+  },
   {
     "id": "2f6b0429-a345-4772-8aea-7f18672ec30c",
     "name": "Beauty in red2",
@@ -897,13 +904,6 @@ export const games = [
     "creatorId": "101743693261963389854",
     "creatorLastName": "RO",
     "createdAt": "02/10/2026, 13:29:21"
-  },
-  {
-    "id": "52ecdd5b-6630-4d10-afcd-a1059a520c4a",
-    "name": "Logistics Feud",
-    "creatorId": "107778181672878064634",
-    "creatorLastName": "Rhoden",
-    "createdAt": "02/10/2026, 13:25:56"
   },
   {
     "id": "b362110a-2f69-41d2-b8ab-9a6b7d6745b7",
