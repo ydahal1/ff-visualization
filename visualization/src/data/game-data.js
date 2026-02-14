@@ -1,5 +1,5 @@
-// Generated on 02/14/2026, 16:30:03 (EST)
-// Total records: 3989
+// Generated on 02/14/2026, 16:45:02 (EST)
+// Total records: 3982
 
 export const games = [
   {
@@ -337,13 +337,6 @@ export const games = [
     "creatorId": "115809115254383134344",
     "creatorLastName": "dixon",
     "createdAt": "02/12/2026, 22:29:08"
-  },
-  {
-    "id": "5d1ceda5-0ba6-44db-aa01-63ece9239e6d",
-    "name": "game 7",
-    "creatorId": "115224071917313237033",
-    "creatorLastName": "KOA",
-    "createdAt": "02/12/2026, 21:04:19"
   },
   {
     "id": "b9f19499-76e5-4f2f-9200-ab71f73f485c",
@@ -701,27 +694,6 @@ export const games = [
     "creatorId": "104098140180496852193",
     "creatorLastName": "Kluever",
     "createdAt": "02/11/2026, 10:34:52"
-  },
-  {
-    "id": "70129baf-d198-4588-abd8-686963271330",
-    "name": "Game 4",
-    "creatorId": "115224071917313237033",
-    "creatorLastName": "KOA",
-    "createdAt": "02/11/2026, 09:22:56"
-  },
-  {
-    "id": "87af44f0-7bc1-494d-82c0-16bd5870d364",
-    "name": "Game 3",
-    "creatorId": "115224071917313237033",
-    "creatorLastName": "KOA",
-    "createdAt": "02/11/2026, 09:17:40"
-  },
-  {
-    "id": "74b3d592-a12c-4cab-b0cc-1bb5d070c7e9",
-    "name": "Game 2",
-    "creatorId": "115224071917313237033",
-    "creatorLastName": "KOA",
-    "createdAt": "02/11/2026, 09:10:43"
   },
   {
     "id": "8d14f692-d8e2-466a-8b25-e61332bcf6c0",
@@ -1466,25 +1438,11 @@ export const games = [
     "createdAt": "02/07/2026, 19:30:57"
   },
   {
-    "id": "5635f597-62e0-47bf-9c0b-84fddfaec919",
-    "name": "Valentine 5",
-    "creatorId": "115224071917313237033",
-    "creatorLastName": "KOA",
-    "createdAt": "02/07/2026, 19:17:03"
-  },
-  {
     "id": "0001deca-66c8-4cff-b481-438f640c5b77",
     "name": "Valentine 4",
     "creatorId": "115224071917313237033",
     "creatorLastName": "KOA",
     "createdAt": "02/07/2026, 19:14:41"
-  },
-  {
-    "id": "19c286b8-942b-46ce-90f0-ee73d4a7ca95",
-    "name": "Valentine 3",
-    "creatorId": "115224071917313237033",
-    "creatorLastName": "KOA",
-    "createdAt": "02/07/2026, 19:09:30"
   },
   {
     "id": "6f65eaf7-081c-40c0-9594-03ecaa840745",
@@ -6343,13 +6301,6 @@ export const games = [
     "creatorId": "105331787739585984928",
     "creatorLastName": "Kiss",
     "createdAt": "01/19/2026, 09:58:20"
-  },
-  {
-    "id": "cb705cc2-b590-4170-a050-a0bed49dee80",
-    "name": "Valentine",
-    "creatorId": "115224071917313237033",
-    "creatorLastName": "KOA",
-    "createdAt": "01/19/2026, 09:48:54"
   },
   {
     "id": "e6769936-bd8f-4c07-b0c2-005d660b6da8",
