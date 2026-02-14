@@ -1,7 +1,17 @@
-// Generated on 02/14/2026, 09:15:00 (EST)
-// Total records: 2488
+// Generated on 02/14/2026, 09:30:01 (EST)
+// Total records: 2490
 
 export const users = [
+  {
+    "id": "104835576654551883138",
+    "lName": "Hope",
+    "createdAt": "02/14/2026, 09:28:47"
+  },
+  {
+    "id": "109506678115067771345",
+    "lName": "MAHMUD",
+    "createdAt": "02/14/2026, 09:23:29"
+  },
   {
     "id": "115207701414277974585",
     "lName": "Kweku Ackom-Brew",
