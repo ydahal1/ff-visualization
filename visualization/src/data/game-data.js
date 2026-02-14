@@ -1,7 +1,21 @@
-// Generated on 02/14/2026, 10:00:02 (EST)
-// Total records: 3984
+// Generated on 02/14/2026, 10:15:03 (EST)
+// Total records: 3986
 
 export const games = [
+  {
+    "id": "2f6b0429-a345-4772-8aea-7f18672ec30c",
+    "name": "Beauty in red2",
+    "creatorId": "104835576654551883138",
+    "creatorLastName": "Hope",
+    "createdAt": "02/14/2026, 10:03:55"
+  },
+  {
+    "id": "4e4c7ecf-c632-4146-a4fb-1cb3ce6abf61",
+    "name": "Beauty in red",
+    "creatorId": "104835576654551883138",
+    "creatorLastName": "Hope",
+    "createdAt": "02/14/2026, 10:02:25"
+  },
   {
     "id": "44bc1d2a-5bd0-4722-a025-3eccf6705cb8",
     "name": "Terg",
