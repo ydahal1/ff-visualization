@@ -1,7 +1,21 @@
-// Generated on 02/14/2026, 15:15:02 (EST)
-// Total records: 3985
+// Generated on 02/14/2026, 15:30:03 (EST)
+// Total records: 3987
 
 export const games = [
+  {
+    "id": "64993992-2dc5-4f54-9876-205b00f83751",
+    "name": "Birthday Feud 2",
+    "creatorId": "118064721653284678875",
+    "creatorLastName": "America",
+    "createdAt": "02/14/2026, 15:21:26"
+  },
+  {
+    "id": "b197c9e3-d952-437b-894b-95a8e867e067",
+    "name": "Birthday Feud 1",
+    "creatorId": "118064721653284678875",
+    "creatorLastName": "America",
+    "createdAt": "02/14/2026, 15:16:26"
+  },
   {
     "id": "36ed0037-6d19-47fc-bdcd-36b6578f1324",
     "name": "Logistics Feud",
