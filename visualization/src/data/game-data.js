@@ -1,7 +1,14 @@
-// Generated on 02/13/2026, 20:30:03 (EST)
-// Total records: 3976
+// Generated on 02/13/2026, 20:45:02 (EST)
+// Total records: 3977
 
 export const games = [
+  {
+    "id": "6b0f3f79-6a1f-4e4a-baa1-cf00c12153dd",
+    "name": "Maggie 2",
+    "creatorId": "114045861612237557738",
+    "creatorLastName": "Delventhal",
+    "createdAt": "02/13/2026, 20:32:26"
+  },
   {
     "id": "d87c6a4f-b197-4ba7-8957-5c0320061253",
     "name": "TOM March",
