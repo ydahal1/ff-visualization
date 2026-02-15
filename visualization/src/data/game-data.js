@@ -1,7 +1,14 @@
-// Generated on 02/15/2026, 09:45:02 (EST)
-// Total records: 3984
+// Generated on 02/15/2026, 10:00:02 (EST)
+// Total records: 3985
 
 export const games = [
+  {
+    "id": "88c82208-79b7-4480-88a9-292ff8c58af6",
+    "name": "Fries",
+    "creatorId": "110091634567525704379",
+    "creatorLastName": "Guy",
+    "createdAt": "02/15/2026, 09:54:22"
+  },
   {
     "id": "9e0fc488-14e8-43d8-9c2f-0f407f6317cb",
     "name": "SAUCE",
