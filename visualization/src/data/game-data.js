@@ -1,14 +1,7 @@
-// Generated on 02/14/2026, 21:15:02 (EST)
-// Total records: 3991
+// Generated on 02/14/2026, 21:30:03 (EST)
+// Total records: 3990
 
 export const games = [
-  {
-    "id": "3e2f8eff-ce4a-46e2-ae2b-b662a5e60f58",
-    "name": "Banquet",
-    "creatorId": "103631338718392894199",
-    "creatorLastName": "Yent",
-    "createdAt": "02/14/2026, 21:13:57"
-  },
   {
     "id": "721ccf68-46c7-41a2-aaf3-f2f8fd30231b",
     "name": "fewa",
