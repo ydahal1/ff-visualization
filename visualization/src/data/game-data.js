@@ -1,7 +1,21 @@
-// Generated on 02/15/2026, 18:30:02 (EST)
-// Total records: 4009
+// Generated on 02/15/2026, 18:45:03 (EST)
+// Total records: 4011
 
 export const games = [
+  {
+    "id": "763d34e3-7130-4147-9cb0-80e9d8e9d5e2",
+    "name": "GO2 Feud 3",
+    "creatorId": "117454544475209396461",
+    "creatorLastName": "Kaczmarski",
+    "createdAt": "02/15/2026, 18:35:41"
+  },
+  {
+    "id": "4a4068eb-a251-444b-8296-588f9d0e9452",
+    "name": "GO2 Feud 2",
+    "creatorId": "117454544475209396461",
+    "creatorLastName": "Kaczmarski",
+    "createdAt": "02/15/2026, 18:30:33"
+  },
   {
     "id": "6da4480e-ab62-415d-9f58-31b7790f1173",
     "name": "Round 11 Bitches",
