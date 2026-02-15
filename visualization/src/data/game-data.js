@@ -1,14 +1,7 @@
-// Generated on 02/15/2026, 02:45:03 (EST)
-// Total records: 3993
+// Generated on 02/15/2026, 03:00:03 (EST)
+// Total records: 3992
 
 export const games = [
-  {
-    "id": "7c631bb2-50ad-48f5-8d55-331f76579262",
-    "name": "Slot 1",
-    "creatorId": "104848228861359618520",
-    "creatorLastName": "Mittal",
-    "createdAt": "02/15/2026, 02:39:03"
-  },
   {
     "id": "0d6affc7-2974-49db-8bd8-b152c7e3f6ea",
     "name": "Main Round",
