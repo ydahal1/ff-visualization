@@ -1,7 +1,14 @@
-// Generated on 02/15/2026, 15:00:02 (EST)
-// Total records: 3992
+// Generated on 02/15/2026, 15:15:03 (EST)
+// Total records: 3993
 
 export const games = [
+  {
+    "id": "fa80af00-1693-4c01-a957-5fef572fce38",
+    "name": "Scouts",
+    "creatorId": "107413476522961599450",
+    "creatorLastName": "Grubb",
+    "createdAt": "02/15/2026, 15:06:34"
+  },
   {
     "id": "11156479-2e48-441c-927f-e341f598e777",
     "name": "Valentine's Banquet",
