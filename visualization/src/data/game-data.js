@@ -1,7 +1,14 @@
-// Generated on 02/15/2026, 12:15:02 (EST)
-// Total records: 3988
+// Generated on 02/15/2026, 12:30:02 (EST)
+// Total records: 3989
 
 export const games = [
+  {
+    "id": "e4f433fe-4200-4950-a273-2b54457030e4",
+    "name": "Guess that bite",
+    "creatorId": "100929044067094513089",
+    "creatorLastName": "Salih",
+    "createdAt": "02/15/2026, 12:17:00"
+  },
   {
     "id": "b3320a88-ad21-49b6-9d2e-e035104e5e71",
     "name": "Round 2",
