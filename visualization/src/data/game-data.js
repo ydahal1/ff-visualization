@@ -1,7 +1,14 @@
-// Generated on 02/15/2026, 17:30:02 (EST)
-// Total records: 3998
+// Generated on 02/15/2026, 17:45:03 (EST)
+// Total records: 3999
 
 export const games = [
+  {
+    "id": "fcbdd7c9-975e-40ae-9e39-81e7fd7d3ff0",
+    "name": "Bach party",
+    "creatorId": "116975222046542165224",
+    "creatorLastName": "Walz",
+    "createdAt": "02/15/2026, 17:31:02"
+  },
   {
     "id": "2d5d3c95-6bd4-4054-a3b9-ca91866998f8",
     "name": "Lui birthday",
