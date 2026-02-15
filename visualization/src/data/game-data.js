@@ -1,7 +1,14 @@
-// Generated on 02/15/2026, 24:15:03 (EST)
-// Total records: 3990
+// Generated on 02/15/2026, 24:30:03 (EST)
+// Total records: 3991
 
 export const games = [
+  {
+    "id": "1d2ba73e-06a4-4b7a-a711-732111d5cee7",
+    "name": "COP Family Feud",
+    "creatorId": "100564556029425822525",
+    "creatorLastName": "",
+    "createdAt": "02/15/2026, 24:18:47"
+  },
   {
     "id": "721ccf68-46c7-41a2-aaf3-f2f8fd30231b",
     "name": "fewa",
