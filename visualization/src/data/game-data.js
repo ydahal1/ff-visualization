@@ -1,7 +1,14 @@
-// Generated on 02/16/2026, 13:15:02 (EST)
-// Total records: 4027
+// Generated on 02/16/2026, 13:30:03 (EST)
+// Total records: 4028
 
 export const games = [
+  {
+    "id": "80f9c1eb-7147-41b4-ae82-adc167928d07",
+    "name": "McFellin Feud",
+    "creatorId": "118427774640152256677",
+    "creatorLastName": "McFellin",
+    "createdAt": "02/16/2026, 13:22:01"
+  },
   {
     "id": "a36c2fba-0268-4fe7-81fe-c23e89cc58ff",
     "name": "Family Feud Practice",
