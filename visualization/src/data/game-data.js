@@ -1,7 +1,14 @@
-// Generated on 02/15/2026, 23:00:03 (EST)
-// Total records: 4016
+// Generated on 02/15/2026, 23:15:03 (EST)
+// Total records: 4017
 
 export const games = [
+  {
+    "id": "8c34b4e9-ede2-47a4-8415-1ed817050784",
+    "name": "We Surveyed 100 Therapists.... Ethics Feud",
+    "creatorId": "116634167409796329269",
+    "creatorLastName": "Mendes",
+    "createdAt": "02/15/2026, 23:13:45"
+  },
   {
     "id": "32b5f93a-acc9-434a-80ee-50c7b81a3e00",
     "name": "Schizophrenia/Bipolar Disorder",
