@@ -1,7 +1,14 @@
-// Generated on 02/16/2026, 15:30:03 (EST)
-// Total records: 4027
+// Generated on 02/16/2026, 15:45:02 (EST)
+// Total records: 4028
 
 export const games = [
+  {
+    "id": "75899fde-7564-4068-a226-afca5d4e36c9",
+    "name": "Bfndnsnsid",
+    "creatorId": "107586862461934417416",
+    "creatorLastName": "Maniglio",
+    "createdAt": "02/16/2026, 15:34:38"
+  },
   {
     "id": "6c5a47d7-8357-4d4b-8ca1-c8b542ef3600",
     "name": "Chill",
