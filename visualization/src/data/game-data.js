@@ -1,7 +1,14 @@
-// Generated on 02/15/2026, 20:00:03 (EST)
-// Total records: 4012
+// Generated on 02/15/2026, 20:15:02 (EST)
+// Total records: 4013
 
 export const games = [
+  {
+    "id": "3c180240-f5a9-4a06-9fa5-318ab84ad525",
+    "name": "P Trivia",
+    "creatorId": "113121435788487405281",
+    "creatorLastName": "W",
+    "createdAt": "02/15/2026, 20:13:53"
+  },
   {
     "id": "ff35ce9d-7a66-45ef-bc6c-8a22fb3f7586",
     "name": "jijiji",
