@@ -1,7 +1,14 @@
-// Generated on 02/16/2026, 15:00:02 (EST)
-// Total records: 4030
+// Generated on 02/16/2026, 15:15:03 (EST)
+// Total records: 4027
 
 export const games = [
+  {
+    "id": "6c5a47d7-8357-4d4b-8ca1-c8b542ef3600",
+    "name": "Chill",
+    "creatorId": "107586862461934417416",
+    "creatorLastName": "Maniglio",
+    "createdAt": "02/16/2026, 15:08:01"
+  },
   {
     "id": "e0c71aa0-7df1-4337-83fb-c9fd86156f02",
     "name": "100ddd",
@@ -11098,13 +11105,6 @@ export const games = [
     "createdAt": "12/27/2025, 13:48:54"
   },
   {
-    "id": "19c6cdba-d794-4b38-a6e2-416318bcdc3f",
-    "name": "Clan Rom Challenge",
-    "creatorId": "107586862461934417416",
-    "creatorLastName": "Maniglio",
-    "createdAt": "12/27/2025, 13:47:28"
-  },
-  {
     "id": "fa4a3785-d1be-4f49-914a-c035a9cf5937",
     "name": "2025 Holiday Party",
     "creatorId": "113010487985141491123",
@@ -12209,13 +12209,6 @@ export const games = [
     "creatorId": "101960196842752853733",
     "creatorLastName": "Vanderelst",
     "createdAt": "12/25/2025, 04:48:22"
-  },
-  {
-    "id": "d9b9dbfd-214c-469c-bd56-c87a877acae9",
-    "name": "Family Christmas Challenge 2025",
-    "creatorId": "107586862461934417416",
-    "creatorLastName": "Maniglio",
-    "createdAt": "12/25/2025, 04:10:33"
   },
   {
     "id": "dd5d3afa-92dc-4c28-9c8b-c6a81023af15",
@@ -20401,13 +20394,6 @@ export const games = [
     "createdAt": "12/07/2025, 16:37:59"
   },
   {
-    "id": "b417a086-7416-47e2-96e5-ce795ae49c26",
-    "name": "Chilling",
-    "creatorId": "107586862461934417416",
-    "creatorLastName": "Maniglio",
-    "createdAt": "12/07/2025, 16:32:45"
-  },
-  {
     "id": "1a036d2a-8e5c-4c1b-b69d-23178fcc082e",
     "name": "Round 8",
     "creatorId": "103656871792767028014",
@@ -20490,13 +20476,6 @@ export const games = [
     "creatorId": "104838994960898895606",
     "creatorLastName": "Miller",
     "createdAt": "12/07/2025, 14:33:12"
-  },
-  {
-    "id": "c08538da-1b19-40d6-a7fd-853157038866",
-    "name": "Serata chill",
-    "creatorId": "107586862461934417416",
-    "creatorLastName": "Maniglio",
-    "createdAt": "12/07/2025, 14:08:23"
   },
   {
     "id": "84fe0a77-8eee-4e87-9489-202fb174c11c",
