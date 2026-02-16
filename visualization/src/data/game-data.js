@@ -1,7 +1,14 @@
-// Generated on 02/16/2026, 13:30:03 (EST)
-// Total records: 4028
+// Generated on 02/16/2026, 13:45:02 (EST)
+// Total records: 4029
 
 export const games = [
+  {
+    "id": "defd5492-c349-44fb-98e2-b05baae15dd5",
+    "name": "Mardi Gras",
+    "creatorId": "108808122042371718643",
+    "creatorLastName": "Morgan",
+    "createdAt": "02/16/2026, 13:44:53"
+  },
   {
     "id": "80f9c1eb-7147-41b4-ae82-adc167928d07",
     "name": "McFellin Feud",
