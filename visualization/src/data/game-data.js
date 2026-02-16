@@ -1,7 +1,14 @@
-// Generated on 02/15/2026, 21:15:02 (EST)
-// Total records: 4013
+// Generated on 02/15/2026, 21:30:03 (EST)
+// Total records: 4014
 
 export const games = [
+  {
+    "id": "ebd1adcf-4ede-44c0-801c-9f785d549d2c",
+    "name": "E3 Conclave",
+    "creatorId": "110566954535388360960",
+    "creatorLastName": "Tackett",
+    "createdAt": "02/15/2026, 21:28:18"
+  },
   {
     "id": "3c180240-f5a9-4a06-9fa5-318ab84ad525",
     "name": "P Trivia",
