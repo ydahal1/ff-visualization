@@ -1,7 +1,14 @@
-// Generated on 02/15/2026, 23:45:03 (EST)
-// Total records: 4017
+// Generated on 02/16/2026, 24:00:02 (EST)
+// Total records: 4018
 
 export const games = [
+  {
+    "id": "3a7b38e0-133e-4ae3-9a6c-97429a2885fd",
+    "name": "Exibition",
+    "creatorId": "112947169072003090043",
+    "creatorLastName": "LAGZ",
+    "createdAt": "02/15/2026, 23:58:16"
+  },
   {
     "id": "8c34b4e9-ede2-47a4-8415-1ed817050784",
     "name": "We Surveyed 100 Therapists.... Ethics Feud",
