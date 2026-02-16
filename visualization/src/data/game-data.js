@@ -1,7 +1,14 @@
-// Generated on 02/15/2026, 22:00:03 (EST)
-// Total records: 4014
+// Generated on 02/15/2026, 22:15:02 (EST)
+// Total records: 4015
 
 export const games = [
+  {
+    "id": "912aa17f-9fb2-47f0-9623-719076963c14",
+    "name": "ELA Smackdown",
+    "creatorId": "113379196030899752342",
+    "creatorLastName": "Jones",
+    "createdAt": "02/15/2026, 22:07:11"
+  },
   {
     "id": "ebd1adcf-4ede-44c0-801c-9f785d549d2c",
     "name": "E3 Conclave",
