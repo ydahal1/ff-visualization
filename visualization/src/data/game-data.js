@@ -1,7 +1,14 @@
-// Generated on 02/15/2026, 19:45:02 (EST)
-// Total records: 4011
+// Generated on 02/15/2026, 20:00:03 (EST)
+// Total records: 4012
 
 export const games = [
+  {
+    "id": "ff35ce9d-7a66-45ef-bc6c-8a22fb3f7586",
+    "name": "jijiji",
+    "creatorId": "109202878029886415986",
+    "creatorLastName": "Gomez",
+    "createdAt": "02/15/2026, 19:50:59"
+  },
   {
     "id": "d32a8a5a-d7fc-44ab-8d5a-9ff947317858",
     "name": "Valentine's Banquet",
