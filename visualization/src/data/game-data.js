@@ -1,7 +1,14 @@
-// Generated on 02/15/2026, 22:45:03 (EST)
-// Total records: 4015
+// Generated on 02/15/2026, 23:00:03 (EST)
+// Total records: 4016
 
 export const games = [
+  {
+    "id": "32b5f93a-acc9-434a-80ee-50c7b81a3e00",
+    "name": "Schizophrenia/Bipolar Disorder",
+    "creatorId": "118308670108991499266",
+    "creatorLastName": "Carson",
+    "createdAt": "02/15/2026, 22:48:24"
+  },
   {
     "id": "912aa17f-9fb2-47f0-9623-719076963c14",
     "name": "ELA Smackdown",
