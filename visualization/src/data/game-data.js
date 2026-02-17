@@ -1,7 +1,14 @@
-// Generated on 02/17/2026, 08:30:03 (EST)
-// Total records: 4038
+// Generated on 02/17/2026, 08:45:03 (EST)
+// Total records: 4039
 
 export const games = [
+  {
+    "id": "4d119535-a5ca-4808-94d0-e6765851dba1",
+    "name": "MATH FUED",
+    "creatorId": "102086115474735390886",
+    "creatorLastName": "JADAP",
+    "createdAt": "02/17/2026, 08:44:42"
+  },
   {
     "id": "f01bafa4-a9ef-4d30-82dd-68855bfdb7ed",
     "name": "Late show",
