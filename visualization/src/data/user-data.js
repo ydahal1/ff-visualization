@@ -1,7 +1,12 @@
-// Generated on 02/17/2026, 11:15:01 (EST)
-// Total records: 2552
+// Generated on 02/17/2026, 11:30:00 (EST)
+// Total records: 2553
 
 export const users = [
+  {
+    "id": "103949056069998164261",
+    "lName": "Leos Ornelas",
+    "createdAt": "02/17/2026, 11:21:15"
+  },
   {
     "id": "110416092277019450768",
     "lName": "Matos Rivera",
