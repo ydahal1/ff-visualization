@@ -1,7 +1,14 @@
-// Generated on 02/17/2026, 14:15:03 (EST)
-// Total records: 4045
+// Generated on 02/17/2026, 14:30:02 (EST)
+// Total records: 4046
 
 export const games = [
+  {
+    "id": "47608a46-99cc-4be6-94f6-3ea704eeec55",
+    "name": "Interiors BB 2",
+    "creatorId": "104385000216654059489",
+    "creatorLastName": "Mills",
+    "createdAt": "02/17/2026, 14:17:49"
+  },
   {
     "id": "8a99426e-d8b3-4024-9978-13771511ec86",
     "name": "Interiors BB 1",
