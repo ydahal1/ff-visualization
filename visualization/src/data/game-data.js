@@ -1,7 +1,14 @@
-// Generated on 02/17/2026, 15:30:03 (EST)
-// Total records: 4047
+// Generated on 02/17/2026, 15:45:02 (EST)
+// Total records: 4048
 
 export const games = [
+  {
+    "id": "1908ec11-b6af-4ce7-a635-efb293c7a561",
+    "name": "MGT",
+    "creatorId": "105515940093056230990",
+    "creatorLastName": "Lewis",
+    "createdAt": "02/17/2026, 15:44:05"
+  },
   {
     "id": "95355b79-1e7e-4fcb-a8a0-6fa4a94671e5",
     "name": "Nora birthday - Food game",
