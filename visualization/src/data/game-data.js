@@ -1,7 +1,14 @@
-// Generated on 02/16/2026, 22:00:03 (EST)
-// Total records: 4034
+// Generated on 02/16/2026, 22:15:03 (EST)
+// Total records: 4035
 
 export const games = [
+  {
+    "id": "e7fd1eed-f1fd-4478-b570-277642d5483c",
+    "name": "CLASSMATE FEUD",
+    "creatorId": "103545934936203793992",
+    "creatorLastName": "Averilla",
+    "createdAt": "02/16/2026, 22:09:03"
+  },
   {
     "id": "ff277947-2dd9-4528-aae3-eebad1b94f79",
     "name": "Annette's 60th Birthday",
