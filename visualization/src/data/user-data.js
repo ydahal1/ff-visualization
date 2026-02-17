@@ -1,7 +1,12 @@
-// Generated on 02/17/2026, 08:30:00 (EST)
-// Total records: 2545
+// Generated on 02/17/2026, 08:45:01 (EST)
+// Total records: 2546
 
 export const users = [
+  {
+    "id": "102086115474735390886",
+    "lName": "JADAP",
+    "createdAt": "02/17/2026, 08:39:53"
+  },
   {
     "id": "113589793478803624279",
     "lName": "Almerge",
