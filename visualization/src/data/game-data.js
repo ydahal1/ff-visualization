@@ -1,5 +1,5 @@
-// Generated on 02/17/2026, 10:30:03 (EST)
-// Total records: 4041
+// Generated on 02/17/2026, 10:45:03 (EST)
+// Total records: 4040
 
 export const games = [
   {
@@ -218,13 +218,6 @@ export const games = [
     "creatorId": "104848228861359618520",
     "creatorLastName": "Mittal",
     "createdAt": "02/16/2026, 24:15:23"
-  },
-  {
-    "id": "3a7b38e0-133e-4ae3-9a6c-97429a2885fd",
-    "name": "Exibition",
-    "creatorId": "112947169072003090043",
-    "creatorLastName": "LAGZ",
-    "createdAt": "02/15/2026, 23:58:16"
   },
   {
     "id": "32b5f93a-acc9-434a-80ee-50c7b81a3e00",
