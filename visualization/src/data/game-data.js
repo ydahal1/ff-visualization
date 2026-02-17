@@ -1,13 +1,13 @@
-// Generated on 02/17/2026, 16:15:02 (EST)
+// Generated on 02/17/2026, 16:30:03 (EST)
 // Total records: 4050
 
 export const games = [
   {
-    "id": "61f58ab8-122b-4514-85d8-c84b43ca58df",
-    "name": "High School Showdown",
-    "creatorId": "104819246548788318567",
-    "creatorLastName": "Atkins",
-    "createdAt": "02/17/2026, 16:13:10"
+    "id": "34c2b4b8-3913-448e-89c0-d7e3eb7f2af3",
+    "name": "Kick Off Game 1",
+    "creatorId": "102294638485490549126",
+    "creatorLastName": "Jones",
+    "createdAt": "02/17/2026, 16:25:15"
   },
   {
     "id": "ac4498af-dc75-4f3f-b462-9928d3bf269e",
