@@ -1,20 +1,27 @@
-// Generated on 02/17/2026, 16:45:02 (EST)
-// Total records: 4053
+// Generated on 02/17/2026, 17:00:02 (EST)
+// Total records: 4054
 
 export const games = [
+  {
+    "id": "521929aa-504d-486d-8960-3d2abe837b05",
+    "name": "BHM night",
+    "creatorId": "105515354996887199683",
+    "creatorLastName": "Hadder",
+    "createdAt": "02/17/2026, 16:57:36"
+  },
+  {
+    "id": "12329465-229b-4588-a343-0b6caf22e138",
+    "name": "Blue Chip Office Fued",
+    "creatorId": "109246066775377403133",
+    "creatorLastName": "Fairbother",
+    "createdAt": "02/17/2026, 16:48:52"
+  },
   {
     "id": "c62540dc-76ad-45fe-92e3-e343e8a37e1c",
     "name": "REd vs Blue",
     "creatorId": "107505130955996154011",
     "creatorLastName": "Cerqueira",
     "createdAt": "02/17/2026, 16:43:20"
-  },
-  {
-    "id": "d05471ba-65cc-43dc-a190-cdf5e3d121d5",
-    "name": "Test",
-    "creatorId": "104737511936991898751",
-    "creatorLastName": "Lucas",
-    "createdAt": "02/17/2026, 16:40:37"
   },
   {
     "id": "e8ff7bfa-d2e4-4565-b5da-0135021dc667",
