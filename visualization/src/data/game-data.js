@@ -1,7 +1,21 @@
-// Generated on 02/17/2026, 11:15:03 (EST)
-// Total records: 4042
+// Generated on 02/17/2026, 11:30:03 (EST)
+// Total records: 4044
 
 export const games = [
+  {
+    "id": "3a537a8c-9218-495a-a1da-7f5cdac1a1b4",
+    "name": "Exhibition Match",
+    "creatorId": "112947169072003090043",
+    "creatorLastName": "LAGZ",
+    "createdAt": "02/17/2026, 11:28:43"
+  },
+  {
+    "id": "91544808-bebe-4abd-9db9-50d042a79a6b",
+    "name": "C & A",
+    "creatorId": "103949056069998164261",
+    "creatorLastName": "Leos Ornelas",
+    "createdAt": "02/17/2026, 11:21:55"
+  },
   {
     "id": "cac96a9b-3c17-44db-a2f9-018fb96dab8c",
     "name": "Anti-Bulling Game (True or False)",
