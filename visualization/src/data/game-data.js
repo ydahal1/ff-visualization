@@ -1,7 +1,14 @@
-// Generated on 02/17/2026, 09:00:03 (EST)
-// Total records: 4039
+// Generated on 02/17/2026, 09:15:02 (EST)
+// Total records: 4040
 
 export const games = [
+  {
+    "id": "7468aa0f-a171-4845-a272-acbe90d80908",
+    "name": "Gae 1",
+    "creatorId": "102113299822226298731",
+    "creatorLastName": "Guidos",
+    "createdAt": "02/17/2026, 09:11:28"
+  },
   {
     "id": "4d119535-a5ca-4808-94d0-e6765851dba1",
     "name": "MATH FUED",
