@@ -1,5 +1,5 @@
-// Generated on 02/16/2026, 22:45:03 (EST)
-// Total records: 4035
+// Generated on 02/16/2026, 23:00:03 (EST)
+// Total records: 4034
 
 export const games = [
   {
@@ -15,13 +15,6 @@ export const games = [
     "creatorId": "116232169047737913380",
     "creatorLastName": "Lloyd",
     "createdAt": "02/16/2026, 21:14:42"
-  },
-  {
-    "id": "4d46114b-1e18-4549-9c1a-6f3a6a6a1983",
-    "name": "Annette's 60th Birthday Fued",
-    "creatorId": "116232169047737913380",
-    "creatorLastName": "Lloyd",
-    "createdAt": "02/16/2026, 20:49:54"
   },
   {
     "id": "a7edbd05-06a3-4789-81a7-df973bb00fe8",
