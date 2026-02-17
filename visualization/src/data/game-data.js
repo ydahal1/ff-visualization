@@ -1,7 +1,14 @@
-// Generated on 02/16/2026, 18:45:03 (EST)
-// Total records: 4029
+// Generated on 02/16/2026, 19:00:03 (EST)
+// Total records: 4030
 
 export const games = [
+  {
+    "id": "1f6a5559-0e0c-4a47-b10c-5f9de8544c51",
+    "name": "First Game",
+    "creatorId": "111562919759502166567",
+    "creatorLastName": "Youth",
+    "createdAt": "02/16/2026, 18:52:36"
+  },
   {
     "id": "07dc8a65-2465-458c-b481-98515a74a7f5",
     "name": "FAMILY FUED",
