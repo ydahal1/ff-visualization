@@ -1,5 +1,5 @@
-// Generated on 02/17/2026, 12:00:03 (EST)
-// Total records: 4045
+// Generated on 02/17/2026, 12:15:03 (EST)
+// Total records: 4044
 
 export const games = [
   {
@@ -855,13 +855,6 @@ export const games = [
     "creatorId": "117025730047638763979",
     "creatorLastName": "Rodriguez",
     "createdAt": "02/13/2026, 01:42:11"
-  },
-  {
-    "id": "8569930b-8838-4cd5-ac36-cffbef4b6332",
-    "name": "FHE GAMES",
-    "creatorId": "103888030555931522627",
-    "creatorLastName": "Cahulao",
-    "createdAt": "02/12/2026, 23:29:49"
   },
   {
     "id": "05b79d25-b787-4663-afd2-2c5778fcc50e",
