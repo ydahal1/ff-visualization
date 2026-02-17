@@ -1,7 +1,14 @@
-// Generated on 02/16/2026, 23:00:03 (EST)
-// Total records: 4034
+// Generated on 02/16/2026, 23:15:02 (EST)
+// Total records: 4035
 
 export const games = [
+  {
+    "id": "a966815d-e694-40f0-8f3b-9910eda76b43",
+    "name": "test game",
+    "creatorId": "108075578351500811190",
+    "creatorLastName": "Needle",
+    "createdAt": "02/16/2026, 23:12:19"
+  },
   {
     "id": "e7fd1eed-f1fd-4478-b570-277642d5483c",
     "name": "CLASSMATE FEUD",
