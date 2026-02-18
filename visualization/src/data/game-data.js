@@ -1,7 +1,14 @@
-// Generated on 02/17/2026, 19:00:03 (EST)
-// Total records: 4057
+// Generated on 02/17/2026, 19:15:03 (EST)
+// Total records: 4058
 
 export const games = [
+  {
+    "id": "0d79d8eb-484f-4e19-b189-a3a147710897",
+    "name": "GAEM",
+    "creatorId": "102113299822226298731",
+    "creatorLastName": "Guidos",
+    "createdAt": "02/17/2026, 19:04:04"
+  },
   {
     "id": "615aa68d-27f0-4346-8ddc-b0f873db006b",
     "name": "Family Feud",
