@@ -1,7 +1,12 @@
-// Generated on 02/18/2026, 03:45:00 (EST)
-// Total records: 2583
+// Generated on 02/18/2026, 04:00:01 (EST)
+// Total records: 2584
 
 export const users = [
+  {
+    "id": "112281464651288160493",
+    "lName": "Chideu Dhliwayo",
+    "createdAt": "02/18/2026, 03:45:10"
+  },
   {
     "id": "102125283309284311945",
     "lName": "Wells",
