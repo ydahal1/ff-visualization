@@ -1,7 +1,14 @@
-// Generated on 02/18/2026, 24:15:03 (EST)
-// Total records: 4074
+// Generated on 02/18/2026, 24:30:02 (EST)
+// Total records: 4075
 
 export const games = [
+  {
+    "id": "7a1a46eb-4557-4cf8-b449-057f895e8ee5",
+    "name": "booty",
+    "creatorId": "112783412139311673001",
+    "creatorLastName": "beezy",
+    "createdAt": "02/18/2026, 24:29:38"
+  },
   {
     "id": "af11cea0-b6d9-4f23-878c-a1e0ba8925b4",
     "name": "urbanismo 2",
