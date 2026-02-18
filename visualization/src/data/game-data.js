@@ -1,7 +1,14 @@
-// Generated on 02/17/2026, 23:15:02 (EST)
-// Total records: 4071
+// Generated on 02/17/2026, 23:30:03 (EST)
+// Total records: 4072
 
 export const games = [
+  {
+    "id": "4cd21f85-5714-48ee-ac36-94772056e054",
+    "name": "Game 3 Clash of the Classes",
+    "creatorId": "108075578351500811190",
+    "creatorLastName": "Needle",
+    "createdAt": "02/17/2026, 23:20:08"
+  },
   {
     "id": "fa4f922d-0450-4940-bfe1-763862785427",
     "name": "Game 2 Clash of the Classes",
