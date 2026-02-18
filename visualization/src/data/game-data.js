@@ -1,7 +1,14 @@
-// Generated on 02/17/2026, 21:45:03 (EST)
+// Generated on 02/17/2026, 22:00:03 (EST)
 // Total records: 4069
 
 export const games = [
+  {
+    "id": "9916aa2b-57c7-4bd7-8ef6-4ff940a49a59",
+    "name": "#3 50/50 game",
+    "creatorId": "116634167409796329269",
+    "creatorLastName": "Mendes",
+    "createdAt": "02/17/2026, 21:51:55"
+  },
   {
     "id": "74093384-b274-47a9-8673-63e474a502d6",
     "name": "Game 1",
@@ -36,13 +43,6 @@ export const games = [
     "creatorId": "101580143501980697695",
     "creatorLastName": "Glavine",
     "createdAt": "02/17/2026, 21:11:08"
-  },
-  {
-    "id": "bbc942dd-66a2-440e-9ff3-2aa1204b4959",
-    "name": "We Surveyed 100 Therapists.... Ethics Feud #2",
-    "creatorId": "116634167409796329269",
-    "creatorLastName": "Mendes",
-    "createdAt": "02/17/2026, 21:00:06"
   },
   {
     "id": "9bb0c35c-6f12-4599-8b88-609a96337a62",
