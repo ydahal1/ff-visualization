@@ -1,7 +1,14 @@
-// Generated on 02/17/2026, 19:45:02 (EST)
+// Generated on 02/17/2026, 20:00:03 (EST)
 // Total records: 4061
 
 export const games = [
+  {
+    "id": "8e5a13c6-bbaf-4973-b468-99e30af4e163",
+    "name": "Fast Money",
+    "creatorId": "111104081887288728338",
+    "creatorLastName": "Shahid",
+    "createdAt": "02/17/2026, 19:51:40"
+  },
   {
     "id": "2a1e734f-e5cf-490a-a73f-a623e900735f",
     "name": "NSBE Family Feud",
@@ -29,13 +36,6 @@ export const games = [
     "creatorId": "102113299822226298731",
     "creatorLastName": "Guidos",
     "createdAt": "02/17/2026, 19:04:04"
-  },
-  {
-    "id": "615aa68d-27f0-4346-8ddc-b0f873db006b",
-    "name": "Family Feud",
-    "creatorId": "111104081887288728338",
-    "creatorLastName": "Shahid",
-    "createdAt": "02/17/2026, 18:14:38"
   },
   {
     "id": "0f94d130-4148-45ac-948f-4802ac9d8a17",
