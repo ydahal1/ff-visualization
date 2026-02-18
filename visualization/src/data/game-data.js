@@ -1,13 +1,13 @@
-// Generated on 02/18/2026, 18:30:02 (EST)
+// Generated on 02/18/2026, 18:45:03 (EST)
 // Total records: 4084
 
 export const games = [
   {
-    "id": "f0a7aa3c-ee71-452d-84a8-38ee32f7ab35",
-    "name": "Test #1",
+    "id": "00cebd55-5b5d-47e5-b29b-888413e25d0e",
+    "name": "Team 1 vs 2",
     "creatorId": "113137918156791507534",
     "creatorLastName": "Aquin",
-    "createdAt": "02/18/2026, 18:13:48"
+    "createdAt": "02/18/2026, 18:44:34"
   },
   {
     "id": "3585d351-44a1-4b17-84d2-43937763cf44",
