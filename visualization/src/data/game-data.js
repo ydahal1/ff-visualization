@@ -1,7 +1,21 @@
-// Generated on 02/17/2026, 21:15:04 (EST)
-// Total records: 4066
+// Generated on 02/17/2026, 21:30:02 (EST)
+// Total records: 4068
 
 export const games = [
+  {
+    "id": "63ad3c67-59e7-4d7b-9864-7327edff5e11",
+    "name": "Game 1",
+    "creatorId": "104737511936991898751",
+    "creatorLastName": "Lucas",
+    "createdAt": "02/17/2026, 21:26:18"
+  },
+  {
+    "id": "04c4448c-57eb-4c1c-82a2-4fb0274e9eac",
+    "name": "For Fun",
+    "creatorId": "101580143501980697695",
+    "creatorLastName": "Glavine",
+    "createdAt": "02/17/2026, 21:24:35"
+  },
   {
     "id": "c1e00af7-113d-436e-a5dd-4efeceac50a4",
     "name": "Nora birthday - Places game",
