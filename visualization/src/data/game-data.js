@@ -1,20 +1,27 @@
-// Generated on 02/17/2026, 22:45:03 (EST)
-// Total records: 4069
+// Generated on 02/17/2026, 23:00:03 (EST)
+// Total records: 4070
 
 export const games = [
   {
-    "id": "a309fb2c-e803-44a8-a5f1-582d38436a79",
+    "id": "e33bb8f3-2733-49c0-9a15-f5c481501df8",
+    "name": "Game 1 Clash of the Classes",
+    "creatorId": "108075578351500811190",
+    "creatorLastName": "Needle",
+    "createdAt": "02/17/2026, 22:53:50"
+  },
+  {
+    "id": "851fe454-f578-42f0-90c2-719d4e53b3b0",
     "name": "Heide2",
     "creatorId": "109120738782857158813",
     "creatorLastName": "Heide",
-    "createdAt": "02/17/2026, 22:39:24"
+    "createdAt": "02/17/2026, 22:52:05"
   },
   {
-    "id": "6d1065f1-0332-4ec0-bfc8-380d964fc3d7",
-    "name": "Heides",
-    "creatorId": "109120738782857158813",
-    "creatorLastName": "Heide",
-    "createdAt": "02/17/2026, 22:28:40"
+    "id": "552e6ac0-ee99-4504-9001-a0e4cc649abe",
+    "name": "Brohood",
+    "creatorId": "105443783610604520829",
+    "creatorLastName": "",
+    "createdAt": "02/17/2026, 22:47:39"
   },
   {
     "id": "9916aa2b-57c7-4bd7-8ef6-4ff940a49a59",
