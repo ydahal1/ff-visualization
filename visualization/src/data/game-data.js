@@ -1,7 +1,28 @@
-// Generated on 02/17/2026, 19:30:02 (EST)
-// Total records: 4058
+// Generated on 02/17/2026, 19:45:02 (EST)
+// Total records: 4061
 
 export const games = [
+  {
+    "id": "2a1e734f-e5cf-490a-a73f-a623e900735f",
+    "name": "NSBE Family Feud",
+    "creatorId": "111510890899011935333",
+    "creatorLastName": "drones",
+    "createdAt": "02/17/2026, 19:39:58"
+  },
+  {
+    "id": "dc9339ac-45b4-419e-a4fb-604879051bda",
+    "name": "Game 3",
+    "creatorId": "102294638485490549126",
+    "creatorLastName": "Jones",
+    "createdAt": "02/17/2026, 19:34:31"
+  },
+  {
+    "id": "570537f7-5d76-4749-8e99-fb6a6baba7ab",
+    "name": "Ramadan Edition",
+    "creatorId": "111104081887288728338",
+    "creatorLastName": "Shahid",
+    "createdAt": "02/17/2026, 19:34:00"
+  },
   {
     "id": "0d79d8eb-484f-4e19-b189-a3a147710897",
     "name": "GAEM",
