@@ -1,7 +1,14 @@
-// Generated on 02/18/2026, 04:00:03 (EST)
-// Total records: 4079
+// Generated on 02/18/2026, 04:15:03 (EST)
+// Total records: 4080
 
 export const games = [
+  {
+    "id": "c08cad63-e86f-4916-ab30-9cc1e0396c14",
+    "name": "Regulator Feud",
+    "creatorId": "102125283309284311945",
+    "creatorLastName": "Wells",
+    "createdAt": "02/18/2026, 04:13:50"
+  },
   {
     "id": "1b5c3b6a-c07e-44b1-84d5-af4f8c26f548",
     "name": "Family Feud Round 2",
