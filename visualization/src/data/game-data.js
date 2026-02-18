@@ -1,7 +1,28 @@
-// Generated on 02/18/2026, 18:00:03 (EST)
-// Total records: 4081
+// Generated on 02/18/2026, 18:15:03 (EST)
+// Total records: 4084
 
 export const games = [
+  {
+    "id": "f0a7aa3c-ee71-452d-84a8-38ee32f7ab35",
+    "name": "Test #1",
+    "creatorId": "113137918156791507534",
+    "creatorLastName": "Aquin",
+    "createdAt": "02/18/2026, 18:13:48"
+  },
+  {
+    "id": "3585d351-44a1-4b17-84d2-43937763cf44",
+    "name": "All about Nora",
+    "creatorId": "110962531484784840169",
+    "creatorLastName": "Villinski",
+    "createdAt": "02/18/2026, 18:03:32"
+  },
+  {
+    "id": "101ffe4d-409c-4a7c-8308-1647e9333cbb",
+    "name": "Cyber Family Feud test",
+    "creatorId": "113427497033760775328",
+    "creatorLastName": "M",
+    "createdAt": "02/18/2026, 18:01:57"
+  },
   {
     "id": "cdab995b-50cb-413d-ab27-d5b3dc279781",
     "name": "Nora birthday - Pop culture game",
