@@ -1,7 +1,21 @@
-// Generated on 02/18/2026, 19:30:03 (EST)
-// Total records: 4088
+// Generated on 02/18/2026, 19:45:02 (EST)
+// Total records: 4089
 
 export const games = [
+  {
+    "id": "db5cdfa6-26bc-4f3f-8cd3-2a16955347a6",
+    "name": "School 2",
+    "creatorId": "117359466290648674031",
+    "creatorLastName": "Adventure",
+    "createdAt": "02/18/2026, 19:40:18"
+  },
+  {
+    "id": "5ea8cc17-97a4-4375-ac35-f56987eb1c96",
+    "name": "FAMILY FEUD GAME 2",
+    "creatorId": "106497414254128749733",
+    "creatorLastName": "Gbna",
+    "createdAt": "02/18/2026, 19:37:30"
+  },
   {
     "id": "37888fae-3a44-4f15-84b0-436ddffeedef",
     "name": "Royal Family Feud, 2026 Winter Training, Pt. 1",
@@ -3333,13 +3347,6 @@ export const games = [
     "creatorId": "117678940778523379375",
     "creatorLastName": "Grassi",
     "createdAt": "02/04/2026, 15:34:58"
-  },
-  {
-    "id": "ba3a5f81-0301-418f-bd48-03fbaf60dd63",
-    "name": "kenny",
-    "creatorId": "117359466290648674031",
-    "creatorLastName": "Adventure",
-    "createdAt": "02/04/2026, 15:16:19"
   },
   {
     "id": "b03a3c4a-3a57-481b-b606-1be8f48e07fa",
