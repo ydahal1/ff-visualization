@@ -1,7 +1,14 @@
-// Generated on 02/19/2026, 12:30:03 (EST)
+// Generated on 02/19/2026, 12:45:03 (EST)
 // Total records: 4115
 
 export const games = [
+  {
+    "id": "33606991-8498-4667-aff1-dbf4e78083d7",
+    "name": "Royal Family Feud, 2026, Game 1",
+    "creatorId": "114990240479749230489",
+    "creatorLastName": "Heebner",
+    "createdAt": "02/19/2026, 12:37:35"
+  },
   {
     "id": "38803ee0-9ea1-4c5c-9be0-fc24d2552c7f",
     "name": "Eliminator Round",
@@ -225,13 +232,6 @@ export const games = [
     "creatorId": "106497414254128749733",
     "creatorLastName": "Gbna",
     "createdAt": "02/18/2026, 19:37:30"
-  },
-  {
-    "id": "37888fae-3a44-4f15-84b0-436ddffeedef",
-    "name": "Royal Family Feud, 2026 Winter Training, Pt. 1",
-    "creatorId": "114990240479749230489",
-    "creatorLastName": "Heebner",
-    "createdAt": "02/18/2026, 19:28:59"
   },
   {
     "id": "8cc6e481-253c-4406-ada9-dee71665839d",
