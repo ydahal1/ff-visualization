@@ -1,7 +1,14 @@
-// Generated on 02/18/2026, 22:30:03 (EST)
-// Total records: 4095
+// Generated on 02/18/2026, 22:45:03 (EST)
+// Total records: 4096
 
 export const games = [
+  {
+    "id": "e4f29faa-1cbc-4818-9b4d-7499c7887a01",
+    "name": "WELCOME TO SHOW",
+    "creatorId": "118061424545402460170",
+    "creatorLastName": "Huff",
+    "createdAt": "02/18/2026, 22:40:03"
+  },
   {
     "id": "eead65e2-f12b-412a-bcb4-80e52876ee17",
     "name": "League Trivia",
