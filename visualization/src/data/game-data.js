@@ -1,7 +1,14 @@
-// Generated on 02/18/2026, 22:45:03 (EST)
-// Total records: 4096
+// Generated on 02/18/2026, 23:00:02 (EST)
+// Total records: 4097
 
 export const games = [
+  {
+    "id": "c6b8c4d8-56c3-4b00-b5b9-a9c9e03a6442",
+    "name": "Second Game",
+    "creatorId": "111562919759502166567",
+    "creatorLastName": "Youth",
+    "createdAt": "02/18/2026, 22:46:59"
+  },
   {
     "id": "e4f29faa-1cbc-4818-9b4d-7499c7887a01",
     "name": "WELCOME TO SHOW",
