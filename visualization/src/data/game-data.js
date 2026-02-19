@@ -1,13 +1,13 @@
-// Generated on 02/18/2026, 19:15:03 (EST)
+// Generated on 02/18/2026, 19:30:03 (EST)
 // Total records: 4088
 
 export const games = [
   {
-    "id": "50e77cc4-c404-48b5-b9f1-9d95eab14398",
-    "name": "Taeao Manino Feud",
-    "creatorId": "101787780118848093651",
-    "creatorLastName": "Va'a",
-    "createdAt": "02/18/2026, 19:06:33"
+    "id": "37888fae-3a44-4f15-84b0-436ddffeedef",
+    "name": "Royal Family Feud, 2026 Winter Training, Pt. 1",
+    "creatorId": "114990240479749230489",
+    "creatorLastName": "Heebner",
+    "createdAt": "02/18/2026, 19:28:59"
   },
   {
     "id": "8cc6e481-253c-4406-ada9-dee71665839d",
