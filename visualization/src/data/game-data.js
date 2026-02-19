@@ -1,7 +1,21 @@
-// Generated on 02/18/2026, 21:30:03 (EST)
-// Total records: 4093
+// Generated on 02/18/2026, 21:45:03 (EST)
+// Total records: 4095
 
 export const games = [
+  {
+    "id": "eead65e2-f12b-412a-bcb4-80e52876ee17",
+    "name": "League Trivia",
+    "creatorId": "115764058054601303577",
+    "creatorLastName": "Fan",
+    "createdAt": "02/18/2026, 21:41:02"
+  },
+  {
+    "id": "36b82bf0-4528-4537-a30a-bc0f1e649381",
+    "name": "FBLA",
+    "creatorId": "114831625136205899009",
+    "creatorLastName": "Bernal",
+    "createdAt": "02/18/2026, 21:32:37"
+  },
   {
     "id": "698b6cca-0994-49fa-8e45-a920e7cb3f5a",
     "name": "Valentines- St Patricks",
