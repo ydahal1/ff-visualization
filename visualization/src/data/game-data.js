@@ -1,7 +1,14 @@
-// Generated on 02/19/2026, 03:45:03 (EST)
-// Total records: 4101
+// Generated on 02/19/2026, 04:00:02 (EST)
+// Total records: 4102
 
 export const games = [
+  {
+    "id": "78d89508-83e0-45c8-81e6-f730bee4c7c4",
+    "name": "Girls Night",
+    "creatorId": "101513320008220219509",
+    "creatorLastName": "S",
+    "createdAt": "02/19/2026, 03:58:53"
+  },
   {
     "id": "d6c512b1-901f-4ef8-9cc8-8f301b08744d",
     "name": "A",
