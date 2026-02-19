@@ -1,7 +1,21 @@
-// Generated on 02/18/2026, 20:15:02 (EST)
-// Total records: 4090
+// Generated on 02/18/2026, 20:30:03 (EST)
+// Total records: 4092
 
 export const games = [
+  {
+    "id": "04937877-0a04-4f1c-bd42-d84d17573cf6",
+    "name": "FAMILY FEUD GAME XTRA",
+    "creatorId": "116954150091751819471",
+    "creatorLastName": "Mahinay",
+    "createdAt": "02/18/2026, 20:19:59"
+  },
+  {
+    "id": "84cad7e4-72f8-40d1-b5d9-44041081f8e1",
+    "name": "Test",
+    "creatorId": "118245516324551696003",
+    "creatorLastName": "Capecci",
+    "createdAt": "02/18/2026, 20:15:56"
+  },
   {
     "id": "2f1d0419-95a1-46cc-b385-c1777b500678",
     "name": "FAMILY FEUD GAME 3",
