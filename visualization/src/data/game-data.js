@@ -1,7 +1,14 @@
-// Generated on 02/19/2026, 10:45:03 (EST)
+// Generated on 02/19/2026, 11:00:03 (EST)
 // Total records: 4108
 
 export const games = [
+  {
+    "id": "1320c65c-380e-4322-8851-50f80d77cfd7",
+    "name": "Team 1 v 2 - V2",
+    "creatorId": "113137918156791507534",
+    "creatorLastName": "Aquin",
+    "createdAt": "02/19/2026, 10:52:15"
+  },
   {
     "id": "4bb774fb-19d6-4c1b-9637-110ef14018bf",
     "name": "BHM night 2",
@@ -190,13 +197,6 @@ export const games = [
     "creatorId": "113137918156791507534",
     "creatorLastName": "Aquin",
     "createdAt": "02/18/2026, 18:45:40"
-  },
-  {
-    "id": "00cebd55-5b5d-47e5-b29b-888413e25d0e",
-    "name": "Team 1 vs 2",
-    "creatorId": "113137918156791507534",
-    "creatorLastName": "Aquin",
-    "createdAt": "02/18/2026, 18:44:34"
   },
   {
     "id": "3585d351-44a1-4b17-84d2-43937763cf44",
