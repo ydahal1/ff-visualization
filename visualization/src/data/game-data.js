@@ -1,7 +1,21 @@
-// Generated on 02/19/2026, 17:15:02 (EST)
-// Total records: 4126
+// Generated on 02/19/2026, 17:30:03 (EST)
+// Total records: 4128
 
 export const games = [
+  {
+    "id": "f59245b4-f797-402d-94a4-3ed39cda8714",
+    "name": "Charty Feud (1)",
+    "creatorId": "107985114038093764885",
+    "creatorLastName": "Hatanpaa",
+    "createdAt": "02/19/2026, 17:29:00"
+  },
+  {
+    "id": "940aead5-beb4-435b-af12-0fb167dc72d1",
+    "name": "Charty Feud (2)",
+    "creatorId": "107985114038093764885",
+    "creatorLastName": "Hatanpaa",
+    "createdAt": "02/19/2026, 17:17:35"
+  },
   {
     "id": "8e98d50f-5bac-490f-bb6b-7e29f358cf4f",
     "name": "Family Feud PSG Event Game 2",
