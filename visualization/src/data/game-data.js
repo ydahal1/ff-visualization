@@ -1,7 +1,14 @@
-// Generated on 02/19/2026, 07:45:03 (EST)
-// Total records: 4105
+// Generated on 02/19/2026, 08:00:02 (EST)
+// Total records: 4106
 
 export const games = [
+  {
+    "id": "37e7b829-2ba9-409a-a208-2396d154f92b",
+    "name": "Fun Friday",
+    "creatorId": "118383622873174761287",
+    "creatorLastName": "kaur",
+    "createdAt": "02/19/2026, 07:47:37"
+  },
   {
     "id": "fdcfa651-6914-4a11-9fb5-d26437b9d3cf",
     "name": "Motivation",
