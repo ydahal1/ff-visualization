@@ -1,7 +1,21 @@
-// Generated on 02/19/2026, 12:15:02 (EST)
-// Total records: 4114
+// Generated on 02/19/2026, 12:30:03 (EST)
+// Total records: 4115
 
 export const games = [
+  {
+    "id": "38803ee0-9ea1-4c5c-9be0-fc24d2552c7f",
+    "name": "Eliminator Round",
+    "creatorId": "104848228861359618520",
+    "creatorLastName": "Mittal",
+    "createdAt": "02/19/2026, 12:23:29"
+  },
+  {
+    "id": "ea908f51-f58e-4474-a6b4-2ee5dcce8f2f",
+    "name": "game 1",
+    "creatorId": "106273242222067940179",
+    "creatorLastName": "Penguin",
+    "createdAt": "02/19/2026, 12:15:52"
+  },
   {
     "id": "b6e382f6-e052-49b9-9ea5-f7c94b267911",
     "name": "Test",
@@ -127,13 +141,6 @@ export const games = [
     "creatorId": "107723793897578791004",
     "creatorLastName": "Paturkar",
     "createdAt": "02/19/2026, 03:04:07"
-  },
-  {
-    "id": "57648373-93be-4c6a-8197-7643eb3764d5",
-    "name": "A",
-    "creatorId": "104848228861359618520",
-    "creatorLastName": "Mittal",
-    "createdAt": "02/19/2026, 02:57:50"
   },
   {
     "id": "c9283167-fcf9-4b67-bb24-fb614a0a3559",
