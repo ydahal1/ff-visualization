@@ -1,7 +1,21 @@
-// Generated on 02/19/2026, 13:30:02 (EST)
-// Total records: 4116
+// Generated on 02/19/2026, 13:45:03 (EST)
+// Total records: 4118
 
 export const games = [
+  {
+    "id": "e144b95c-99d1-434d-bc48-7912cf03148d",
+    "name": "kc test",
+    "creatorId": "105566296747732275145",
+    "creatorLastName": "Cannon",
+    "createdAt": "02/19/2026, 13:39:36"
+  },
+  {
+    "id": "edcd657f-52bd-4991-95d5-463ccae95736",
+    "name": "Finale",
+    "creatorId": "104848228861359618520",
+    "creatorLastName": "Mittal",
+    "createdAt": "02/19/2026, 13:37:23"
+  },
   {
     "id": "5ee7c98c-4a6b-4aa4-b94d-c6a6b805cbc4",
     "name": "Royal Family Feud, 2026, Game 2",
