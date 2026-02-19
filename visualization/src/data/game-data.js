@@ -1,7 +1,14 @@
-// Generated on 02/19/2026, 17:30:03 (EST)
-// Total records: 4128
+// Generated on 02/19/2026, 17:45:03 (EST)
+// Total records: 4129
 
 export const games = [
+  {
+    "id": "81ecfc15-11b0-420d-b314-ae94e1cbdcf7",
+    "name": "Culinary Madness",
+    "creatorId": "114244753895126846675",
+    "creatorLastName": "Mann",
+    "createdAt": "02/19/2026, 17:41:58"
+  },
   {
     "id": "f59245b4-f797-402d-94a4-3ed39cda8714",
     "name": "Charty Feud (1)",
