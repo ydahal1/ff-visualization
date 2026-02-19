@@ -1,7 +1,14 @@
-// Generated on 02/19/2026, 13:45:03 (EST)
-// Total records: 4118
+// Generated on 02/19/2026, 14:00:03 (EST)
+// Total records: 4119
 
 export const games = [
+  {
+    "id": "d331226d-7666-4732-aa21-bb9ece288e00",
+    "name": "NCCU History Student Refresher",
+    "creatorId": "107241467321536155906",
+    "creatorLastName": "Young",
+    "createdAt": "02/19/2026, 13:59:32"
+  },
   {
     "id": "e144b95c-99d1-434d-bc48-7912cf03148d",
     "name": "kc test",
