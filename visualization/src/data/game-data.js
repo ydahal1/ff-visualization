@@ -1,7 +1,21 @@
-// Generated on 02/18/2026, 19:00:03 (EST)
-// Total records: 4086
+// Generated on 02/18/2026, 19:15:03 (EST)
+// Total records: 4088
 
 export const games = [
+  {
+    "id": "50e77cc4-c404-48b5-b9f1-9d95eab14398",
+    "name": "Taeao Manino Feud",
+    "creatorId": "101787780118848093651",
+    "creatorLastName": "Va'a",
+    "createdAt": "02/18/2026, 19:06:33"
+  },
+  {
+    "id": "8cc6e481-253c-4406-ada9-dee71665839d",
+    "name": "School 1",
+    "creatorId": "117359466290648674031",
+    "creatorLastName": "Adventure",
+    "createdAt": "02/18/2026, 19:03:29"
+  },
   {
     "id": "ee92789e-64c2-4587-b096-d67132abf211",
     "name": "Winners Round",
