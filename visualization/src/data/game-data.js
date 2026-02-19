@@ -1,5 +1,5 @@
-// Generated on 02/19/2026, 17:00:03 (EST)
-// Total records: 4127
+// Generated on 02/19/2026, 17:15:02 (EST)
+// Total records: 4126
 
 export const games = [
   {
@@ -183,13 +183,6 @@ export const games = [
     "creatorId": "106743752255916077318",
     "creatorLastName": "Mai",
     "createdAt": "02/19/2026, 10:18:50"
-  },
-  {
-    "id": "c36d4139-06e7-4652-b983-8a12d49adb36",
-    "name": "Charty Feud",
-    "creatorId": "107985114038093764885",
-    "creatorLastName": "Hatanpaa",
-    "createdAt": "02/19/2026, 09:47:28"
   },
   {
     "id": "37e7b829-2ba9-409a-a208-2396d154f92b",
