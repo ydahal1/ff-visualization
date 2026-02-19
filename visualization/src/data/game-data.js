@@ -1,7 +1,14 @@
-// Generated on 02/18/2026, 23:15:03 (EST)
-// Total records: 4097
+// Generated on 02/18/2026, 23:30:03 (EST)
+// Total records: 4098
 
 export const games = [
+  {
+    "id": "a0c740d4-67a0-4cd6-9bc9-d660105b1bc0",
+    "name": "Integrity Game Project",
+    "creatorId": "102618380486463185462",
+    "creatorLastName": "Guiang",
+    "createdAt": "02/18/2026, 23:22:53"
+  },
   {
     "id": "c6b8c4d8-56c3-4b00-b5b9-a9c9e03a6442",
     "name": "Second Game",
