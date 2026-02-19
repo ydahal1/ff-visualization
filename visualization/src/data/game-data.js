@@ -1,7 +1,14 @@
-// Generated on 02/19/2026, 09:45:04 (EST)
-// Total records: 4105
+// Generated on 02/19/2026, 10:00:02 (EST)
+// Total records: 4106
 
 export const games = [
+  {
+    "id": "c36d4139-06e7-4652-b983-8a12d49adb36",
+    "name": "Charty Feud",
+    "creatorId": "107985114038093764885",
+    "creatorLastName": "Hatanpaa",
+    "createdAt": "02/19/2026, 09:47:28"
+  },
   {
     "id": "37e7b829-2ba9-409a-a208-2396d154f92b",
     "name": "Fun Friday",
