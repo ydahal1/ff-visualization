@@ -1,7 +1,14 @@
-// Generated on 02/19/2026, 14:30:03 (EST)
-// Total records: 4120
+// Generated on 02/19/2026, 14:45:03 (EST)
+// Total records: 4121
 
 export const games = [
+  {
+    "id": "9f0e5cbf-7f07-44a1-8af9-71e5b695872d",
+    "name": "The Great Collections Showdown",
+    "creatorId": "107869229248471056186",
+    "creatorLastName": "Apale",
+    "createdAt": "02/19/2026, 14:34:15"
+  },
   {
     "id": "398b6bd6-efa5-48a7-9e0c-26613044b3cf",
     "name": "Portfolio Playoff",
