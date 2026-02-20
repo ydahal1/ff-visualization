@@ -1,7 +1,21 @@
-// Generated on 02/20/2026, 18:15:03 (EST)
-// Total records: 4189
+// Generated on 02/20/2026, 18:30:03 (EST)
+// Total records: 4191
 
 export const games = [
+  {
+    "id": "54231904-28b1-4f15-a022-7ea9d2e5d150",
+    "name": "Game 2",
+    "creatorId": "117334252484875223979",
+    "creatorLastName": "Patel",
+    "createdAt": "02/20/2026, 18:25:32"
+  },
+  {
+    "id": "a075e66f-f555-43f5-ba1f-7c572a5ae095",
+    "name": "Game 1",
+    "creatorId": "117334252484875223979",
+    "creatorLastName": "Patel",
+    "createdAt": "02/20/2026, 18:24:58"
+  },
   {
     "id": "9f09b551-340a-4c56-888d-0c1d4fe50e9d",
     "name": "Are You Smarter Than \"CSU LEADERSHIP?\"(BHM)",
