@@ -1,7 +1,14 @@
-// Generated on 02/19/2026, 23:30:02 (EST)
-// Total records: 4157
+// Generated on 02/19/2026, 23:45:02 (EST)
+// Total records: 4158
 
 export const games = [
+  {
+    "id": "ffd2e2bf-cde5-4d3f-85f1-f84ad3847a3f",
+    "name": "GROUP FEUD 2",
+    "creatorId": "116092129881715248011",
+    "creatorLastName": "jaco14",
+    "createdAt": "02/19/2026, 23:32:48"
+  },
   {
     "id": "4e4a328d-a360-4949-a629-463894508305",
     "name": "round 2",
