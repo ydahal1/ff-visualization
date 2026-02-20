@@ -1,7 +1,21 @@
-// Generated on 02/20/2026, 14:00:03 (EST)
-// Total records: 4182
+// Generated on 02/20/2026, 14:15:03 (EST)
+// Total records: 4184
 
 export const games = [
+  {
+    "id": "9896f851-7b58-4ffe-bc8b-e9bb9b0cd074",
+    "name": "Game 2",
+    "creatorId": "100731699507356412930",
+    "creatorLastName": "HERNANDEZ",
+    "createdAt": "02/20/2026, 14:14:24"
+  },
+  {
+    "id": "c86f11b8-9db3-466a-8ad3-15946f1ef688",
+    "name": "Game 1",
+    "creatorId": "100731699507356412930",
+    "creatorLastName": "HERNANDEZ",
+    "createdAt": "02/20/2026, 14:11:04"
+  },
   {
     "id": "ee2daaa0-11c6-43ea-9469-ad8af6be3d6e",
     "name": "Food #1",
