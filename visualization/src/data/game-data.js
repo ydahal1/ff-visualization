@@ -1,7 +1,14 @@
-// Generated on 02/20/2026, 06:45:03 (EST)
-// Total records: 4164
+// Generated on 02/20/2026, 07:00:03 (EST)
+// Total records: 4165
 
 export const games = [
+  {
+    "id": "0be0c852-c83f-4ace-8784-951725ab3bda",
+    "name": "Enrichment 2",
+    "creatorId": "111986900814938978300",
+    "creatorLastName": "Vincer",
+    "createdAt": "02/20/2026, 06:55:10"
+  },
   {
     "id": "c2eaaa53-5716-4daa-b819-e84d05c224e7",
     "name": "Enrichment",
