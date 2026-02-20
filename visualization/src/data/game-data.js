@@ -1,7 +1,21 @@
-// Generated on 02/20/2026, 24:00:03 (EST)
-// Total records: 4159
+// Generated on 02/20/2026, 24:15:03 (EST)
+// Total records: 4160
 
 export const games = [
+  {
+    "id": "c47d2f1d-c1c7-4efb-833e-9acf6ede8fd1",
+    "name": "Part 2",
+    "creatorId": "116025383020701075093",
+    "creatorLastName": "External Relations",
+    "createdAt": "02/20/2026, 24:08:19"
+  },
+  {
+    "id": "331f780e-9fab-42d3-816d-1b9e4d17db27",
+    "name": "Part 1",
+    "creatorId": "116025383020701075093",
+    "creatorLastName": "External Relations",
+    "createdAt": "02/20/2026, 24:05:53"
+  },
   {
     "id": "0c28b3e0-17e9-4000-8b8a-f0957fa9946c",
     "name": "Family feud juegos !!!jw",
@@ -43,13 +57,6 @@ export const games = [
     "creatorId": "114287844546889370928",
     "creatorLastName": "Spiratos",
     "createdAt": "02/19/2026, 22:58:43"
-  },
-  {
-    "id": "e78afa8d-ecbf-481f-a5c5-d6de1c36ecab",
-    "name": "kljkljlksdf",
-    "creatorId": "116025383020701075093",
-    "creatorLastName": "External Relations",
-    "createdAt": "02/19/2026, 22:47:10"
   },
   {
     "id": "3f73b28b-7ed9-4f03-a4c1-ad5ddcfc4934",
