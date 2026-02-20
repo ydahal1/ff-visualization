@@ -1,7 +1,21 @@
-// Generated on 02/19/2026, 19:45:03 (EST)
-// Total records: 4140
+// Generated on 02/19/2026, 20:00:02 (EST)
+// Total records: 4142
 
 export const games = [
+  {
+    "id": "76094b39-f0a7-452d-89d5-1fd9f95c25fa",
+    "name": "Game 3",
+    "creatorId": "117359466290648674031",
+    "creatorLastName": "Adventure",
+    "createdAt": "02/19/2026, 19:58:02"
+  },
+  {
+    "id": "60e5dadb-5d9b-4d7b-a63d-c8aba4341fdc",
+    "name": "Didatics",
+    "creatorId": "117195059749210858278",
+    "creatorLastName": "Alonso",
+    "createdAt": "02/19/2026, 19:52:01"
+  },
   {
     "id": "49b2dd04-6272-4483-974c-c51b3e5c808a",
     "name": "Feud 2",
