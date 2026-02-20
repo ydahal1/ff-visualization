@@ -1,7 +1,14 @@
-// Generated on 02/19/2026, 19:00:03 (EST)
-// Total records: 4131
+// Generated on 02/19/2026, 19:15:03 (EST)
+// Total records: 4132
 
 export const games = [
+  {
+    "id": "568cdc65-c08c-4404-81ad-b1a25f66878d",
+    "name": "Fam Feud Game #1",
+    "creatorId": "106188285524673506323",
+    "creatorLastName": "Nyabaro",
+    "createdAt": "02/19/2026, 19:01:45"
+  },
   {
     "id": "4e50e3d3-59dd-4907-a7fc-92a79f6928aa",
     "name": "Flagler Feud",
