@@ -1,7 +1,14 @@
-// Generated on 02/20/2026, 17:00:03 (EST)
-// Total records: 4188
+// Generated on 02/20/2026, 17:15:03 (EST)
+// Total records: 4189
 
 export const games = [
+  {
+    "id": "9f09b551-340a-4c56-888d-0c1d4fe50e9d",
+    "name": "Are You Smarter Than \"CSU LEADERSHIP?\"(BHM)",
+    "creatorId": "100928484781637051304",
+    "creatorLastName": "Miller",
+    "createdAt": "02/20/2026, 17:05:53"
+  },
   {
     "id": "55be15af-7ceb-4144-89fb-c09c4909a84b",
     "name": "Let's Play Da' Feud!",
