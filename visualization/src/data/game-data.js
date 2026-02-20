@@ -1,7 +1,21 @@
-// Generated on 02/20/2026, 14:15:03 (EST)
-// Total records: 4184
+// Generated on 02/20/2026, 14:30:03 (EST)
+// Total records: 4186
 
 export const games = [
+  {
+    "id": "44565a6d-6fb6-4312-935c-6626e17c8cd0",
+    "name": "Game #2 IPPE",
+    "creatorId": "109526719774475420443",
+    "creatorLastName": "pr",
+    "createdAt": "02/20/2026, 14:16:26"
+  },
+  {
+    "id": "80534cd9-0055-434f-b225-78727647d2a6",
+    "name": "Game #1 IPPE",
+    "creatorId": "109526719774475420443",
+    "creatorLastName": "pr",
+    "createdAt": "02/20/2026, 14:15:51"
+  },
   {
     "id": "9896f851-7b58-4ffe-bc8b-e9bb9b0cd074",
     "name": "Game 2",
