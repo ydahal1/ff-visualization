@@ -1,7 +1,14 @@
-// Generated on 02/20/2026, 12:15:03 (EST)
-// Total records: 4179
+// Generated on 02/20/2026, 12:30:03 (EST)
+// Total records: 4180
 
 export const games = [
+  {
+    "id": "aa1c71d1-bd52-4dbd-bcba-b06d7b7a2e37",
+    "name": "Round 2",
+    "creatorId": "107033868999390348590",
+    "creatorLastName": "Lovitz",
+    "createdAt": "02/20/2026, 12:29:38"
+  },
   {
     "id": "54643fcd-10d4-42fd-baba-a77fc6ff5539",
     "name": "Extra Questions",
