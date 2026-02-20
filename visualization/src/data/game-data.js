@@ -1,7 +1,21 @@
-// Generated on 02/20/2026, 10:15:03 (EST)
-// Total records: 4176
+// Generated on 02/20/2026, 10:30:03 (EST)
+// Total records: 4178
 
 export const games = [
+  {
+    "id": "5ebb4f51-180c-484b-a4f1-a0a120f33421",
+    "name": "Group Dynamics",
+    "creatorId": "102305395528382842397",
+    "creatorLastName": "Drew",
+    "createdAt": "02/20/2026, 10:28:30"
+  },
+  {
+    "id": "9ecf405f-2272-4439-aa8c-c060fc0dd4ea",
+    "name": "final round",
+    "creatorId": "115061352874293222642",
+    "creatorLastName": "Wheeler",
+    "createdAt": "02/20/2026, 10:17:47"
+  },
   {
     "id": "2339534f-4e1b-4090-b108-193b9eeb629d",
     "name": "Round 4",
