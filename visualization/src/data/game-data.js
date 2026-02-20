@@ -1,14 +1,7 @@
-// Generated on 02/20/2026, 01:15:03 (EST)
-// Total records: 4159
+// Generated on 02/20/2026, 01:30:03 (EST)
+// Total records: 4158
 
 export const games = [
-  {
-    "id": "48afa95d-d0e6-45ad-aca3-ada2ff276126",
-    "name": "whambeezy host",
-    "creatorId": "112783412139311673001",
-    "creatorLastName": "beezy",
-    "createdAt": "02/20/2026, 01:09:01"
-  },
   {
     "id": "82a68be2-38b4-4087-bfe9-0f38e95ee2dd",
     "name": "Family Feud Round 1",
