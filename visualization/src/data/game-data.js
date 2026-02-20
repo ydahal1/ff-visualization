@@ -1,7 +1,28 @@
-// Generated on 02/19/2026, 19:30:02 (EST)
-// Total records: 4137
+// Generated on 02/19/2026, 19:45:03 (EST)
+// Total records: 4140
 
 export const games = [
+  {
+    "id": "49b2dd04-6272-4483-974c-c51b3e5c808a",
+    "name": "Feud 2",
+    "creatorId": "106188285524673506323",
+    "creatorLastName": "Nyabaro",
+    "createdAt": "02/19/2026, 19:36:30"
+  },
+  {
+    "id": "948b4d8d-a404-45b6-ab50-172215c9868f",
+    "name": "Game 2",
+    "creatorId": "117359466290648674031",
+    "creatorLastName": "Adventure",
+    "createdAt": "02/19/2026, 19:33:44"
+  },
+  {
+    "id": "61d58ae9-7421-44a6-a954-f383efcb936c",
+    "name": "100 gringos said",
+    "creatorId": "115717795623365959525",
+    "creatorLastName": "Roman",
+    "createdAt": "02/19/2026, 19:30:19"
+  },
   {
     "id": "f715fdd2-ba3a-4226-a723-a08fe9b744bd",
     "name": "BSU Feud Round 1",
