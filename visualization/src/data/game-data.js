@@ -1,7 +1,14 @@
-// Generated on 02/20/2026, 11:00:03 (EST)
+// Generated on 02/20/2026, 11:15:03 (EST)
 // Total records: 4177
 
 export const games = [
+  {
+    "id": "964fc58b-687f-4742-9c8e-6f54dcf39f16",
+    "name": "Round 1",
+    "creatorId": "114831625136205899009",
+    "creatorLastName": "Bernal",
+    "createdAt": "02/20/2026, 11:00:15"
+  },
   {
     "id": "5ebb4f51-180c-484b-a4f1-a0a120f33421",
     "name": "Group Dynamics",
@@ -50,13 +57,6 @@ export const games = [
     "creatorId": "115061352874293222642",
     "creatorLastName": "Wheeler",
     "createdAt": "02/20/2026, 09:55:54"
-  },
-  {
-    "id": "52c11477-3910-4de3-83e8-c8cc624d3b98",
-    "name": "Family Feud Round 2",
-    "creatorId": "114831625136205899009",
-    "creatorLastName": "Bernal",
-    "createdAt": "02/20/2026, 09:47:13"
   },
   {
     "id": "494b5a76-fbe8-4d69-a132-fd4d59d0d514",
