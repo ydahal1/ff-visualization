@@ -1,7 +1,42 @@
-// Generated on 02/19/2026, 19:15:03 (EST)
-// Total records: 4132
+// Generated on 02/19/2026, 19:30:02 (EST)
+// Total records: 4137
 
 export const games = [
+  {
+    "id": "f715fdd2-ba3a-4226-a723-a08fe9b744bd",
+    "name": "BSU Feud Round 1",
+    "creatorId": "111021738815352168900",
+    "creatorLastName": "Harden",
+    "createdAt": "02/19/2026, 19:28:42"
+  },
+  {
+    "id": "1022a9f8-acf2-4acf-a7a1-55312a210bb4",
+    "name": "GAME 2",
+    "creatorId": "107064474243626928441",
+    "creatorLastName": "ALEMAN",
+    "createdAt": "02/19/2026, 19:27:45"
+  },
+  {
+    "id": "3cfc7cf5-297a-4418-a97e-7f1b5afc8bb2",
+    "name": "game 1",
+    "creatorId": "107064474243626928441",
+    "creatorLastName": "ALEMAN",
+    "createdAt": "02/19/2026, 19:26:20"
+  },
+  {
+    "id": "f44b3923-45cc-4568-98ed-68add4861492",
+    "name": "Game 1",
+    "creatorId": "117359466290648674031",
+    "creatorLastName": "Adventure",
+    "createdAt": "02/19/2026, 19:22:57"
+  },
+  {
+    "id": "0f8046ec-e1d8-42c8-a67a-af58ef87fd8a",
+    "name": "School 3",
+    "creatorId": "117359466290648674031",
+    "creatorLastName": "Adventure",
+    "createdAt": "02/19/2026, 19:19:06"
+  },
   {
     "id": "568cdc65-c08c-4404-81ad-b1a25f66878d",
     "name": "Fam Feud Game #1",
