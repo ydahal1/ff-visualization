@@ -1,7 +1,14 @@
-// Generated on 02/20/2026, 21:45:02 (EST)
+// Generated on 02/20/2026, 22:00:03 (EST)
 // Total records: 4202
 
 export const games = [
+  {
+    "id": "c08cf478-69b5-4391-b7ed-129871b5ae74",
+    "name": "SWEETHEART SHOWDOWN",
+    "creatorId": "101164471586049871034",
+    "creatorLastName": "troxclair",
+    "createdAt": "02/20/2026, 21:47:17"
+  },
   {
     "id": "a779586e-8619-4163-9a11-bb13bfc47e17",
     "name": "FUN TIME",
@@ -449,13 +456,6 @@ export const games = [
     "creatorId": "117088904869871458513",
     "creatorLastName": "Glover",
     "createdAt": "02/19/2026, 22:11:19"
-  },
-  {
-    "id": "e9ee7094-cdd1-4220-9e21-6269aa4cb8e2",
-    "name": "hey yo pwincess",
-    "creatorId": "101164471586049871034",
-    "creatorLastName": "troxclair",
-    "createdAt": "02/19/2026, 22:10:33"
   },
   {
     "id": "03539c13-4538-40c8-915a-d6618a0df4b6",
