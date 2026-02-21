@@ -1,7 +1,14 @@
-// Generated on 02/21/2026, 16:00:03 (EST)
-// Total records: 4218
+// Generated on 02/21/2026, 16:15:02 (EST)
+// Total records: 4219
 
 export const games = [
+  {
+    "id": "b7d541fa-0abe-4d89-b477-21d626f0be98",
+    "name": "Karkoulas",
+    "creatorId": "106822566844906510269",
+    "creatorLastName": "",
+    "createdAt": "02/21/2026, 16:02:59"
+  },
   {
     "id": "1f590ddf-7c33-48c1-bd8e-6e93d7849197",
     "name": "Test",
