@@ -1,13 +1,13 @@
-// Generated on 02/21/2026, 11:15:02 (EST)
+// Generated on 02/21/2026, 11:30:03 (EST)
 // Total records: 4211
 
 export const games = [
   {
-    "id": "6c60b9c9-f051-404e-b113-f8e41ee64daf",
+    "id": "7fa32f32-d10d-4327-8ccb-fba3a6fb282e",
     "name": "Test",
     "creatorId": "104715175762620224320",
     "creatorLastName": "Gozdek",
-    "createdAt": "02/21/2026, 11:10:48"
+    "createdAt": "02/21/2026, 11:26:01"
   },
   {
     "id": "7e7014ca-69df-4a86-a022-4bec0556657e",
