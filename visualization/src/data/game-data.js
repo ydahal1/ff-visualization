@@ -1,5 +1,5 @@
-// Generated on 02/21/2026, 04:45:03 (EST)
-// Total records: 4207
+// Generated on 02/21/2026, 05:00:03 (EST)
+// Total records: 4206
 
 export const games = [
   {
@@ -162,13 +162,6 @@ export const games = [
     "creatorId": "100928484781637051304",
     "creatorLastName": "Miller",
     "createdAt": "02/20/2026, 17:05:53"
-  },
-  {
-    "id": "55be15af-7ceb-4144-89fb-c09c4909a84b",
-    "name": "Let's Play Da' Feud!",
-    "creatorId": "118064721653284678875",
-    "creatorLastName": "America",
-    "createdAt": "02/20/2026, 16:17:13"
   },
   {
     "id": "7f3bf917-ab6d-4c95-9a5b-f4d2e5a5ba15",
