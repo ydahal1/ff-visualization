@@ -1,7 +1,21 @@
-// Generated on 02/21/2026, 15:45:03 (EST)
-// Total records: 4216
+// Generated on 02/21/2026, 16:00:03 (EST)
+// Total records: 4218
 
 export const games = [
+  {
+    "id": "1f590ddf-7c33-48c1-bd8e-6e93d7849197",
+    "name": "Test",
+    "creatorId": "114523607991999080707",
+    "creatorLastName": "Nguyen",
+    "createdAt": "02/21/2026, 15:52:44"
+  },
+  {
+    "id": "db4939c5-c3f9-491a-9563-355e903373a1",
+    "name": "GAN AWARDS",
+    "creatorId": "109299197433557412740",
+    "creatorLastName": "",
+    "createdAt": "02/21/2026, 15:51:50"
+  },
   {
     "id": "c9dde08a-75ea-429b-9bb8-e318a7c15a60",
     "name": "MSA Family Feud - Game 2",
