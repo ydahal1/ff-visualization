@@ -1,7 +1,14 @@
-// Generated on 02/21/2026, 12:30:03 (EST)
-// Total records: 4211
+// Generated on 02/21/2026, 12:45:03 (EST)
+// Total records: 4212
 
 export const games = [
+  {
+    "id": "a235c9e7-a3f6-4af7-8060-6d83f8d5270a",
+    "name": "Juegos bíblicos",
+    "creatorId": "115660523306568684877",
+    "creatorLastName": "Luna",
+    "createdAt": "02/21/2026, 12:38:57"
+  },
   {
     "id": "7fa32f32-d10d-4327-8ccb-fba3a6fb282e",
     "name": "Test",
