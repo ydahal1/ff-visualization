@@ -1,7 +1,14 @@
-// Generated on 02/21/2026, 18:30:04 (EST)
+// Generated on 02/21/2026, 18:45:03 (EST)
 // Total records: 4227
 
 export const games = [
+  {
+    "id": "fad359fb-a619-4ac1-a91a-49c106c84ab9",
+    "name": "GAN Awards",
+    "creatorId": "109299197433557412740",
+    "creatorLastName": "",
+    "createdAt": "02/21/2026, 18:44:46"
+  },
   {
     "id": "4d8632ec-2d7e-4863-a98c-a1193d382ff0",
     "name": "Game 7",
@@ -71,13 +78,6 @@ export const games = [
     "creatorId": "114523607991999080707",
     "creatorLastName": "Nguyen",
     "createdAt": "02/21/2026, 15:52:44"
-  },
-  {
-    "id": "db4939c5-c3f9-491a-9563-355e903373a1",
-    "name": "GAN AWARDS",
-    "creatorId": "109299197433557412740",
-    "creatorLastName": "",
-    "createdAt": "02/21/2026, 15:51:50"
   },
   {
     "id": "c9dde08a-75ea-429b-9bb8-e318a7c15a60",
