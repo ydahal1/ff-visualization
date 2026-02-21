@@ -1,7 +1,28 @@
-// Generated on 02/20/2026, 19:15:02 (EST)
-// Total records: 4198
+// Generated on 02/20/2026, 19:30:03 (EST)
+// Total records: 4197
 
 export const games = [
+  {
+    "id": "bf2c6837-273d-49bf-a114-7d45cf21c3f3",
+    "name": "Game 2",
+    "creatorId": "117334252484875223979",
+    "creatorLastName": "Patel",
+    "createdAt": "02/20/2026, 19:29:34"
+  },
+  {
+    "id": "7a1fd0d8-bbc3-4829-83d1-98fed8703598",
+    "name": "Game 1",
+    "creatorId": "117334252484875223979",
+    "creatorLastName": "Patel",
+    "createdAt": "02/20/2026, 19:28:12"
+  },
+  {
+    "id": "ae17c429-7127-4aa3-b0dd-964bb45ae301",
+    "name": "Famoly Feud",
+    "creatorId": "111104081887288728338",
+    "creatorLastName": "Shahid",
+    "createdAt": "02/20/2026, 19:24:48"
+  },
   {
     "id": "e170afe2-b0ac-44dc-88d6-4536e71ceeb5",
     "name": "round 3",
@@ -38,25 +59,11 @@ export const games = [
     "createdAt": "02/20/2026, 18:39:02"
   },
   {
-    "id": "7be67256-19ea-48bc-9fdb-3e3da1bfe5ad",
-    "name": "Game 2",
-    "creatorId": "117334252484875223979",
-    "creatorLastName": "Patel",
-    "createdAt": "02/20/2026, 18:36:35"
-  },
-  {
     "id": "6bbae1bf-ce91-417c-bee9-e8ea8a968fdf",
     "name": "Bitchfish 2",
     "creatorId": "107130489660324751681",
     "creatorLastName": "Sica",
     "createdAt": "02/20/2026, 18:33:29"
-  },
-  {
-    "id": "4ca34546-5027-4034-b7b5-9b310acee349",
-    "name": "Game 1",
-    "creatorId": "117334252484875223979",
-    "creatorLastName": "Patel",
-    "createdAt": "02/20/2026, 18:33:02"
   },
   {
     "id": "b938420d-9bd9-4a0b-b9da-cb12d9df43af",
@@ -1032,13 +1039,6 @@ export const games = [
     "createdAt": "02/17/2026, 20:24:52"
   },
   {
-    "id": "8e5a13c6-bbaf-4973-b468-99e30af4e163",
-    "name": "Fast Money",
-    "creatorId": "111104081887288728338",
-    "creatorLastName": "Shahid",
-    "createdAt": "02/17/2026, 19:51:40"
-  },
-  {
     "id": "2a1e734f-e5cf-490a-a73f-a623e900735f",
     "name": "NSBE Family Feud",
     "creatorId": "111510890899011935333",
@@ -1051,13 +1051,6 @@ export const games = [
     "creatorId": "102294638485490549126",
     "creatorLastName": "Jones",
     "createdAt": "02/17/2026, 19:34:31"
-  },
-  {
-    "id": "570537f7-5d76-4749-8e99-fb6a6baba7ab",
-    "name": "Ramadan Edition",
-    "creatorId": "111104081887288728338",
-    "creatorLastName": "Shahid",
-    "createdAt": "02/17/2026, 19:34:00"
   },
   {
     "id": "0d79d8eb-484f-4e19-b189-a3a147710897",
