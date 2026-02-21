@@ -1,7 +1,14 @@
-// Generated on 02/20/2026, 21:15:02 (EST)
+// Generated on 02/20/2026, 21:30:03 (EST)
 // Total records: 4202
 
 export const games = [
+  {
+    "id": "a779586e-8619-4163-9a11-bb13bfc47e17",
+    "name": "FUN TIME",
+    "creatorId": "116092129881715248011",
+    "creatorLastName": "jaco14",
+    "createdAt": "02/20/2026, 21:17:41"
+  },
   {
     "id": "525ad716-b902-452a-bbd9-7edc64e2804c",
     "name": "cheeky",
@@ -414,13 +421,6 @@ export const games = [
     "creatorId": "114287844546889370928",
     "creatorLastName": "Spiratos",
     "createdAt": "02/19/2026, 23:20:58"
-  },
-  {
-    "id": "d3e38b4a-789b-49d9-abe7-9e29cfa8ce03",
-    "name": "GROUP FEUD",
-    "creatorId": "116092129881715248011",
-    "creatorLastName": "jaco14",
-    "createdAt": "02/19/2026, 23:10:47"
   },
   {
     "id": "0519adca-43b2-43ac-8703-b515b2b55e03",
