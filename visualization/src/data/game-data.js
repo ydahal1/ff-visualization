@@ -1,7 +1,14 @@
-// Generated on 02/20/2026, 19:45:03 (EST)
-// Total records: 4199
+// Generated on 02/20/2026, 20:00:02 (EST)
+// Total records: 4200
 
 export const games = [
+  {
+    "id": "39e48577-fdab-4fce-8128-07e6bf3dac26",
+    "name": "CHILI MAC",
+    "creatorId": "103821930393406102320",
+    "creatorLastName": "Mickey",
+    "createdAt": "02/20/2026, 19:58:33"
+  },
   {
     "id": "b1642934-4c99-419b-9afc-47cc94000967",
     "name": "Endicott 2",
