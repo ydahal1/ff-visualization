@@ -1,7 +1,14 @@
-// Generated on 02/21/2026, 01:45:03 (EST)
-// Total records: 4206
+// Generated on 02/21/2026, 02:00:03 (EST)
+// Total records: 4207
 
 export const games = [
+  {
+    "id": "06f281aa-1fb1-43e9-80ce-939c742a570f",
+    "name": "who knows the host best",
+    "creatorId": "114732101278063967324",
+    "creatorLastName": "",
+    "createdAt": "02/21/2026, 01:58:03"
+  },
   {
     "id": "966594b7-9408-40b3-b3c6-dadc54cfd5ca",
     "name": "whambeezy host2",
