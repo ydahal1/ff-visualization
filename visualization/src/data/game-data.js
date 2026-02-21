@@ -1,7 +1,14 @@
-// Generated on 02/20/2026, 23:30:04 (EST)
-// Total records: 4204
+// Generated on 02/20/2026, 23:45:02 (EST)
+// Total records: 4205
 
 export const games = [
+  {
+    "id": "023bd6d7-bf1d-4326-b2ca-e5294dbe266f",
+    "name": "Crossroads Feud 1",
+    "creatorId": "105376827975296736035",
+    "creatorLastName": "Slagle",
+    "createdAt": "02/20/2026, 23:36:33"
+  },
   {
     "id": "5939dbd6-6d49-41eb-a026-1cf46cfc14a4",
     "name": "FAMILY FEUD",
