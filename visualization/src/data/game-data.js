@@ -1,7 +1,14 @@
-// Generated on 02/21/2026, 11:00:03 (EST)
-// Total records: 4210
+// Generated on 02/21/2026, 11:15:02 (EST)
+// Total records: 4211
 
 export const games = [
+  {
+    "id": "6c60b9c9-f051-404e-b113-f8e41ee64daf",
+    "name": "Test",
+    "creatorId": "104715175762620224320",
+    "creatorLastName": "Gozdek",
+    "createdAt": "02/21/2026, 11:10:48"
+  },
   {
     "id": "7e7014ca-69df-4a86-a022-4bec0556657e",
     "name": "Family Fued abudhabi",
