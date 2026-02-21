@@ -1,7 +1,42 @@
-// Generated on 02/20/2026, 22:00:03 (EST)
-// Total records: 4202
+// Generated on 02/20/2026, 22:15:03 (EST)
+// Total records: 4207
 
 export const games = [
+  {
+    "id": "1f23e8da-edb9-4659-8872-2ae93a0638f0",
+    "name": "Wedding Feud",
+    "creatorId": "112074758900392068523",
+    "creatorLastName": "Johnson",
+    "createdAt": "02/20/2026, 22:13:24"
+  },
+  {
+    "id": "1a33b0e3-f073-47b5-861d-00158a006e66",
+    "name": "Crossroads Feud 2",
+    "creatorId": "105376827975296736035",
+    "creatorLastName": "Slagle",
+    "createdAt": "02/20/2026, 22:06:05"
+  },
+  {
+    "id": "5939dbd6-6d49-41eb-a026-1cf46cfc14a4",
+    "name": "FAMILY FEUD",
+    "creatorId": "110081641770602861300",
+    "creatorLastName": "Peppers",
+    "createdAt": "02/20/2026, 22:05:23"
+  },
+  {
+    "id": "e5394b0e-e587-4a99-934f-a5388a456928",
+    "name": "Framily Feud",
+    "creatorId": "100797403259757820255",
+    "creatorLastName": "",
+    "createdAt": "02/20/2026, 22:03:32"
+  },
+  {
+    "id": "5512ad38-80ff-40c4-9009-f6cbe72201e0",
+    "name": "Crossroads Feud 1",
+    "creatorId": "105376827975296736035",
+    "creatorLastName": "Slagle",
+    "createdAt": "02/20/2026, 22:03:24"
+  },
   {
     "id": "c08cf478-69b5-4391-b7ed-129871b5ae74",
     "name": "SWEETHEART SHOWDOWN",
