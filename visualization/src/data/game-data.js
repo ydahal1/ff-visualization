@@ -1,7 +1,14 @@
-// Generated on 02/21/2026, 05:15:03 (EST)
-// Total records: 4206
+// Generated on 02/21/2026, 05:30:04 (EST)
+// Total records: 4207
 
 export const games = [
+  {
+    "id": "af87783f-fe88-41c4-b1f6-79dded42fb15",
+    "name": "Birthday Feud Group 1 (Richard)",
+    "creatorId": "118064721653284678875",
+    "creatorLastName": "America",
+    "createdAt": "02/21/2026, 05:29:18"
+  },
   {
     "id": "06f281aa-1fb1-43e9-80ce-939c742a570f",
     "name": "who knows the host best",
