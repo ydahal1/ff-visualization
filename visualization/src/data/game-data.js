@@ -1,7 +1,14 @@
-// Generated on 02/22/2026, 04:30:03 (EST)
-// Total records: 4234
+// Generated on 02/22/2026, 04:45:03 (EST)
+// Total records: 4235
 
 export const games = [
+  {
+    "id": "04e7483c-d552-4a04-9d5f-bdcdbad49d83",
+    "name": "The Sealed Fruits",
+    "creatorId": "101638308941110962956",
+    "creatorLastName": "Arnardu",
+    "createdAt": "02/22/2026, 04:39:56"
+  },
   {
     "id": "af722369-accd-4ed4-ac60-74b145a165b2",
     "name": "Sealed Fruits",
