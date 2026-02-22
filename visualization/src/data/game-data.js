@@ -1,7 +1,14 @@
-// Generated on 02/21/2026, 23:15:03 (EST)
-// Total records: 4234
+// Generated on 02/21/2026, 23:30:03 (EST)
+// Total records: 4235
 
 export const games = [
+  {
+    "id": "09dd1401-c2f2-4470-aaf9-5562ad3e9915",
+    "name": "Grade 9 Technical fued",
+    "creatorId": "107760758265913089456",
+    "creatorLastName": "Zarate, Jr.",
+    "createdAt": "02/21/2026, 23:24:30"
+  },
   {
     "id": "ba754073-accf-4997-b660-b1a8f7698a30",
     "name": "YG games",
