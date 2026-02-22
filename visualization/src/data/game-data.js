@@ -1,7 +1,14 @@
-// Generated on 02/21/2026, 21:15:02 (EST)
-// Total records: 4230
+// Generated on 02/21/2026, 21:30:03 (EST)
+// Total records: 4231
 
 export const games = [
+  {
+    "id": "750639e3-06f1-4cb3-bcd2-30f996538840",
+    "name": "Dih",
+    "creatorId": "102853407830983666778",
+    "creatorLastName": "Marquez",
+    "createdAt": "02/21/2026, 21:24:29"
+  },
   {
     "id": "99a77308-b5e8-451b-9d2b-685310ea3717",
     "name": "BIBLE FUED",
