@@ -1,7 +1,14 @@
-// Generated on 02/21/2026, 18:45:03 (EST)
-// Total records: 4227
+// Generated on 02/21/2026, 19:00:03 (EST)
+// Total records: 4228
 
 export const games = [
+  {
+    "id": "2c86554c-e2a5-454b-8cc7-105e6d68dd0a",
+    "name": "21st GAN Awards",
+    "creatorId": "109299197433557412740",
+    "creatorLastName": "",
+    "createdAt": "02/21/2026, 18:58:15"
+  },
   {
     "id": "fad359fb-a619-4ac1-a91a-49c106c84ab9",
     "name": "GAN Awards",
