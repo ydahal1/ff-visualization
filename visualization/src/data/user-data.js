@@ -1,7 +1,12 @@
-// Generated on 02/22/2026, 04:30:01 (EST)
-// Total records: 2698
+// Generated on 02/22/2026, 04:45:01 (EST)
+// Total records: 2699
 
 export const users = [
+  {
+    "id": "109250643706742637475",
+    "lName": "",
+    "createdAt": "02/22/2026, 04:31:48"
+  },
   {
     "id": "107760758265913089456",
     "lName": "Zarate, Jr.",
