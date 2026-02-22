@@ -1,7 +1,14 @@
-// Generated on 02/21/2026, 22:45:02 (EST)
-// Total records: 4233
+// Generated on 02/21/2026, 23:00:03 (EST)
+// Total records: 4234
 
 export const games = [
+  {
+    "id": "ba754073-accf-4997-b660-b1a8f7698a30",
+    "name": "YG games",
+    "creatorId": "101071801621803543634",
+    "creatorLastName": "Hing",
+    "createdAt": "02/21/2026, 22:47:58"
+  },
   {
     "id": "b0427c77-8221-4597-83de-b7d33795c3fa",
     "name": "Hi hi",
