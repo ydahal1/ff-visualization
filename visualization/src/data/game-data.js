@@ -1,5 +1,5 @@
-// Generated on 02/22/2026, 03:00:03 (EST)
-// Total records: 4235
+// Generated on 02/22/2026, 03:15:02 (EST)
+// Total records: 4233
 
 export const games = [
   {
@@ -3361,20 +3361,6 @@ export const games = [
     "creatorId": "106707436963099833187",
     "creatorLastName": "",
     "createdAt": "02/07/2026, 15:09:57"
-  },
-  {
-    "id": "40a042ff-cc63-4421-9f24-4f42ea0a90c6",
-    "name": "Biblical Feud p1 (1st time)",
-    "creatorId": "101638308941110962956",
-    "creatorLastName": "Arnardu",
-    "createdAt": "02/07/2026, 13:11:41"
-  },
-  {
-    "id": "85467ca4-5135-440d-97bf-45d79e48a0ab",
-    "name": "Biblical Feud p2 (1st time)",
-    "creatorId": "101638308941110962956",
-    "creatorLastName": "Arnardu",
-    "createdAt": "02/07/2026, 13:05:33"
   },
   {
     "id": "1c569abf-1438-443f-90b7-c1db726d095a",
