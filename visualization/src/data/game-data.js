@@ -1,7 +1,14 @@
-// Generated on 02/22/2026, 04:15:02 (EST)
-// Total records: 4233
+// Generated on 02/22/2026, 04:30:03 (EST)
+// Total records: 4234
 
 export const games = [
+  {
+    "id": "af722369-accd-4ed4-ac60-74b145a165b2",
+    "name": "Sealed Fruits",
+    "creatorId": "101638308941110962956",
+    "creatorLastName": "Arnardu",
+    "createdAt": "02/22/2026, 04:28:59"
+  },
   {
     "id": "09dd1401-c2f2-4470-aaf9-5562ad3e9915",
     "name": "Grade 9 Technical fued",
